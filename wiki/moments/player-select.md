@@ -32,3 +32,12 @@ press start to come in, press start again to play ([0345](../../raw/rules/0345-d
 changes rather than levels, so one physical press is one answer and holding it down produces
 nothing further ([0346](../../raw/rules/0346-all-button-handling-is-edge-triggered.md)). That is what makes reusing start safe: **the press that left the light
 show cannot also commit here** ([0346](../../raw/rules/0346-all-button-handling-is-edge-triggered.md)).
+
+## What the glass does
+
+**The glass goes dark on the way in, and that is the first thing this state does** ([0347](../../raw/rules/0347-the-glass-is-dark-on-the-way-in.md)). Every
+display group is blanked and all sixteen [LEDs](../things/indicator-leds.md) written out before
+anything of its own is drawn — because **what is on the glass when this state opens belongs to
+whoever was there before** ([0347](../../raw/rules/0347-the-glass-is-dark-on-the-way-in.md)). Attract mode leaves the high score table walking across the
+score displays; a game that has just finished leaves four totals, `GAME OVER` and a match number,
+and none of it is true while somebody is choosing how many are playing ([0347](../../raw/rules/0347-the-glass-is-dark-on-the-way-in.md)).
