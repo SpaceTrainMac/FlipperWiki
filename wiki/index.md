@@ -9,12 +9,13 @@ Every page, one line each, by category. Updated on every ingest.
 - [The special](concepts/special.md) — lit on both outlanes by completing M-A-C or the bank a third time; what it pays is not yet a rule here
 - [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's 20-second window, the bank's second completion, and its third outright
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
+- [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award
 
 ## Things
 
 - [The M, A and C lanes](things/m-a-c-lanes.md) — three rollover lanes across the top of the upper playfield, the only steerable thing on the machine; with M-A-C complete the outer two pay 30 000 again and again, the middle one closes the sequence and flashes for the window
 - [The upper target bank — 30.000 · EXTRA BALL · 30.000](things/upper-target-bank.md) — a display with no targets behind it: the two `30.000` lamps light as `M` and `C` pay; the `EXTRA BALL` lamp flashing is a 20-second invitation to hit the right captive ball
-- [The right captive ball](things/right-captive-ball.md) — inside `A`'s window it awards the extra ball
+- [The right captive ball](things/right-captive-ball.md) — where both `EXTRA BALL` lamps are collected, and what lights both hole-bonus markers
 - [The flipper buttons](things/flipper-buttons.md) — beside flipping, they rotate the three M-A-C letters one position
 
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
@@ -25,6 +26,8 @@ Every page, one line each, by category. Updated on every ingest.
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
 - [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: 100 and a lamp on each target's first hit, nothing on the second
 - [The right EXTRA BALL lamp](things/extra-ball-right.md) — lit by the bank's second completion, and not the same lamp as the upper one
+- [The outlanes](things/outlanes.md) — past the flippers, and where a lit `SPECIAL` is collected
+- [The two hole-bonus ladders](things/hole-bonus-ladders.md) — five rungs and a `30 000` lamp a side, each collected at its own bunker
 
 ## Moments
 
@@ -58,5 +61,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0015 — Each target pays 100 on its first hit and lights its own lamp](rules/0015-each-target-on-its-first-hit-pays-100.md) — hit each once; the count waits for all four
 - [0016 — The fourth target completes the bank](rules/0016-the-fourth-target-completes-the-bank.md) — 10 000, a rung, a stage; then build it again
 - [0017 — The card's x BONUS is the ladder, not a multiplier](rules/0017-the-cards-x-bonus-is-the-ladder-and.md) — the printing names the ladder; a completion lights one more lamp
+- [0018 — The lit awards wait to be collected](rules/0018-the-lit-awards-wait-to-be-collected-which.md) — which switch collects which lit lamp, and that the ball ending takes them all
 
 ## Questions

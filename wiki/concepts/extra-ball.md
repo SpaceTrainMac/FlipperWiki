@@ -7,7 +7,9 @@ body: game
 # The extra ball
 
 **The `ADVANCE BONUS` bank gives two more.** The bank's second completion lights the right
-`EXTRA BALL` lamp, and its third awards an extra ball outright, with no shot to make ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
+`EXTRA BALL` lamp, and its third awards an extra ball outright, with no shot to make ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)). The
+lit right `EXTRA BALL` waits at [the right captive ball](../things/right-captive-ball.md) with no
+timer on it ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)).
 
 **One way to an extra ball is M-A-C: take `A` with the three letters lit, then hit the right captive
 ball inside 20 seconds.** The upper `EXTRA BALL` lamp and the `A` lamp flash for the window, which is
