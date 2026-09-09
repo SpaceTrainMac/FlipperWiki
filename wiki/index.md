@@ -42,7 +42,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The left bunker](things/left-bunker.md) — the left saucer: where the left hole bonus is redeemed
 - [The right bunker](things/right-bunker.md) — the right saucer: 100, an extra ball past rung 2, and the right redemption
 - [The DOUBLE and TRIPLE lamps](things/multiplier-lamps.md) — three pairs, one a collection
-- [The knocker](things/knocker.md) — three hits is Space Train Bonus
+- [The knocker](things/knocker.md) — one hit mid-transfer is first place taken; three is Space Train Bonus
 - [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
 - [The slingshots](things/slingshots.md) — they kick, and they score nothing
 - [The three pop bumpers](things/pop-bumpers.md) — 100 each and no progression, except all three inside a second
@@ -135,5 +135,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0069 — The transfer: two seconds, whatever the number](rules/0069-when-the-turn-is-over-the-number-on.md) — `MATCH` down, your own up, 20 ticks
 - [0070 — Why the transfer is always two seconds](rules/0070-a-fixed-number-of-ticks-rather-than-a.md) — a good ball does not make the ceremony longer
 - [0071 — The two numbers together never change](rules/0071-the-two-numbers-together-never-change.md) — nothing is lost or paid twice mid-transfer
+- [0072 — The knocker fires when you take first place](rules/0072-the-knocker-fires-during-the-transfer.md) — one knock, mid-transfer, first place only
 
 ## Questions

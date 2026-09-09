@@ -13,6 +13,10 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**[The knocker](../things/knocker.md) fires during the transfer**, at the tick where your climbing
+total passes the standing record — first place only, once per player per game, and nothing at all
+for entering the table lower down ([0072](../../raw/rules/0072-the-knocker-fires-during-the-transfer.md)).
+
 **The two numbers together never change.** At every tick, the turn score plus your total is exactly
 what it was before the transfer began, so nothing can be lost or paid twice in the middle of it — and
 a transfer cut short by the cabinet being switched off finishes in one step, without the animation
