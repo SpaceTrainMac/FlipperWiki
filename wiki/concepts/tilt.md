@@ -27,3 +27,10 @@ left the playfield; the game is not consulted and cannot veto it — **which is 
 since a tilt has to work when the computer is not healthy** ([0367](../../raw/rules/0367-tilt-works-in-hardware-bypassing-the-game.md)). What the game sees is the
 aftermath: the ball drains, the drain contact fires, and the ball ends through the ordinary path
 ([0367](../../raw/rules/0367-tilt-works-in-hardware-bypassing-the-game.md)).
+
+TBC — **whether the `TILT` plate on the backbox ever lights on the cabinet is not settled**
+([0368](../../raw/rules/0368-the-tilt-indicator-is-tbc.md)). It is in the host-addressable range, so the machine *can* light it and has no way of
+knowing when to; either the cabinet's own wiring lights it locally during a tilt, or the game would
+have to be told ([0368](../../raw/rules/0368-the-tilt-indicator-is-tbc.md)). Only the cabinet can answer it ([0368](../../raw/rules/0368-the-tilt-indicator-is-tbc.md)). **On
+[the VPX table](../bodies/vpx.md) it is drawn and can never light**
+([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).
