@@ -453,5 +453,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0359 — What happens at each edge of a turn](rules/0359-initnewround-is-not-the-turns-edge.md) — the two edges, and that `BALL IN PLAY` is what separates a turn from a ball
 - [0360 — The active-player lamp is that player's own](rules/0360-the-active-player-lamp-is-the-players-own.md) — one lamp on and off a turn, so a two-player game never touches the other two
 - [0361 — The score reaches the display](rules/0361-the-score-reaches-the-display.md) — written on change, and written once for everybody so a game opens on four zeros
+- [0362 — The playfield goes dark when the turn ends](rules/0362-the-playfield-goes-dark-when-the-turn-ends.md) — all 48 out, so no lamp carries into the next player's ball
 
 ## Questions

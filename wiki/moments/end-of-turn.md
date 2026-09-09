@@ -69,3 +69,9 @@ writes all four, so **a two-player game never touches lamps 3 and 4 at all** ([0
 **A player's score is written to their display when it changes, not on every cycle** — and it is
 written once for every player as the game is set up, **so everybody reads `0` from the first ball
 rather than whatever the last game left there** ([0361](../../raw/rules/0361-the-score-reaches-the-display.md)).
+
+**The playfield goes dark when the turn ends, and it is a blunt sweep on purpose** — all 48 lamps
+out, after the games' own demands have been taken and the timers cleared ([0362](../../raw/rules/0362-the-playfield-goes-dark-when-the-turn-ends.md)). Several
+mechanics reset by *discarding* their pending lamp changes rather than by issuing the opposite
+ones, so **without the sweep a lamp lit on one ball would carry into the next player's** ([0362](../../raw/rules/0362-the-playfield-goes-dark-when-the-turn-ends.md)).
+It also settles a lamp left mid-blink, whose blink timer has just been thrown away ([0362](../../raw/rules/0362-the-playfield-goes-dark-when-the-turn-ends.md)).
