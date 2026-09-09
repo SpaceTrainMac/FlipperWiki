@@ -201,5 +201,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0122 — `BUMPER_MIDDLE`](rules/0122-bumper_middle.md) — 100
 - [0123 — `SIDELANE_LEFT_TOP`](rules/0123-sidelane_left_top.md) — —
 - [0124 — `ADVANCE_BONUS_TOP`](rules/0124-advance_bonus_top.md) — 100, first hit of the bank
+- [0125 — `ADVANCE_BONUS_ALMOST_TOP`](rules/0125-advance_bonus_almost_top.md) — 100, first hit of the bank
 
 ## Questions

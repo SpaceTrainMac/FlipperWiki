@@ -22,3 +22,4 @@ links to the page that explains it.
 | `BUMPER_MIDDLE` | 100 | — | — | [pop bumpers](../things/pop-bumpers.md) |
 | `SIDELANE_LEFT_TOP` | — | — | — | [side lanes](../things/side-lanes.md) |
 | `ADVANCE_BONUS_TOP` | 100, first hit of the bank | lights `ADV_BON_TOP`; one bonus if this completes the bank | — | [advance bonus targets](../things/advance-bonus-targets.md) |
+| `ADVANCE_BONUS_ALMOST_TOP` | 100, first hit of the bank | lights `ADV_BON_C_TOP`; one bonus if this completes the bank | — | [advance bonus targets](../things/advance-bonus-targets.md) |
