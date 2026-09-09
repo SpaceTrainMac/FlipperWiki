@@ -305,5 +305,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0218 — Your flipper keys are VPX's own](rules/0218-your-flipper-keys-are-vpxs-own.md) — the key reaches the coil without the game in between, so dead is the only way they stop
 - [0219 — The other keys VPX offers reach nothing](rules/0219-the-other-keys-vpx-offers-reach-nothing.md) — no coin switch to close, and the tilt key is the simulator's own
 - [0220 — The backbox is drawn in the top left of the playfield window](rules/0220-the-backbox-is-drawn-in-the-top-left.md) — one window, because a second one would open behind it
+- [0221 — And it is sized on every launch](rules/0221-the-backbox-is-sized-on-every-launch.md) — absolute pixels do not scale, so the region is derived from your display every time
 
 ## Questions

@@ -57,3 +57,10 @@ machine's matrix, so the credit keys close nothing at all; and the tilt key is V
 playfield window, not in a window of its own** ([0220](../../raw/rules/0220-the-backbox-is-drawn-in-the-top-left.md)). A separate backglass window would open
 *behind* a full-screen playfield and be invisible, so the table leaves itself a gap and puts the
 backbox in it ([0220](../../raw/rules/0220-the-backbox-is-drawn-in-the-top-left.md)).
+
+**Its size is worked out on every launch, because VPX will not scale it** ([0221](../../raw/rules/0221-the-backbox-is-sized-on-every-launch.md)). The playfield
+scales by itself; the backbox region is absolute pixels, so a region written for one screen is too
+small on a wider one and sits over the table on a shorter one. The launcher derives it instead —
+**65 % of the display's height, and the artwork's own proportions for the width** — which on a
+1200-tall display works out at 509 × 780 ([0221](../../raw/rules/0221-the-backbox-is-sized-on-every-launch.md)). The number is not the point; that it follows the
+screen is ([0221](../../raw/rules/0221-the-backbox-is-sized-on-every-launch.md)).
