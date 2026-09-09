@@ -192,3 +192,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:43  cut     the two closing sections of gameplay.md  0176–0180
 2026-09-09T22:43  ingest  0176  concepts/the-sounds, rules/0176
 2026-09-09T22:43  ingest  0177  concepts/the-sounds, rules/0177
+2026-09-09T22:43  ingest  0178  concepts/the-sounds, rules/0178
