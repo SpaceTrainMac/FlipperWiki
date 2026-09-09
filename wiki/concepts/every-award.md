@@ -34,3 +34,4 @@ own — see [the three multipliers](the-multipliers.md).
 | the 2nd and 3rd successful redemption, that side | ×2 then ×3 on that hole bonus | — |
 | the 40th total bank completion, then the right captive ball inside 20 s | **500 000**, and ×2 on the bonus count | at once (windowed) |
 | the 50th total bank completion, then the right captive ball inside 20 s | **500 000**, and ×3 on the bonus count | at once (windowed) |
+| all three bumpers within one second | **500** flat, on top of their own 300 | at once |
