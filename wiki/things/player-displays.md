@@ -13,6 +13,9 @@ to 9 999 999 — seven digits on a six-digit display.
 `×10` lit and `123 456` showing is 1 234 560. The lamp goes out only when a new game resets the
 score ([0098](../../raw/rules/0098-a-player-whose-total-passes-999-999-lights.md)).
 
+**Above 9 999 999 the display is wrong and nothing says so** — six leading digits with a `×10` lamp
+claiming a factor of ten. That is two orders of magnitude beyond what three balls can score ([0100](../../raw/rules/0100-above-9-999-999-the-display-is-wrong.md)).
+
 **All four together say one thing once a game, at most.** `SPACE TRAIN LIFTS OFF` reads across the
 four displays for five seconds, one word each, and that is
 [Space Train Bonus](../concepts/flyer-bonuses.md) ([0043](../../raw/rules/0043-space-ship-bonus-and-space-train-bonus-are.md)).

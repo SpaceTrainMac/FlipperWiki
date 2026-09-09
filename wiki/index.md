@@ -172,5 +172,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0097 — The winking eye](rules/0097-extra-plays-is-a-joke-and-deliberately.md) — it means nothing, and that is the point
 - [0098 — Past a million, the display divides by ten](rules/0098-a-player-whose-total-passes-999-999-lights.md) — `×10` lit means add a nought
 - [0099 — The MATCH display divides by ten silently](rules/0099-the-fifth-display-divides-by-ten-too-and.md) — no `×10` lamp for the fifth display
+- [0100 — Above 9 999 999 the display is wrong](rules/0100-above-9-999-999-the-display-is-wrong.md) — a ceiling three balls cannot reach
 
 ## Questions
