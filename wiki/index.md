@@ -78,6 +78,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The service menu](moments/the-service-menu.md) — both flippers for nine seconds in attract mode, seventeen entries in a ring, and it saves by itself
 - [The radio](moments/the-radio.md) — what the cabinet does when nobody is there: a station across the score displays, and every button doing one thing
 - [Attract mode](moments/attract-mode.md) — the light show a cabinet spends its life in: a line crossing the whole machine, the high score table, and the two gestures
+- [Player select](moments/player-select.md) — one number between the light show and the first ball, and everything the glass does to ask for it
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -431,5 +432,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0338 — It is armed by the same number that arms the wait](rules/0338-the-gesture-is-armed-by-the-same-number-as-the-wait.md) — no stations means no gesture, and no tease to see
 - [0339 — Neither gesture can be mistaken for the other](rules/0339-neither-gesture-can-be-mistaken-for-the-other.md) — two rules, and the second is what stops a slipped hand becoming a radio hold
 - [0340 — An abandoned gesture is ignored rather than acted on](rules/0340-an-abandoned-gesture-is-ignored.md) — letting go costs nothing, and the tease stays up to be read
+- [0341 — Sits between the intro and the first ball](rules/0341-sits-between-the-intro-and-the-first-ball.md) — one job: how many are playing, 1 to 4
 
 ## Questions
