@@ -253,5 +253,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0172 — —](rules/0172-row172.md) — Arithmetic
 - [0173 — the bonus count at ×3](rules/0173-the-bonus-count-at-3.md) — `39 × 5 000 × 3`
 - [0174 — each hole side, five rungs and an armed marker at ×3](rules/0174-each-hole-side-five-rungs-and.md) — `(5 × 5 000 + 30 000) × 3`
+- [0175 — **one ball's collection**](rules/0175-one-balls-collection.md) — `585 000 + 2 × 165 000`
 
 ## Questions
