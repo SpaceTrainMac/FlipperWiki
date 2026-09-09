@@ -304,5 +304,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0217 — A ball that sits in the trough is a fault](rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md) — it used to be the behaviour, and now it is a defect to report
 - [0218 — Your flipper keys are VPX's own](rules/0218-your-flipper-keys-are-vpxs-own.md) — the key reaches the coil without the game in between, so dead is the only way they stop
 - [0219 — The other keys VPX offers reach nothing](rules/0219-the-other-keys-vpx-offers-reach-nothing.md) — no coin switch to close, and the tilt key is the simulator's own
+- [0220 — The backbox is drawn in the top left of the playfield window](rules/0220-the-backbox-is-drawn-in-the-top-left.md) — one window, because a second one would open behind it
 
 ## Questions

@@ -50,3 +50,10 @@ only say is the same relay ([0218](../../raw/rules/0218-your-flipper-keys-are-vp
 **Every other key VPX offers reaches nothing** ([0219](../../raw/rules/0219-the-other-keys-vpx-offers-reach-nothing.md)). There is no coin switch anywhere in this
 machine's matrix, so the credit keys close nothing at all; and the tilt key is VPX's own, which is
 [not the same thing as a tilt on the cabinet](../concepts/tilt.md) ([0219](../../raw/rules/0219-the-other-keys-vpx-offers-reach-nothing.md)).
+
+## The backbox
+
+**[Everything the glass shows](../concepts/what-the-glass-shows.md) is drawn in the top left of the
+playfield window, not in a window of its own** ([0220](../../raw/rules/0220-the-backbox-is-drawn-in-the-top-left.md)). A separate backglass window would open
+*behind* a full-screen playfield and be invisible, so the table leaves itself a gap and puts the
+backbox in it ([0220](../../raw/rules/0220-the-backbox-is-drawn-in-the-top-left.md)).
