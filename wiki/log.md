@@ -16,3 +16,5 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:29  ingest  0009  concepts/m-a-c, things/m-a-c-lanes, things/upper-target-bank, rules/0009
 2026-09-09T21:30  ingest  0010  concepts/m-a-c, concepts/extra-ball, things/m-a-c-lanes, things/upper-target-bank, things/special-lamps, moments/end-of-ball, rules/0010
 2026-09-09T21:35  cut     §1 of gameplay.md  0011–0013
+2026-09-09T21:38  cut     §1 of gameplay.md  0011–0013
+2026-09-09T21:38  cut     §4 of gameplay.md  0014–0020
