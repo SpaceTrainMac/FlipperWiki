@@ -32,6 +32,10 @@ scored — not even the rungs a ball that simply ended would still have counted 
 whatever is lit at that instant, timer running or not: the 30 seconds is a risk the live ball
 carries, not a way to lose what a drain would have paid anyway ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
 
-TBC — what a rung and a marker are worth is the next rule. See
+**A rung is 5 000 and the marker 30 000, both at that side's multiplier, and neither is paid before
+it is redeemed** — at the redemption itself, or at the end of the ball for whatever is lit and not
+lost to an expired window ([0034](../../raw/rules/0034-nothing-on-a-hole-ladder-pays-before-it.md)).
+
+See
 [the two centre captive balls](../things/centre-captive-balls.md) and
 [the two hole-bonus ladders](../things/hole-bonus-ladders.md).

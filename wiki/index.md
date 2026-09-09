@@ -29,7 +29,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: 100 and a lamp on each target's first hit, nothing on the second
 - [The right EXTRA BALL lamp](things/extra-ball-right.md) — lit by the bank's second completion, and not the same lamp as the upper one
 - [The outlanes](things/outlanes.md) — past the flippers, and where a lit `SPECIAL` is collected
-- [The two hole-bonus ladders](things/hole-bonus-ladders.md) — five rungs and a `30 000` lamp a side, each collected at its own bunker
+- [The two hole-bonus ladders](things/hole-bonus-ladders.md) — five rungs at 5 000 and a `30 000` marker a side, paid at the redemption or at the end of the ball
 - [The X BONUS lamp](things/x-bon-lamp.md) — a 20-second window on the extra bonus, at the 40th and 50th bank completion
 - [The HOUSE BALL lamp](things/house-ball-lamp.md) — drain protection, 15 seconds, the shortest window on the machine
 - [The 5000 inlanes](things/inlanes-5000.md) — 5 000 at once and five bonuses, the biggest single step the ladder has
@@ -85,5 +85,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0031 — Five hits to build, then a 30-second window](rules/0031-each-side-is-a-five-hit-build-then-a.md) — six lamps blinking on one side is a clock
 - [0032 — Two shots redeem a hole bonus](rules/0032-redeeming-inside-the-window-takes-either-shot-the.md) — that side's saucer, or the same centre ball again
 - [0033 — A closed window forfeits the attempt; a drain does not](rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md) — run the clock out and lose it all; drain and it still counts
+- [0034 — Nothing on a hole ladder pays before it is redeemed](rules/0034-nothing-on-a-hole-ladder-pays-before-it.md) — 5 000 a rung, 30 000 the marker, at that side's multiplier
 
 ## Questions

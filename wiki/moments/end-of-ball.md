@@ -18,7 +18,8 @@ empty, no marker armed and no award lit ([0013](../../raw/rules/0013-six-things-
 **It is when [the bonus count](../concepts/the-bonus-count.md) is paid** — 5 000 a bonus, up to 39
 of them, and not a point of it before ([0021](../../raw/rules/0021-one-number-from-0-to-39-worth-5.md)).
 
-**It banks a hole-bonus side that was still blinking.** A drain is not the same event as a window
+**It pays whatever a hole ladder has standing** — 5 000 a rung and 30 000 a marker, at that side's
+multiplier ([0034](../../raw/rules/0034-nothing-on-a-hole-ladder-pays-before-it.md)). **It banks a hole-bonus side that was still blinking.** A drain is not the same event as a window
 expiring: whatever is lit at that instant is counted, timer or no timer ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
 
 TBC — what else the end of a ball pays, and how long it takes, is not a rule here yet. What is counted

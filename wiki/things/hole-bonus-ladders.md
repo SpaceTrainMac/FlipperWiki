@@ -21,5 +21,8 @@ the rungs and the marker together and resets that ladder ([0032](../../raw/rules
 **A window that closes uncollected takes everything on that side** — six lamps dark, nothing
 scored. A ball draining mid-window does not: the end-of-ball count banks whatever is lit ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
 
-TBC — what a rung and a marker are worth, and what the marker is, are not rules here yet.
+**A rung is worth 5 000 and the `30 000` marker its own 30 000**, both at that side's multiplier
+and both paid at redemption or at the end of the ball ([0034](../../raw/rules/0034-nothing-on-a-hole-ladder-pays-before-it.md)).
+
+TBC — what arms a marker without the five hits is the next rule.
 See [lit awards](../concepts/lit-awards.md).
