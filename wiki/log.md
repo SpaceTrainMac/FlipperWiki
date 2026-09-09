@@ -67,3 +67,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:07  ingest  0056  concepts/multiball, things/left-bunker, rules/0056
 2026-09-09T22:07  ingest  0057  concepts/multiball, things/left-bunker, rules/0057
 2026-09-09T22:08  ingest  0058  things/left-bunker, concepts/the-hole-bonus, rules/0058
+2026-09-09T22:08  ingest  0059  things/outfire, concepts/multiball, rules/0059

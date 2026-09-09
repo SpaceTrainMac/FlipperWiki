@@ -47,6 +47,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The slingshots](things/slingshots.md) — they kick, and they score nothing
 - [The three pop bumpers](things/pop-bumpers.md) — 100 each and no progression, except all three inside a second
 - [The cabinet backlight](things/cabinet-backlight.md) — a white flash is a bumper or a sling; the rest of the time it is showing the ladders in colour
+- [OUTFIRE — the start ramp's exit](things/outfire.md) — 1 000 while the left bunker waits, and nothing at any other time
 
 ## Moments
 
@@ -121,5 +122,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0056 — The left bunker pays 100 and starts multiball](rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md) — the hold, the plunge, and the 2.5 seconds
 - [0057 — Two balls, and multiball cannot be fed a third](rules/0057-the-machine-has-exactly-two-balls-not-the.md) — the flyer says three; the machine has two
 - [0058 — The left bunker collects as well as starting multiball](rules/0058-it-is-also-the-left-hole-ladders-redemption.md) — one shot can do both, and an armed marker waits there
+- [0059 — OUTFIRE pays 1 000 while the left bunker is waiting](rules/0059-outfire-pays-1-000-while-the-left-bunker.md) — the machine paying for the second ball's arrival
 
 ## Questions
