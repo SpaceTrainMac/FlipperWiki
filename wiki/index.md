@@ -331,5 +331,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0242 — Sound is off unless the settings say so](rules/0242-sound-is-off-unless-the-settings-say-so.md) — the cue is drawn even when nothing is heard, so silence is not absence
 - [0243 — The keyboard accelerators are on the page](rules/0243-the-keyboard-accelerators-are-on-the-page.md) — one copy of the key list, deliberately, and it is in the page's own panel
 - [0244 — The operator's choices live in `settings.json`](rules/0244-the-operators-choices-live-in-settings-json.md) — a fact about the machine is built in, a choice about it is a setting
+- [0245 — Editing it no longer means an ssh session](rules/0245-editing-it-no-longer-means-an-ssh-session.md) — the cabinet serves its own settings page and shows the address on the glass
 
 ## Questions

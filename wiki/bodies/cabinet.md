@@ -18,3 +18,7 @@ what is adjustable** ([0244](../../raw/rules/0244-the-operators-choices-live-in-
 [1987 scoring values](1987.md) are facts and are built in; twenty things are choices and live in a
 settings file ([0244](../../raw/rules/0244-the-operators-choices-live-in-settings-json.md)). **Nothing about how the game scores can be turned into a setting** — that
 is what makes this wiki's numbers safe to quote on any body ([0244](../../raw/rules/0244-the-operators-choices-live-in-settings-json.md)).
+
+**Changing one no longer means an ssh session: the cabinet serves a page that edits the file, shows
+what the engine made of it and restarts** ([0245](../../raw/rules/0245-editing-it-no-longer-means-an-ssh-session.md)). **The address is on the glass**, in the service
+menu's `NETWORK` page — so the way to find the machine on a network is to ask the machine ([0245](../../raw/rules/0245-editing-it-no-longer-means-an-ssh-session.md)).
