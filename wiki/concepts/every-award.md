@@ -38,3 +38,4 @@ own — see [the three multipliers](the-multipliers.md).
 | the end-of-game draw | one more ball | — |
 | — | Arithmetic | Total |
 | the bonus count at ×3 | `39 × 5 000 × 3` | 585 000 |
+| each hole side, five rungs and an armed marker at ×3 | `(5 × 5 000 + 30 000) × 3` | 165 000 |
