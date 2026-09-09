@@ -28,3 +28,8 @@ back down to start again** ([0328](../../raw/rules/0328-the-playfield-is-walked-
 [LEDs](../things/indicator-leds.md) and three of [display groups](../concepts/what-the-glass-shows.md),
 with [the status row](../things/status-row.md) *below* the player scores rather than beside them
 ([0329](../../raw/rules/0329-the-backglass-rises-too.md)).
+
+**A display row is five steps of the animation rather than one** ([0330](../../raw/rules/0330-a-display-row-is-five-steps.md)). A digit is tall enough
+that a line crossing it is six shapes in order — a blank, `_`, `u`, `o`, an upside-down `A`, and
+back — and **nothing else on the glass moves while that happens**; on the way down a row drains
+to blank completely before the row below starts ([0330](../../raw/rules/0330-a-display-row-is-five-steps.md)).
