@@ -30,6 +30,10 @@ legend is deliberate, and *how many turns have I got left* is the question a pla
 **`BALL IN PLAY` counts turns, not balls** — [a turn can hold several balls](../concepts/ball-turn-game.md)
 ([0076](../../raw/rules/0076-one-to-four-players-three-balls-each-taken.md)).
 
+**There are no credits because coin handling was removed by decision** — the machine is played at
+home, so nothing sells a game and nothing counts what it sold ([0203](../../raw/rules/0203-coin-handling-is-out-of-scope-by-decision.md)). That is what left a
+two-digit field with nothing to hold.
+
 **`CREDITS` counts extra balls because this cabinet has no credits to count.** The legend is wrong
 and the field is the right width, and what you want under it is what a credit used to mean: how much
 more do I get to play ([0096](../../raw/rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md)).

@@ -80,6 +80,11 @@ to the bank's *first* completion; on this cabinet that lamp belongs to
 the way it is**: an extra ball and both free plays are announced on
 [the indicator LEDs](indicator-leds.md) rather than by any lamp on the playfield ([0201](../../raw/rules/0201-pricing-card-verbatim.md)).
 
+**The top half of the pricing card is dead, and by decision rather than by neglect.** Coin
+handling was taken out of this machine on purpose because it is played at home, so `COIN 1`,
+`COIN 2` and `COIN 3` buy nothing and no slot reads them ([0203](../../raw/rules/0203-coin-handling-is-out-of-scope-by-decision.md)). The card is left as printed
+anyway — it is 1987's paper, and correcting it would be correcting the wrong object.
+
 **The prices are in **francs**, and that is the one thing on either card that is about this
 cabinet's history rather than its rules** ([0202](../../raw/rules/0202-prices-are-in-francs-not-pesetas.md)). A Spanish machine priced in FR was on location
 in a French-speaking market — which is provenance, not a rule, but it carries a warning: the
