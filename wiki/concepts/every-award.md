@@ -25,3 +25,4 @@ own — see [the three multipliers](the-multipliers.md).
 | one bonus | **5 000** × bottom multiplier | end of the ball |
 | one hole-bonus rung, lit at the end of the ball | **5 000** × that side's multiplier | end of the ball |
 | a side's 5th hit, then its own bunker or the same twin inside 30 s | that side's five rungs + **30 000**, × its multiplier | at once (windowed) |
+| an armed 30 000 with no window running | **30 000** × that side's multiplier | that side's bunker, or the end of the ball |
