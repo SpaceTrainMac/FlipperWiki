@@ -37,3 +37,15 @@ fact about it**, which is the rule that decides what belongs in a setting at all
 volume of 150 is ([0412](../../raw/rules/0412-the-credits-duration-is-clamped-and-warned.md)). Both ends are real mistakes to make by hand: **a zero would make the
 state a flicker nobody could read, and a value in days would park the cabinet in it looking broken**
 ([0412](../../raw/rules/0412-the-credits-duration-is-clamped-and-warned.md)).
+
+## What is on the glass
+
+**The four player displays are read as two rows of twelve characters** ([0413](../../raw/rules/0413-two-rows-of-twelve-characters.md)):
+
+| Row | Shows | How |
+|---|---|---|
+| **top** | the people who built the machine, one string | scrolling, for the whole state |
+| **bottom** | one quote, then the next | scrolling, at twice the speed |
+| [`MATCH`](../things/match-display.md) | `CRDTS`, still | written once |
+
+*(the table is credits.md's, rendered for a player ([0413](../../raw/rules/0413-two-rows-of-twelve-characters.md)))*
