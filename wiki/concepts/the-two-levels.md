@@ -27,3 +27,10 @@ the ball reappearing at the top ([0188](../../raw/rules/0188-advertised-feature-
 either elevator hole or by the right-hand ramp, and it comes back by the right-hand return track or
 the raised tunnel down the left edge. So a shot that puts the ball upstairs does not decide where it
 comes back — which side it returns on is the upper playfield's business, not yours.
+
+**This is what connects to what, and not where anything is** ([0192](../../raw/rules/0192-this-section-is-the-topology-not-the-geometry.md)). Nothing on this page is a
+position: the deck, the routes, the posts, the two wire rails and the plastics are
+[geometry.md](../../../FlipperArchitecture/docs/geometry.md)'s subject, the cabinet's own evidence is
+[topography.json](../../../FlipperArchitecture/docs/topography.json) read off the photographs, and
+since 2026-09-07 the table that plays is measured against that rather than drawn from this
+([0192](../../raw/rules/0192-this-section-is-the-topology-not-the-geometry.md)). Ask this page which way the ball goes; ask those where the ramp starts.

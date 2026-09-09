@@ -273,5 +273,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0189 — Space Train Bonus and Space Ship Bonus are advertised by name](rules/0189-space-train-bonus-and-space-ship-bonus-are-advertised-by-name.md) — named in 1987, explained nowhere, and answered by this cabinet rather than by a source
 - [0190 — Playfield geography](rules/0190-playfield-geography.md) — FLYER02 names the four routes between the storeys, and nothing else ever did
 - [0191 — The two-level loop](rules/0191-the-two-level-loop-up-by-hole-or-ramp-down-by-track-or-tunnel.md) — three ways up, two ways down, and the shot up does not choose the way back
+- [0192 — This section is the topology, not the geometry](rules/0192-this-section-is-the-topology-not-the-geometry.md) — the flyer connects things; the photographs place them
 
 ## Questions
