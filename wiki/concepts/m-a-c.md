@@ -6,6 +6,9 @@ body: game
 ---
 # M-A-C
 
+**M-A-C is the only mechanic on the machine a player can steer.** Its three rollover lanes run
+across the top of the upper playfield ([0003](../../raw/rules/0003-three-rollover-lanes-across-the-top-of-the.md)).
+
 **Once the three letters are lit, the two outer lanes pay and keep paying.** `M` and `C` are worth
 30 000 each, and taking one does not spend it: a player who can keep finding the two outer lanes is
 paid 30 000 every time ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)).

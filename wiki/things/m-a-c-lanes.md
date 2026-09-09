@@ -6,7 +6,9 @@ body: game
 ---
 # The M, A and C lanes
 
-**Three lanes, and once M-A-C is complete the two outer ones pay 30 000 each, again and again.**
+**Three rollover lanes across the top of the upper playfield, and the only mechanic on the machine a
+player can steer** ([0003](../../raw/rules/0003-three-rollover-lanes-across-the-top-of-the.md)). **Once M-A-C is complete the two outer ones pay
+30 000 each, again and again.**
 `M` and `C` are not spent by being taken
 ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)). **`A` is different:
 taking it closes the sequence**

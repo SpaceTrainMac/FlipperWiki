@@ -5,3 +5,6 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:21  init    the repository, the schema, the four skills; no rule yet
 
 2026-09-09T21:22  cut     §3 of gameplay.md  0001–0010
+2026-09-09T21:23  ingest  0001  concepts/m-a-c, things/m-a-c-lanes, rules/0001
+2026-09-09T21:25  ingest  0002  concepts/m-a-c, concepts/extra-ball, things/m-a-c-lanes, things/upper-target-bank, things/right-captive-ball, rules/0002
+2026-09-09T21:25  ingest  0003  concepts/m-a-c, things/m-a-c-lanes, rules/0003
