@@ -54,3 +54,5 @@ open it: every drain is answered with a serve for as long as it is ([0236](../..
 **That last row is what makes the service menu reachable** ([0238](../../raw/rules/0238-cabinet-buttons-are-held-not-tapped.md)): both flippers held together
 for nine seconds opens `Setup`, and a button that released itself a millisecond later could never
 get there — hold `ArrowLeft` and `ArrowRight` together and count ([0238](../../raw/rules/0238-cabinet-buttons-are-held-not-tapped.md)).
+
+**A lamp is a level. On is on** ([0239](../../raw/rules/0239-a-lamp-is-a-level.md)).
