@@ -154,5 +154,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0082 — The ball comes back without a press](rules/0082-the-ball-comes-back-without-a-press-and.md) — no button; the machine serves it
 - [0083 — A saved ball waits on the store](rules/0083-what-the-machine-waits-for-instead-is-a.md) — the serve waits for a ball to be ready, not for the drain
 - [0084 — Drain protection covers the outlanes too](rules/0084-it-covers-an-outlane-as-readily-as-the.md) — the machine can tell them apart and chooses not to
+- [0085 — A saved ball changes nothing](rules/0085-the-ball-it-gives-back-does-not-count.md) — no count, no clearing: you pick the ball up where you lost it
 
 ## Questions

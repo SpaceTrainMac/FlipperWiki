@@ -17,6 +17,10 @@ your ball* ([0081](../../raw/rules/0081-drain-protection-covers-the-first-15-sec
 **The ball comes back on its own — there is no button to press.** Once a game is under way the
 start button belongs to player select and the high score table, not to you at the glass ([0082](../../raw/rules/0082-the-ball-comes-back-without-a-press-and.md)).
 
+**The ball it gives back does not count, and nothing is cleared for it.** No count runs, no lamp
+goes out, the bonus and both hole ladders stand, and you pick the same ball up where you lost it
+([0085](../../raw/rules/0085-the-ball-it-gives-back-does-not-count.md)).
+
 **It covers an outlane as readily as the middle**, and that is a decision rather than a limitation:
 the machine can tell them apart and drops the distinction anyway, to guarantee fun and avoid
 frustrating the player ([0084](../../raw/rules/0084-it-covers-an-outlane-as-readily-as-the.md)).
