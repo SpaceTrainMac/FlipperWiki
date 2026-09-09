@@ -10,5 +10,7 @@ body: game
 ball your display holds the total you had when the turn began and everything you earn sits on
 [the `MATCH` display](../things/match-display.md); the turn ending is what moves it ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and-that.md)).
 
-TBC — how the transfer looks and how long it takes is not a rule here yet, and so is what else ends
-with a turn. A turn can outlast a ball: see [the end of a ball](end-of-ball.md).
+**It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
+total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
+
+TBC — what else ends with a turn is not a rule here yet. A turn can outlast a ball: see [the end of a ball](end-of-ball.md).
