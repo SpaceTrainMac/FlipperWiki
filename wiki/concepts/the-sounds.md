@@ -180,3 +180,7 @@ down* is exactly what this catalogue exists to stop ([0315](../../raw/rules/0315
 | [the thunderstrike](the-thunderstrike.md) | it is announced in light: four white flashes of the backlight |
 
 *(the table is sound.md §4's, rendered for a player ([0315](../../raw/rules/0315-four-events-with-no-cue.md)))*
+
+**Adding a cue later is cheap and adding one now is not free** ([0316](../../raw/rules/0316-adding-a-cue-later-is-cheap.md)) — a cue is an enum, a key
+in four manifests, a score in three generators and a hand-found file for the fourth. **A cue with
+no entry is silent rather than fatal**, so one can be added whenever a rule earns it ([0316](../../raw/rules/0316-adding-a-cue-later-is-cheap.md)).

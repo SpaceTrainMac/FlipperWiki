@@ -405,5 +405,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0313 — `SPACE_TRAIN_BONUS`](rules/0313-cue-space-train-bonus.md) — the third ×3 lamp lighting — a train, a banner and three knocks
 - [0314 — What settled the five](rules/0314-what-settled-the-five-and-which-reading-lost.md) — five cues, ten readings, and the five that lost are kept
 - [0315 — Four events with no cue](rules/0315-four-events-with-no-cue.md) — three deliberate silences and one admitted gap: a hole-bonus window running out
+- [0316 — Adding one later is cheap and adding one now is not free](rules/0316-adding-a-cue-later-is-cheap.md) — what a new cue costs, and why the silences are not permanent
 
 ## Questions
