@@ -63,6 +63,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The 48 playfield lamps](things/playfield-lamps.md) — every lamp in nine groups, where each group is explained, and why the matrix is bigger than the game
 - [Every switch, and what closing it does](things/every-switch.md) — all thirty-two, where each is explained, and why some of them do nothing
 - [The start button](things/start-button.md) — player select's and the high score table's; it does nothing during a game
+- [The two cards on the apron](things/apron-cards.md) — pricing on the left, rules on the right, and one photograph is the only copy
 
 ## Moments
 
@@ -278,5 +279,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0194 — The card's upper lane and upper extra ball are element names](rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md) — *upper* is part of a name, not a place the ball has to be
 - [0195 — Upper playfield (FOTO04)](rules/0195-upper-playfield-foto04.md) — painted arrows instead of targets, two visible bumpers of three, and the numbered lane down the left edge
 - [0196 — Lower playfield (FOTO05)](rules/0196-lower-playfield-foto05.md) — what the lower playfield has printed on it, and the two places the print and the matrix disagree
+- [0197 — Two cards on the apron](rules/0197-two-cards-on-the-apron-pricing-left-rules-right.md) — pricing left, rules right, and where they sit
 
 ## Questions
