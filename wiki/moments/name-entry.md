@@ -79,3 +79,17 @@ else**, because held on a letter it would finish a name before the player let go
 
 **Trailing spaces are trimmed on commit, and only the trailing ones** — `MR T` is three letters
 and a gap, and it survives ([0396](../../raw/rules/0396-six-bytes-and-trailing-spaces-trimmed.md)).
+
+## What is on the glass
+
+**Five things, and four of them are about somebody else** ([0397](../../raw/rules/0397-what-is-on-the-glass-during-name-entry.md)):
+
+| What | Where | Shows |
+|---|---|---|
+| the name being typed | [that player's own display](../things/player-displays.md) | the confirmed characters, and the one being edited |
+| the other players' scores | their own displays | untouched, as the game left them |
+| the place being recorded | [`MATCH`](../things/match-display.md) | `1ST`, `2ND` … `10TH` |
+| whose turn | [the player-active lamps](../things/indicator-leds.md) | one lit |
+| what this is | the `HIGH SCORE` lamp | lit for the whole state |
+
+*(the table is highscore.md's, rendered for a player ([0397](../../raw/rules/0397-what-is-on-the-glass-during-name-entry.md)))*

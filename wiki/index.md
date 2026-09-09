@@ -491,5 +491,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0394 — A name is ended by walking to the space](rules/0394-a-name-is-ended-by-walking-to-the-space.md) — walk to the space, then one press each — no *done* button to find
 - [0395 — The first ring position is a rub-out](rules/0395-the-first-ring-position-is-a-rub-out.md) — hold to erase back to the start, and start repeats there and nowhere else
 - [0396 — Six bytes, and only the trailing spaces are trimmed](rules/0396-six-bytes-and-trailing-spaces-trimmed.md) — `MR T` keeps its gap; only the trailing spaces come off
+- [0397 — What is on the glass while a name is being typed](rules/0397-what-is-on-the-glass-during-name-entry.md) — the name, the place on `MATCH`, and the other three scores left alone
 
 ## Questions
