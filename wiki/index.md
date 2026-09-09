@@ -423,5 +423,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0330 — A display row is five steps of the animation, not one](rules/0330-a-display-row-is-five-steps.md) — six shapes to cross one digit, with the rest of the glass held still
 - [0331 — Every 7-segment digit on the backglass takes part](rules/0331-every-digit-takes-part.md) — every digit and all sixteen LEDs are in the climb
 - [0332 — The lamps do not stop](rules/0332-the-lamps-do-not-stop.md) — the light show carries on; only the digits change job
+- [0333 — Two entries are on the glass at once, and the window slides from the worst place towards the best](rules/0333-the-window-slides-from-worst-to-best.md) — nine pages up the table, ending on the score to beat
 
 ## Questions

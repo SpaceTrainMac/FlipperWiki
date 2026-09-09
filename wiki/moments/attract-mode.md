@@ -41,3 +41,11 @@ to blank completely before the row below starts ([0330](../../raw/rules/0330-a-d
 **The lamps do not stop** ([0332](../../raw/rules/0332-the-lamps-do-not-stop.md)). The playfield still climbs row by row, the backglass LEDs climb
 with it and the backlight still fades — all of that is identical to the ladder. **What changes is
 that the 7-segment displays are taken out of the climb and given over to the table** ([0332](../../raw/rules/0332-the-lamps-do-not-stop.md)).
+
+**Two entries are on the glass at once, and the window slides from the worst place towards the
+best** — 9th over 10th, then 8th over 9th, ending on 1st over 2nd: nine pages for a full table of
+ten ([0333](../../raw/rules/0333-the-window-slides-from-worst-to-best.md)). **Every page but the ends shows a name twice**, once arriving at the bottom and once
+moving up, which is what makes it read as one list travelling rather than nine unrelated screens —
+and **ending on first place leaves the score to beat as the last thing on the glass** ([0333](../../raw/rules/0333-the-window-slides-from-worst-to-best.md)).
+Each entry sits across one row of two displays, the name on the left and the score on the right,
+with `SCORES` on [`MATCH`](../things/match-display.md) throughout ([0333](../../raw/rules/0333-the-window-slides-from-worst-to-best.md)).
