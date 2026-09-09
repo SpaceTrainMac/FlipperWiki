@@ -56,6 +56,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The plunger](things/plunger.md) — every ball is fired by hand; there is no auto-launch
 - [The EXTRA PLAYS eye](things/extra-plays-eye.md) — a `0` that winks every 20 seconds, twice every three and a half minutes, and means nothing at all
 - [The sixteen indicator LEDs](things/indicator-leds.md) — the backbox lamps, two of which can never light here
+- [The 48 playfield lamps](things/playfield-lamps.md) — every lamp in nine groups, and where each group is explained
 
 ## Moments
 
@@ -183,5 +184,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0106 — Outside a game, the lamp beside MATCH says what it means](rules/0106-during-a-game-the-fifth-display-is-the.md) — three meanings on one row of digits
 - [0107 — The lamp moves with the number](rules/0107-the-high-score-screen-and-the-end-of-game-statistics-toggle.md) — five seconds each, and the lamp follows
 - [0108 — The sixteen indicator LEDs](rules/0108-the-indicator-leds.md) — what each says, and the two that stay dark
+- [0109 — What every playfield lamp means](rules/0109-every-one-of-the-48-and-what-a.md) — the map of the playfield in nine rows
 
 ## Questions
