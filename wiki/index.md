@@ -57,6 +57,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The EXTRA PLAYS eye](things/extra-plays-eye.md) — a `0` that winks every 20 seconds, twice every three and a half minutes, and means nothing at all
 - [The sixteen indicator LEDs](things/indicator-leds.md) — the backbox lamps, two of which can never light here
 - [The 48 playfield lamps](things/playfield-lamps.md) — every lamp in nine groups, and where each group is explained
+- [Every switch, and what closing it does](things/every-switch.md) — all thirty-two, and where each is explained
 
 ## Moments
 
@@ -190,5 +191,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0112 — Every channel reaches every value from 0 to 15](rules/0112-every-channel-reaches-every-value-from-0-to.md) — no step of the brightness is wasted
 - [0113 — No channel climbs steadily](rules/0113-no-channel-climbs-steadily-and-that-is-the.md) — red falls every time the count crosses a ten
 - [0114 — The backlight is not a gauge](rules/0114-read-as-a-gauge-that-would-be-a.md) — three games in three channels, for the colour
+- [0115 — `M`](rules/0115-m.md) — **30 000**, when M-A-C is complete
 
 ## Questions
