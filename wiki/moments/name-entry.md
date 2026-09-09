@@ -42,3 +42,18 @@ place anyway ([0388](../../raw/rules/0388-the-order-is-player-order.md)).
 **Six characters, on the entering player's own six-digit display** — the one that has been showing
 their score all game ([0389](../../raw/rules/0389-six-characters-on-the-players-own-display.md)). **The other three keep their final scores**, so the result stays
 readable while somebody is typing ([0389](../../raw/rules/0389-six-characters-on-the-players-own-display.md)).
+
+**The alphabet is a ring of thirty-nine positions, walked in both directions and wrapping at both
+ends** ([0390](../../raw/rules/0390-the-ring-of-thirty-nine-positions.md)):
+
+```text
+   [rub out]  [space]  A B C … Z  0 1 2 … 9  -
+```
+
+| Button | Does |
+|---|---|
+| [left flipper](../things/flipper-buttons.md) | the previous position in the ring |
+| [right flipper](../things/flipper-buttons.md) | the next one |
+| [start](../things/start-button.md) | confirms the character and moves along one |
+
+*(the ring and the table are highscore.md's, rendered for a player ([0390](../../raw/rules/0390-the-ring-of-thirty-nine-positions.md)))*

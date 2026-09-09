@@ -484,5 +484,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0387 — It is not asked again between players](rules/0387-qualifying-is-not-asked-again-between-players.md) — asking again would let typing order decide who gets in
 - [0388 — The order is player order](rules/0388-the-order-is-player-order.md) — 1, 2, 3, 4 — because you have to know it is your turn
 - [0389 — Six characters, which is what a score display shows](rules/0389-six-characters-on-the-players-own-display.md) — typed where your score was, with the other three totals left up
+- [0390 — A ring of thirty-nine positions, walked in both directions](rules/0390-the-ring-of-thirty-nine-positions.md) — rub-out, space, A-Z, 0-9, hyphen — and it wraps
 
 ## Questions
