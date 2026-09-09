@@ -109,3 +109,11 @@ dark ([0398](../../raw/rules/0398-the-character-being-edited-blinks.md)).
 | the machine being switched off | the same |
 
 *(the table is highscore.md's, rendered for a player ([0399](../../raw/rules/0399-the-three-ways-an-entry-ends.md)))*
+
+**The timeout commits rather than discards, which is what makes it defensible** — the objection to
+having one at all was that it could only take away a place already won, and this one does not
+([0400](../../raw/rules/0400-the-timeout-commits-rather-than-discards.md)). What it buys is that **the cabinet is never stranded out of attract mode with a
+half-typed name standing on the glass** ([0400](../../raw/rules/0400-the-timeout-commits-rather-than-discards.md)). Ten minutes by default, and
+[an owner can change it](../bodies/cabinet.md): the timeout is not there to hurry anybody, and a
+name rushed off the glass mid-word is worse than a cabinet that takes a while to notice an empty
+room ([0400](../../raw/rules/0400-the-timeout-commits-rather-than-discards.md)).
