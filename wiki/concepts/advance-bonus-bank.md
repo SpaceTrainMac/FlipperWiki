@@ -32,6 +32,11 @@ down its side, and what a completion lights is the next rung ([0017](../../raw/r
 **A completion pays its 10 000 whether or not the ladder can take another step** — past the 39th
 bonus the count stops and the bank does not ([0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).
 
+**A second count runs underneath, and it is the one that matters late in a game.** Every completion
+advances both: this ball's ladder, which resets and caps at 39, and a hidden total across the whole
+game, which never resets. So your 40th completion can land on any ball and still be the event
+[the `X BONUS` lamp](../things/x-bon-lamp.md) is waiting for ([0026](../../raw/rules/0026-a-separate-hidden-count-tracks-bank-completions-across.md)).
+
 **So the combination is expensive.** Three completions are twelve target hits at the very least, and
 the 40th completion is a hundred and sixty ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
 See [the four `ADVANCE BONUS` targets](../things/advance-bonus-targets.md).

@@ -73,5 +73,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0023 — The count is capped at 39, and the lamps are the number in two digits](rules/0023-the-count-is-capped-at-39.md) — how to read the ladder as a number
 - [0024 — The ladder rolls its tens over as it fills](rules/0024-the-ladder-rolls-its-tens-over-as-it.md) — nine lamps going dark at once is a carry, not a loss
 - [0025 — Past the 39th bonus, the ladder stops moving](rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md) — the count caps; the bank keeps paying
+- [0026 — A hidden count tracks bank completions across the whole game](rules/0026-a-separate-hidden-count-tracks-bank-completions-across.md) — the ladder forgets each ball; this count does not
 
 ## Questions
