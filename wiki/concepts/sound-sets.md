@@ -52,3 +52,6 @@ how a bumper stops sounding like the same bumper three hundred times in an eveni
 | **hearing them** | `SOUND TEST` names the variant it is playing and steps to the next each time |
 
 *(the table is cabinet.md §3's, rendered for a player ([0272](../../raw/rules/0272-an-effect-may-name-several-files.md)))*
+
+**A cue with no entry is silence, and that is all it is** — most events have no sound chosen, a
+blank is a decision rather than a fault, and the cabinet starts and plays normally ([0273](../../raw/rules/0273-a-cue-with-no-entry-is-silence.md)).
