@@ -21,8 +21,18 @@ earns and one ball alone can reach 915 000, so a turn passes six digits easily �
 **At the end of the turn it walks back down to zero** while your own display climbs ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)), and it
 is blanked once the transfer finishes — so you never walk up to the last player's number ([0075](../../raw/rules/0075-the-match-display-is-blanked-once-the-transfer.md)).
 
-**After the game it shows something else**: how many extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)), and then
-[the draw](../moments/the-draw.md) — the two digits the display is named for ([0091](../../raw/rules/0091-when-every-player-is-out-of-balls-the.md)).
+**Outside a game it is three displays in one, and the LED lit beside it says which** ([0106](../../raw/rules/0106-during-a-game-the-fifth-display-is-the.md)):
+
+| Lit | `MATCH` is showing |
+|---|---|
+| `EXTRA BALL` right | the extra balls that player won across the whole game |
+| `HIGH SCORE` | that player's best score |
+| `EXTRA PLAY` | extra plays won — **the mode this cabinet does not use** |
+
+*(the table is rule 0106's, rendered for a player)*
+
+At the end of a game it also carries [the draw](../moments/the-draw.md)'s two digits — the ones the
+display is named for ([0091](../../raw/rules/0091-when-every-player-is-out-of-balls-the.md)), and the extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
 
 See [what the machine keeps track of](../concepts/what-the-machine-tracks.md) and
 [the four player displays](player-displays.md).
