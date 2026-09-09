@@ -463,5 +463,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0368 — The TILT indicator is TBC](rules/0368-the-tilt-indicator-is-tbc.md) — the plate is addressable and nothing knows when to light it
 - [0369 — Bonus forfeit: real machines void it and this one does not](rules/0369-tilt-and-bonus-forfeit.md) — the question game.md raises, and the answer gameplay.md already gave
 - [0370 — `GAME OVER` names the end of a game](rules/0370-game-over-names-the-end-of-a-game.md) — one state decides it and every later one inherits it
+- [0371 — It goes out because a ball is in play](rules/0371-game-over-goes-out-because-a-ball-is-in-play.md) — cleared when a ball goes into play, which covers every route into a game
 
 ## Questions
