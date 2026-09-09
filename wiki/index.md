@@ -25,6 +25,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [What the machine says, and when](concepts/the-sounds.md) — forty cues, one for every rule that says *with its own sound cue*
 - [What nobody has watched](concepts/what-nobody-has-watched.md) — every duration on these pages is arithmetic, and this is the page an evening at the glass is for
 - [The two levels, and the four ways between them](concepts/the-two-levels.md) — the flyer's names for the elevator holes, the ramp, the return track and the raised tunnel
+- [Decided where the sources are silent](concepts/where-the-sources-are-silent.md) — which of this machine's rules were chosen rather than found, and when
 
 ## Things
 
@@ -289,5 +290,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0204 — The flyer's *Up to 39 Bonuses* falls out of the lamp table](rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md) — nine units plus 10, 20 and 30 is the whole derivation
 - [0205 — With `BONUS X 5000` printed on the playfield](rules/0205-with-bonus-x-5000-printed-on-the-playfield.md) — 39 × 5 000 × 3 = 585 000, off the paint alone
 - [0206 — Three independent sources agree](rules/0206-the-ladder-tops-out-at-9-and-super-bonus-adds-10-20-or-30.md) — the ladder is the units and Super Bonus the tens, of one count
+- [0207 — D1–D4 are the first four of fifty-one](rules/0207-d1-d4-are-the-first-four-of-fifty-one.md) — four old decisions, forty-seven newer ones, and why the list misleads on its own
 
 ## Questions
