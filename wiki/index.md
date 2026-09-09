@@ -133,5 +133,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0067 — The ceiling is on the count, not on the ball](rules/0067-915-000-is-the-ceiling-on-what-a.md) — over 1 400 000 in one ball is reachable
 - [0068 — When a ball counts, and when it does not](rules/0068-when-a-ball-counts-and-when-it-does.md) — a drain, an extra ball, drain protection, the power switch
 - [0069 — The transfer: two seconds, whatever the number](rules/0069-when-the-turn-is-over-the-number-on.md) — `MATCH` down, your own up, 20 ticks
+- [0070 — Why the transfer is always two seconds](rules/0070-a-fixed-number-of-ticks-rather-than-a.md) — a good ball does not make the ceremony longer
 
 ## Questions

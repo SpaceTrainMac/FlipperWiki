@@ -13,4 +13,8 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**A fixed number of ticks rather than a fixed step size**, because a step size that counted 915 000
+out in readable pieces would take minutes, and because the end of a turn should not get slower as a
+player gets better ([0070](../../raw/rules/0070-a-fixed-number-of-ticks-rather-than-a.md)).
+
 TBC — what else ends with a turn is not a rule here yet. A turn can outlast a ball: see [the end of a ball](end-of-ball.md).
