@@ -24,6 +24,13 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
   with its arithmetic missing.
 - **A block that opens with an identifier rather than bold is still a rule**, when what follows is
   a claim: `` `BUNKER_LEFT` pays **100**, and starts multiball… `` is a rule about the left bunker.
+- **A subsection that opens with a table, or with a paragraph that has no bold claim, is still a
+  rule — and its title is the subsection's heading.** §13's *The displays* is a table and nothing
+  else; *The indicator LEDs* is one unbolded paragraph. Both are rules, and reading the heading as
+  the claim is the only thing that keeps them.
+- **A fenced block that is not mermaid belongs to the rule above it.** §13 draws the four displays
+  as a text block inside the rule that describes them. Mermaid is the exception, because a diagram
+  of a whole section belongs to no single rule.
 - **A fence with a blank line inside it is two blocks, and the second one closes it.** Track the
   fence across blocks rather than per block: a mermaid diagram with a gap in the middle otherwise
   leaves the cut inside the fence for the rest of the section, and every rule after it is dropped.
