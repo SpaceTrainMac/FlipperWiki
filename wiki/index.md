@@ -527,5 +527,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0428 — There is no Coil8](rules/0428-there-is-no-coil8.md) — the schematic skips it, so the third bumper is `FCA_9_`
 - [0429 — The flipper coils are not in this list](rules/0429-the-flipper-coils-are-not-in-this-list.md) — the game cannot fire a flipper; it can only cut the circuit
 - [0430 — One relay is wired, and it is the one that kills the flippers](rules/0430-only-one-relay-is-wired.md) — `FRA_NO_PADDLE_MODE`, and the other four addresses are not connected
+- [0431 — Each coil has a cut-off time of its own](rules/0431-one-cut-off-time-per-coil.md) — nine coils, nine cut-off addresses, tuned one at a time
 
 ## Questions

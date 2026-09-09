@@ -31,3 +31,6 @@ means when it says the flippers go dead rather than sluggish ([0429](../../raw/r
 
 **The machine has five relay addresses and one wired relay** — `FRA_NO_PADDLE_MODE`, which
 disables the flippers. The other four are not connected to anything ([0430](../../raw/rules/0430-only-one-relay-is-wired.md)).
+
+**Each of the nine has a cut-off time of its own, on an address beside it** — so how long a coil
+fires can be set per coil rather than for all of them ([0431](../../raw/rules/0431-one-cut-off-time-per-coil.md)).
