@@ -130,5 +130,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0064 — Hole bonuses first, the ladder last](rules/0064-the-two-hole-bonuses-are-counted-first-and.md) — the count's order, and the multipliers stay lit
 - [0065 — Nothing scores while the count runs](rules/0065-nothing-scores-while-the-count-runs.md) — the walk cannot be added to
 - [0066 — How long the count takes, and what it pays](rules/0066-the-arithmetic-at-200-ms-a-step.md) — 1.6 s and 40 000, up to 4.8 s and 915 000
+- [0067 — The ceiling is on the count, not on the ball](rules/0067-915-000-is-the-ceiling-on-what-a.md) — over 1 400 000 in one ball is reachable
 
 ## Questions
