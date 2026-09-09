@@ -58,6 +58,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The sixteen indicator LEDs](things/indicator-leds.md) — the backbox lamps, two of which can never light here
 - [The 48 playfield lamps](things/playfield-lamps.md) — every lamp in nine groups, and where each group is explained
 - [Every switch, and what closing it does](things/every-switch.md) — all thirty-two, and where each is explained
+- [The start button](things/start-button.md) — player select's and the high score table's; it does nothing during a game
 
 ## Moments
 
@@ -222,5 +223,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0143 — `OUTFIRE`](rules/0143-outfire.md) — 1 000 while the left bunker waits for its second ball
 - [0144 — `BUTTON_LEFT`](rules/0144-button_left.md) — rotates the three M-A-C letters left
 - [0145 — `BUTTON_RIGHT`](rules/0145-button_right.md) — rotates the three M-A-C letters right
+- [0146 — `BUTTON_START`](rules/0146-button_start.md) — starts a game and adds players, **at player select and nowhere else**. A game in progress does not read it (§12)
 
 ## Questions

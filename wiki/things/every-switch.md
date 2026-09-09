@@ -43,3 +43,4 @@ links to the page that explains it.
 | `OUTFIRE` | 1 000 while the left bunker waits for its second ball | the plunger-fired ball has **left the start ramp** into play; opens the drain-protection window | — | [outfire](../things/outfire.md) |
 | `BUTTON_LEFT` | — | rotates the three M-A-C letters left | — | [flipper buttons](../things/flipper-buttons.md) |
 | `BUTTON_RIGHT` | — | rotates the three M-A-C letters right | — | [flipper buttons](../things/flipper-buttons.md) |
+| `BUTTON_START` | — | starts a game and adds players, **at player select and nowhere else**. A game in progress does not read it (§12) | — | [start button](../things/start-button.md) |
