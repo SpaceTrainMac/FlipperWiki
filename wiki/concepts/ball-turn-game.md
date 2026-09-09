@@ -22,3 +22,7 @@ the game, a score ending in the drawn two digits wins one more ball ([0091](../.
 **So a turn is not a ball** ([0076](../../raw/rules/0076-one-to-four-players-three-balls-each-taken.md)), and that is the distinction the rest of the machine is built
 on: [an extra ball](extra-ball.md) and [a saved ball](drain-protection.md) both happen inside one
 turn ([0086](../../raw/rules/0086-an-extra-ball-is-a-fresh-ball-on.md), [0085](../../raw/rules/0085-the-ball-it-gives-back-does-not-count.md)).
+
+**The rotation is a round of the table rather than one player playing out** — ball 1 for
+everybody, then ball 2, then ball 3 — **which is what the four score displays side by side are
+for** ([0357](../../raw/rules/0357-three-balls-a-player-and-a-round-of-the-table.md)). Three balls a player is a fact about the machine rather than a setting ([0357](../../raw/rules/0357-three-balls-a-player-and-a-round-of-the-table.md)).
