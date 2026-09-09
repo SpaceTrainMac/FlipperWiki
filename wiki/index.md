@@ -77,6 +77,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The Space Train banner](moments/the-space-train-banner.md) — `SPACE TRAIN LIFTS OFF`, one word to a display, five seconds, mid-ball
 - [The service menu](moments/the-service-menu.md) — both flippers for nine seconds in attract mode, seventeen entries in a ring, and it saves by itself
 - [The radio](moments/the-radio.md) — what the cabinet does when nobody is there: a station across the score displays, and every button doing one thing
+- [Attract mode](moments/attract-mode.md) — the light show a cabinet spends its life in: a line crossing the whole machine, the high score table, and the two gestures
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -414,5 +415,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0322 — Not cues: songs is an array of paths](rules/0322-songs-is-an-array-of-paths.md) — the playlist has positions rather than names, and order is what it means
 - [0323 — There is nothing to say about an entry beyond its path](rules/0323-nothing-to-say-about-a-song-beyond-its-path.md) — a song is music in a folder, attached to no event
 - [0324 — A short playlist is a choice and an empty one is legitimate](rules/0324-a-short-playlist-is-a-choice.md) — no songs is a set that chose none, and only a missing file is a fault
+- [0325 — Attract mode: a light show that runs until someone presses start](rules/0325-attract-mode-runs-until-someone-presses-start.md) — where this cabinet spends nearly all of its life
 
 ## Questions
