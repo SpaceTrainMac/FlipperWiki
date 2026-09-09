@@ -193,5 +193,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0114 — The backlight is not a gauge](rules/0114-read-as-a-gauge-that-would-be-a.md) — three games in three channels, for the colour
 - [0115 — `M`](rules/0115-m.md) — **30 000**, when M-A-C is complete
 - [0116 — `A`](rules/0116-a.md) — lights or clears the `A` lamp; **inert while its own window runs**
+- [0117 — `C`](rules/0117-c.md) — **30 000**, when M-A-C is complete
 
 ## Questions

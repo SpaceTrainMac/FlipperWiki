@@ -130,3 +130,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:39  cut     §2 and §14 of gameplay.md  0115–0175
 2026-09-09T22:41  ingest  0115  things/every-switch, rules/0115
 2026-09-09T22:41  ingest  0116  things/every-switch, rules/0116
+2026-09-09T22:41  ingest  0117  things/every-switch, rules/0117
