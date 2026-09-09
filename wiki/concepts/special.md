@@ -20,5 +20,8 @@ award, and the lamps are named *Special 5000*, which is the machine answering th
 from the lamp names, and *outlane award* from the printing and from which switches carry it
 ([0211](../../raw/rules/0211-d3-special-is-worth-5-000-and-is-an-outlane-award.md)).
 
+**And the machine leads with the payment.** The drain lands in the same instant, and the losing
+cue gives way to the paying one ([what the machine says](the-sounds.md)) ([0295](../../raw/rules/0295-cue-special.md)).
+
 **It is collected at either outlane** — the lamp stays lit until one of them closes, or until the
 ball ends ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)). See [the SPECIAL lamps](../things/special-lamps.md) and [M-A-C](m-a-c.md).

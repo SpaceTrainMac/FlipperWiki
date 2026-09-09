@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL]
 body: game
 ---
 # What the machine says, and when
@@ -90,3 +90,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `BUMPER` | any of [the three pop bumpers](../things/pop-bumpers.md) — **the most-fired cue on the machine by a wide margin** ([0293](../../raw/rules/0293-cue-bumper.md)) |
 
 | `SIDEBARS_BOTTOM` | either of [the two slingshots](../things/slingshots.md) — **the one cue whose event is presentation and nothing else** ([0294](../../raw/rules/0294-cue-sidebars-bottom.md)) |
+
+| `SPECIAL` | **either outlane with [`SPECIAL`](../concepts/special.md) lit** — and `BALL_LOST` gives way to it ([0295](../../raw/rules/0295-cue-special.md)) |
