@@ -16,4 +16,9 @@ read as two rows, so the phrase lands one word to a display and nothing has to s
    X-PLAYS BALL CREDITS      MATCH — the turn score, still counting
 ```
 
+**[The `MATCH` display](../things/match-display.md) keeps the turn score through it, and that is the
+point.** The bonus is achieved with the ball live, so you are still scoring while the backglass
+announces it — taking the one moving number away to make room for the words would be the
+announcement punishing the achievement ([0102](../../raw/rules/0102-match-keeps-the-turn-score-and-that-is.md)).
+
 What earns it is [Space Train Bonus](../concepts/flyer-bonuses.md).

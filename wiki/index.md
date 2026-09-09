@@ -175,5 +175,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0099 — The MATCH display divides by ten silently](rules/0099-the-fifth-display-divides-by-ten-too-and.md) — no `×10` lamp for the fifth display
 - [0100 — Above 9 999 999 the display is wrong](rules/0100-above-9-999-999-the-display-is-wrong.md) — a ceiling three balls cannot reach
 - [0101 — The banner is still, and lands one word to a display](rules/0101-space-train-lifts-off-is-a-still-message.md) — the only thing that writes the scores mid-ball
+- [0102 — The turn score keeps running under the banner](rules/0102-match-keeps-the-turn-score-and-that-is.md) — the announcement does not punish the achievement
 
 ## Questions
