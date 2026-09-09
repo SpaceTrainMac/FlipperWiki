@@ -327,5 +327,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0239 — A lamp is a level](rules/0239-a-lamp-is-a-level.md) — on is on, and nothing more
 - [0240 — A coil is a moment](rules/0240-a-coil-is-a-moment.md) — a two-second fade, so the picture shows which bumper fired first
 - [0241 — A digit is seven segments](rules/0241-a-digit-is-seven-segments.md) — lit from the bytes the engine sent, so a non-digit glyph reads as whatever it nearly is
+- [0242 — Sound is off unless the settings say so](rules/0242-sound-is-off-unless-the-settings-say-so.md) — the cue is drawn even when nothing is heard, so silence is not absence
 
 ## Questions

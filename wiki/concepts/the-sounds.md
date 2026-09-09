@@ -15,6 +15,10 @@ announcer, as a System IV feature carried by every machine MAC made — so a tal
 the chassis doing what it was advertised to do, and the forty cues are this cabinet's answer to it
 ([0185](../../raw/rules/0185-behaviours-the-flyer-attributes-to-all-macpinball-machines.md)).
 
+**[The simulator](../bodies/simulator.md) shows every cue as it is raised, whether or not the
+machine is making a noise** — which makes it the place to find out what speaks for a rule without
+listening for it ([0242](../../raw/rules/0242-sound-is-off-unless-the-settings-say-so.md)).
+
 **The end-of-ball count is the most obviously cue-shaped thing on the machine**, and it is raised
 with every lamp [the count](../moments/end-of-ball.md) puts out — one of the forty is named for a
 single rung of it ([0177](../../raw/rules/0177-the-end-of-ball-count-is-the-most-obviously-cue-shaped.md)).

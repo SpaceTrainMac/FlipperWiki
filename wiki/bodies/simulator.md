@@ -66,3 +66,8 @@ was told ([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)). The text u
 **a glyph that is not a digit reads as whatever it most nearly is** — which is how you can watch
 [the machine spell words](../concepts/what-the-glass-shows.md) on a display built to show numbers
 ([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)).
+
+**Sound is off unless the settings ask for it, and the cue that fired is always *shown* anyway**
+([0242](../../raw/rules/0242-sound-is-off-unless-the-settings-say-so.md)). The music and — since 2026-09-08 — the effects are drawn as they are raised, all forty
+of them, so **a silent effects panel during a game is an engine older than that day rather than a
+fault in the page** ([0242](../../raw/rules/0242-sound-is-off-unless-the-settings-say-so.md)). See [what the machine says](../concepts/the-sounds.md).
