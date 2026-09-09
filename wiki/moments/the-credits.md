@@ -49,3 +49,8 @@ state a flicker nobody could read, and a value in days would park the cabinet in
 | [`MATCH`](../things/match-display.md) | `CRDTS`, still | written once |
 
 *(the table is credits.md's, rendered for a player ([0413](../../raw/rules/0413-two-rows-of-twelve-characters.md)))*
+
+**All three texts are fixed, and every character in them is one a seven-segment display can
+actually spell** — uppercase A–Z, digits, spaces and hyphens — **which a test holds them to**
+([0414](../../raw/rules/0414-all-three-texts-are-static.md)). An unspellable character would not be an error, it would be the fallback glyph turning up
+on the backglass a month later ([0414](../../raw/rules/0414-all-three-texts-are-static.md)).

@@ -509,5 +509,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0411 — 60 seconds by default, and it is the operator's](rules/0411-sixty-seconds-by-default.md) — a second to an hour, because a light show's length is a choice not a fact
 - [0412 — Both ends of the range are clamped and warned rather than refused](rules/0412-the-credits-duration-is-clamped-and-warned.md) — zero would be a flicker and days would look like a fault
 - [0413 — Two rows of twelve characters](rules/0413-two-rows-of-twelve-characters.md) — the four score displays read as two twelve-character lines
+- [0414 — All three texts are static, and a seven-segment alphabet holds them](rules/0414-all-three-texts-are-static.md) — A-Z, digits, spaces and hyphens, held to it by a test
 
 ## Questions
