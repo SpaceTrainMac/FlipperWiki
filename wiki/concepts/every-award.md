@@ -31,3 +31,4 @@ own — see [the three multipliers](the-multipliers.md).
 | the 3rd bank completion | `SPECIAL` lit, and an **extra ball** | — |
 | M-A-C completing | `SPECIAL` lit | — |
 | the right captive ball | both 30 000 markers armed | — |
+| the 2nd and 3rd successful redemption, that side | ×2 then ×3 on that hole bonus | — |

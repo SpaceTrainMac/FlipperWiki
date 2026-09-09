@@ -180,3 +180,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:42  ingest  0164  concepts/every-award, rules/0164
 2026-09-09T22:42  ingest  0165  concepts/every-award, rules/0165
 2026-09-09T22:42  ingest  0166  concepts/every-award, rules/0166
+2026-09-09T22:42  ingest  0167  concepts/every-award, rules/0167

@@ -245,5 +245,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0164 — the 3rd bank completion](rules/0164-the-3rd-bank-completion.md) — `SPECIAL` lit, and an **extra ball**
 - [0165 — M-A-C completing](rules/0165-m-a-c-completing.md) — `SPECIAL` lit
 - [0166 — the right captive ball](rules/0166-the-right-captive-ball.md) — both 30 000 markers armed
+- [0167 — the 2nd and 3rd successful redemption, that side](rules/0167-the-2nd-and-3rd-successful-redemption.md) — ×2 then ×3 on that hole bonus
 
 ## Questions
