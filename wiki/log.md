@@ -251,3 +251,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:22  ingest  0232  bodies/vpx, concepts/the-two-levels, rules/0232
 2026-09-09T23:22  ingest  0233  bodies/vpx, concepts/what-the-glass-shows, rules/0233
 2026-09-09T23:26  cut     §2 of using-the-simulator.md  0234-0243
+2026-09-09T23:26  cut     §1-§3 of cabinet.md, what shows at the glass  0244-0275
