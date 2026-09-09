@@ -55,7 +55,9 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
    **Every relative link inside the paragraph is re-pointed across the seam**, and nothing else in
    it changes. A bare anchor `(#12-the-ball-…)` points at the document itself and becomes
    `(../../../FlipperArchitecture/docs/gameplay.md#12-…)`; a sibling document `(machine.md#14-…)`
-   becomes `(../../../FlipperArchitecture/docs/machine.md#14-…)`. The link *text* is untouched, and
+   becomes `(../../../FlipperArchitecture/docs/machine.md#14-…)`, and a link that already climbs out of
+   the document's own checkout — `(../../FlipperSounds)` — climbs one level further, whether or not
+   it ends in a slash. The link *text* is untouched, and
    the `diff` in step 4 allows exactly these substitutions and no others.
 4. `diff` each file's body against the paragraph it came from. Empty, or the cut is wrong.
 5. One commit for the cut: *cut gameplay.md §3 into rules 0003–0010* — and one line in
