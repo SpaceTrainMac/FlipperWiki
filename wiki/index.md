@@ -389,5 +389,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0297 — `TOPLANES_SELECT_BONUS`](rules/0297-cue-toplanes-select-bonus.md) — the lane change — the only selection the machine offers
 - [0298 — `TOPLANES_SUPERBONUS`](rules/0298-cue-toplanes-superbonus.md) — M-A-C completing, and each 30 000 the outer lanes pay after it
 - [0299 — `TOPLANES_XTRABALL`](rules/0299-cue-toplanes-xtraball.md) — the upper extra ball being collected at the right captive ball
+- [0300 — Each side is a five-hit build and then a timed redemption](rules/0300-the-two-sides-are-not-symmetric.md) — six things counted out a side, and the left only got its six cues in 2026
 
 ## Questions

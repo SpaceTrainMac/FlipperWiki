@@ -105,3 +105,10 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `TOPLANES_SUPERBONUS` | **[M-A-C completing](../concepts/m-a-c.md)**, and `M` or `C` paying its 30 000 while it stands ([0298](../../raw/rules/0298-cue-toplanes-superbonus.md)) |
 
 | `TOPLANES_XTRABALL` | **the upper extra ball collected at [the right captive ball](../things/right-captive-ball.md)** — not at the lane ([0299](../../raw/rules/0299-cue-toplanes-xtraball.md)) |
+
+### The captive balls, and the hole bonus
+
+**The two sides are not symmetric in sound, and that is a repair rather than a design** ([0300](../../raw/rules/0300-the-two-sides-are-not-symmetric.md)).
+Each side is [a five-hit build and a timed redemption](../concepts/the-hole-bonus.md), and a
+redemption is six things to count out on either side — but the left only got its six lettered cues
+on 2026-09-04, where the right had them before ([0300](../../raw/rules/0300-the-two-sides-are-not-symmetric.md)).
