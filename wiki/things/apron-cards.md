@@ -64,3 +64,18 @@ balls, which is a fair measure of how much of this game is played at them ([0198
 to the bank's *first* completion; on this cabinet that lamp belongs to
 [M-A-C's `A`](../concepts/m-a-c.md) and the first completion lights a rung and nothing else
 ([0198](../../raw/rules/0198-rule-card-verbatim.md)). Every other line survived ([0198](../../raw/rules/0198-rule-card-verbatim.md)).
+
+## The pricing card, as printed
+
+**Six lines, three of them about coins and three about the backbox** ([0201](../../raw/rules/0201-pricing-card-verbatim.md)):
+
+> - COIN 1 — 1 FR — 1 PLAY
+> - COIN 2 — 2 FR — 3 PLAYS
+> - COIN 3 — 5 FR — 8 PLAYS
+> - EXTRA BALL INDICATED ON DISPLAY
+> - 1st FREE PLAY INDICATED ON DISPLAY
+> - 2nd FREE PLAY INDICATED ON DISPLAY
+
+**The three *INDICATED ON DISPLAY* lines are still true, and they are why the backbox is lettered
+the way it is**: an extra ball and both free plays are announced on
+[the indicator LEDs](indicator-leds.md) rather than by any lamp on the playfield ([0201](../../raw/rules/0201-pricing-card-verbatim.md)).
