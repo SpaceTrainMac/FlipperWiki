@@ -71,3 +71,7 @@ was told ([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)). The text u
 ([0242](../../raw/rules/0242-sound-is-off-unless-the-settings-say-so.md)). The music and — since 2026-09-08 — the effects are drawn as they are raised, all forty
 of them, so **a silent effects panel during a game is an engine older than that day rather than a
 fault in the page** ([0242](../../raw/rules/0242-sound-is-off-unless-the-settings-say-so.md)). See [what the machine says](../concepts/the-sounds.md).
+
+**The keys are on the page itself, in the *keys* panel** — and they are deliberately not written
+down anywhere else, because a second copy of that list would go stale the first time a switch was
+renamed ([0243](../../raw/rules/0243-the-keyboard-accelerators-are-on-the-page.md)). This page names the six that put a ball in play and stops there ([0243](../../raw/rules/0243-the-keyboard-accelerators-are-on-the-page.md)).

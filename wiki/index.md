@@ -328,5 +328,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0240 — A coil is a moment](rules/0240-a-coil-is-a-moment.md) — a two-second fade, so the picture shows which bumper fired first
 - [0241 — A digit is seven segments](rules/0241-a-digit-is-seven-segments.md) — lit from the bytes the engine sent, so a non-digit glyph reads as whatever it nearly is
 - [0242 — Sound is off unless the settings say so](rules/0242-sound-is-off-unless-the-settings-say-so.md) — the cue is drawn even when nothing is heard, so silence is not absence
+- [0243 — The keyboard accelerators are on the page](rules/0243-the-keyboard-accelerators-are-on-the-page.md) — one copy of the key list, deliberately, and it is in the page's own panel
 
 ## Questions

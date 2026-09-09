@@ -261,3 +261,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:28  ingest  0240  bodies/simulator, concepts/the-thunderstrike, rules/0240
 2026-09-09T23:28  ingest  0241  bodies/simulator, concepts/what-the-glass-shows, rules/0241
 2026-09-09T23:28  ingest  0242  bodies/simulator, concepts/the-sounds, rules/0242
+2026-09-09T23:28  ingest  0243  bodies/simulator, rules/0243
