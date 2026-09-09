@@ -20,3 +20,8 @@ the game, and not from the state that records the names ([0363](../../raw/rules/
 questions: this one is *has this player just taken the best score on the cabinet*, about a ball in
 progress, and the other is *which of these four scores belong in the table*, about a game that has
 finished ([0363](../../raw/rules/0363-the-lamp-and-the-knocker-fire-during-the-ball.md)).
+
+**What it fires on is the record changing hands, and the running game is counted in** ([0364](../../raw/rules/0364-whether-the-record-has-just-changed-hands.md)). The
+table alone could not answer it: a table cannot move while a game is running, so **a second player
+passing the old top score would set the knocker off while they were still half a million behind the
+person standing next to them** ([0364](../../raw/rules/0364-whether-the-record-has-just-changed-hands.md)).
