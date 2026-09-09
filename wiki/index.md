@@ -447,5 +447,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0353 — Two exits](rules/0353-player-select-two-exits.md) — start, or sixty seconds of nothing and back to the light show
 - [0354 — The timeout is a clean no-op](rules/0354-the-timeout-is-a-clean-no-op.md) — nothing is committed before start, so a timeout has nothing to undo
 - [0355 — Credits and coin handling are not implemented and not planned](rules/0355-credits-and-coin-handling-are-not-implemented.md) — four credit addresses and no credits, and the closing titles are a different word
+- [0356 — Round to draw to round is a straight line, not a loop](rules/0356-round-draw-round-is-a-straight-line.md) — one draw a game, by the shape of the sequence rather than by a flag
 
 ## Questions

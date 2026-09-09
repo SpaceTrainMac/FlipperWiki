@@ -14,3 +14,7 @@ digits is given one more ball** ([0091](../../raw/rules/0091-when-every-player-i
 
 **The width is the operator's** — one digit is a draw in ten, two the classic draw in a hundred
 ([0091](../../raw/rules/0091-when-every-player-is-out-of-balls-the.md)).
+
+**There is exactly one draw in a game, and nothing has to remember that** — the game is a round of
+turns, then the draw, then a round of whatever it awarded, in a straight line ([0356](../../raw/rules/0356-round-draw-round-is-a-straight-line.md)). A second
+draw cannot happen because there is no second draw in the sequence to reach ([0356](../../raw/rules/0356-round-draw-round-is-a-straight-line.md)).
