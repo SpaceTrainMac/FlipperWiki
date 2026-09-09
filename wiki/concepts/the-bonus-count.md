@@ -30,6 +30,9 @@ unit lamps and three Super Bonus lamps for the tens ([0023](../../raw/rules/0023
 100 an `ADVANCE BONUS` target pays is the switch's own award, whether or not that hit completes the
 bank; the 5 000 an inlane pays is the same. What is deferred is the bonus, and only that ([0028](../../raw/rules/0028-nothing-about-the-count-is-paid-as-it.md)).
 
+**The bottom `DOUBLE` and `TRIPLE` multiply it and nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-triple-lamps-and.md)) — see
+[the three multipliers](the-multipliers.md).
+
 **Past the 39th the ladder stops moving, and the bank does not.** A completion still pays its flat
 10 000 and still advances the combination while a stage is left, but the count goes no higher — so
 the end-of-ball bonus never exceeds 195 000 before multipliers ([0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).

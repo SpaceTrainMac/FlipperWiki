@@ -12,6 +12,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead; steady means waiting, flashing means hurrying
 - [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, paid only when the ball ends; a bank completion adds one and a `5000` inlane five
 - [The hole bonus](concepts/the-hole-bonus.md) — five hits to build, 30 seconds to redeem, 55 000 a side at ×1; and eighteen hits for ×3
+- [The three multipliers](concepts/the-multipliers.md) — one for the bonus count and one for each hole ladder, each multiplying only its own
 
 ## Things
 
@@ -36,6 +37,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The two centre captive balls](things/centre-captive-balls.md) — the twins: the left runs the left hole ladder, the right the right
 - [The left bunker](things/left-bunker.md) — the left saucer: where the left hole bonus is redeemed
 - [The right bunker](things/right-bunker.md) — the right saucer: where the right hole bonus is redeemed
+- [The DOUBLE and TRIPLE lamps](things/multiplier-lamps.md) — three pairs, one a collection
 
 ## Moments
 
@@ -89,5 +91,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0035 — The right captive ball lights both markers, with no timer](rules/0035-the-right-captive-ball-lights-both-markers-with.md) — one hit arms both `30 000`s, steadily, past the five hits
 - [0036 — What one side is worth, at most](rules/0036-a-side-can-hold-at-most-five-lit.md) — 55 000 at ×1, 165 000 at ×3, and never a build and a redemption together
 - [0037 — What ×3 on one side costs](rules/0037-reaching-3-on-one-side-takes-at-least.md) — eighteen shots at one centre ball, redeeming at the ball itself
+- [0038 — Three independent pairs of DOUBLE / TRIPLE lamps](rules/0038-three-independent-pairs-of-double-triple-lamps-and.md) — three multipliers, each only its own collection
 
 ## Questions

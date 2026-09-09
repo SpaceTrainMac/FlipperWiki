@@ -25,6 +25,10 @@ and resets the ladder to climb from zero ([0032](../../raw/rules/0032-redeeming-
 
 **So the cheapest redemption is the twin you are already hitting** ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
 
+**Each side has a `DOUBLE` / `TRIPLE` pair of its own**, earned by that side's second and third
+redemption, multiplying that side's rungs and marker and nothing else
+([0038](../../raw/rules/0038-three-independent-pairs-of-double-triple-lamps-and.md)) — [the three multipliers](the-multipliers.md).
+
 **A side holds at most five lit rungs and one armed marker, and never a build and a redeemed state
 together** — redemption clears everything it pays. That is 5 × 5 000 + 30 000 = **55 000** before
 the multiplier, and **165 000 at ×3** ([0036](../../raw/rules/0036-a-side-can-hold-at-most-five-lit.md)).
