@@ -256,5 +256,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0174 — each hole side, five rungs and an armed marker at ×3](rules/0174-each-hole-side-five-rungs-and.md) — `(5 × 5 000 + 30 000) × 3`
 - [0175 — one ball's collection](rules/0175-one-balls-collection.md) — `585 000 + 2 × 165 000`
 - [0176 — The forty cues exist](rules/0176-settled-and-built.md) — eleven of them added for the rules here
+- [0177 — The count has a cue for every lamp](rules/0177-the-end-of-ball-count-is-the-most-obviously-cue-shaped.md) — one of the forty is named for a single rung
 
 ## Questions
