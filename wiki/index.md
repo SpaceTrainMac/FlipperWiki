@@ -242,5 +242,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0161 — an armed 30 000 with no window running](rules/0161-an-armed-30-000-with-no.md) — **30 000** × that side's multiplier
 - [0162 — the 1st bank completion](rules/0162-the-1st-bank-completion.md) — one ladder lamp — the card's *x BONUS*
 - [0163 — the 2nd bank completion](rules/0163-the-2nd-bank-completion.md) — the right `EXTRA BALL` lit
+- [0164 — the 3rd bank completion](rules/0164-the-3rd-bank-completion.md) — `SPECIAL` lit, and an **extra ball**
 
 ## Questions
