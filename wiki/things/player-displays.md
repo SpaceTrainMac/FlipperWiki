@@ -7,9 +7,11 @@ body: game
 # The four player displays
 
 **One six-digit display a player, and it holds your score for the whole game** ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). A score runs
-to 9 999 999 — seven digits on a six-digit display, and the `×10` indicator beside it is the
-consequence of scores this size ([0047](../../raw/rules/0047-what-survives-with-them-is-a-number-that.md)). TBC — exactly how it reads past 999 999 is not a rule here
-yet.
+to 9 999 999 — seven digits on a six-digit display.
+
+**Past 999 999 your `×10` indicator lights and the display shows your score divided by ten** — so
+`×10` lit and `123 456` showing is 1 234 560. The lamp goes out only when a new game resets the
+score ([0098](../../raw/rules/0098-a-player-whose-total-passes-999-999-lights.md)).
 
 **All four together say one thing once a game, at most.** `SPACE TRAIN LIFTS OFF` reads across the
 four displays for five seconds, one word each, and that is

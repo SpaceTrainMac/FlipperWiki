@@ -32,7 +32,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
 
 - [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, empty again every ball; the `X BONUS` printed on it is its name, not a multiplier
-- [The four player displays](things/player-displays.md) — one six-digit display a player; it holds your score and does not move while you play
+- [The four player displays](things/player-displays.md) — one a player, frozen while you play; past a million, `×10` lights and the display divides by ten
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
 - [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: 100 and a lamp on each target's first hit, nothing on the second
@@ -170,5 +170,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0095 — One display, three fields, two dark digits](rules/0095-the-bottom-left-display-is-one-six-digit-unit-reading.md) — the gaps are paint, not a fault
 - [0096 — CREDITS is the extra-ball count](rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md) — the legend is wrong and the width is right
 - [0097 — The winking eye](rules/0097-extra-plays-is-a-joke-and-deliberately.md) — it means nothing, and that is the point
+- [0098 — Past a million, the display divides by ten](rules/0098-a-player-whose-total-passes-999-999-lights.md) — `×10` lit means add a nought
 
 ## Questions
