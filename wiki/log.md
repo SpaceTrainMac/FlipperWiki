@@ -153,3 +153,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:41  ingest  0137  things/every-switch, rules/0137, things/centre-captive-balls.md
 2026-09-09T22:41  ingest  0138  things/every-switch, rules/0138, things/centre-captive-balls.md
 2026-09-09T22:41  ingest  0139  things/every-switch, rules/0139
+2026-09-09T22:41  ingest  0140  things/every-switch, rules/0140

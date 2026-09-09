@@ -216,5 +216,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0137 — `BALLWITHBALL_LEFT_TWIN`](rules/0137-ballwithball_left_twin.md) — the **left** hole ladder by one rung, or opens/redeems its 30 s window at the 5th/6th hit
 - [0138 — `BALLWITHBALL_RIGHT_TWIN`](rules/0138-ballwithball_right_twin.md) — the **right** hole ladder by one rung, or opens/redeems its 30 s window at the 5th/6th hit
 - [0139 — `BALLWITHBALL_RIGHT_TOP`](rules/0139-ballwithball_right_top.md) — **500 000** if `X_BON` is flashing
+- [0140 — `BALLSENSOR_BALLCACHE`](rules/0140-ballsensor_ballcache.md) — **the drain** — a returning ball reaches the two-ball store here; a pulse is one ball home, a held contact is every ball home an
 
 ## Questions
