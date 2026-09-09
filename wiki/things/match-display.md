@@ -1,0 +1,16 @@
+---
+title: The MATCH display
+type: thing
+aliases: [MATCH, the MATCH display, the fifth display, the turn score display]
+body: game
+---
+# The MATCH display
+
+**The fifth six-digit display, and during a game it is the score you are making right now** — this
+turn's, not the game's ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
+
+**After the game it shows something else**: how many extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). TBC — the match
+itself, which is what the display is named for, is §13's and not a rule here yet.
+
+See [what the machine keeps track of](../concepts/what-the-machine-tracks.md) and
+[the four player displays](player-displays.md).

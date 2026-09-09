@@ -5,6 +5,7 @@ Every page, one line each, by category. Updated on every ingest.
 ## Concepts
 
 - [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again; lit letters carry from ball to ball
+- [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone: four players are four games sharing a playfield
 - [The special](concepts/special.md) — lit on both outlanes by completing M-A-C; what it pays is not yet a rule here
 - [The extra ball](concepts/extra-ball.md) — the ways to one; so far M-A-C's: `A` with the letters lit, then the right captive ball inside 20 seconds
 
@@ -16,6 +17,11 @@ Every page, one line each, by category. Updated on every ingest.
 - [The flipper buttons](things/flipper-buttons.md) — beside flipping, they rotate the three M-A-C letters one position
 
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
+
+- [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, and a number nowhere
+- [The four player displays](things/player-displays.md) — one six-digit display a player, holding your score for the game
+- [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
+- [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
 
 ## Moments
 
@@ -37,5 +43,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [0008 — While the window runs the three M-A-C lanes do nothing at all](rules/0008-while-the-window-runs-the-three-m-a-c-lanes.md) — the top lanes are inert for the window's 20 seconds
 - [0009 — However it ends, the letters go out and M-A-C can be spelled again](rules/0009-however-it-ends-the-letters-go-out-and.md) — a repeatable cycle, not a once-a-game latch
 - [0010 — The letters carry from ball to ball for the whole game](rules/0010-the-letters-carry-from-ball-to-ball-for.md) — a drain keeps your letters and takes an open window
+
+- [0011 — Ten quantities, and everything below is one of them changing](rules/0011-ten-quantities-and-everything-below-is-one-of.md) — what the machine counts, and that it counts it per player
 
 ## Questions
