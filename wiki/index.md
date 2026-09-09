@@ -34,6 +34,8 @@ Every page, one line each, by category. Updated on every ingest.
 - [The HOUSE BALL lamp](things/house-ball-lamp.md) — drain protection, 15 seconds, the shortest window on the machine
 - [The 5000 inlanes](things/inlanes-5000.md) — 5 000 at once and five bonuses, the biggest single step the ladder has
 - [The two centre captive balls](things/centre-captive-balls.md) — the twins: the left runs the left hole ladder, the right the right
+- [The left bunker](things/left-bunker.md) — the left saucer: where the left hole bonus is redeemed
+- [The right bunker](things/right-bunker.md) — the right saucer: where the right hole bonus is redeemed
 
 ## Moments
 
@@ -81,5 +83,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0029 — Three captive balls: two twins in the centre, one upper right](rules/0029-three-captive-balls-two-twins-in-the-centre.md) — which captive ball does what
 - [0030 — None of the three ever joins the game](rules/0030-none-of-the-three-ever-joins-the-game.md) — a captive ball is scored by force, not by touch
 - [0031 — Five hits to build, then a 30-second window](rules/0031-each-side-is-a-five-hit-build-then-a.md) — six lamps blinking on one side is a clock
+- [0032 — Two shots redeem a hole bonus](rules/0032-redeeming-inside-the-window-takes-either-shot-the.md) — that side's saucer, or the same centre ball again
 
 ## Questions

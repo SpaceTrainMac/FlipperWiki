@@ -15,5 +15,8 @@ one ball ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one
 sets all six blinking** — the start of a configurable 30-second window ([0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)). A redemption is on
 that timer, and six lamps blinking on one side is how it says so ([0019](../../raw/rules/0019-four-awards-are-lit-on-a-timer-instead.md), [0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)).
 
-TBC — what fills a rung, what a redemption pays, and what the marker is, are not rules here yet.
+**Redeem at that side's [bunker](left-bunker.md) or at the same centre ball again**; either pays
+the rungs and the marker together and resets that ladder ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
+
+TBC — what a rung and a marker are worth, and what the marker is, are not rules here yet.
 See [lit awards](../concepts/lit-awards.md).

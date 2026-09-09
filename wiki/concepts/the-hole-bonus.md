@@ -18,6 +18,13 @@ body: game
 **So six lamps blinking on one side is a clock**, and it is the machine telling you to take the shot
 now ([0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)).
 
-TBC — what redeems it and what it pays are the next rules. See
+**Two shots redeem it, and they are the two the 1987 card names for that side**: that side's own
+bunker — the left saucer for the left ladder, the right for the right — or the same centre ball hit
+once more. Either pays the five rungs and the marker together, at that side's current multiplier,
+and resets the ladder to climb from zero ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
+
+**So the cheapest redemption is the twin you are already hitting** ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
+
+TBC — what a rung and a marker are worth is the next rule. See
 [the two centre captive balls](../things/centre-captive-balls.md) and
 [the two hole-bonus ladders](../things/hole-bonus-ladders.md).
