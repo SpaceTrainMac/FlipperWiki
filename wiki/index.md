@@ -383,5 +383,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0291 — `BUNKER_LEFT`](rules/0291-cue-bunker-left.md) — the left saucer taking the ball, whatever else that shot does
 - [0292 — `BUNKER_RIGHT`](rules/0292-cue-bunker-right.md) — the right saucer taking the ball, and it is out again in five seconds
 - [0293 — `BUMPER`](rules/0293-cue-bumper.md) — any of the three bumpers, and it fires more than anything else
+- [0294 — `SIDEBARS_BOTTOM`](rules/0294-cue-sidebars-bottom.md) — either slingshot — the only cue for an event that pays nothing
 
 ## Questions

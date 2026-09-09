@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM]
 body: game
 ---
 # What the machine says, and when
@@ -88,3 +88,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `BUNKER_RIGHT` | [the right bunker](../things/right-bunker.md) takes the ball — same rule, the cue is the catch ([0292](../../raw/rules/0292-cue-bunker-right.md)) |
 
 | `BUMPER` | any of [the three pop bumpers](../things/pop-bumpers.md) — **the most-fired cue on the machine by a wide margin** ([0293](../../raw/rules/0293-cue-bumper.md)) |
+
+| `SIDEBARS_BOTTOM` | either of [the two slingshots](../things/slingshots.md) — **the one cue whose event is presentation and nothing else** ([0294](../../raw/rules/0294-cue-sidebars-bottom.md)) |
