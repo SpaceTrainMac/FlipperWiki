@@ -50,6 +50,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The cabinet backlight](things/cabinet-backlight.md) — a white flash is a bumper or a sling; the rest of the time it is showing the ladders in colour
 - [OUTFIRE — the start ramp's exit](things/outfire.md) — 1 000 while the left bunker waits, and nothing at any other time
 - [The ball store, and the four contacts](things/ball-store.md) — ready, arrived, launched, home: how the machine follows the ball
+- [The plunger](things/plunger.md) — every ball is fired by hand; there is no auto-launch
 
 ## Moments
 
@@ -145,5 +146,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0092 — The count is per ball, the transfer is per turn](rules/0092-the-count-is-per-ball-and-the.md) — why an extra ball behaves the way you expect
 - [0076 — One to four players, three balls each](rules/0076-one-to-four-players-three-balls-each-taken.md) — a turn is not a ball
 - [0077 — A two-ball store, and four contacts](rules/0077-a-ball-is-served-from-a-two-ball-store.md) — the four switches that follow a ball round
+- [0078 — You fire every ball yourself](rules/0078-a-ball-begins-in-the-start-ramp-and.md) — the machine fills the ramp, you empty it
 
 ## Questions
