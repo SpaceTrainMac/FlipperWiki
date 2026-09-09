@@ -91,3 +91,8 @@ does not open with the quote the first one opened with ([0419](../../raw/rules/0
 | [the RGB backlight](../things/cabinet-backlight.md) | three sine waves, at wavelengths 1 : 2 : 4 | the slowest thing on the cabinet, against the fastest |
 
 *(the table is credits.md's, rendered for a player ([0420](../../raw/rules/0420-the-cabinet-is-lit-as-well.md)))*
+
+**Nothing remembers which lamps are lit, and that is the whole trick** ([0421](../../raw/rules/0421-nothing-remembers-which-lamps-are-lit.md)). Two lamps are
+drawn every cycle, one written on and one written off; **whether either was already in that state
+does not matter to anyone** and finding out would cost a byte of state per lamp. One on and one off
+per cycle **holds the playfield at roughly half lit on its own, with no counting** ([0421](../../raw/rules/0421-nothing-remembers-which-lamps-are-lit.md)).

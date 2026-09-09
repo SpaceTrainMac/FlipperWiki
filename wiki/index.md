@@ -516,5 +516,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0418 — QUOTES is shown in random order, dealt as a deck](rules/0418-quotes-are-dealt-as-a-deck.md) — shuffled and played out, so every quote comes up before any repeats
 - [0419 — The deck carries on from one roll to the next](rules/0419-the-deck-carries-on-between-rolls.md) — so two games in a row do not open on the same quote
 - [0420 — The reading matter is only half of it — the cabinet is lit as well](rules/0420-the-cabinet-is-lit-as-well.md) — the fastest thing on the cabinet and the slowest, at once
+- [0421 — Nothing remembers which lamps are lit](rules/0421-nothing-remembers-which-lamps-are-lit.md) — one on and one off a cycle holds the playfield at half lit with no counting
 
 ## Questions
