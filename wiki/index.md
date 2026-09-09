@@ -5,7 +5,7 @@ Every page, one line each, by category. Updated on every ingest.
 ## Concepts
 
 - [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again; lit letters carry from ball to ball
-- [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone: four players are four games sharing a playfield
+- [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone; and why your score sits still while you play
 - [The special](concepts/special.md) — lit on both outlanes by completing M-A-C; what it pays is not yet a rule here
 - [The extra ball](concepts/extra-ball.md) — the ways to one; so far M-A-C's: `A` with the letters lit, then the right captive ball inside 20 seconds
 
@@ -19,13 +19,15 @@ Every page, one line each, by category. Updated on every ingest.
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
 
 - [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, and a number nowhere
-- [The four player displays](things/player-displays.md) — one six-digit display a player, holding your score for the game
+- [The four player displays](things/player-displays.md) — one six-digit display a player; it holds your score and does not move while you play
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
 
 ## Moments
 
 - [The end of a ball](moments/end-of-ball.md) — the lit awards are cleared, the upper `EXTRA BALL` window with them; the M-A-C letters carry
+
+- [The end of a turn](moments/end-of-turn.md) — what you made this turn goes onto your own score
 
 ## Bodies
 
@@ -45,5 +47,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [0010 — The letters carry from ball to ball for the whole game](rules/0010-the-letters-carry-from-ball-to-ball-for.md) — a drain keeps your letters and takes an open window
 
 - [0011 — Ten quantities, and everything below is one of them changing](rules/0011-ten-quantities-and-everything-below-is-one-of.md) — what the machine counts, and that it counts it per player
+
+- [0012 — The score moves only between turns](rules/0012-the-score-moves-only-between-turns-and-that.md) — your display sits still on purpose; watch `MATCH`
 
 ## Questions

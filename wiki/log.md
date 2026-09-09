@@ -19,3 +19,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:38  cut     §1 of gameplay.md  0011–0013
 2026-09-09T21:38  cut     §4 of gameplay.md  0014–0020
 2026-09-09T21:39  ingest  0011  concepts/what-the-machine-tracks, things/player-displays, things/match-display, things/status-row, things/bonus-ladder, rules/0011
+2026-09-09T21:40  ingest  0012  concepts/what-the-machine-tracks, things/player-displays, things/match-display, moments/end-of-turn, rules/0012

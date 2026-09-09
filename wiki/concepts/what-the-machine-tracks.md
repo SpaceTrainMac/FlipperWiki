@@ -26,6 +26,11 @@ playfield, and nothing one player lights ever pays for another ([0011](../../raw
 
 *(the table is rule 0011's, rendered for a player)*
 
+**The score moves only between turns, and it is the most visible mechanic on the machine.**
+Everything you earn during a ball goes into the turn score on the `MATCH` display; your own display
+holds the total you had when the turn began and does not move until the ball is over, and
+[the end of a turn](../moments/end-of-turn.md) is where the two numbers meet ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and-that.md)).
+
 **Three of the ten are shown by nothing at all while you play** — the bank completions, the two
 redemption counts, and the extra balls you have won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). TBC — what each of the ten does for
 you is §4 to §12's, and only M-A-C's letters, the extra ball and the special are rules here yet.
