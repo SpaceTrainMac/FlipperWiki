@@ -50,3 +50,7 @@ open it: every drain is answered with a serve for as long as it is ([0236](../..
 | **cabinet button**, drawn apart | three | [start](../things/start-button.md) and [the two flipper buttons](../things/flipper-buttons.md) — **held, not tapped**: they close on the way down and open on the way up |
 
 *(the table is using-the-simulator.md §2's, rendered for a player ([0237](../../raw/rules/0237-the-three-kinds-of-control.md)))*
+
+**That last row is what makes the service menu reachable** ([0238](../../raw/rules/0238-cabinet-buttons-are-held-not-tapped.md)): both flippers held together
+for nine seconds opens `Setup`, and a button that released itself a millisecond later could never
+get there — hold `ArrowLeft` and `ArrowRight` together and count ([0238](../../raw/rules/0238-cabinet-buttons-are-held-not-tapped.md)).
