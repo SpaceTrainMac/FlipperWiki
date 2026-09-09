@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME]
 body: game
 ---
 # What the machine says, and when
@@ -59,3 +59,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 |---|---|
 
 | `LAUNCH_BALL` | [a ball is served](../moments/the-serve.md) — the ejector fires and the ball goes to the start ramp ([0281](../../raw/rules/0281-cue-launch-ball.md)) |
+
+| `BALL_IN_GAME` | the served ball reaches the playfield — [`OUTFIRE`](../things/outfire.md) closes ([0282](../../raw/rules/0282-cue-ball-in-game.md)) |

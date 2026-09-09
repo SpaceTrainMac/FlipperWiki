@@ -371,5 +371,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0279 — An entry may name a list](rules/0279-an-entry-may-name-a-list.md) — one cue, several files, and a pick on every raise
 - [0280 — What each cue is for is written down here](rules/0280-what-each-cue-is-for-is-written-down-here.md) — the events are a specification the code is held to, not a readback of it
 - [0281 — `LAUNCH_BALL`](rules/0281-cue-launch-ball.md) — a ball is served into the start ramp
+- [0282 — `BALL_IN_GAME`](rules/0282-cue-ball-in-game.md) — the plunged ball reaches the playfield
 
 ## Questions
