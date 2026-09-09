@@ -16,3 +16,15 @@ body: game
 | `BALLSENSOR_BALLCACHE` | a ball **come back**. It is the drain |
 
 *(the table is rule 0077's, rendered for a player)*
+
+**The drain contact says how many balls are still out, by how it closes.** A returning ball reaches
+it before it reaches the store: if the store is empty the ball rolls past into position and the
+contact **pulses**; if a ball is already in position the returning one **rests on it** and holds it
+closed until one of the two is served again ([0079](../../raw/rules/0079-ballsensor_ballcache-is-the-drain-and-the-way-it.md)).
+
+| `BALLSENSOR_BALLCACHE` | Means |
+|---|---|
+| a **pulse** | one ball is home and at least one is still in play — during multiball, nothing has ended |
+| **closed and held** | every ball is home: this ball is over, and with none owed, so is the turn |
+
+*(the table is rule 0079's, rendered for a player)*
