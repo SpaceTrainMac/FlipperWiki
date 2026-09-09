@@ -70,3 +70,10 @@ slowly. **A quote is one pass of up to 120 characters across a twelve-character 
 roll is only a minute**: at the slow rate the longest one would take 53 seconds — nearly the whole
 state for a single sentence — against 26 at the normal rate, which leaves room for a second quote
 and sometimes a third ([0417](../../raw/rules/0417-the-names-scroll-at-half-the-speed.md)).
+
+**The quotes are dealt like a deck rather than drawn at random** — the whole list is shuffled,
+played to the end, and only then shuffled again ([0418](../../raw/rules/0418-quotes-are-dealt-as-a-deck.md)). **So every quote comes up before any of
+them comes up twice**, and a fresh deal never opens with the quote the last one closed on ([0418](../../raw/rules/0418-quotes-are-dealt-as-a-deck.md)).
+Drawing one at random each time would be random too, and would leave one quote unseen for a dozen
+games while another turned up in half of them — **on a list this short that is the difference a
+player notices** ([0418](../../raw/rules/0418-quotes-are-dealt-as-a-deck.md)).

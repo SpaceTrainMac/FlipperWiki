@@ -513,5 +513,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0415 — The fifth display says which screen this is](rules/0415-the-fifth-display-says-which-screen-this-is.md) — a still label, because the other two rows never stop moving
 - [0416 — The top row is a ticker, and the names belong together](rules/0416-the-top-row-is-a-ticker.md) — no dark gap, so arriving late still shows you all the names
 - [0417 — The names scroll at half the speed of the quotes](rules/0417-the-names-scroll-at-half-the-speed.md) — 53 seconds for one long quote at the slow rate, against 26 at the fast one
+- [0418 — QUOTES is shown in random order, dealt as a deck](rules/0418-quotes-are-dealt-as-a-deck.md) — shuffled and played out, so every quote comes up before any repeats
 
 ## Questions
