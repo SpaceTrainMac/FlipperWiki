@@ -1,7 +1,7 @@
 ---
 title: The four ADVANCE BONUS targets
 type: thing
-aliases: [ADVANCE BONUS, the four targets, ADV_BON_TOP, ADV_BON_C_TOP, ADV_BON_C_BOT, ADV_BON_BOT]
+aliases: [ADVANCE BONUS, the four targets, ADV_BON_TOP, ADV_BON_C_TOP, ADV_BON_C_BOT, ADV_BON_BOT, ADVANCE_BONUS_TOP]
 body: game
 ---
 # The four ADVANCE BONUS targets
