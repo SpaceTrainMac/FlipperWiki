@@ -36,3 +36,9 @@ score was the alternative and it loses on the only ground that matters at a cabi
 has to know it is their turn**, and *best first* is a comparison the machine would be making at
 them ([0388](../../raw/rules/0388-the-order-is-player-order.md)). Nothing is hidden by it, because [`MATCH`](../things/match-display.md) says the
 place anyway ([0388](../../raw/rules/0388-the-order-is-player-order.md)).
+
+## Typing a name
+
+**Six characters, on the entering player's own six-digit display** — the one that has been showing
+their score all game ([0389](../../raw/rules/0389-six-characters-on-the-players-own-display.md)). **The other three keep their final scores**, so the result stays
+readable while somebody is typing ([0389](../../raw/rules/0389-six-characters-on-the-players-own-display.md)).
