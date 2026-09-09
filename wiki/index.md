@@ -43,6 +43,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The knocker](things/knocker.md) — three hits is Space Train Bonus
 - [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
 - [The slingshots](things/slingshots.md) — they kick, and they score nothing
+- [The three pop bumpers](things/pop-bumpers.md) — 100 each, no multiplier, no progression: the machine's floor
 
 ## Moments
 
@@ -110,5 +111,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0049 — SPECIAL pays points rather than a credit](rules/0049-special-pays-points-rather-than-a-credit.md) — 5 000 points; no free game on a machine played at home
 - [0050 — Collecting SPECIAL costs the ball](rules/0050-collecting-special-costs-the-ball.md) — the paying shot is the draining shot, unless `HOUSE BALL` is flashing
 - [0051 — The slingshots score nothing](rules/0051-the-two-slingshots-kick-and-score-nothing.md) — they only move the ball
+- [0052 — Each pop bumper pays 100](rules/0052-each-of-the-three-pop-bumpers-pays-100.md) — nothing builds up there
 
 ## Questions
