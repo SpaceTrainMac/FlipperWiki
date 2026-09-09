@@ -6,6 +6,9 @@ body: game
 ---
 # The cabinet backlight
 
+**On [the VPX table](../bodies/vpx.md) it is three round lamps in a strip below the display panel,
+and they fade rather than switch** ([0223](../../raw/rules/0223-run-vpx-b-leaves-the-region-as-it-is.md)).
+
 **A white flash means a bumper or a slingshot just fired.** The three channels are each 0–15; a hit
 drives all three to 15 — full on every channel reads as white — for the same 300 ms the bumper's own
 lamp is lit, and then the backlight goes back to whatever it was showing ([0053](../../raw/rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md)).

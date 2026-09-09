@@ -70,3 +70,18 @@ not always the screen a desktop calls primary — on a laptop beside a 4K panel 
 a 3072 × 1920 panel at 160 % answers 1920 × 1200 ([0222](../../raw/rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md)). The launcher asks the same library VPX
 asks; where it cannot, it falls back, and **where none of that can answer it says so in one line
 and leaves the file alone** rather than guessing ([0222](../../raw/rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md)).
+
+**And `./run_vpx.sh -B` leaves the region exactly as it is**, for anybody who has placed it by hand
+([0223](../../raw/rules/0223-run-vpx-b-leaves-the-region-as-it-is.md)).
+
+**What is drawn there is the whole backbox** ([0223](../../raw/rules/0223-run-vpx-b-leaves-the-region-as-it-is.md)):
+
+| On the backbox | |
+|---|---|
+| [the four player scores](../things/player-displays.md) | six digits each, staggered two by two, the way the real panel is |
+| [the status row](../things/status-row.md) | extra plays, ball in play and credits, bottom left |
+| [the `MATCH` display](../things/match-display.md) | bottom right, six digits |
+| [the sixteen indicator lamps](../things/indicator-leds.md) | the plates around the displays |
+| [three round lamps below the panel](../things/cabinet-backlight.md) | the cabinet's own RGB backlight, at whatever level the engine is driving it — **they fade rather than switch** |
+
+*(the table is using-the-table.md §4's, rendered for a player ([0223](../../raw/rules/0223-run-vpx-b-leaves-the-region-as-it-is.md)))*
