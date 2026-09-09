@@ -76,3 +76,12 @@ from three to two has to put a lamp *out*, and a draw that only ever lights thin
 happened, so a cabinet nudged in an empty room does not sit here indefinitely ([0354](../../raw/rules/0354-the-timeout-is-a-clean-no-op.md)). Nothing has
 been committed and nothing needs undoing, and that falls out of where the commit point is: **start
 is the commit by definition, and a timeout happens strictly before it** ([0354](../../raw/rules/0354-the-timeout-is-a-clean-no-op.md)).
+
+**Credits and coin handling are not implemented and not planned**, even though the cabinet has the
+hardware for them — [the `CREDITS` field and lamp](../things/status-row.md), the `EXTRA PLAYS`
+digit and [the `EXTRA PLAY` LED](../things/indicator-leds.md) ([0355](../../raw/rules/0355-credits-and-coin-handling-are-not-implemented.md)). The machine is played at
+home and is not coin-operated ([0355](../../raw/rules/0355-credits-and-coin-handling-are-not-implemented.md)).
+
+**And none of that is anything to do with the credits at the end of a game** — the closing titles
+touch none of those four addresses. **One word, two meanings, and only the closing-titles one is
+built** ([0355](../../raw/rules/0355-credits-and-coin-handling-are-not-implemented.md)).

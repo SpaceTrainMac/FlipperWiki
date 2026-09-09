@@ -446,5 +446,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0352 — All four lamps are written on every change, not just the one that moved](rules/0352-all-four-lamps-are-written-on-every-change.md) — stepping down puts a lamp out, which a light-only draw could not do
 - [0353 — Two exits](rules/0353-player-select-two-exits.md) — start, or sixty seconds of nothing and back to the light show
 - [0354 — The timeout is a clean no-op](rules/0354-the-timeout-is-a-clean-no-op.md) — nothing is committed before start, so a timeout has nothing to undo
+- [0355 — Credits and coin handling are not implemented and not planned](rules/0355-credits-and-coin-handling-are-not-implemented.md) — four credit addresses and no credits, and the closing titles are a different word
 
 ## Questions
