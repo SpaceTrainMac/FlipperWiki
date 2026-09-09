@@ -10,8 +10,17 @@ body: game
 ([0379](../../raw/rules/0379-the-same-scene-attract-mode-runs.md)). It is not a variant: the top level simply runs the scene again, between the names being
 recorded and the closing titles ([0379](../../raw/rules/0379-the-same-scene-attract-mode-runs.md)).
 
-**Why it is shown there is the whole point of it** ([0380](../../raw/rules/0380-why-the-table-is-shown-after-a-game.md)). The state before it has just written
-any new rows, so the table it reads includes them — **whoever earned a place watches it scroll
-past with their own name in it** ([0380](../../raw/rules/0380-why-the-table-is-shown-after-a-game.md)). In attract mode the table is shown to an empty room;
-here it is shown to four people who have just finished playing, **which is the one moment on this
-cabinet when everybody standing at it has a reason to read it** ([0380](../../raw/rules/0380-why-the-table-is-shown-after-a-game.md)).
+**It is the same scene deliberately, and the cost is stated rather than avoided** ([0381](../../raw/rules/0381-the-same-machine-and-the-same-scene.md)). The
+ladder climbs underneath it, the backlight fades with it and it closes with the same down-sweep —
+because a variant that looked different after a game would be two things to keep in step for the
+sake of a distinction nobody asked for ([0381](../../raw/rules/0381-the-same-machine-and-the-same-scene.md)). **It takes about twenty seconds in front of a
+sixty-second credits roll, and it blanks the four score displays, so the final scores and the name
+just typed come off the glass** — both of which are fine here, because the game is over ([0381](../../raw/rules/0381-the-same-machine-and-the-same-scene.md)).
+
+| | |
+|---|---|
+| entered | after every game, including one nobody qualified in |
+| shows | the table as it now stands, scrolled worst place first, twice |
+| left | to the closing titles |
+
+*(the table is show-highscore.md's, rendered for a player ([0381](../../raw/rules/0381-the-same-machine-and-the-same-scene.md)))*
