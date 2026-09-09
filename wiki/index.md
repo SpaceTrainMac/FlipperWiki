@@ -23,6 +23,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [What the glass shows](concepts/what-the-glass-shows.md) — six things written above the playfield, and only two of them are your score
 - [Every award, in one table](concepts/every-award.md) — the complete scoring reference, one row an award
 - [What the machine says, and when](concepts/the-sounds.md) — forty cues, one for every rule that says *with its own sound cue*
+- [What nobody has watched](concepts/what-nobody-has-watched.md) — every duration on these pages is arithmetic, and this is the page an evening at the glass is for
 
 ## Things
 
@@ -258,5 +259,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0176 — The forty cues exist](rules/0176-settled-and-built.md) — eleven of them added for the rules here
 - [0177 — The count has a cue for every lamp](rules/0177-the-end-of-ball-count-is-the-most-obviously-cue-shaped.md) — one of the forty is named for a single rung
 - [0178 — Before 2026-09-08 the machine was silent](rules/0178-it-is-designed-and-since-2026-09-08-it-is.md) — the cues are built, not designed
+- [0179 — Every duration here is arithmetic, not evidence](rules/0179-nobody-has-seen-a-single-one-of-these.md) — nobody has watched these mechanics run
 
 ## Questions
