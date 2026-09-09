@@ -25,3 +25,7 @@ each set has got, because **a cue a set has no entry for is silent rather than b
 
 *(the table is cabinet.md §3's, rendered for a player ([0268](../../raw/rules/0268-four-sets-and-they-are-four-different-machines.md)). Eleven of the forty effects were
 added on 2026-09-04, so a set that has not caught up is quieter rather than faulty ([0268](../../raw/rules/0268-four-sets-and-they-are-four-different-machines.md)).)*
+
+**`8-bit` is the one to put on first** ([0269](../../raw/rules/0269-8-bit-is-the-set-to-install-first.md)). It is complete — thirty-five files covering every
+cue the engine can raise — it needs the least to build, and **nothing in it is a recording of
+anything**, which is why it is the set this project can promise ([0269](../../raw/rules/0269-8-bit-is-the-set-to-install-first.md)).
