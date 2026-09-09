@@ -28,3 +28,6 @@ the third bumper is `FCA_9_` and not `FCA_8_` ([0428](../../raw/rules/0428-there
 buttons drive them directly in hardware, and the game's only say is one relay that gates the whole
 circuit** ([0429](../../raw/rules/0429-the-flipper-coils-are-not-in-this-list.md)). That is what [0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)
 means when it says the flippers go dead rather than sluggish ([0429](../../raw/rules/0429-the-flipper-coils-are-not-in-this-list.md)).
+
+**The machine has five relay addresses and one wired relay** — `FRA_NO_PADDLE_MODE`, which
+disables the flippers. The other four are not connected to anything ([0430](../../raw/rules/0430-only-one-relay-is-wired.md)).
