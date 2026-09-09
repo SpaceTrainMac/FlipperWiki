@@ -291,5 +291,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0205 — With `BONUS X 5000` printed on the playfield](rules/0205-with-bonus-x-5000-printed-on-the-playfield.md) — 39 × 5 000 × 3 = 585 000, off the paint alone
 - [0206 — Three independent sources agree](rules/0206-the-ladder-tops-out-at-9-and-super-bonus-adds-10-20-or-30.md) — the ladder is the units and Super Bonus the tens, of one count
 - [0207 — D1–D4 are the first four of fifty-one](rules/0207-d1-d4-are-the-first-four-of-fifty-one.md) — four old decisions, forty-seven newer ones, and why the list misleads on its own
+- [0208 — These are assumptions, taken 2026-08-26](rules/0208-these-are-assumptions-taken-on-the-owners-instruction.md) — authorised by the machine's owner, dated, and each recorded with its reasoning
 
 ## Questions

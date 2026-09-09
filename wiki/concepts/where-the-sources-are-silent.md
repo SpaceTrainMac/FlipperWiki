@@ -20,3 +20,9 @@ what every lamp means, how a ball, a turn and a game end — was decided later a
 **So *the sources are silent* is a statement with a date on it.** Read the four below as the last
 four unanswered questions of 2026-08-26 rather than as open questions now: the rest have been
 answered since, and reading them as still open is the mistake this page exists to prevent ([0207](../../raw/rules/0207-d1-d4-are-the-first-four-of-fifty-one.md)).
+
+**Who decided, and on what authority.** The four were taken on 2026-08-26 on the machine owner's
+own instruction — *"make assumptions, you decide, it can be changed later on"* — because the flyer,
+the cards and the photographs do not answer them and nobody who could is being asked ([0208](../../raw/rules/0208-these-are-assumptions-taken-on-the-owners-instruction.md)).
+**Each one is recorded with what it was decided *from*, because the reasoning is the part a future
+correction has to argue with**; overturning one is editing that record, not finding a bug ([0208](../../raw/rules/0208-these-are-assumptions-taken-on-the-owners-instruction.md)).
