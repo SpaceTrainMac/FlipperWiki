@@ -46,6 +46,9 @@ scored — not even the rungs a ball that simply ended would still have counted 
 whatever is lit at that instant, timer running or not: the 30 seconds is a risk the live ball
 carries, not a way to lose what a drain would have paid anyway ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
 
+**A marker armed with no window running is collected at that side's bunker at any time** ([0058](../../raw/rules/0058-it-is-also-the-left-hole-ladders-redemption.md)),
+which is what makes the right captive ball's shortcut worth taking.
+
 **[The right captive ball](../things/right-captive-ball.md) arms both markers without any of the
 five hits**, and a marker armed that way is steady rather than blinking, with no window to run out
 ([0035](../../raw/rules/0035-the-right-captive-ball-lights-both-markers-with.md)).

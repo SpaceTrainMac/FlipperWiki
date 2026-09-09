@@ -120,5 +120,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0055 — Two saucers, each with two jobs](rules/0055-two-saucers-each-its-own-sides-hole-as.md) — the flyer's elevator holes, upper centre
 - [0056 — The left bunker pays 100 and starts multiball](rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md) — the hold, the plunge, and the 2.5 seconds
 - [0057 — Two balls, and multiball cannot be fed a third](rules/0057-the-machine-has-exactly-two-balls-not-the.md) — the flyer says three; the machine has two
+- [0058 — The left bunker collects as well as starting multiball](rules/0058-it-is-also-the-left-hole-ladders-redemption.md) — one shot can do both, and an armed marker waits there
 
 ## Questions
