@@ -402,5 +402,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0310 — These three are what the 1987 firmware had no word for](rules/0310-the-three-the-1987-firmware-had-no-word-for.md) — the other thirty-seven answer events the original machine already had
 - [0311 — `EXTRA_BONUS`](rules/0311-cue-extra-bonus.md) — 500 000 at the right captive ball, once or twice a game
 - [0312 — `SPACE_SHIP_BONUS`](rules/0312-cue-space-ship-bonus.md) — X3_BOT lighting — announced once, and never while it merely stays lit
+- [0313 — `SPACE_TRAIN_BONUS`](rules/0313-cue-space-train-bonus.md) — the third ×3 lamp lighting — a train, a banner and three knocks
 
 ## Questions
