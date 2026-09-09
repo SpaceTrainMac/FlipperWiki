@@ -260,5 +260,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0177 — The count has a cue for every lamp](rules/0177-the-end-of-ball-count-is-the-most-obviously-cue-shaped.md) — one of the forty is named for a single rung
 - [0178 — Before 2026-09-08 the machine was silent](rules/0178-it-is-designed-and-since-2026-09-08-it-is.md) — the cues are built, not designed
 - [0179 — Every duration here is arithmetic, not evidence](rules/0179-nobody-has-seen-a-single-one-of-these.md) — nobody has watched these mechanics run
+- [0180 — The count keeps one pace](rules/0180-real-machines-speed-the-bonus-count-up-as.md) — other machines accelerate; this one waits to be watched
 
 ## Questions
