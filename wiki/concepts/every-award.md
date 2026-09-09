@@ -17,3 +17,4 @@ own — see [the three multipliers](the-multipliers.md).
 | `M` or `C`, with M-A-C complete | **30 000** | at once |
 | `A`, with M-A-C complete, then the right captive ball inside 20 s | an **extra ball** | at once (windowed on `EXTRA_BALL_TOP`) |
 | either bunker | **100** | at once |
+| `OUTFIRE`, while the left bunker waits | **1 000** | at once |
