@@ -1,6 +1,6 @@
 ---
 name: wiki-cut
-description: Cut one section of a document into rule files under FlipperWiki/raw/rules/ - one bold-led paragraph or one table row per file, verbatim, with its provenance above it - and process nothing. Use when the user says "cut §N", "make rules out of", "add the rules of <section>", or names a section of gameplay.md, machine.md, using-the-table.md or a state document to bring into the wiki.
+description: Cut one section of a document into rule files under FlipperWiki/raw/rules/ - one paragraph or one table row per file, verbatim, with its provenance above it - and process nothing. Use when the user says "cut §N", "make rules out of", "add the rules of <section>", or names a section of gameplay.md, machine.md, using-the-table.md or a state document to bring into the wiki.
 ---
 
 # Cutting a section into rules
@@ -35,6 +35,16 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
   fence across blocks rather than per block: a mermaid diagram with a gap in the middle otherwise
   leaves the cut inside the fence for the rest of the section, and every rule after it is dropped.
   This cost §11 a rule, and it was found by counting rather than by any check.
+- **A document that is not bold-led is cut on its claims.** gameplay.md opens every paragraph with
+  a bold sentence and a cut can lean on it; machine.md, the body documents and the state documents
+  do not. There a paragraph is a rule when it makes a claim that stands without the paragraph above
+  it — *These paths carry no switches, and they do not need any* is a rule of machine.md §1.4 —
+  and only a paragraph that cannot be read alone is a continuation. The title is that claim's first
+  sentence in plain text, cut at a clause the same way.
+- **A blockquote belongs to the rule above it**, the way a non-mermaid fence does. The apron's rule
+  card is quoted whole under the sentence saying how it was transcribed, and one bullet of it
+  lifted out on its own would no longer be a card. A blockquote that opens a subsection is that
+  subsection's rule, titled by its heading — the pricing card is one.
 - **A heading, a mermaid or code fence, and a sentence that only points at another section are not
   rules, and they do not attach to anything.** Skip them and say so — a heading especially, because
   attaching one to the rule above it would put the next subsection's title inside it.
@@ -52,12 +62,16 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
    **The title is plain text**: the claim with its bold and italics dropped, a link reduced to its
    words, no trailing full stop, and cut at a clause if it runs past about 96 characters. A title
    carrying a link is a link the checks will follow out of the front matter and find nothing at.
+   **A title that opens with a character YAML would read as syntax is quoted** — `title: "[?]0.000
+   is 30 000"` — because a bare `[` there is a flow sequence and the front matter stops parsing.
    **Every relative link inside the paragraph is re-pointed across the seam**, and nothing else in
    it changes. A bare anchor `(#12-the-ball-…)` points at the document itself and becomes
    `(../../../FlipperArchitecture/docs/gameplay.md#12-…)`; a sibling document `(machine.md#14-…)`
    becomes `(../../../FlipperArchitecture/docs/machine.md#14-…)`, and a link that already climbs out of
    the document's own checkout — `(../../FlipperSounds)` — climbs one level further, whether or not
-   it ends in a slash. The link *text* is untouched, and
+   it ends in a slash. **The rule underneath all three is one**: resolve the target against the
+   *document's* directory and write it as `../../../` plus the path from the folder the checkouts
+   sit in — which is what a rule file three levels down needs. The link *text* is untouched, and
    the `diff` in step 4 allows exactly these substitutions and no others.
 4. `diff` each file's body against the paragraph it came from. Empty, or the cut is wrong.
 5. One commit for the cut: *cut gameplay.md §3 into rules 0003–0010* — and one line in
