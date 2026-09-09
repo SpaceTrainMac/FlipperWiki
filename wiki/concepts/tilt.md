@@ -34,3 +34,8 @@ knowing when to; either the cabinet's own wiring lights it locally during a tilt
 have to be told ([0368](../../raw/rules/0368-the-tilt-indicator-is-tbc.md)). Only the cabinet can answer it ([0368](../../raw/rules/0368-the-tilt-indicator-is-tbc.md)). **On
 [the VPX table](../bodies/vpx.md) it is drawn and can never light**
 ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).
+
+**Real machines usually void the ball's bonus on a tilt, and this one does not** ([0369](../../raw/rules/0369-tilt-and-bonus-forfeit.md)). The
+state document raises it as an open question and points at the rules to settle it; **the rules
+have** — the bonus is counted for a tilted ball like any other, because nothing in the matrix is a
+tilt bob ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)) ([0369](../../raw/rules/0369-tilt-and-bonus-forfeit.md)).

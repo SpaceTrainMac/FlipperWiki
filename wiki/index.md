@@ -460,5 +460,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0366 — The coil is the operator's to switch off](rules/0366-the-knocker-coil-is-the-operators-to-switch-off.md) — the setting silences the coil and never the lamp
 - [0367 — Tilt works in hardware, bypassing the game entirely](rules/0367-tilt-works-in-hardware-bypassing-the-game.md) — the cabinet's own reflex, which is why it works when the computer is not
 - [0368 — The TILT indicator is TBC](rules/0368-the-tilt-indicator-is-tbc.md) — the plate is addressable and nothing knows when to light it
+- [0369 — Bonus forfeit: real machines void it and this one does not](rules/0369-tilt-and-bonus-forfeit.md) — the question game.md raises, and the answer gameplay.md already gave
 
 ## Questions
