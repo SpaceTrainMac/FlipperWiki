@@ -180,5 +180,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0104 — The banner gives way to the count](rules/0104-the-banner-is-cut-if-the-ball-ends.md) — only a drain inside a second can collide with it
 - [0105 — TRAIN is the word the display cannot spell well](rules/0105-seven-segments-cost-this-one-weak-word.md) — legibility, not capability
 - [0106 — Outside a game, the lamp beside MATCH says what it means](rules/0106-during-a-game-the-fifth-display-is-the.md) — three meanings on one row of digits
+- [0107 — The lamp moves with the number](rules/0107-the-high-score-screen-and-the-end-of-game-statistics-toggle.md) — five seconds each, and the lamp follows
 
 ## Questions

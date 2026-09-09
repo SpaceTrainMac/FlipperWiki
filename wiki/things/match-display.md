@@ -31,6 +31,10 @@ is blanked once the transfer finishes — so you never walk up to the last playe
 
 *(the table is rule 0106's, rendered for a player)*
 
+**The high-score screen and the end-of-game statistics toggle between the two it does use**, five
+seconds each, moving the lamp with the number — a display that changed meaning without saying so
+would be unreadable ([0107](../../raw/rules/0107-the-high-score-screen-and-the-end-of-game-statistics-toggle.md)).
+
 At the end of a game it also carries [the draw](../moments/the-draw.md)'s two digits — the ones the
 display is named for ([0091](../../raw/rules/0091-when-every-player-is-out-of-balls-the.md)), and the extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
 

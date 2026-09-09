@@ -119,3 +119,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:37  ingest  0104  moments/the-space-train-banner, rules/0104
 2026-09-09T22:37  ingest  0105  moments/the-space-train-banner, rules/0105
 2026-09-09T22:37  ingest  0106  things/match-display, rules/0106
+2026-09-09T22:37  ingest  0107  things/match-display, rules/0107
