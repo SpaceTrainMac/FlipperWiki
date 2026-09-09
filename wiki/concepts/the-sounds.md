@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL, TOPLANES_LIGHT_MAC, TOPLANES_SELECT_BONUS, TOPLANES_SUPERBONUS, TOPLANES_XTRABALL, HOLEBONUS_LEFT_NORMAL_HIT, HOLEBONUS_LEFT_DOUBLE, HOLEBONUS_LEFT_TRIPLE, HOLEBONUS_LEFT_BONUS30K_A, HOLEBONUS_LEFT_BONUS30K_B, HOLEBONUS_LEFT_BONUS30K_C, HOLEBONUS_LEFT_BONUS30K_D, HOLEBONUS_LEFT_BONUS30K_E, HOLEBONUS_LEFT_BONUS30K_F]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL, TOPLANES_LIGHT_MAC, TOPLANES_SELECT_BONUS, TOPLANES_SUPERBONUS, TOPLANES_XTRABALL, HOLEBONUS_LEFT_NORMAL_HIT, HOLEBONUS_LEFT_DOUBLE, HOLEBONUS_LEFT_TRIPLE, HOLEBONUS_LEFT_BONUS30K_A, HOLEBONUS_LEFT_BONUS30K_B, HOLEBONUS_LEFT_BONUS30K_C, HOLEBONUS_LEFT_BONUS30K_D, HOLEBONUS_LEFT_BONUS30K_E, HOLEBONUS_LEFT_BONUS30K_F, HOLEBONUS_RIGHT_NORMAL_HIT]
 body: game
 ---
 # What the machine says, and when
@@ -127,3 +127,5 @@ takes the extra bonus — so what it raises is **the cue of whatever it just col
 | `HOLEBONUS_LEFT_TRIPLE` | **the 3rd** — ×3 on the left, and **one of the three lamps [Space Train Bonus](../concepts/flyer-bonuses.md) is waiting for** ([0304](../../raw/rules/0304-cue-holebonus-left-triple.md)) |
 
 | `HOLEBONUS_LEFT_BONUS30K_A` | **the six items of a left redemption, counted out 200 ms apart** — `_A` … `_F`, five rungs and the marker ([0305](../../raw/rules/0305-cue-holebonus-left-bonus30k-a-f.md)) |
+
+| `HOLEBONUS_RIGHT_NORMAL_HIT` | **rungs 1–5 of the right ladder** — [the same 5 000 a rung as the left](../concepts/where-the-sources-are-silent.md) ([0306](../../raw/rules/0306-cue-holebonus-right-normal-hit.md)) |
