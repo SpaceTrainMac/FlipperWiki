@@ -1,7 +1,7 @@
 ---
 title: The advance-bonus bank, and the combination
 type: concept
-aliases: [ADVANCE BONUS, the bank, the advance-bonus bank, the combination, the three-stage award]
+aliases: [the bank, the advance-bonus bank, the combination, the three-stage award]
 body: game
 ---
 # The advance-bonus bank, and the combination

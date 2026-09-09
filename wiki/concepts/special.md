@@ -1,7 +1,7 @@
 ---
 title: The special
 type: concept
-aliases: [the special, Special]
+aliases: [the special, the special award]
 body: game
 ---
 # The special

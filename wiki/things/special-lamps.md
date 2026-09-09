@@ -1,7 +1,7 @@
 ---
 title: The SPECIAL lamps
 type: thing
-aliases: [SPECIAL, the SPECIAL lamps, the outlane SPECIAL, SPECIAL 5000]
+aliases: [SPECIAL, SPEC_5K_L, SPEC_5K_R, the SPECIAL lamps, the outlane SPECIAL, SPECIAL 5000]
 body: game
 ---
 # The SPECIAL lamps
