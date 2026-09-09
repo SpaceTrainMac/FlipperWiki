@@ -41,7 +41,8 @@ shape of every file it writes is [CLAUDE.md](../../../CLAUDE.md#a-page). Read th
 
 One commit, the rule's pages and nothing else. Subject: *ingested rule NNNN, <title>: N pages*.
 Body: the takeaways as spoken, then the pages by path. Check before committing that every link in
-the pages you wrote resolves — `[NNNN](../../raw/rules/NNNN-….md)` from `wiki/<dir>/`.
+the pages you wrote resolves — a rule citation from `wiki/<dir>/` is two directories up, in
+`../../raw/rules/`.
 
 ## An observation
 

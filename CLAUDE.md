@@ -91,8 +91,8 @@ every sentence cites the rule it rests on by number, as a link:
 
 ## `wiki/index.md`
 
-By category, one line per page: `- [title](path) — summary`. Every page is in it; every line in
-it is a page. Updated on every ingest, by the LLM.
+By category, one line per page — the title as a link, a dash, a one-line summary. Every page is
+in it; every line in it is a page. Updated on every ingest, by the LLM.
 
 ## `wiki/log.md`
 
