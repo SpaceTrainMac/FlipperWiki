@@ -32,3 +32,7 @@ flipper steps stations while the radio is playing**, and every press is saved at
 **And the volume of the radio has a way in of its own: hold the left flipper while it is playing
 and the level climbs**, taking effect and saving itself when you let go ([0247](../../raw/rules/0247-hold-the-left-flipper-while-the-radio-is-playing.md)). It is done this
 way because **a volume is judged by ear and the service menu is silent** ([0247](../../raw/rules/0247-hold-the-left-flipper-while-the-radio-is-playing.md)).
+
+**A cabinet with no settings file at all is a first boot rather than a fault** — every value takes
+its default, the start-up says so, and a machine with one sound set beside it runs perfectly well
+having been told nothing ([0248](../../raw/rules/0248-no-settings-file-is-a-first-boot-not-a-fault.md)).

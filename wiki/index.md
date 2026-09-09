@@ -334,5 +334,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0245 — Editing it no longer means an ssh session](rules/0245-editing-it-no-longer-means-an-ssh-session.md) — the cabinet serves its own settings page and shows the address on the glass
 - [0246 — Seven of them are editable at the machine](rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md) — what an owner can change with no keyboard, and the radio's second way in
 - [0247 — Hold the left flipper while the radio is playing](rules/0247-hold-the-left-flipper-while-the-radio-is-playing.md) — the radio's volume is set by ear, because the menu is silent
+- [0248 — No settings file is a first boot, not a fault](rules/0248-no-settings-file-is-a-first-boot-not-a-fault.md) — a machine told nothing takes every default and plays
 
 ## Questions
