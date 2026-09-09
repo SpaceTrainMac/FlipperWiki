@@ -52,3 +52,10 @@ standing in front of it ([0348](../../raw/rules/0348-the-playfield-lamps-are-not
 bottom-right corner, which is free here because the turn score that owns it during a game does not
 exist yet ([0350](../../raw/rules/0350-player-on-the-fifth-display.md)). It says what the corner of the glass is counting, and it goes out again with
 the count on the way out ([0350](../../raw/rules/0350-player-on-the-fifth-display.md)).
+
+**The count is shown in two places at once** — as a digit on [the status row](../things/status-row.md)'s
+left-hand position, and as one to four of the [player-active lamps](../things/indicator-leds.md)
+lit beside it ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)). **The digit *counts* and the lamps *show*,** which are the two places a
+player already looks during a game ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)). That digit is free here for the same reason
+`BALL IN PLAY` is: no ball is in play, and no extra balls have been won in a game that has not
+started ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)).
