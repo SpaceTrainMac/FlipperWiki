@@ -413,5 +413,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0321 — All three themes are also playlist entries](rules/0321-all-three-themes-are-also-playlist-entries.md) — a theme can be interrupted by nothing but itself
 - [0322 — Not cues: songs is an array of paths](rules/0322-songs-is-an-array-of-paths.md) — the playlist has positions rather than names, and order is what it means
 - [0323 — There is nothing to say about an entry beyond its path](rules/0323-nothing-to-say-about-a-song-beyond-its-path.md) — a song is music in a folder, attached to no event
+- [0324 — A short playlist is a choice and an empty one is legitimate](rules/0324-a-short-playlist-is-a-choice.md) — no songs is a set that chose none, and only a missing file is a fault
 
 ## Questions

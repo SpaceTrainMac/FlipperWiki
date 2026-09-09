@@ -211,3 +211,8 @@ against ([0322](../../raw/rules/0322-songs-is-an-array-of-paths.md)). Order is m
 
 **There is nothing to say about an entry beyond its path** — a playlist is a collection of music in
 a folder, and unlike a cue no entry means anything to the machine ([0323](../../raw/rules/0323-nothing-to-say-about-a-song-beyond-its-path.md)).
+
+**A short playlist is a choice and an empty one is legitimate** — a
+[sound set](sound-sets.md) with no songs is still a sound set, so there is no missing half to
+report ([0324](../../raw/rules/0324-a-short-playlist-is-a-choice.md)). Only a path naming a file that is not there counts against it, and
+[that stays fatal](sound-sets.md) ([0324](../../raw/rules/0324-a-short-playlist-is-a-choice.md)).
