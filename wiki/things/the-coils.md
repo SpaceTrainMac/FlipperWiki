@@ -34,3 +34,7 @@ disables the flippers. The other four are not connected to anything ([0430](../.
 
 **Each of the nine has a cut-off time of its own, on an address beside it** — so how long a coil
 fires can be set per coil rather than for all of them ([0431](../../raw/rules/0431-one-cut-off-time-per-coil.md)).
+
+**A cut-off time is a number of milliseconds, and zero means *use the firmware's own default***
+— 1 to 127 overrides it ([0432](../../raw/rules/0432-a-cut-off-time-is-milliseconds-or-the-default.md)). **So a coil nobody has tuned is not a coil with no cut-off**:
+zero is a choice to let the board decide ([0432](../../raw/rules/0432-a-cut-off-time-is-milliseconds-or-the-default.md)).

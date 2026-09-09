@@ -528,5 +528,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0429 — The flipper coils are not in this list](rules/0429-the-flipper-coils-are-not-in-this-list.md) — the game cannot fire a flipper; it can only cut the circuit
 - [0430 — One relay is wired, and it is the one that kills the flippers](rules/0430-only-one-relay-is-wired.md) — `FRA_NO_PADDLE_MODE`, and the other four addresses are not connected
 - [0431 — Each coil has a cut-off time of its own](rules/0431-one-cut-off-time-per-coil.md) — nine coils, nine cut-off addresses, tuned one at a time
+- [0432 — Zero means the firmware's own default, and 1 to 127 is milliseconds](rules/0432-a-cut-off-time-is-milliseconds-or-the-default.md) — zero is *let the board decide*, not *no cut-off at all*
 
 ## Questions
