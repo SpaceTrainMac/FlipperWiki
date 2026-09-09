@@ -24,6 +24,10 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
   with its arithmetic missing.
 - **A block that opens with an identifier rather than bold is still a rule**, when what follows is
   a claim: `` `BUNKER_LEFT` pays **100**, and starts multiball… `` is a rule about the left bunker.
+- **A fence with a blank line inside it is two blocks, and the second one closes it.** Track the
+  fence across blocks rather than per block: a mermaid diagram with a gap in the middle otherwise
+  leaves the cut inside the fence for the rest of the section, and every rule after it is dropped.
+  This cost §11 a rule, and it was found by counting rather than by any check.
 - **A heading, a mermaid or code fence, and a sentence that only points at another section are not
   rules, and they do not attach to anything.** Skip them and say so — a heading especially, because
   attaching one to the rule above it would put the next subsection's title inside it.
