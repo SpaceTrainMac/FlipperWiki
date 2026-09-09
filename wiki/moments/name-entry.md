@@ -97,3 +97,15 @@ and a gap, and it survives ([0396](../../raw/rules/0396-six-bytes-and-trailing-s
 **The character being edited blinks, and it goes back to lit on every keypress** — so the
 character you have just stepped to is on the instant you get there rather than possibly starting
 dark ([0398](../../raw/rules/0398-the-character-being-edited-blinks.md)).
+
+## How an entry ends
+
+**Three ways, and all three record something** ([0399](../../raw/rules/0399-the-three-ways-an-entry-ends.md)):
+
+| Exit | What is recorded |
+|---|---|
+| the sixth character confirmed | the six characters |
+| nobody pressing anything for the timeout | **what is on the glass** — the confirmed characters |
+| the machine being switched off | the same |
+
+*(the table is highscore.md's, rendered for a player ([0399](../../raw/rules/0399-the-three-ways-an-entry-ends.md)))*
