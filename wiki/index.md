@@ -50,7 +50,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
 - [The slingshots](things/slingshots.md) — they kick, and they score nothing
 - [The three pop bumpers](things/pop-bumpers.md) — 100 each and no progression, except all three inside a second
-- [The cabinet backlight](things/cabinet-backlight.md) — a white flash is a bumper or a sling; the rest of the time it is showing the ladders in colour
+- [The cabinet backlight](things/cabinet-backlight.md) — red, green and blue are your three ladders; a white flash is a bumper or a sling
 - [OUTFIRE — the start ramp's exit](things/outfire.md) — 1 000 while the left bunker waits, and nothing at any other time
 - [The ball store, and the four contacts](things/ball-store.md) — ready, arrived, launched, home: how the machine follows the ball
 - [The plunger](things/plunger.md) — every ball is fired by hand; there is no auto-launch
@@ -185,5 +185,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0107 — The lamp moves with the number](rules/0107-the-high-score-screen-and-the-end-of-game-statistics-toggle.md) — five seconds each, and the lamp follows
 - [0108 — The sixteen indicator LEDs](rules/0108-the-indicator-leds.md) — what each says, and the two that stay dark
 - [0109 — What every playfield lamp means](rules/0109-every-one-of-the-48-and-what-a.md) — the map of the playfield in nine rows
+- [0110 — The backlight is the two bonus ladders in colour](rules/0110-not-a-playfield-lamp.md) — red the bonus count, green and blue the hole bonuses
 
 ## Questions
