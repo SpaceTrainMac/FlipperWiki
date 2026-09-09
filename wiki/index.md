@@ -525,5 +525,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0426 — The credits roll has no music of its own](rules/0426-the-credits-roll-has-no-music-of-its-own.md) — the theme exists, nothing starts it, and the roll inherits what was playing
 - [0427 — Addresses 232 to 240](rules/0427-the-nine-coils.md) — nine coils, and the board de-energises each by itself
 - [0428 — There is no Coil8](rules/0428-there-is-no-coil8.md) — the schematic skips it, so the third bumper is `FCA_9_`
+- [0429 — The flipper coils are not in this list](rules/0429-the-flipper-coils-are-not-in-this-list.md) — the game cannot fire a flipper; it can only cut the circuit
 
 ## Questions

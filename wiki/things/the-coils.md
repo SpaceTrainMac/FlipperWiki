@@ -23,3 +23,8 @@ a stuck output from burning a coil out ([0427](../../raw/rules/0427-the-nine-coi
 
 **There is no Coil8** — the schematic's numbering skips it and the code keeps the gap, which is why
 the third bumper is `FCA_9_` and not `FCA_8_` ([0428](../../raw/rules/0428-there-is-no-coil8.md)).
+
+**The flipper coils are not among the nine** — they are not driven by the game at all: **the
+buttons drive them directly in hardware, and the game's only say is one relay that gates the whole
+circuit** ([0429](../../raw/rules/0429-the-flipper-coils-are-not-in-this-list.md)). That is what [0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)
+means when it says the flippers go dead rather than sluggish ([0429](../../raw/rules/0429-the-flipper-coils-are-not-in-this-list.md)).
