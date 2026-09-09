@@ -495,5 +495,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0398 — The character being edited blinks](rules/0398-the-character-being-edited-blinks.md) — and it goes back to lit on every press, so a step is visible at once
 - [0399 — How an entry ends](rules/0399-the-three-ways-an-entry-ends.md) — finished, timed out or switched off — all three commit
 - [0400 — The timeout commits rather than discards](rules/0400-the-timeout-commits-rather-than-discards.md) — it cannot take away a place, which is why there is one at all
+- [0401 — A player who walks off at the very start is recorded as A](rules/0401-a-player-who-walks-off-is-recorded-as-a.md) — an `A`, rather than a blank row that reads like a fault
 
 ## Questions

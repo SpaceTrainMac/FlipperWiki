@@ -117,3 +117,6 @@ half-typed name standing on the glass** ([0400](../../raw/rules/0400-the-timeout
 [an owner can change it](../bodies/cabinet.md): the timeout is not there to hurry anybody, and a
 name rushed off the glass mid-word is worse than a cabinet that takes a while to notice an empty
 room ([0400](../../raw/rules/0400-the-timeout-commits-rather-than-discards.md)).
+
+**A player who walks off at the very start is recorded as `A`** — honest, and not a blank row that
+reads like a fault ([0401](../../raw/rules/0401-a-player-who-walks-off-is-recorded-as-a.md)).
