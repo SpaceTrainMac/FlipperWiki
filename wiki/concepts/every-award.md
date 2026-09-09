@@ -21,3 +21,4 @@ own — see [the three multipliers](the-multipliers.md).
 | a `500` side lane | **500** | at once |
 | a `5000` inlane | **5 000** + five bonuses | at once |
 | an outlane with `SPECIAL` lit | **5 000** | at once |
+| the right bunker, either ladder past rung 2 | an **extra ball**, once a ball | at once |
