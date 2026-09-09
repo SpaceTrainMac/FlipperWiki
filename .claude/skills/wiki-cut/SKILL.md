@@ -30,6 +30,9 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
    slugs it — then the paragraph **verbatim**. The slug is the bold sentence, lower-cased, at most
    eight words. `body:` is `game` for gameplay.md and the state documents, `1987` for machine.md,
    `vpx`, `simulator` or `cabinet` for a body's document.
+   **A link inside the paragraph that points at the document itself** — `(#12-the-ball-…)` — is
+   re-pointed at the document across the seam, `(../../../FlipperArchitecture/docs/gameplay.md#12-…)`;
+   the words do not change, and the `diff` in step 4 allows exactly that.
 4. `diff` each file's body against the paragraph it came from. Empty, or the cut is wrong.
 5. One commit for the cut: *cut gameplay.md §3 into rules 0003–0010* — and one line in
    `wiki/log.md`: `<when>  cut  §3 of gameplay.md  0003–0010`.
