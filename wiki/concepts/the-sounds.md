@@ -23,5 +23,9 @@ listening for it ([0242](../../raw/rules/0242-sound-is-off-unless-the-settings-s
 with every lamp [the count](../moments/end-of-ball.md) puts out — one of the forty is named for a
 single rung of it ([0177](../../raw/rules/0177-the-end-of-ball-count-is-the-most-obviously-cue-shaped.md)).
 
-**Until 2026-09-08 every one of those rules described a machine that made no sound** ([0178](../../raw/rules/0178-it-is-designed-and-since-2026-09-08-it-is.md)). What
-speaks for which rule is the engine's own catalogue, and this wiki does not copy it ([0176](../../raw/rules/0176-settled-and-built.md), [0178](../../raw/rules/0178-it-is-designed-and-since-2026-09-08-it-is.md)).
+**Until 2026-09-08 every one of those rules described a machine that made no sound** ([0178](../../raw/rules/0178-it-is-designed-and-since-2026-09-08-it-is.md)).
+
+**Forty-three cues and a playlist, and what each cue is *for* is what this page carries** ([0276](../../raw/rules/0276-43-cues-and-a-playlist.md)).
+**Which file plays it is not**: that belongs to whichever [sound set](sound-sets.md) is on, and one
+set's answer is not another's ([0276](../../raw/rules/0276-43-cues-and-a-playlist.md)). The pages below name the event; the machine names the file
+([0276](../../raw/rules/0276-43-cues-and-a-playlist.md)).

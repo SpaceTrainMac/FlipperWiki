@@ -365,5 +365,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0273 — A cue with no entry is silence](rules/0273-a-cue-with-no-entry-is-silence.md) — a blank is a decision rather than a fault
 - [0274 — A path naming a file that is not on disk stops the cabinet](rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md) — `E 101`, and why it is a set copied half way
 - [0275 — A cabinet with no amplifier is `"sound": false`](rules/0275-a-cabinet-with-no-amplifier-is-sound-false.md) — a silent machine never looks for a set, so none of the sound faults exist
+- [0276 — 43 cues and a playlist](rules/0276-43-cues-and-a-playlist.md) — the event a cue answers is fixed; the file that answers it is the set's
 
 ## Questions
