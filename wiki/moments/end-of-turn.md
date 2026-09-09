@@ -13,6 +13,10 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**The whole ceremony between turns is 2.0 to 6.8 seconds** — [the count](end-of-ball.md) and then
+the transfer. Twelve turns of a four-player game at the quiet figure is about **43 seconds** of
+ceremony in one game ([0074](../../raw/rules/0074-the-whole-end-of-turn-ceremony-is-between-20-s.md)).
+
 **Nothing is announced during a ball.** Your own total does not move while you are playing, so
 there is nothing to cross until the transfer — the announcement lands in the gap between turns, as
 punctuation rather than as an interruption ([0073](../../raw/rules/0073-nothing-is-announced-during-a-ball.md)).
