@@ -23,6 +23,9 @@ pieces as the playfield empties ([0063](../../raw/rules/0063-one-step-per-lit-la
 
 *(the table is rule 0063's, rendered for a player)*
 
+**The two hole bonuses are counted first and the bonus ladder last**, which is the order the 1987
+card lists them in. The multiplier lamps take no step and stay lit ([0064](../../raw/rules/0064-the-two-hole-bonuses-are-counted-first-and.md)).
+
 **When a ball ends, the playfield's lit awards are cleared and the M-A-C letters are not.** The
 upper `EXTRA BALL` window goes with the rest of the playfield; `M`, `A` and `C` carry to the next
 ball, and three lit letters start it complete and paying ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)).
