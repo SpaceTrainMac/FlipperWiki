@@ -35,3 +35,4 @@ links to the page that explains it.
 | `SIDEBAR_RIGHT_BOTTOM` | — | kicks the ball away | — | [slingshots](../things/slingshots.md) |
 | `SIDEBAR_RIGHT_TOP` | — | — | — | [slingshots](../things/slingshots.md) |
 | `BALLWITHBALL_LEFT_TWIN` | — | the **left** hole ladder by one rung, or opens/redeems its 30 s window at the 5th/6th hit | the left ladder's five rungs and marker, if that side's window is open | [centre captive balls](../things/centre-captive-balls.md) |
+| `BALLWITHBALL_RIGHT_TWIN` | — | the **right** hole ladder by one rung, or opens/redeems its 30 s window at the 5th/6th hit | the right ladder's five rungs and marker, if that side's window is open | [centre captive balls](../things/centre-captive-balls.md) |
