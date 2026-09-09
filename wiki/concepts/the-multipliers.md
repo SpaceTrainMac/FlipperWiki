@@ -21,4 +21,8 @@ nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-tr
 [a flat 500 000](the-extra-bonus.md): the 40th completion opens a 20-second window, the right
 captive ball inside it pays and lights `X2_BOT`, and the 50th does the same for `X3_BOT` ([0039](../../raw/rules/0039-the-bottom-pair-is-x_bons-doing.md)).
 
+**They do not compose and they do not reach outside their own mechanism.** Three ×3s do not make
+×27, the machine advertises *Double & Triple* and means at most ×3, and a hole-bonus `DOUBLE` does
+not double a bumper's 100 ([0040](../../raw/rules/0040-multipliers-do-not-compose-and-they-do-not.md)).
+
 See [the multiplier lamps](../things/multiplier-lamps.md).
