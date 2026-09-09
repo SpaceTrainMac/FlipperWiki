@@ -151,3 +151,18 @@ with no sounds, and [the extra bonus](the-extra-bonus.md) is a rule this project
 | `SPACE_SHIP_BONUS` | **`X3_BOT` lighting** — the 50th bank completion, collected. A space-engine warp ([0312](../../raw/rules/0312-cue-space-ship-bonus.md)) |
 
 | `SPACE_TRAIN_BONUS` | **all three ×3 lamps lit** — [the banner](../moments/the-space-train-banner.md), five seconds, and three knocks ([0313](../../raw/rules/0313-cue-space-train-bonus.md)) |
+
+### Five cues that were nearly something else
+
+**Five of the forty stood open, each with two readings its name allowed, and what is kept is which
+reading lost** — because a cue settled twice will settle a third way ([0314](../../raw/rules/0314-what-settled-the-five-and-which-reading-lost.md)):
+
+| Cue | Was nearly | Settled as |
+|---|---|---|
+| `NO_MORE_EXTRABALL` | *earned and refused* | **the last one played off** — nothing on this machine refuses an extra ball |
+| `MAIN_BONUS_ONE_LIGHT` | *one lamp still unlit* | **the count reaching 39** — a ladder has exactly one terminal state |
+| `TOPLANES_SELECT_BONUS` | *no sound at all* | **the lane change** — the only cue the top lanes offer a player |
+| `TOPLANES_SUPERBONUS` | an unbuilt *combination* chain | **M-A-C completing, and `M`/`C` paying** — nothing else is up there |
+| the six `BONUS30K` letters | a six-step escalation | **six items counted out** — five rungs and the marker |
+
+*(the table is sound.md §4's, rendered for a player ([0314](../../raw/rules/0314-what-settled-the-five-and-which-reading-lost.md)))*
