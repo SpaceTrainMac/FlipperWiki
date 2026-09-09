@@ -520,5 +520,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0422 — The backlight is three waves rather than one](rules/0422-the-backlight-is-three-waves.md) — 1 : 2 : 4, so the colour comes round every sixteen seconds
 - [0423 — Both marquees are dropped and all four displays are blanked](rules/0423-the-displays-are-blanked-on-the-way-out.md) — half a sentence left standing would read as a crash
 - [0424 — All 48 lamps go off](rules/0424-all-48-lamps-go-off.md) — a few lamps left lit would look like a game in progress
+- [0425 — The backlight goes to white, not to black](rules/0425-the-backlight-goes-to-white.md) — a frozen colour reads as an accident and dark as switched off
 
 ## Questions

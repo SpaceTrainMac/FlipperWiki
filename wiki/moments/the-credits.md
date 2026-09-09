@@ -113,3 +113,8 @@ sentence standing there while the next screen comes up reads as a machine that h
 **All 48 playfield lamps go off — not the ones this state lit, which it could not name anyway**
 ([0424](../../raw/rules/0424-all-48-lamps-go-off.md)). **A handful of lamps left burning is exactly what a playfield looks like with a game in
 progress**, and what comes next is [player select](player-select.md), where there is none ([0424](../../raw/rules/0424-all-48-lamps-go-off.md)).
+
+**The backlight goes to white rather than to black** ([0425](../../raw/rules/0425-the-backlight-goes-to-white.md)). Nothing but attract mode drives
+these three channels, so whatever is left here stands until the light show comes round again — and
+**a colour frozen wherever the wave happened to stop is an accident on the backglass, while dark is
+a cabinet somebody has turned off. White is neither** ([0425](../../raw/rules/0425-the-backlight-goes-to-white.md)).
