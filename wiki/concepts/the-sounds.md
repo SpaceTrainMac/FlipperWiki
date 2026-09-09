@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER]
 body: game
 ---
 # What the machine says, and when
@@ -67,3 +67,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `HOUSE_BALL_SAVED` | **a drain inside [the 15-second window](../concepts/drain-protection.md)** — instead of `BALL_LOST`, once a turn ([0284](../../raw/rules/0284-cue-house-ball-saved.md)) |
 
 | `GAME_OVER` | the last ball of the last player has drained ([0285](../../raw/rules/0285-cue-game-over.md)) |
+
+| `NEXT_PLAYER` | [the turn passes](../moments/end-of-turn.md) **to a different player** — a one-player game never hears it ([0286](../../raw/rules/0286-cue-next-player.md)) |
