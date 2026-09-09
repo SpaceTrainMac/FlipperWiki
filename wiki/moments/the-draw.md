@@ -43,3 +43,8 @@ and *the last two digits of your score* is a rule a player already knows ([0376]
 
 **A score of nothing never wins** — the same rule the high score table uses for a place, and
 without it a draw of `00` would hand a ball to everybody who tilted their first one away ([0377](../../raw/rules/0377-a-score-of-nothing-never-wins.md)).
+
+**The number stands for three seconds and is then taken away, along with the lamp** ([0378](../../raw/rules/0378-the-draw-number-is-read-before-the-state-hands-over.md)). It has
+to be: the state that records the names writes the place to the same six digits, for the whole of
+a name. **So the consequence to watch on a real cabinet is that the extra
+ball a winner earned is played with `MATCH` dark rather than lit** ([0378](../../raw/rules/0378-the-draw-number-is-read-before-the-state-hands-over.md)).
