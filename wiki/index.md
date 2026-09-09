@@ -229,5 +229,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0148 — an `ADVANCE BONUS` target, first hit of the bank](rules/0148-an-advance-bonus-target-first-hit.md) — **100**
 - [0149 — completing the four-target bank](rules/0149-completing-the-four-target-bank.md) — **10 000** + one bonus + the combination stage
 - [0150 — `M` or `C`, with M-A-C complete](rules/0150-m-or-c-with-m-a-c-complete.md) — **30 000**
+- [0151 — `A`, with M-A-C complete, then the right captive ball inside 20 s](rules/0151-a-with-m-a-c-complete-then-the.md) — an **extra ball**
 
 ## Questions

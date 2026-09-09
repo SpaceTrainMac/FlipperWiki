@@ -15,3 +15,4 @@ own — see [the three multipliers](the-multipliers.md).
 | an `ADVANCE BONUS` target, first hit of the bank | **100** | at once |
 | completing the four-target bank | **10 000** + one bonus + the combination stage | at once |
 | `M` or `C`, with M-A-C complete | **30 000** | at once |
+| `A`, with M-A-C complete, then the right captive ball inside 20 s | an **extra ball** | at once (windowed on `EXTRA_BALL_TOP`) |
