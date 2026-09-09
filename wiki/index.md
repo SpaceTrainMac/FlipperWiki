@@ -364,5 +364,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0272 — An effect may name several files instead of one](rules/0272-an-effect-may-name-several-files.md) — variants, how they are picked, and how to hear them one at a time
 - [0273 — A cue with no entry is silence](rules/0273-a-cue-with-no-entry-is-silence.md) — a blank is a decision rather than a fault
 - [0274 — A path naming a file that is not on disk stops the cabinet](rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md) — `E 101`, and why it is a set copied half way
+- [0275 — A cabinet with no amplifier is `"sound": false`](rules/0275-a-cabinet-with-no-amplifier-is-sound-false.md) — a silent machine never looks for a set, so none of the sound faults exist
 
 ## Questions

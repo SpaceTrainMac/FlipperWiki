@@ -60,3 +60,6 @@ blank is a decision rather than a fault, and the cabinet starts and plays normal
 ([0274](../../raw/rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md)). That is the difference worth knowing: *no entry* is fine, *an entry pointing at nothing*
 is a set copied half way or a file renamed. **Every file in a list is checked**, so one missing
 variant out of twelve stops it as surely as a missing single ([0274](../../raw/rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md)).
+
+**A cabinet with no amplifier is simply switched to silence, and then none of this happens** — the
+machine never looks for a folder, never reads a map, and nothing above can stop it ([0275](../../raw/rules/0275-a-cabinet-with-no-amplifier-is-sound-false.md)).
