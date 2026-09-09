@@ -440,5 +440,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0346 — All button handling is edge-triggered](rules/0346-all-button-handling-is-edge-triggered.md) — buttons report changes, not levels, so one press is one answer
 - [0347 — The glass is dark on the way in, and that is the first thing this state does](rules/0347-the-glass-is-dark-on-the-way-in.md) — every display and LED cleared first, because the old screen belonged to somebody else
 - [0348 — The playfield lamps are not touched](rules/0348-the-playfield-lamps-are-not-touched.md) — the light show keeps the playfield until the game takes it
+- [0349 — Then it draws its own two things — the count, and the word](rules/0349-then-it-draws-its-own-two-things.md) — a cleared glass, then exactly two things on it
 
 ## Questions

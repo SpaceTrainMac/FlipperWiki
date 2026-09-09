@@ -45,3 +45,5 @@ and none of it is true while somebody is choosing how many are playing ([0347](.
 **The playfield lamps are not touched, and that is the line** — the light show owns them until
 the game does, and blanking them here would put the machine dark at the one moment somebody is
 standing in front of it ([0348](../../raw/rules/0348-the-playfield-lamps-are-not-touched.md)).
+
+**Then it draws its own two things: the count, and the word** ([0349](../../raw/rules/0349-then-it-draws-its-own-two-things.md)).
