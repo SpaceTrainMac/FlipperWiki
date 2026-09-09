@@ -12,6 +12,9 @@ have in hand**, and they last only for the turn ([0011](../../raw/rules/0011-ten
 **`BALL IN PLAY` counts turns, not balls** — [a turn can hold several balls](../concepts/ball-turn-game.md)
 ([0076](../../raw/rules/0076-one-to-four-players-three-balls-each-taken.md)).
 
+**It counts down as you use them.** Every extra ball awarded adds one, every drain takes one away,
+and your turn ends on a drain with the field at zero ([0087](../../raw/rules/0087-an-extra-ball-is-a-number-and-it.md)).
+
 **It is not the bonus count either.** The bonus count has no number anywhere on the machine, and
 this two-digit field is the one that might have carried it ([0027](../../raw/rules/0027-nothing-shows-the-count-as-a-number.md)).
 

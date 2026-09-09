@@ -156,5 +156,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0084 — Drain protection covers the outlanes too](rules/0084-it-covers-an-outlane-as-readily-as-the.md) — the machine can tell them apart and chooses not to
 - [0085 — A saved ball changes nothing](rules/0085-the-ball-it-gives-back-does-not-count.md) — no count, no clearing: you pick the ball up where you lost it
 - [0086 — An extra ball starts clean](rules/0086-an-extra-ball-is-a-fresh-ball-on.md) — counted out, cleared, served; the turn score carries
+- [0087 — Extra balls are the two-digit field](rules/0087-an-extra-ball-is-a-number-and-it.md) — how much of your turn is left, where credits used to be
 
 ## Questions

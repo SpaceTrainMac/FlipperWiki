@@ -6,6 +6,10 @@ body: game
 ---
 # The extra ball
 
+**An extra ball is a number, and it is [the two-digit field](../things/status-row.md).** Every award
+adds one, every drain takes one away, and **the turn ends when a ball drains and that number is
+zero** — so you read how much of your turn is left where a credit count used to be ([0087](../../raw/rules/0087-an-extra-ball-is-a-number-and-it.md)).
+
 **An extra ball is a fresh ball on a cleared playfield.** The ball that earned it is counted out
 first, then the bonus count, both hole ladders and every lit award go to zero, and a new ball is
 served. **`BALL IN PLAY` does not change** — an extra ball is not a new turn, and the turn score
