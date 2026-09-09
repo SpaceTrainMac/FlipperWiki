@@ -42,3 +42,9 @@ events pass in silence** ([0278](../../raw/rules/0278-eleven-rows-are-fixture-on
 
 **One cue can hold several files, and then the machine picks between them each time it fires**
 ([0279](../../raw/rules/0279-an-entry-may-name-a-list.md)) — which is [how a bumper stops sounding like the same bumper](sound-sets.md).
+
+**What each cue is for is written down in one place and it is a specification rather than a
+description** ([0280](../../raw/rules/0280-what-each-cue-is-for-is-written-down-here.md)). The event a cue answers is what the cue's name and
+[the rules](what-the-machine-tracks.md) say it is for — not a readback of the code — and since
+2026-09-08 the code has been held to it, one raise per cue, each pinned by a test ([0280](../../raw/rules/0280-what-each-cue-is-for-is-written-down-here.md)). So a
+machine that stays quiet at one of these events is wrong about itself ([0280](../../raw/rules/0280-what-each-cue-is-for-is-written-down-here.md)).
