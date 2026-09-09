@@ -14,9 +14,10 @@ dark lights it; a lane whose lamp is lit puts it out. The left and right flipper
 three letters one position — the lane-change idiom, and the reason a player who has `M` and `A`
 lit and rolls `C` by accident is not simply punished for it ([0004](../../raw/rules/0004-spelling-it.md)).
 
-**Once the three letters are lit, the two outer lanes pay and keep paying.** `M` and `C` are worth
-30 000 each, and taking one does not spend it: a player who can keep finding the two outer lanes is
-paid 30 000 every time ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)).
+**All three lit at once is M-A-C complete: the three lamps switch to a medium blink and `SPECIAL`
+lights on both outlanes** ([0005](../../raw/rules/0005-completing-it.md)). **From then on the two outer lanes pay
+and keep paying.** `M` and `C` are worth 30 000 each, and taking one does not spend it: a player
+who can keep finding the two outer lanes is paid 30 000 every time ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)).
 
 **`A` is the lane that ends it, and what it buys is a chance at an extra ball.** It closes the
 sequence, so *when to take `A`* is the only real decision M-A-C asks of a player
