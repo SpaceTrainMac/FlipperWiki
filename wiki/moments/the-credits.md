@@ -22,3 +22,9 @@ backglass. **One word, two meanings, and only this one is built** ([0408](../../
 | the minute elapsing | back to [attract mode](attract-mode.md) |
 
 *(the table is credits.md's, rendered for a player ([0409](../../raw/rules/0409-credits-two-exits.md)))*
+
+**Start skips the light show entirely, and it is the only route into a game that does** ([0410](../../raw/rules/0410-start-skips-the-intro.md)).
+Somebody watching the names who presses start has already decided to play again, and sending them
+through attract mode first would make them wait for a screen they have just asked to leave
+([0410](../../raw/rules/0410-start-skips-the-intro.md)). The press is edge-triggered like every other on the machine, so **the press that finished
+a name cannot also skip the credits** ([0410](../../raw/rules/0410-start-skips-the-intro.md)).

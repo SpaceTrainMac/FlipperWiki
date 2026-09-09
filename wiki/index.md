@@ -505,5 +505,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0407 — The last thing a game shows](rules/0407-the-last-thing-a-game-shows.md) — a minute of names, and start begins the next game
 - [0408 — Not credits in the coin sense](rules/0408-not-credits-in-the-coin-sense.md) — the word means a roll of names here and nothing to do with coins
 - [0409 — Two exits](rules/0409-credits-two-exits.md) — start for a new game, or the minute out and back to the light show
+- [0410 — Start skips the intro](rules/0410-start-skips-the-intro.md) — the only route into a game that misses attract mode
 
 ## Questions
