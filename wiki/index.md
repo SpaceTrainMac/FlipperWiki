@@ -337,5 +337,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0248 — No settings file is a first boot, not a fault](rules/0248-no-settings-file-is-a-first-boot-not-a-fault.md) — a machine told nothing takes every default and plays
 - [0249 — One bad key costs that key, not the boot](rules/0249-one-bad-key-costs-that-key-not-the-boot.md) — a mistyped value is warned about and defaulted, and the machine plays
 - [0250 — A failed write is not renamed over a good file](rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md) — `NOSAVE` on the glass, and the old file still there
+- [0251 — `volume` is system-wide](rules/0251-volume-is-system-wide.md) — one mixer level for the whole machine, applied by every body at start-up
 
 ## Questions

@@ -46,3 +46,8 @@ over a good file: a settings file or a high score table that could not be writte
 one intact and says so on the display instead ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)). **A card that filled up mid-table used to
 put a truncated high score file over the only copy that exists anywhere**, and since 2026-09-01 it
 cannot ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)).
+
+**The volume is the whole machine's, not the game's** ([0251](../../raw/rules/0251-volume-is-system-wide.md)). It is a system mixer level, so
+something else on the same computer can move it out from under the game — and **that is true of
+every body**: the simulator on a desk and the VPX table are that machine too, and each applies the
+stored level when it starts ([0251](../../raw/rules/0251-volume-is-system-wide.md)).

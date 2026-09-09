@@ -269,3 +269,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:30  ingest  0248  bodies/cabinet, rules/0248
 2026-09-09T23:30  ingest  0249  bodies/cabinet, rules/0249
 2026-09-09T23:30  ingest  0250  bodies/cabinet, things/match-display, rules/0250
+2026-09-09T23:30  ingest  0251  bodies/cabinet, bodies/simulator, rules/0251
