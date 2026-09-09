@@ -33,3 +33,5 @@ with [the status row](../things/status-row.md) *below* the player scores rather 
 that a line crossing it is six shapes in order — a blank, `_`, `u`, `o`, an upside-down `A`, and
 back — and **nothing else on the glass moves while that happens**; on the way down a row drains
 to blank completely before the row below starts ([0330](../../raw/rules/0330-a-display-row-is-five-steps.md)).
+
+**Every 7-segment digit on the backglass takes part, and all sixteen LEDs with them** ([0331](../../raw/rules/0331-every-digit-takes-part.md)).
