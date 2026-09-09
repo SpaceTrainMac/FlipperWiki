@@ -16,6 +16,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The extra bonus](concepts/the-extra-bonus.md) — a flat 500 000 at the right captive ball, inside the `X BONUS` window, and the bottom multiplier with it
 - [Space Ship Bonus and Space Train Bonus](concepts/flyer-bonuses.md) — the flyer's two names are the multipliers reaching ×3, announced
 - [The thunderstrike](concepts/the-thunderstrike.md) — all three bumpers inside one second: a flat 500 and four white flashes
+- [Multiball](concepts/multiball.md) — the left bunker starts it when a ball is staged; you plunge the second, and the first follows 2.5 seconds later
 
 ## Things
 
@@ -117,5 +118,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0053 — Bumpers and slingshots flash the backlight white](rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md) — the flash is not an award
 - [0054 — Three bumpers in one second is a thunderstrike](rules/0054-landing-all-three-bumpers-within-one-second-of.md) — 500 on top, repeatable, order irrelevant
 - [0055 — Two saucers, each with two jobs](rules/0055-two-saucers-each-its-own-sides-hole-as.md) — the flyer's elevator holes, upper centre
+- [0056 — The left bunker pays 100 and starts multiball](rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md) — the hold, the plunge, and the 2.5 seconds
 
 ## Questions
