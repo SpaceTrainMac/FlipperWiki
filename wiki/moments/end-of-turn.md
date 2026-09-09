@@ -65,3 +65,7 @@ must ([0359](../../raw/rules/0359-initnewround-is-not-the-turns-edge.md)).
 
 **Each player's own lamp is lit at the start of their turn and out at the end of it** — nothing
 writes all four, so **a two-player game never touches lamps 3 and 4 at all** ([0360](../../raw/rules/0360-the-active-player-lamp-is-the-players-own.md)).
+
+**A player's score is written to their display when it changes, not on every cycle** — and it is
+written once for every player as the game is set up, **so everybody reads `0` from the first ball
+rather than whatever the last game left there** ([0361](../../raw/rules/0361-the-score-reaches-the-display.md)).
