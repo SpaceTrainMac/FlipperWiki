@@ -409,5 +409,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0317 — These name *when* they play](rules/0317-music-cues-name-when-they-play.md) — a theme cuts the jukebox, and the interrupted song does not come back
 - [0318 — `MAIN_THEME`](rules/0318-cue-main-theme.md) — a game starts
 - [0319 — `GAME_OVER_THEME`](rules/0319-cue-game-over-theme.md) — a game ends, beside the `GAME_OVER` effect on the other channel
+- [0320 — `HIGHSCORE_THEME`](rules/0320-cue-highscore-theme.md) — initials are being entered, and only because something raised it
 
 ## Questions
