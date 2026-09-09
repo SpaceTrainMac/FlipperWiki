@@ -16,6 +16,11 @@ read as two rows, so the phrase lands one word to a display and nothing has to s
    X-PLAYS BALL CREDITS      MATCH — the turn score, still counting
 ```
 
+**It is cut if the ball ends while it stands**, and that can only happen if the ball drains within
+about a second of the achievement — [the count](end-of-ball.md) buys 1.6 to 4.8 seconds before the
+transfer, which is the only other thing that writes these four displays. By then the announcement
+has been seen and heard, and the count is what pays ([0104](../../raw/rules/0104-the-banner-is-cut-if-the-ball-ends.md)).
+
 **Five seconds, with [the knocker](../things/knocker.md)'s three hits at 0, 400 and 800 ms** — the
 hits land while the train is starting, and the remaining 3.8 seconds stand quiet under the words
 ([0103](../../raw/rules/0103-five-seconds-with-the-three-knocker-hits-at.md)).
