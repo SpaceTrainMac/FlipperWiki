@@ -57,3 +57,8 @@ ends** ([0390](../../raw/rules/0390-the-ring-of-thirty-nine-positions.md)):
 | [start](../things/start-button.md) | confirms the character and moves along one |
 
 *(the ring and the table are highscore.md's, rendered for a player ([0390](../../raw/rules/0390-the-ring-of-thirty-nine-positions.md)))*
+
+**It is the same three buttons doing the same three jobs as [player select](player-select.md) and
+[the service menu](the-service-menu.md)**, which is why there is one interaction model on this
+machine and not three ([0391](../../raw/rules/0391-the-same-three-buttons-doing-the-same-jobs.md)). **Auto-repeat is not optional** — a held button reports one edge
+— so it is built, and shared with the menu ([0391](../../raw/rules/0391-the-same-three-buttons-doing-the-same-jobs.md)).
