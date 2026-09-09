@@ -243,5 +243,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0162 — the 1st bank completion](rules/0162-the-1st-bank-completion.md) — one ladder lamp — the card's *x BONUS*
 - [0163 — the 2nd bank completion](rules/0163-the-2nd-bank-completion.md) — the right `EXTRA BALL` lit
 - [0164 — the 3rd bank completion](rules/0164-the-3rd-bank-completion.md) — `SPECIAL` lit, and an **extra ball**
+- [0165 — M-A-C completing](rules/0165-m-a-c-completing.md) — `SPECIAL` lit
 
 ## Questions

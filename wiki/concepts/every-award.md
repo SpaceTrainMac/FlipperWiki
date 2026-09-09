@@ -29,3 +29,4 @@ own — see [the three multipliers](the-multipliers.md).
 | the 1st bank completion | one ladder lamp — the card's *x BONUS* | — |
 | the 2nd bank completion | the right `EXTRA BALL` lit | — |
 | the 3rd bank completion | `SPECIAL` lit, and an **extra ball** | — |
+| M-A-C completing | `SPECIAL` lit | — |
