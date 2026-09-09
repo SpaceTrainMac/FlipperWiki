@@ -326,5 +326,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0238 — That last row is what makes the service menu reachable](rules/0238-cabinet-buttons-are-held-not-tapped.md) — nine seconds on both arrow keys, which needs a button that stays down
 - [0239 — A lamp is a level](rules/0239-a-lamp-is-a-level.md) — on is on, and nothing more
 - [0240 — A coil is a moment](rules/0240-a-coil-is-a-moment.md) — a two-second fade, so the picture shows which bumper fired first
+- [0241 — A digit is seven segments](rules/0241-a-digit-is-seven-segments.md) — lit from the bytes the engine sent, so a non-digit glyph reads as whatever it nearly is
 
 ## Questions

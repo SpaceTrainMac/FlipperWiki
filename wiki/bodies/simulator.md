@@ -60,3 +60,9 @@ get there — hold `ArrowLeft` and `ArrowRight` together and count ([0238](../..
 **A coil is a moment.** It flares and fades over two seconds, so three bumpers caught at different
 stages of fade tell you **the order they fired in** — which is unreadable on a real playfield, and
 is often the actual question ([0240](../../raw/rules/0240-a-coil-is-a-moment.md)).
+
+**A digit is seven segments**, lit from the byte the engine sent rather than from a number the page
+was told ([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)). The text under the backglass runs those bytes back through an inverse map, so
+**a glyph that is not a digit reads as whatever it most nearly is** — which is how you can watch
+[the machine spell words](../concepts/what-the-glass-shows.md) on a display built to show numbers
+([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)).

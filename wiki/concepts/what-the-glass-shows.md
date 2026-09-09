@@ -19,6 +19,11 @@ body: game
 
 *(the table is rule 0093's, rendered for a player)*
 
+**Every digit is seven segments, and the machine sends segments rather than numbers** — which is
+why it can spell at all, and why a word it spells badly is a limit of seven segments rather than of
+the machine ([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)). [The simulator](../bodies/simulator.md) lights them from the same bytes the
+engine puts on the wire ([0241](../../raw/rules/0241-a-digit-is-seven-segments.md)).
+
 **They are green.** Every photograph of this cabinet shows green digits, and
 [the VPX table](../bodies/vpx.md) draws them green for that reason ([0224](../../raw/rules/0224-the-displays-are-green.md)). **On that body the panel
 is redrawn and deliberately too wide**: at the cabinet's real proportions a six-digit score would
