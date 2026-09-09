@@ -391,5 +391,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0299 — `TOPLANES_XTRABALL`](rules/0299-cue-toplanes-xtraball.md) — the upper extra ball being collected at the right captive ball
 - [0300 — Each side is a five-hit build and then a timed redemption](rules/0300-the-two-sides-are-not-symmetric.md) — six things counted out a side, and the left only got its six cues in 2026
 - [0301 — The card's third captive ball drives no ladder](rules/0301-the-third-captive-ball-has-no-cue-of-its-own.md) — the busiest switch on the machine has no sound of its own
+- [0302 — `HOLEBONUS_LEFT_NORMAL_HIT`](rules/0302-cue-holebonus-left-normal-hit.md) — any of the five rungs of a left build, paying nothing yet
 
 ## Questions

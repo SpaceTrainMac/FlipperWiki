@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL, TOPLANES_LIGHT_MAC, TOPLANES_SELECT_BONUS, TOPLANES_SUPERBONUS, TOPLANES_XTRABALL]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL, TOPLANES_LIGHT_MAC, TOPLANES_SELECT_BONUS, TOPLANES_SUPERBONUS, TOPLANES_XTRABALL, HOLEBONUS_LEFT_NORMAL_HIT]
 body: game
 ---
 # What the machine says, and when
@@ -116,3 +116,8 @@ on 2026-09-04, where the right had them before ([0300](../../raw/rules/0300-the-
 **[The third captive ball](../things/right-captive-ball.md) has no cue of its own** ([0301](../../raw/rules/0301-the-third-captive-ball-has-no-cue-of-its-own.md)). It
 drives no ladder — it arms both markers, lights the right `EXTRA BALL`, takes the upper one and
 takes the extra bonus — so what it raises is **the cue of whatever it just collected** ([0301](../../raw/rules/0301-the-third-captive-ball-has-no-cue-of-its-own.md)).
+
+| Cue | Speaks when |
+|---|---|
+
+| `HOLEBONUS_LEFT_NORMAL_HIT` | **rungs 1–5 of [the left ladder](../things/hole-bonus-ladders.md)** — including the fifth, which also opens the window ([0302](../../raw/rules/0302-cue-holebonus-left-normal-hit.md)) |
