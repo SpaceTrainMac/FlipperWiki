@@ -54,3 +54,8 @@ state a flicker nobody could read, and a value in days would park the cabinet in
 actually spell** — uppercase A–Z, digits, spaces and hyphens — **which a test holds them to**
 ([0414](../../raw/rules/0414-all-three-texts-are-static.md)). An unspellable character would not be an error, it would be the fallback glyph turning up
 on the backglass a month later ([0414](../../raw/rules/0414-all-three-texts-are-static.md)).
+
+**The fifth display says which screen this is**, because the other two rows never stand still —
+**somebody who walks up mid-quote could otherwise watch a sentence go past without learning what
+they are looking at** ([0415](../../raw/rules/0415-the-fifth-display-says-which-screen-this-is.md)). It is written once on the first cycle and stays there, because
+nothing else in this state touches it ([0415](../../raw/rules/0415-the-fifth-display-says-which-screen-this-is.md)).
