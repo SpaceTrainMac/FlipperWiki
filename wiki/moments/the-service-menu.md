@@ -40,3 +40,24 @@ both and start again ([0254](../../raw/rules/0254-a-second-gesture-the-right-fli
 **The value buttons repeat while held.** The top pair of [score displays](../things/player-displays.md)
 names the entry, the bottom pair shows its value, and [`MATCH`](../things/match-display.md) says
 `SETUP` ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)).
+
+**Seventeen entries in one ring, and start is the only thing that moves between them** — the ring
+wraps, so `EXIT` is one press back from `VOLUME` rather than sixteen forward ([0256](../../raw/rules/0256-seventeen-entries-in-one-ring.md)).
+
+| Entry | What it does |
+|---|---|
+| `VOLUME` | 0–100 in fives. **In force as you step it**, with a short effect at each level so you can hear it |
+| `SOUND SET` | `ALL SETS`, then each set found, wrapping. **Needs a restart** — the banner changes to `REBOOT` to say so |
+| `SFX MODE` | `RANDOM` or `LOOP` — what a cue naming several files does with them. In force at once |
+| `MUSIC` | `ORDER` or `SHUFFLE`. In force at once |
+| `RADIO` | which station plays when the cabinet is left alone: `OFF`, then each station, wrapping. `NONE SET` when the file has none |
+| `RADIO AFTER` | how long attract waits first — 1, 2, 3, 5, 10, 15, 20, 30, 45 or 60 minutes |
+| `CREDITS` | how long the closing titles run, from eleven durations |
+| `HIGH SCORES` | **hold** either flipper three seconds to put the table back to `FRITZ` 10000, `ROOL` 9000, `ACE` 8000, `BBB` 7000. A tap does nothing, on purpose |
+| `STATISTICS` | **changes nothing** — a flipper steps through what the cabinet has done since it was first switched on |
+| `NETWORK` | **changes nothing** — six pages about the machine's network, [the address among them](../bodies/cabinet.md) |
+| `RADIO TEST` | a flipper **leaves the menu and starts the radio**, without waiting `RADIO AFTER` out |
+| `SWITCH TEST`, `LAMP TEST`, `COIL TEST`, `DISPLAY TEST`, `SOUND TEST` | a flipper leaves the menu and runs that diagnostic. **These are for a machine with its glass off** |
+| `EXIT` | either flipper: save and go back to attract mode |
+
+*(the table is cabinet.md §2's, rendered for a player ([0256](../../raw/rules/0256-seventeen-entries-in-one-ring.md)))*

@@ -343,5 +343,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0253 — After three seconds the light show stops and a joke comes up](rules/0253-after-three-seconds-a-joke-comes-up.md) — the acknowledgement at three seconds, and what to wait for
 - [0254 — There is a second gesture on the same two buttons](rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md) — the right flipper alone starts the radio, and a slipped hand starts nothing
 - [0255 — The value buttons repeat while held](rules/0255-the-value-buttons-repeat-while-held.md) — start steps entries, the flippers step values, and `MATCH` says `SETUP`
+- [0256 — Seventeen entries in one ring](rules/0256-seventeen-entries-in-one-ring.md) — the whole menu, and why `EXIT` is one press backwards
 
 ## Questions
