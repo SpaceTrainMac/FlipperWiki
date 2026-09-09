@@ -211,5 +211,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0132 — `SIDELANE_LEFT`](rules/0132-sidelane_left.md) — 500
 - [0133 — `SIDELANE_RIGHT`](rules/0133-sidelane_right.md) — 500
 - [0134 — `SIDEBAR_LEFT_BOTTOM`](rules/0134-sidebar_left_bottom.md) — kicks the ball away
+- [0135 — `SIDEBAR_RIGHT_BOTTOM`](rules/0135-sidebar_right_bottom.md) — kicks the ball away
 
 ## Questions

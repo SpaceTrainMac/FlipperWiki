@@ -32,3 +32,4 @@ links to the page that explains it.
 | `SIDELANE_LEFT` | 500 | — | — | [side lanes](../things/side-lanes.md) |
 | `SIDELANE_RIGHT` | 500 | — | — | [side lanes](../things/side-lanes.md) |
 | `SIDEBAR_LEFT_BOTTOM` | — | kicks the ball away | — | [slingshots](../things/slingshots.md) |
+| `SIDEBAR_RIGHT_BOTTOM` | — | kicks the ball away | — | [slingshots](../things/slingshots.md) |
