@@ -268,5 +268,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0185 — Behaviours the flyer attributes to all MacPinBall machines](rules/0185-behaviours-the-flyer-attributes-to-all-macpinball-machines.md) — percentaging, 2 extra plays, Info-Speech and 1–4 players came with the chassis
 - [0186 — Source material](rules/0186-source-material.md) — eleven scans, and the four that carry every rule on the 1987 pages
 - [0187 — The photographs are 800 × 600](rules/0187-the-photographs-are-800-x-600-at-the-edge-of-legibility.md) — the card is at the edge of legible, and a marginal pixel is flagged rather than decided
+- [0188 — Advertised feature set](rules/0188-advertised-feature-set.md) — the flyer's eleven promises, each against the page that says what became of it
 
 ## Questions
