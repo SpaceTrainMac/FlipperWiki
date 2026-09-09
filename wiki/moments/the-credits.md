@@ -59,3 +59,7 @@ on the backglass a month later ([0414](../../raw/rules/0414-all-three-texts-are-
 **somebody who walks up mid-quote could otherwise watch a sentence go past without learning what
 they are looking at** ([0415](../../raw/rules/0415-the-fifth-display-says-which-screen-this-is.md)). It is written once on the first cycle and stays there, because
 nothing else in this state touches it ([0415](../../raw/rules/0415-the-fifth-display-says-which-screen-this-is.md)).
+
+**The top row is a ticker rather than a list** — the end of the string is followed directly by the
+beginning of it, with no dark gap between the last name and the first ([0416](../../raw/rules/0416-the-top-row-is-a-ticker.md)). **Nobody should
+have to arrive at the right second to see all three** ([0416](../../raw/rules/0416-the-top-row-is-a-ticker.md)).
