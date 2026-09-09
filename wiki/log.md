@@ -249,3 +249,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:22  ingest  0230  bodies/vpx, concepts/multiball, rules/0230
 2026-09-09T23:22  ingest  0231  bodies/vpx, moments/end-of-turn, rules/0231
 2026-09-09T23:22  ingest  0232  bodies/vpx, concepts/the-two-levels, rules/0232
+2026-09-09T23:22  ingest  0233  bodies/vpx, concepts/what-the-glass-shows, rules/0233

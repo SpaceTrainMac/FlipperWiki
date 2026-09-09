@@ -317,5 +317,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0230 — Multiball is two balls, not the flyer's three](rules/0230-multiball-is-two-balls-not-the-flyers-three.md) — the trough holds two, and the flyer is the one that is wrong
 - [0231 — The bonus and the match take about 43 seconds](rules/0231-the-bonus-and-the-match-take-about-43-seconds.md) — real ceremonies at real speed, and how differently that reads on a screen
 - [0232 — The playfield was flat, until 2026-09-06](rules/0232-the-playfield-was-flat-until-2026-09-06.md) — a whole game played with a storey missing, which is what proves the levels are scenery
+- [0233 — The backbox is drawn, not photographed](rules/0233-the-backbox-is-drawn-not-photographed.md) — deliberately too wide, because a faithful panel gives a 19-pixel score
 
 ## Questions

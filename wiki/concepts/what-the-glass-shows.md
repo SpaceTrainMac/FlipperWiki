@@ -20,4 +20,6 @@ body: game
 *(the table is rule 0093's, rendered for a player)*
 
 **They are green.** Every photograph of this cabinet shows green digits, and
-[the VPX table](../bodies/vpx.md) draws them green for that reason ([0224](../../raw/rules/0224-the-displays-are-green.md)).
+[the VPX table](../bodies/vpx.md) draws them green for that reason ([0224](../../raw/rules/0224-the-displays-are-green.md)). **On that body the panel
+is redrawn and deliberately too wide**: at the cabinet's real proportions a six-digit score would
+stand about 19 pixels tall, which is not a score anybody could read ([0233](../../raw/rules/0233-the-backbox-is-drawn-not-photographed.md)).

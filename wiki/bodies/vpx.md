@@ -130,3 +130,8 @@ has an upper deck, two elevator holes, a ramp, a return track and a raised tunne
 them carries a switch** — so while the picture was missing a storey the *game* was whole ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)).
 The saucers used to kick the ball up the flat playfield; since 2026-09-06 they lift it onto the
 deck ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)).
+
+**The backbox is drawn, not photographed** ([0233](../../raw/rules/0233-the-backbox-is-drawn-not-photographed.md)). The display panel is redrawn rather than
+photographed, it is wider than the real one relative to the cabinet, and the speaker grilles are
+not there — because at the cabinet's own proportions a six-digit score would be about **19 pixels
+tall** on a screen ([0233](../../raw/rules/0233-the-backbox-is-drawn-not-photographed.md)).
