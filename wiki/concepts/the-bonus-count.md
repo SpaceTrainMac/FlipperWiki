@@ -30,6 +30,8 @@ unit lamps and three Super Bonus lamps for the tens ([0023](../../raw/rules/0023
 100 an `ADVANCE BONUS` target pays is the switch's own award, whether or not that hit completes the
 bank; the 5 000 an inlane pays is the same. What is deferred is the bonus, and only that ([0028](../../raw/rules/0028-nothing-about-the-count-is-paid-as-it.md)).
 
+**At ×3 a full count is 585 000 a ball** ([0047](../../raw/rules/0047-what-survives-with-them-is-a-number-that.md)).
+
 **The bottom `DOUBLE` and `TRIPLE` multiply it and nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-triple-lamps-and.md)) — see
 [the three multipliers](the-multipliers.md).
 
