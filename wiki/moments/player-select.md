@@ -24,3 +24,6 @@ wrap-around ([0343](../../raw/rules/0343-the-count-clamps-at-both-ends.md)).
 
 **Start means start** — it is what brought you here from the light show and it is what begins the
 game, so there is no third meaning to learn and no separate *accept* control to find ([0344](../../raw/rules/0344-start-means-start.md)).
+
+**Double-tapping start gives a one-player game** — the common case needs no adjusting at all:
+press start to come in, press start again to play ([0345](../../raw/rules/0345-double-tapping-start-gives-one-player.md)).

@@ -436,5 +436,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0342 — Controls: all three buttons, each doing what its name says](rules/0342-player-select-controls.md) — left down, right up, start to commit
 - [0343 — The count starts at 1 and clamps at both ends](rules/0343-the-count-clamps-at-both-ends.md) — no wrap-around: down at 1 and up at 4 do nothing
 - [0344 — START means start](rules/0344-start-means-start.md) — no third meaning, and no separate accept control
+- [0345 — Double-tapping start gives a one-player game](rules/0345-double-tapping-start-gives-one-player.md) — the commonest case needs no adjustment at all
 
 ## Questions
