@@ -266,5 +266,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0183 — SPACE TRAIN, built 1987 by MAC of Madrid](rules/0183-space-train-built-1987-by-mac-madrid.md) — the apron and the relay board are where the machine names itself
 - [0184 — A MacPinBall System IV machine, sold under MULTIGAME](rules/0184-a-macpinball-system-iv-machine-sold-under-multigame.md) — one chassis for every title, which is why some switches and lamps do nothing
 - [0185 — Behaviours the flyer attributes to all MacPinBall machines](rules/0185-behaviours-the-flyer-attributes-to-all-macpinball-machines.md) — percentaging, 2 extra plays, Info-Speech and 1–4 players came with the chassis
+- [0186 — Source material](rules/0186-source-material.md) — eleven scans, and the four that carry every rule on the 1987 pages
 
 ## Questions
