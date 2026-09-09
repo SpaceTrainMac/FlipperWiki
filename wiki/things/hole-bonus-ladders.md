@@ -24,5 +24,7 @@ scored. A ball draining mid-window does not: the end-of-ball count banks whateve
 **A rung is worth 5 000 and the `30 000` marker its own 30 000**, both at that side's multiplier
 and both paid at redemption or at the end of the ball ([0034](../../raw/rules/0034-nothing-on-a-hole-ladder-pays-before-it.md)).
 
-TBC — what arms a marker without the five hits is the next rule.
+**A steady `30 000` and a blinking one mean different things.** The fifth hit sets six lamps
+blinking on a 30-second clock ([0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)); [the right captive ball](right-captive-ball.md) lights both
+markers steadily, with no clock, until that side reaches its own fifth hit or the ball ends ([0035](../../raw/rules/0035-the-right-captive-ball-lights-both-markers-with.md)).
 See [lit awards](../concepts/lit-awards.md).
