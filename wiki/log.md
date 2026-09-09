@@ -224,3 +224,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:11  ingest  0206  things/bonus-ladder, rules/0206
 2026-09-09T23:11  ingest  0207  concepts/where-the-sources-are-silent, rules/0207
 2026-09-09T23:11  ingest  0208  concepts/where-the-sources-are-silent, rules/0208
+2026-09-09T23:12  ingest  0209  concepts/where-the-sources-are-silent, concepts/the-hole-bonus, rules/0209

@@ -26,3 +26,9 @@ own instruction — *"make assumptions, you decide, it can be changed later on"*
 the cards and the photographs do not answer them and nobody who could is being asked ([0208](../../raw/rules/0208-these-are-assumptions-taken-on-the-owners-instruction.md)).
 **Each one is recorded with what it was decided *from*, because the reasoning is the part a future
 correction has to argue with**; overturning one is editing that record, not finding a bug ([0208](../../raw/rules/0208-these-are-assumptions-taken-on-the-owners-instruction.md)).
+
+## The four
+
+| | Decided | Because |
+|---|---|---|
+| **D1** | **one bonus step is 5 000, on both hole-bonus ladders** — the left one used to award 1 000 | the playfield prints `BONUS X 5000` down the main ladder, the right ladder's lamps are named *Bonus x 5000 rechts*, and the two sides are otherwise the same mechanism. **A machine paying 1 000 on one side and 5 000 on the other, for the same action and the same payoff, would be teaching a player to ignore half its own playfield** ([0209](../../raw/rules/0209-d1-one-bonus-step-is-5-000-on-both-ladders.md)) |

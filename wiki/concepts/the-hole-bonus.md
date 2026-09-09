@@ -8,6 +8,13 @@ body: game
 
 **Two ladders, one a side, each built by hitting that side's centre captive ball** ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)).
 
+**Both sides pay 5 000 a rung, and that they pay the *same* was a decision** — the left ladder
+awarded 1 000 until 2026-08-26 ([0209](../../raw/rules/0209-d1-one-bonus-step-is-5-000-on-both-ladders.md)). Nothing from 1987 sets the left one's value: the printing
+and the lamp names give 5 000 for the right, the left ladder's name carries no figure at all, and
+the two sides are the same mechanism down to the twin, the five rungs and the 30 000. **A machine
+paying 1 000 on one side and 5 000 on the other would be teaching you to ignore half its playfield**
+([0209](../../raw/rules/0209-d1-one-bonus-step-is-5-000-on-both-ladders.md)), which is [why it was decided rather than found](where-the-sources-are-silent.md).
+
 **The *1987* card calls the marker `30.000` and the photograph cannot quite prove it** — the
 figure's first digit is undecidable at that resolution, and three other sources agree on 3: the
 spreadsheet's lamp names, the printing on the upper bank, and what the engine pays ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)). It is
