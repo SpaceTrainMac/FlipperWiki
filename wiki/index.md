@@ -41,6 +41,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The right bunker](things/right-bunker.md) — the right saucer: where the right hole bonus is redeemed
 - [The DOUBLE and TRIPLE lamps](things/multiplier-lamps.md) — three pairs, one a collection
 - [The knocker](things/knocker.md) — three hits is Space Train Bonus
+- [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
 
 ## Moments
 
@@ -104,5 +105,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0045 — Neither pays a score](rules/0045-neither-pays-a-score-and-neither-needs-to.md) — the award is the multiplier itself
 - [0046 — What Space Train Bonus costs](rules/0046-space-train-bonus-costs-more-than-anything-else.md) — 236 scoring hits and two windows, across a game
 - [0047 — What survives with them is a number that gets large](rules/0047-what-survives-with-them-is-a-number-that.md) — a full ladder at ×3 is 585 000 a ball
+- [0048 — Three switches a side, and the playfield says what each pays](rules/0048-three-switches-a-side-and-the-playfield-prints.md) — `500`, `5000`, `SPECIAL`
 
 ## Questions

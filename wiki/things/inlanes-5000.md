@@ -10,4 +10,4 @@ body: game
 ([0022](../../raw/rules/0022-what-advances-it.md)). Five bonuses is 25 000 more at the end of the ball, which makes an inlane the biggest single
 step the ladder has.
 
-TBC — where they sit among the other side lanes is not a rule here yet.
+They are the middle of [three lanes a side](side-lanes.md) ([0048](../../raw/rules/0048-three-switches-a-side-and-the-playfield-prints.md)).
