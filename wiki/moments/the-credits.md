@@ -109,3 +109,7 @@ that runs faster does not cycle colours faster ([0422](../../raw/rules/0422-the-
 **All four displays are blanked** — a roll ended by the start button ends mid-quote, and **half a
 sentence standing there while the next screen comes up reads as a machine that has crashed**
 ([0423](../../raw/rules/0423-the-displays-are-blanked-on-the-way-out.md)).
+
+**All 48 playfield lamps go off — not the ones this state lit, which it could not name anyway**
+([0424](../../raw/rules/0424-all-48-lamps-go-off.md)). **A handful of lamps left burning is exactly what a playfield looks like with a game in
+progress**, and what comes next is [player select](player-select.md), where there is none ([0424](../../raw/rules/0424-all-48-lamps-go-off.md)).
