@@ -388,5 +388,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0296 — `TOPLANES_LIGHT_MAC`](rules/0296-cue-toplanes-light-mac.md) — a letter toggling, and never on the frame that completes the word
 - [0297 — `TOPLANES_SELECT_BONUS`](rules/0297-cue-toplanes-select-bonus.md) — the lane change — the only selection the machine offers
 - [0298 — `TOPLANES_SUPERBONUS`](rules/0298-cue-toplanes-superbonus.md) — M-A-C completing, and each 30 000 the outer lanes pay after it
+- [0299 — `TOPLANES_XTRABALL`](rules/0299-cue-toplanes-xtraball.md) — the upper extra ball being collected at the right captive ball
 
 ## Questions
