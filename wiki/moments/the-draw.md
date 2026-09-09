@@ -28,3 +28,10 @@ awarded nothing there is nothing to play ([0373](../../raw/rules/0373-two-ways-a
 **The ball it awards is an ordinary turn** — taken in player order like any other, with the
 playfield reset the way it is at the start of every turn and `BALL IN PLAY` counting down as usual.
 **Nothing about it is special once the machine has resumed** ([0374](../../raw/rules/0374-the-ball-the-draw-awards-is-an-ordinary-turn.md)).
+
+**It awards an extra ball rather than an extra play, and that was decided** ([0375](../../raw/rules/0375-the-draw-awards-an-extra-ball-not-an-extra-play.md)). The cabinet
+has hardware for both — [the `EXTRA PLAY` lamp and the `EXTRA PLAYS` digit](../things/extra-plays-eye.md)
+are a free *game* and a count of games owed — but [credits are out of scope](../moments/player-select.md)
+on a machine played at home, so an award of *extra play* has nowhere to go and a ball has ([0375](../../raw/rules/0375-the-draw-awards-an-extra-ball-not-an-extra-play.md)).
+**The `MATCH` lamp lights when the draw hits**, and the two playfield `EXTRA BALL` lamps are not
+touched ([0375](../../raw/rules/0375-the-draw-awards-an-extra-ball-not-an-extra-play.md)).
