@@ -18,3 +18,6 @@ are playing, 1 to 4** ([0341](../../raw/rules/0341-sits-between-the-intro-and-th
 | [start](../things/start-button.md) | commit; the state exits and the game begins |
 
 *(the table is player-select.md's, rendered for a player ([0342](../../raw/rules/0342-player-select-controls.md)))*
+
+**It starts at 1 and clamps at both ends** — down at 1 and up at 4 do nothing, and there is no
+wrap-around ([0343](../../raw/rules/0343-the-count-clamps-at-both-ends.md)).

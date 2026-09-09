@@ -434,5 +434,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0340 — An abandoned gesture is ignored rather than acted on](rules/0340-an-abandoned-gesture-is-ignored.md) — letting go costs nothing, and the tease stays up to be read
 - [0341 — Sits between the intro and the first ball](rules/0341-sits-between-the-intro-and-the-first-ball.md) — one job: how many are playing, 1 to 4
 - [0342 — Controls: all three buttons, each doing what its name says](rules/0342-player-select-controls.md) — left down, right up, start to commit
+- [0343 — The count starts at 1 and clamps at both ends](rules/0343-the-count-clamps-at-both-ends.md) — no wrap-around: down at 1 and up at 4 do nothing
 
 ## Questions
