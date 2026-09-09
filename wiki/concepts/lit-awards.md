@@ -6,6 +6,9 @@ body: game
 ---
 # Lit awards, and how they are collected
 
+**Steady means waiting, flashing means hurrying, and that is the whole of it** ([0020](../../raw/rules/0020-steady-means-waiting-flashing-means-hurrying.md)). Every
+duration on this page is configurable ([0020](../../raw/rules/0020-steady-means-waiting-flashing-means-hurrying.md)).
+
 **A lit lamp is an award waiting for you to go and get it.** *Lights* an award and *gives* an award
 are two different things on this machine: a lamp that is lit stays lit until the switch that
 collects it closes, or until the ball ends ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)).
