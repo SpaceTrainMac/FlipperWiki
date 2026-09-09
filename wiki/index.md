@@ -263,5 +263,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0179 — Every duration here is arithmetic, not evidence](rules/0179-nobody-has-seen-a-single-one-of-these.md) — nobody has watched these mechanics run
 - [0180 — The count keeps one pace](rules/0180-real-machines-speed-the-bonus-count-up-as.md) — other machines accelerate; this one waits to be watched
 - [0182 — The game, as the machine tells it](rules/0182-the-game-as-the-machine-tells-it.md) — the 1987 pages rest on a flyer and photographs, and on nothing else
+- [0183 — SPACE TRAIN, built 1987 by MAC of Madrid](rules/0183-space-train-built-1987-by-mac-madrid.md) — the apron and the relay board are where the machine names itself
 
 ## Questions
