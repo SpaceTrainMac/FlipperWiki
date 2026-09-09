@@ -87,5 +87,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0033 — A closed window forfeits the attempt; a drain does not](rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md) — run the clock out and lose it all; drain and it still counts
 - [0034 — Nothing on a hole ladder pays before it is redeemed](rules/0034-nothing-on-a-hole-ladder-pays-before-it.md) — 5 000 a rung, 30 000 the marker, at that side's multiplier
 - [0035 — The right captive ball lights both markers, with no timer](rules/0035-the-right-captive-ball-lights-both-markers-with.md) — one hit arms both `30 000`s, steadily, past the five hits
+- [0036 — What one side is worth, at most](rules/0036-a-side-can-hold-at-most-five-lit.md) — 55 000 at ×1, 165 000 at ×3, and never a build and a redemption together
 
 ## Questions
