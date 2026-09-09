@@ -71,3 +71,9 @@ so both things that can be asked for that are not a game are gestures on the fli
 | **the right flipper alone** | with its own tease | [the radio](the-radio.md) |
 
 *(the table is intro.md's, rendered for a player ([0336](../../raw/rules/0336-no-service-button-so-two-gestures.md)))*
+
+**Both are nine seconds on purpose** — two holds on the same buttons running to different lengths
+would be two things to learn, and one of them would be got wrong every time ([0337](../../raw/rules/0337-the-radio-gesture-is-the-same-nine-seconds.md)). The radio
+gesture exists because the alternative was waiting: the radio arrives by itself after a set idle,
+which is right for a cabinet nobody is standing at and useless to somebody standing at it who wants
+it on now ([0337](../../raw/rules/0337-the-radio-gesture-is-the-same-nine-seconds.md)).

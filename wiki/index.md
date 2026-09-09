@@ -427,5 +427,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0334 — The table is copied once when the scene opens](rules/0334-the-table-is-copied-once-when-the-scene-opens.md) — a game finishing mid-scroll cannot renumber what you are reading
 - [0335 — Two rates off one clock](rules/0335-two-rates-off-one-clock.md) — a 50 ms beat: the colour on every one, the line on every second
 - [0336 — There is no service button on this cabinet](rules/0336-no-service-button-so-two-gestures.md) — both flippers for the menu, the right one alone for the radio
+- [0337 — The radio gesture is the same nine seconds as the service one on purpose](rules/0337-the-radio-gesture-is-the-same-nine-seconds.md) — one duration for both, because two would be two things to learn
 
 ## Questions

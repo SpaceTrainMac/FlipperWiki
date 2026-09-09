@@ -357,3 +357,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:52  ingest  0334  moments/attract-mode, rules/0334
 2026-09-09T23:52  ingest  0335  moments/attract-mode, rules/0335
 2026-09-09T23:53  ingest  0336  moments/attract-mode, rules/0336
+2026-09-09T23:53  ingest  0337  moments/attract-mode, rules/0337
