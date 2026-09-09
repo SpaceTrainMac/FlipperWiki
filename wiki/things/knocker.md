@@ -25,3 +25,7 @@ finished ([0363](../../raw/rules/0363-the-lamp-and-the-knocker-fire-during-the-b
 table alone could not answer it: a table cannot move while a game is running, so **a second player
 passing the old top score would set the knocker off while they were still half a million behind the
 person standing next to them** ([0364](../../raw/rules/0364-whether-the-record-has-just-changed-hands.md)).
+
+**Once per player, per game** — somebody who loses the lead and takes it back has generated no
+second record, and the cabinet has already said their name; what is under the playfield is a
+solenoid heard three rooms away ([0365](../../raw/rules/0365-the-knocker-fires-once-per-player-per-game.md)).
