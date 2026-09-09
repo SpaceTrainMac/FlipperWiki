@@ -1,7 +1,7 @@
 ---
 title: The slingshots
 type: thing
-aliases: [the slingshots, SIDEBAR_LEFT_BOTTOM, SIDEBAR_RIGHT_BOTTOM]
+aliases: [the slingshots, SIDEBAR_LEFT_BOTTOM, SIDEBAR_RIGHT_BOTTOM, SIDEBAR_RIGHT_TOP]
 body: game
 ---
 # The slingshots
