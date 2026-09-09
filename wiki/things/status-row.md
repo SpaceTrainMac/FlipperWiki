@@ -1,7 +1,7 @@
 ---
 title: The status row
 type: thing
-aliases: [CREDITS, the two-digit field, extra balls in hand, the status row]
+aliases: [CREDITS, the two-digit field, extra balls in hand, the status row, FDLA_DISP1_EXTRA_PLAYS, FDLA_DISP1_BALL_IN_PLAY, FDLA_DISP2_CREDITS]
 body: game
 ---
 # The status row
@@ -44,5 +44,9 @@ and your turn ends on a drain with the field at zero ([0087](../../raw/rules/008
 **It is not the bonus count either.** The bonus count has no number anywhere on the machine, and
 this two-digit field is the one that might have carried it ([0027](../../raw/rules/0027-nothing-shows-the-count-as-a-number.md)).
 
-TBC — what else the status row shows, and what `CREDITS` means outside a game, are not rules here
-yet. See [what the machine keeps track of](../concepts/what-the-machine-tracks.md).
+**Outside a game it carries other things.** During [player select](../moments/player-select.md) the
+`EXTRA PLAYS` digit holds the number of players being chosen, which it is free to do because no ball
+is in play and nothing has been won ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)).
+
+TBC — what `CREDITS` means outside a game is still not a rule here. See
+[what the machine keeps track of](../concepts/what-the-machine-tracks.md).

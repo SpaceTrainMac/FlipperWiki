@@ -6,10 +6,10 @@ body: cabinet
 ---
 # The cabinet
 
-**The machine itself: a 1987 playfield with a Raspberry Pi where the relay logic used to be** —
-and the only body that can be left alone in a room and found still doing something. Everything this
-wiki says about the game is true here; what is different is that somebody owns it and can change
-things about it.
+**The machine itself: the cabinet MAC built in 1987** ([0183](../../raw/rules/0183-space-train-built-1987-by-mac-madrid.md)), **still carrying the System IV
+switch and lamp matrices it shipped with** ([0184](../../raw/rules/0184-a-macpinball-system-iv-machine-sold-under-multigame.md)). Everything this wiki says about the game is
+true here; what is different is that somebody owns it, and some of what it does is theirs to set
+([0244](../../raw/rules/0244-the-operators-choices-live-in-settings-json.md)).
 
 ## What can be changed at all
 

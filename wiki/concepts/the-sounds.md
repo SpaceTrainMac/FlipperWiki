@@ -51,7 +51,7 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 
 ## Which cue speaks, and when
 
-**Forty effects and three music cues, in the order the machine's own catalogue lists them.**
+**Forty effects and three music cues, in the order the machine's own catalogue lists them** ([0276](../../raw/rules/0276-43-cues-and-a-playlist.md)).
 
 ### A ball, and a game
 

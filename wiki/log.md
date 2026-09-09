@@ -447,3 +447,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-10T00:05  ingest  0424  moments/the-credits, rules/0424
 2026-09-10T00:05  ingest  0425  moments/the-credits, rules/0425
 2026-09-10T00:05  ingest  0426  moments/the-credits, rules/0426
+2026-09-10T00:09  lint    5 findings, 0 pages written; markers: 5; coils 0/9 have no rule and no page

@@ -1,7 +1,7 @@
 ---
 title: The MATCH display
 type: thing
-aliases: [MATCH, the MATCH display, the fifth display, the turn score display]
+aliases: [MATCH, the MATCH display, the fifth display, the turn score display, FDLA_DISP6_SCORE_MATCH]
 body: game
 ---
 # The MATCH display

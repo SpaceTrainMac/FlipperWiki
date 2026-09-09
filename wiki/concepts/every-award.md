@@ -7,7 +7,7 @@ body: game
 # Every award, in one table
 
 **The complete scoring reference.** Where a value is multiplied, the multiplier is that mechanism's
-own — see [the three multipliers](the-multipliers.md).
+own and no other's ([0041](../../raw/rules/0041-a-multiplier-multiplies-a-collection-and-nothing-else.md)) — see [the three multipliers](the-multipliers.md).
 
 | Award | Value | Paid |
 |---|---|---|

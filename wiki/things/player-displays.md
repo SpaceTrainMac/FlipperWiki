@@ -1,7 +1,7 @@
 ---
 title: The four player displays
 type: thing
-aliases: [my score, the score display, the player displays, the six-digit displays]
+aliases: [my score, the score display, the player displays, the six-digit displays, FDLA_DISP6_SCORE_PLR_1, FDLA_DISP6_SCORE_PLR_2, FDLA_DISP6_SCORE_PLR_3, FDLA_DISP6_SCORE_PLR_4]
 body: game
 ---
 # The four player displays
