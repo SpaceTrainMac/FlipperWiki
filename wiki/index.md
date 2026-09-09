@@ -277,5 +277,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0193 — These paths carry no switches, and they do not need any](rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md) — a ramp scores nothing, and the level is implied by whatever closed
 - [0194 — The card's upper lane and upper extra ball are element names](rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md) — *upper* is part of a name, not a place the ball has to be
 - [0195 — Upper playfield (FOTO04)](rules/0195-upper-playfield-foto04.md) — painted arrows instead of targets, two visible bumpers of three, and the numbered lane down the left edge
+- [0196 — Lower playfield (FOTO05)](rules/0196-lower-playfield-foto05.md) — what the lower playfield has printed on it, and the two places the print and the matrix disagree
 
 ## Questions

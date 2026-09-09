@@ -15,3 +15,6 @@ body: game
 | [the outlane](outlanes.md) | `SPECIAL` | **5 000** when `SPECIAL` is lit, and both lamps go out. Nothing when it is dark |
 
 *(the table is rule 0048's, rendered for a player)*
+
+**The three words are painted on the lanes themselves** — `SPECIAL`, `5000` and `500` on the
+outlanes and inlanes — so *1987* tells you what each pays before you ever hit one ([0196](../../raw/rules/0196-lower-playfield-foto05.md)).

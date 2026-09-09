@@ -9,6 +9,16 @@ body: game
 **The bonus count is a row of lamps down the bottom of the playfield and a number nowhere.** It runs
 0 to 39, it lasts one ball, and the only way to read it is to look at which lamps are lit ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
 
+**`BONUS X 5000` is painted vertically down the side of it, and that printing is where 5 000 comes
+from** — it is the only *1987* statement of what one bonus is worth, and every arithmetic on these
+pages rests on it ([0196](../../raw/rules/0196-lower-playfield-foto05.md)). **`SUPER BONUS`** is printed up the left with its three positions
+`10`, `20` and `30` ([0196](../../raw/rules/0196-lower-playfield-foto05.md)).
+
+TBC — the *1987* photograph shows the centre ladder with **positions `1`…`10`**, and the matrix has
+nine lamps ([0196](../../raw/rules/0196-lower-playfield-foto05.md)). Whether a tenth position is printed and never lit, or the `10` a reader sees is
+Super Bonus', only the cabinet can say; the arithmetic that gives 39 needs nine
+([0204](../../raw/rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md)).
+
 **The lamps are the count written in two digits, and you read them like a number** ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)):
 
 | Lamps | Stand for |
