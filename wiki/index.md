@@ -9,7 +9,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The special](concepts/special.md) — lit on both outlanes by completing M-A-C or the bank a third time; what it pays is not yet a rule here
 - [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's 20-second window, the bank's second completion, and its third outright
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
-- [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award
+- [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead
 
 ## Things
 
@@ -28,6 +28,8 @@ Every page, one line each, by category. Updated on every ingest.
 - [The right EXTRA BALL lamp](things/extra-ball-right.md) — lit by the bank's second completion, and not the same lamp as the upper one
 - [The outlanes](things/outlanes.md) — past the flippers, and where a lit `SPECIAL` is collected
 - [The two hole-bonus ladders](things/hole-bonus-ladders.md) — five rungs and a `30 000` lamp a side, each collected at its own bunker
+- [The X BONUS lamp](things/x-bon-lamp.md) — a 20-second window on the extra bonus, at the 40th and 50th bank completion
+- [The HOUSE BALL lamp](things/house-ball-lamp.md) — drain protection, 15 seconds, the shortest window on the machine
 
 ## Moments
 
@@ -62,5 +64,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0016 — The fourth target completes the bank](rules/0016-the-fourth-target-completes-the-bank.md) — 10 000, a rung, a stage; then build it again
 - [0017 — The card's x BONUS is the ladder, not a multiplier](rules/0017-the-cards-x-bonus-is-the-ladder-and.md) — the printing names the ladder; a completion lights one more lamp
 - [0018 — The lit awards wait to be collected](rules/0018-the-lit-awards-wait-to-be-collected-which.md) — which switch collects which lit lamp, and that the ball ending takes them all
+- [0019 — Four awards are lit on a timer instead](rules/0019-four-awards-are-lit-on-a-timer-instead.md) — 20 s, 20 s, 30 s, 15 s; a closed window pays nothing
 
 ## Questions
