@@ -9,8 +9,9 @@ body: game
 **The bonus count is a row of lamps down the bottom of the playfield and a number nowhere.** It runs
 0 to 39, it lasts one ball, and the only way to read it is to look at which lamps are lit ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
 
-**Hitting an `ADVANCE BONUS` target does not move it.** The count waits for the whole bank to be
-completed ([0015](../../raw/rules/0015-each-target-on-its-first-hit-pays-100.md)).
+**Completing [the `ADVANCE BONUS` bank](../concepts/advance-bonus-bank.md) is what steps it.** A
+single target hit does not ([0015](../../raw/rules/0015-each-target-on-its-first-hit-pays-100.md)); the fourth target completes the bank and the count advances one
+step, lighting the next rung ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
 
 **Every ball starts it empty.** The bonus count is one of the things a drain clears, unlike the
 multipliers and the M-A-C letters, which carry ([0013](../../raw/rules/0013-six-things-carry-from-one-ball-to-the.md)).

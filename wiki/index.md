@@ -6,9 +6,9 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again; lit letters carry from ball to ball
 - [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone; and why your score sits still while you play
-- [The special](concepts/special.md) — lit on both outlanes by completing M-A-C; what it pays is not yet a rule here
-- [The extra ball](concepts/extra-ball.md) — the ways to one; so far M-A-C's: `A` with the letters lit, then the right captive ball inside 20 seconds
-- [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets low on the playfield, and the only award that pays more each time you finish it
+- [The special](concepts/special.md) — lit on both outlanes by completing M-A-C or the bank a third time; what it pays is not yet a rule here
+- [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's 20-second window, the bank's second completion, and its third outright
+- [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
 
 ## Things
 
@@ -24,6 +24,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
 - [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: 100 and a lamp on each target's first hit, nothing on the second
+- [The right EXTRA BALL lamp](things/extra-ball-right.md) — lit by the bank's second completion, and not the same lamp as the upper one
 
 ## Moments
 
@@ -55,5 +56,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0013 — Six things carry from one ball to the next](rules/0013-six-things-carry-from-one-ball-to-the.md) — what a drain takes and what it leaves
 - [0014 — Four ADVANCE BONUS targets, the only three-stage award](rules/0014-four-advance-bonus-targets-on-the-lower-playfield.md) — the one thing that pays more the third time
 - [0015 — Each target pays 100 on its first hit and lights its own lamp](rules/0015-each-target-on-its-first-hit-pays-100.md) — hit each once; the count waits for all four
+- [0016 — The fourth target completes the bank](rules/0016-the-fourth-target-completes-the-bank.md) — 10 000, a rung, a stage; then build it again
 
 ## Questions
