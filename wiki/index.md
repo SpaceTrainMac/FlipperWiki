@@ -23,7 +23,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The four player displays](things/player-displays.md) — one six-digit display a player; it holds your score and does not move while you play
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
-- [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: four targets with a lamp each
+- [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: 100 and a lamp on each target's first hit, nothing on the second
 
 ## Moments
 
@@ -54,5 +54,6 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [0013 — Six things carry from one ball to the next](rules/0013-six-things-carry-from-one-ball-to-the.md) — what a drain takes and what it leaves
 - [0014 — Four ADVANCE BONUS targets, the only three-stage award](rules/0014-four-advance-bonus-targets-on-the-lower-playfield.md) — the one thing that pays more the third time
+- [0015 — Each target pays 100 on its first hit and lights its own lamp](rules/0015-each-target-on-its-first-hit-pays-100.md) — hit each once; the count waits for all four
 
 ## Questions
