@@ -58,3 +58,11 @@ door; the takeaways say so.
 - Do not append a second paragraph about a thing a page already has a paragraph about.
 - Do not add front-matter fields. Four, and `aliases` is the only list.
 - Do not ingest two rules in one commit.
+- **Do not link to a page a later rule will create.** The link check refuses it, and rightly: a
+  wiki that points forward is a wiki with dead links in it between two commits. Name the thing in
+  words and let the rule that creates the page come back and point at it — and say so in both
+  commits, so the second one knows what it owes the first.
+- **Never re-run an ingest script from the top after a failure.** Reset the tree, then run *only*
+  the rules that did not commit. A script that opens by creating a page will silently overwrite the
+  paragraphs the rules after it added — which cost rule 0380 its paragraph on 2026-09-10, in a
+  commit that looked clean.
