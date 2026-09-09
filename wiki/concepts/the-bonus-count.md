@@ -56,6 +56,10 @@ arithmetic off the printing on the playfield ([0205](../../raw/rules/0205-with-b
 **The bottom `DOUBLE` and `TRIPLE` multiply it and nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-triple-lamps-and.md)) — see
 [the three multipliers](the-multipliers.md).
 
+**Arriving at 39 has a sound of its own**, raised instead of the ordinary advance — so the
+machine says *full* rather than saying *moved* one last time
+([what the machine says](the-sounds.md)) ([0289](../../raw/rules/0289-cue-main-bonus-one-light.md)).
+
 **Past the 39th the ladder stops moving, and the bank does not.** A completion still pays its flat
 10 000 and still advances the combination while a stage is left, but the count goes no higher — so
 the end-of-ball bonus never exceeds 195 000 before multipliers ([0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).

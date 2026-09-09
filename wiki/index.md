@@ -378,5 +378,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0286 — `NEXT_PLAYER`](rules/0286-cue-next-player.md) — the turn passing to a different player, so a solo game never hears it
 - [0287 — `NO_MORE_EXTRABALL`](rules/0287-cue-no-more-extraball.md) — the drain that finds the extra-ball field empty, ending the turn
 - [0288 — `MAIN_BONUS_NEXT_STEP`](rules/0288-cue-main-bonus-next-step.md) — the bonus count advancing, once per advance however large
+- [0289 — `MAIN_BONUS_ONE_LIGHT`](rules/0289-cue-main-bonus-one-light.md) — the count reaching 39, said instead of one more advance
 
 ## Questions
