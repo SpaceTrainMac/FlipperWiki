@@ -184,3 +184,9 @@ down* is exactly what this catalogue exists to stop ([0315](../../raw/rules/0315
 **Adding a cue later is cheap and adding one now is not free** ([0316](../../raw/rules/0316-adding-a-cue-later-is-cheap.md)) — a cue is an enum, a key
 in four manifests, a score in three generators and a hand-found file for the fourth. **A cue with
 no entry is silent rather than fatal**, so one can be added whenever a rule earns it ([0316](../../raw/rules/0316-adding-a-cue-later-is-cheap.md)).
+
+### Music, and the jukebox
+
+**Three music cues, and they name *when* they play rather than what they are** ([0317](../../raw/rules/0317-music-cues-name-when-they-play.md)). **Raising
+one cuts the song the jukebox is playing**, and when it ends the jukebox starts the *next* entry in
+the playlist rather than resuming what was interrupted ([0317](../../raw/rules/0317-music-cues-name-when-they-play.md)).

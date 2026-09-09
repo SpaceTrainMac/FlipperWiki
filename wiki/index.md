@@ -406,5 +406,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0314 — What settled the five](rules/0314-what-settled-the-five-and-which-reading-lost.md) — five cues, ten readings, and the five that lost are kept
 - [0315 — Four events with no cue](rules/0315-four-events-with-no-cue.md) — three deliberate silences and one admitted gap: a hole-bonus window running out
 - [0316 — Adding one later is cheap and adding one now is not free](rules/0316-adding-a-cue-later-is-cheap.md) — what a new cue costs, and why the silences are not permanent
+- [0317 — These name *when* they play](rules/0317-music-cues-name-when-they-play.md) — a theme cuts the jukebox, and the interrupted song does not come back
 
 ## Questions
