@@ -79,5 +79,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0027 — Nothing shows the count as a number](rules/0027-nothing-shows-the-count-as-a-number.md) — the bonus is on the playfield in lamps, not on a display
 - [0028 — Nothing about the count is paid as it climbs](rules/0028-nothing-about-the-count-is-paid-as-it.md) — the shots still pay at once; only the bonus waits
 - [0029 — Three captive balls: two twins in the centre, one upper right](rules/0029-three-captive-balls-two-twins-in-the-centre.md) — which captive ball does what
+- [0030 — None of the three ever joins the game](rules/0030-none-of-the-three-ever-joins-the-game.md) — a captive ball is scored by force, not by touch
 
 ## Questions

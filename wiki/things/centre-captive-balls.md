@@ -10,5 +10,10 @@ body: game
 twin the left [hole-bonus ladder](hole-bonus-ladders.md), the right twin the right ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)). The 1987
 card calls them the *center balls* ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)).
 
+**None of the three ever joins the game, and hitting one is a shot rather than a touch.** Each sits
+in a short guiding ramp closed off from the playfield; you score it by striking its underside hard
+enough to drive it up that ramp into the contact at the top. So the captive balls cost the two-ball
+store nothing, and eighteen twin hits are eighteen shots aimed and landed ([0030](../../raw/rules/0030-none-of-the-three-ever-joins-the-game.md)).
+
 **The third captive ball, up to their right, drives neither** — that one is
 [the right captive ball](right-captive-ball.md), the card's *right ball* ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)).
