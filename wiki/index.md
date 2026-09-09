@@ -353,5 +353,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0262 — Stepping stations is how you audition them](rules/0262-stepping-stations-is-how-you-audition-them.md) — the name on the glass names the entry to fix, and every press is saved at once
 - [0263 — The volume goes up in fives, one step a second, and wraps](rules/0263-the-volume-goes-up-in-fives-and-wraps.md) — one button reaches every level, and a lap is twenty-one seconds
 - [0264 — You will not hear it until you let go](rules/0264-you-will-not-hear-it-until-you-let-go.md) — silent while it climbs, because a wrapping ladder would blast the room
+- [0265 — A tap is under a second, a volume is over it](rules/0265-a-tap-is-under-a-second-a-volume-is-over-it.md) — the number appearing is the line between leaving and setting
 
 ## Questions

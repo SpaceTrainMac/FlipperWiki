@@ -39,3 +39,8 @@ overshooting only costs another lap; twenty-one seconds is the whole way round (
 **You will not hear it until you let go, and that is deliberate** — a ladder that wrapped while it
 was audible would blast the room at 100 and then cut to silence ([0264](../../raw/rules/0264-you-will-not-hear-it-until-you-let-go.md)). The number on the glass
 is what you are choosing; releasing the flipper is what sets it ([0264](../../raw/rules/0264-you-will-not-hear-it-until-you-let-go.md)).
+
+**A tap is under a second and a volume is over it** ([0265](../../raw/rules/0265-a-tap-is-under-a-second-a-volume-is-over-it.md)). Let go before the number appears and
+you are back in attract mode; let go after it and you have set a volume and stayed. **Reaching for
+both flippers while the number is up abandons it** — the volume stays where it was and the service
+menu opens as usual ([0265](../../raw/rules/0265-a-tap-is-under-a-second-a-volume-is-over-it.md)).
