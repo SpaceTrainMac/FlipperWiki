@@ -96,5 +96,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0039 — The bottom pair is the X BONUS window's doing](rules/0039-the-bottom-pair-is-x_bons-doing.md) — 500 000 and the multiplier, or neither
 - [0040 — Multipliers do not compose](rules/0040-multipliers-do-not-compose-and-they-do-not.md) — three ×3s are not ×27, and at most ×3 anywhere
 - [0041 — A multiplier multiplies a collection and nothing else](rules/0041-a-multiplier-multiplies-a-collection-and-nothing-else.md) — what pays at once stays flat, the 500 000 included
+- [0042 — All three survive the ball and the game](rules/0042-all-three-survive-the-ball-and-the-game.md) — earned once, yours for the game, and not spent by collecting
 
 ## Questions

@@ -10,6 +10,9 @@ body: game
 upper `EXTRA BALL` window goes with the rest of the playfield; `M`, `A` and `C` carry to the next
 ball, and three lit letters start it complete and paying ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)).
 
+**The multipliers are not spent by the count they multiply** — they stay lit into the next ball
+([0042](../../raw/rules/0042-all-three-survive-the-ball-and-the-game.md)).
+
 **Six things survive a ball and everything else starts again**: the three multipliers, how many
 times you have completed the bank, the two redemption counts, the M-A-C letters, the extra balls you
 have won, and the turn score. The next ball begins with the bonus count at zero, both hole ladders

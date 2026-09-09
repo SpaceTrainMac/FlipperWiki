@@ -21,6 +21,11 @@ nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-tr
 [a flat 500 000](the-extra-bonus.md): the 40th completion opens a 20-second window, the right
 captive ball inside it pays and lights `X2_BOT`, and the 50th does the same for `X3_BOT` ([0039](../../raw/rules/0039-the-bottom-pair-is-x_bons-doing.md)).
 
+**All three survive the ball and the game.** Reach ×2 on the bottom pair on ball one and every
+bonus you count for the rest of the game is doubled; the same is true of each hole ladder. The lamps
+stay lit across turns and are not walked out when a collection spends the count they multiplied
+([0042](../../raw/rules/0042-all-three-survive-the-ball-and-the-game.md)).
+
 **A multiplier multiplies a collection, and nothing that is paid as you go.** The 100 a target
 pays, the 10 000 a bank completion pays, the 30 000 an M-A-C lane pays and the 5 000 an inlane pays
 are all flat — and so is the extra bonus's own 500 000, which is a collection in its own right
