@@ -13,6 +13,8 @@ body: game
 *lights x BONUS* means one more lamp on the ladder — the first rung from empty, and the next one on
 every completion after ([0017](../../raw/rules/0017-the-cards-x-bonus-is-the-ladder-and.md)).
 
+**Every lamp on it is worth 5 000, paid when the ball ends and not before** ([0021](../../raw/rules/0021-one-number-from-0-to-39-worth-5.md)).
+
 **Completing [the `ADVANCE BONUS` bank](../concepts/advance-bonus-bank.md) is what steps it.** A
 single target hit does not ([0015](../../raw/rules/0015-each-target-on-its-first-hit-pays-100.md)); the fourth target completes the bank and the count advances one
 step, lighting the next rung ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
