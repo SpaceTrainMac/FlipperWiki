@@ -23,6 +23,16 @@ pieces as the playfield empties ([0063](../../raw/rules/0063-one-step-per-lit-la
 
 *(the table is rule 0063's, rendered for a player)*
 
+**How long it takes, at 200 ms a step** ([0066](../../raw/rules/0066-the-arithmetic-at-200-ms-a-step.md)):
+
+| The ball | Steps | Time | Paid |
+|---|---|--:|--:|
+| a quiet one — five bonuses, one hole ladder at rung 3 | 8 | 1.6 s | 40 000 |
+| a good one — 25 bonuses at ×2, one side at five rungs and armed | 13 | 2.6 s | 305 000 |
+| everything lit — 39 bonuses at ×3, both sides full and armed, both at ×3 | 24 | 4.8 s | **915 000** |
+
+*(the table is rule 0066's, rendered for a player)*
+
 **Nothing scores while the count runs.** The playfield is empty by definition — the ball that
 earned all of it is in the trough — but the machine still holds every other award, so a number being
 counted out cannot be added to behind the walk ([0065](../../raw/rules/0065-nothing-scores-while-the-count-runs.md)).
