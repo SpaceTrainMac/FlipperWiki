@@ -61,3 +61,7 @@ wraps, so `EXIT` is one press back from `VOLUME` rather than sixteen forward ([0
 | `EXIT` | either flipper: save and go back to attract mode |
 
 *(the table is cabinet.md §2's, rendered for a player ([0256](../../raw/rules/0256-seventeen-entries-in-one-ring.md)))*
+
+**The last six entries leave the menu rather than change something**, which is why a flipper on one
+of them ends the visit — and **everything you adjusted on the way past is saved first**, so a visit
+that ends in the coil test does not lose the volume you set ([0257](../../raw/rules/0257-the-last-six-entries-leave-the-menu.md)).

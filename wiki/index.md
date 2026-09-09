@@ -344,5 +344,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0254 — There is a second gesture on the same two buttons](rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md) — the right flipper alone starts the radio, and a slipped hand starts nothing
 - [0255 — The value buttons repeat while held](rules/0255-the-value-buttons-repeat-while-held.md) — start steps entries, the flippers step values, and `MATCH` says `SETUP`
 - [0256 — Seventeen entries in one ring](rules/0256-seventeen-entries-in-one-ring.md) — the whole menu, and why `EXIT` is one press backwards
+- [0257 — The last six entries leave the menu](rules/0257-the-last-six-entries-leave-the-menu.md) — a flipper there ends the visit, and everything set on the way is saved first
 
 ## Questions
