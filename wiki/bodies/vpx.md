@@ -106,3 +106,8 @@ boundaries appear ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-
 **It writes nothing this table owns** — its high score file and its odometer are scratch paths in
 the system temp directory, and it clears its own table before each run ([0227](../../raw/rules/0227-the-autoplayer-writes-nothing-this-table-owns.md)). So a machine that
 has played a thousand games by itself still shows your high scores ([0227](../../raw/rules/0227-the-autoplayer-writes-nothing-this-table-owns.md)).
+
+## What it does that a cabinet would not
+
+**Most of what follows is faithful rather than broken, and it is written down so that nobody
+reports it as a defect** ([0228](../../raw/rules/0228-most-of-this-is-faithful-rather-than-broken.md)).
