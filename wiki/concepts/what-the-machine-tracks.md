@@ -26,6 +26,12 @@ playfield, and nothing one player lights ever pays for another ([0011](../../raw
 
 *(the table is rule 0011's, rendered for a player)*
 
+**Six of them carry from one ball to the next, and everything else is cleared**: the three
+multipliers, the bank-completions count that feeds the bottom one, the two redemption counts that
+feed the other two, [the three M-A-C letters](m-a-c.md), the count of extra balls won, and the turn
+score. A ball begins with the bonus count at zero, both hole ladders empty, no marker armed and no
+award lit ([0013](../../raw/rules/0013-six-things-carry-from-one-ball-to-the.md)).
+
 **The score moves only between turns, and it is the most visible mechanic on the machine.**
 Everything you earn during a ball goes into the turn score on the `MATCH` display; your own display
 holds the total you had when the turn began and does not move until the ball is over, and

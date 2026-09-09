@@ -18,14 +18,14 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
 
-- [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, and a number nowhere
+- [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, a number nowhere, and empty again every ball
 - [The four player displays](things/player-displays.md) — one six-digit display a player; it holds your score and does not move while you play
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
 
 ## Moments
 
-- [The end of a ball](moments/end-of-ball.md) — the lit awards are cleared, the upper `EXTRA BALL` window with them; the M-A-C letters carry
+- [The end of a ball](moments/end-of-ball.md) — six things survive a drain: the multipliers, the bank count, the redemption counts, the letters, the extra balls won and the turn score
 
 - [The end of a turn](moments/end-of-turn.md) — what you made this turn goes onto your own score
 
@@ -49,5 +49,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [0011 — Ten quantities, and everything below is one of them changing](rules/0011-ten-quantities-and-everything-below-is-one-of.md) — what the machine counts, and that it counts it per player
 
 - [0012 — The score moves only between turns](rules/0012-the-score-moves-only-between-turns-and-that.md) — your display sits still on purpose; watch `MATCH`
+
+- [0013 — Six things carry from one ball to the next](rules/0013-six-things-carry-from-one-ball-to-the.md) — what a drain takes and what it leaves
 
 ## Questions
