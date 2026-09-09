@@ -15,3 +15,6 @@ so voiding it is not one of the behaviours available ([0090](../../raw/rules/009
 
 **What you lose to a tilt is every output the cabinet has just switched off**, which is punishment
 enough ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)).
+
+**On [the VPX table](../bodies/vpx.md) the tilt key is VPX's own** — it is not a switch on this
+machine and the game is not told, which is the same arrangement the cabinet has ([0219](../../raw/rules/0219-the-other-keys-vpx-offers-reach-nothing.md)).

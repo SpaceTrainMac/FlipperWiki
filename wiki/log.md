@@ -235,3 +235,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:17  ingest  0216  concepts/drain-protection, things/house-ball-lamp, bodies/vpx, rules/0216
 2026-09-09T23:17  ingest  0217  bodies/vpx, concepts/drain-protection, rules/0217
 2026-09-09T23:18  ingest  0218  things/flipper-buttons, bodies/vpx, rules/0218
+2026-09-09T23:18  ingest  0219  bodies/vpx, concepts/tilt, rules/0219

@@ -46,3 +46,7 @@ engine and pinned by a test, so if you ever see it again it is a defect worth re
 bad** ([0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)). The ball, the flipper and the key are all inside VPX's own loop, exactly as the
 cabinet's buttons and coils are wired to each other rather than through the game — the engine's
 only say is the same relay ([0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)).
+
+**Every other key VPX offers reaches nothing** ([0219](../../raw/rules/0219-the-other-keys-vpx-offers-reach-nothing.md)). There is no coin switch anywhere in this
+machine's matrix, so the credit keys close nothing at all; and the tilt key is VPX's own, which is
+[not the same thing as a tilt on the cabinet](../concepts/tilt.md) ([0219](../../raw/rules/0219-the-other-keys-vpx-offers-reach-nothing.md)).
