@@ -359,5 +359,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0267 — A sound set is one folder](rules/0267-a-sound-set-is-one-folder.md) — one voice a folder, and choosing between them is a setting
 - [0268 — There are four of them, and they are four different machines](rules/0268-four-sets-and-they-are-four-different-machines.md) — an arcade, a blockbuster, an orchestra or a narrator, over the same forty cues
 - [0269 — `8-bit` is the set to install first](rules/0269-8-bit-is-the-set-to-install-first.md) — complete, cheap to build, and made rather than recorded
+- [0270 — `ALL SETS` pools the four into one cabinet](rules/0270-all-sets-pools-the-four-into-one-cabinet.md) — every cue drawn from every set, at four different masterings
 
 ## Questions
