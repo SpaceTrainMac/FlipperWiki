@@ -13,6 +13,9 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**The `MATCH` display is blanked once the transfer has finished**, so the next player never walks
+up to the last player's number ([0075](../../raw/rules/0075-the-match-display-is-blanked-once-the-transfer.md)).
+
 **The whole ceremony between turns is 2.0 to 6.8 seconds** — [the count](end-of-ball.md) and then
 the transfer. Twelve turns of a four-player game at the quiet figure is about **43 seconds** of
 ceremony in one game ([0074](../../raw/rules/0074-the-whole-end-of-turn-ceremony-is-between-20-s.md)).
