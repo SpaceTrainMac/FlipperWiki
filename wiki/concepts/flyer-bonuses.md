@@ -16,6 +16,13 @@ They are not a tenth mechanic — they are what the machine does when the three 
 
 *(the table is rule 0043's, rendered for a player)*
 
+**Space Train Bonus costs more than anything else on this machine.** ×3 on the bottom is fifty bank
+completions — two hundred target hits at the very least — plus a shot at the right captive ball
+inside a 20-second window; ×3 on a hole side is three redemptions, eighteen hits on that twin; and
+it wants all three. **236 scoring hits and two windowed collections**, spread across a game rather
+than a ball, and it is the only thing on the machine that asks a player to finish all three ladders
+([0046](../../raw/rules/0046-space-train-bonus-costs-more-than-anything-else.md)).
+
 **Neither pays a score, and neither needs to.** The award is the multiplier just earned — every
 bonus counted for the rest of the game is worth three times what it was — and a number on top would
 be paying twice for one achievement ([0045](../../raw/rules/0045-neither-pays-a-score-and-neither-needs-to.md)).

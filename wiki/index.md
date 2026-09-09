@@ -102,5 +102,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0043 — The flyer's two bonuses are the multipliers at ×3](rules/0043-space-ship-bonus-and-space-train-bonus-are.md) — not a tenth mechanic; the announcement of the other three
 - [0044 — Announced once, and never again](rules/0044-both-are-announced-once-at-the-moment-the.md) — the moment the last lamp lights, and no repeat
 - [0045 — Neither pays a score](rules/0045-neither-pays-a-score-and-neither-needs-to.md) — the award is the multiplier itself
+- [0046 — What Space Train Bonus costs](rules/0046-space-train-bonus-costs-more-than-anything-else.md) — 236 scoring hits and two windows, across a game
 
 ## Questions

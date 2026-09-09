@@ -21,6 +21,9 @@ nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-tr
 [a flat 500 000](the-extra-bonus.md): the 40th completion opens a 20-second window, the right
 captive ball inside it pays and lights `X2_BOT`, and the 50th does the same for `X3_BOT` ([0039](../../raw/rules/0039-the-bottom-pair-is-x_bons-doing.md)).
 
+**Finishing all three is the machine's largest ask** — 236 scoring hits and two windowed
+collections, which is [Space Train Bonus](flyer-bonuses.md) ([0046](../../raw/rules/0046-space-train-bonus-costs-more-than-anything-else.md)).
+
 **All three survive the ball and the game.** Reach ×2 on the bottom pair on ball one and every
 bonus you count for the rest of the game is doubled; the same is true of each hole ladder. The lamps
 stay lit across turns and are not walked out when a collection spends the count they multiplied
