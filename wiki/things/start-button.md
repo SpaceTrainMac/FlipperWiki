@@ -10,4 +10,8 @@ body: game
 ([0082](../../raw/rules/0082-the-ball-comes-back-without-a-press-and.md)). The first ball of a game is served by the press that ends player select
 ([0082](../../raw/rules/0082-the-ball-comes-back-without-a-press-and.md)).
 
-**On [the VPX table](../bodies/vpx.md) it is `1` or `S`** ([0214](../../raw/rules/0214-the-keys-are-vpxs-own-defaults.md)).
+**On [the VPX table](../bodies/vpx.md) it is `1` or `S`** ([0214](../../raw/rules/0214-the-keys-are-vpxs-own-defaults.md)). **Pressing it during a
+game does nothing there either, and the table's own documentation was wrong about that until
+2026-09-05** — it had a saved ball waiting for a press, which is what the engine did until that
+afternoon ([0215](../../raw/rules/0215-the-start-button-belongs-to-player-select.md)). Every ball after the first comes out by itself, and nothing you can press asks
+for one ([0215](../../raw/rules/0215-the-start-button-belongs-to-player-select.md)).

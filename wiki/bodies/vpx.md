@@ -25,3 +25,9 @@ you reach it.
 **They are VPX's own defaults and this table changes none of them** ([0214](../../raw/rules/0214-the-keys-are-vpxs-own-defaults.md)). `1` is VPX's Start
 key and follows anything you rebind it to; `S` is the letter itself, and that one is this table's
 ([0214](../../raw/rules/0214-the-keys-are-vpxs-own-defaults.md)).
+
+**The start key is player select's, and a game in progress does not read it** ([0215](../../raw/rules/0215-the-start-button-belongs-to-player-select.md)). The press
+that ends player select is what serves the first ball; after that the machine serves every ball
+itself. **This is worth saying twice because the table's own manual said the opposite until
+2026-09-05**, describing a saved ball that waited for a press — behaviour the engine had until that
+afternoon and does not have now ([0215](../../raw/rules/0215-the-start-button-belongs-to-player-select.md)).

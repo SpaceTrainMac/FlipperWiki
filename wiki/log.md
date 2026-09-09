@@ -231,3 +231,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:14  ingest  0213  concepts/where-the-sources-are-silent, rules/0213
 2026-09-09T23:15  cut     §4-§5 of using-the-table.md  0214-0233
 2026-09-09T23:16  ingest  0214  bodies/vpx, things/flipper-buttons, things/plunger, things/start-button, rules/0214
+2026-09-09T23:16  ingest  0215  things/start-button, bodies/vpx, rules/0215
