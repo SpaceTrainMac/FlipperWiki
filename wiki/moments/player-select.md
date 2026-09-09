@@ -59,3 +59,6 @@ lit beside it ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-on
 player already looks during a game ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)). That digit is free here for the same reason
 `BALL IN PLAY` is: no ball is in play, and no extra balls have been won in a game that has not
 started ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)).
+
+**All four lamps are written on every change rather than just the one that moved** — stepping down
+from three to two has to put a lamp *out*, and a draw that only ever lights things cannot ([0352](../../raw/rules/0352-all-four-lamps-are-written-on-every-change.md)).
