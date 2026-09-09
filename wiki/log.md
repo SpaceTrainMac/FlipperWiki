@@ -347,3 +347,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:50  cut     the nine game-flow state documents  0325-0426
 2026-09-09T23:51  ingest  0325  moments/attract-mode, rules/0325
 2026-09-09T23:51  ingest  0326  moments/attract-mode, rules/0326
+2026-09-09T23:52  ingest  0327  moments/attract-mode, rules/0327

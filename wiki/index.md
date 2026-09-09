@@ -417,5 +417,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0324 — A short playlist is a choice and an empty one is legitimate](rules/0324-a-short-playlist-is-a-choice.md) — no songs is a set that chose none, and only a missing file is a fault
 - [0325 — Attract mode: a light show that runs until someone presses start](rules/0325-attract-mode-runs-until-someone-presses-start.md) — where this cabinet spends nearly all of its life
 - [0326 — One state, two scenes](rules/0326-one-state-two-scenes.md) — the ladder and the high score table, shown in turn
+- [0327 — What moves is a horizontal line, and it crosses the whole cabinet](rules/0327-a-horizontal-line-crossing-the-whole-cabinet.md) — one line rising from the drain to the top of the backglass, and back
 
 ## Questions
