@@ -8,6 +8,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone; and why your score sits still while you play
 - [The special](concepts/special.md) — lit on both outlanes by completing M-A-C; what it pays is not yet a rule here
 - [The extra ball](concepts/extra-ball.md) — the ways to one; so far M-A-C's: `A` with the letters lit, then the right captive ball inside 20 seconds
+- [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets low on the playfield, and the only award that pays more each time you finish it
 
 ## Things
 
@@ -22,6 +23,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The four player displays](things/player-displays.md) — one six-digit display a player; it holds your score and does not move while you play
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
+- [The four ADVANCE BONUS targets](things/advance-bonus-targets.md) — the bank: four targets with a lamp each
 
 ## Moments
 
@@ -51,5 +53,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0012 — The score moves only between turns](rules/0012-the-score-moves-only-between-turns-and-that.md) — your display sits still on purpose; watch `MATCH`
 
 - [0013 — Six things carry from one ball to the next](rules/0013-six-things-carry-from-one-ball-to-the.md) — what a drain takes and what it leaves
+- [0014 — Four ADVANCE BONUS targets, the only three-stage award](rules/0014-four-advance-bonus-targets-on-the-lower-playfield.md) — the one thing that pays more the third time
 
 ## Questions
