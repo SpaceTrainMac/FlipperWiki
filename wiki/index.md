@@ -404,5 +404,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0312 — `SPACE_SHIP_BONUS`](rules/0312-cue-space-ship-bonus.md) — X3_BOT lighting — announced once, and never while it merely stays lit
 - [0313 — `SPACE_TRAIN_BONUS`](rules/0313-cue-space-train-bonus.md) — the third ×3 lamp lighting — a train, a banner and three knocks
 - [0314 — What settled the five](rules/0314-what-settled-the-five-and-which-reading-lost.md) — five cues, ten readings, and the five that lost are kept
+- [0315 — Four events with no cue](rules/0315-four-events-with-no-cue.md) — three deliberate silences and one admitted gap: a hole-bonus window running out
 
 ## Questions

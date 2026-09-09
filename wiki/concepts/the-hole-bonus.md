@@ -77,5 +77,9 @@ See
 [the two centre captive balls](../things/centre-captive-balls.md) and
 [the two hole-bonus ladders](../things/hole-bonus-ladders.md).
 
+**A window running out makes no sound at all, and that is a known gap** — losing five rungs and a
+marker to a timer is the harshest thing in these rules, and the machine says nothing about it
+([what the machine says](the-sounds.md)) ([0315](../../raw/rules/0315-four-events-with-no-cue.md)).
+
 **A redemption is counted out rather than paid in one go** — six items, 200 ms apart, one sound
 each: the five rungs and the marker ([what the machine says](the-sounds.md)) ([0305](../../raw/rules/0305-cue-holebonus-left-bonus30k-a-f.md)).
