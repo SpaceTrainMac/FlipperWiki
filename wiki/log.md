@@ -255,3 +255,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:27  ingest  0234  bodies/simulator, rules/0234
 2026-09-09T23:27  ingest  0235  bodies/simulator, things/start-button, rules/0235
 2026-09-09T23:27  ingest  0236  bodies/simulator, rules/0236
+2026-09-09T23:28  ingest  0237  bodies/simulator, rules/0237

@@ -38,3 +38,15 @@ the high score table, and between the two the engine serves every ball itself ([
 whose switch you closed — that would be a ball moving, and there is no ball. So **a bunker that
 looks stuck is a bunker you left closed**, and a ball you staged with `1` stays staged until you
 open it: every drain is answered with a serve for as long as it is ([0236](../../raw/rules/0236-nothing-ever-moves-a-switch-by-itself.md)).
+
+## Reading the picture
+
+**Three kinds of control, drawn differently because they behave differently** ([0237](../../raw/rules/0237-the-three-kinds-of-control.md)):
+
+| Kind | How many | Behaves like |
+|---|---|---|
+| **momentary** | most | one click closes and reopens — a target, a rollover, a slingshot |
+| **toggle**, with a blue ring | five | [both bunkers](../things/left-bunker.md) and the three ball-rest sensors: click to close, click again to open, because a ball can hold them shut indefinitely |
+| **cabinet button**, drawn apart | three | [start](../things/start-button.md) and [the two flipper buttons](../things/flipper-buttons.md) — **held, not tapped**: they close on the way down and open on the way up |
+
+*(the table is using-the-simulator.md §2's, rendered for a player ([0237](../../raw/rules/0237-the-three-kinds-of-control.md)))*
