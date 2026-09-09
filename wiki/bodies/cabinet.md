@@ -22,3 +22,9 @@ is what makes this wiki's numbers safe to quote on any body ([0244](../../raw/ru
 **Changing one no longer means an ssh session: the cabinet serves a page that edits the file, shows
 what the engine made of it and restarts** ([0245](../../raw/rules/0245-editing-it-no-longer-means-an-ssh-session.md)). **The address is on the glass**, in the service
 menu's `NETWORK` page — so the way to find the machine on a network is to ask the machine ([0245](../../raw/rules/0245-editing-it-no-longer-means-an-ssh-session.md)).
+
+**Seven of them can be set at the machine itself, with no keyboard and no ssh** — the volume, which
+sound set plays, how a cue with several files picks one, how the jukebox picks, which radio station,
+how long the machine waits before starting the radio, and how long the closing titles run ([0246](../../raw/rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md)).
+The service menu writes them straight back ([0246](../../raw/rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md)). **The radio has a second way in: the right
+flipper steps stations while the radio is playing**, and every press is saved at once ([0246](../../raw/rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md)).
