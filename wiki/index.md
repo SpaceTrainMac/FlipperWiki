@@ -10,7 +10,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's 20-second window, the bank's second completion, and its third outright
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
 - [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead; steady means waiting, flashing means hurrying
-- [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, and not a point of it paid before the ball ends
+- [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, paid only when the ball ends; a bank completion adds one and a `5000` inlane five
 
 ## Things
 
@@ -31,6 +31,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The two hole-bonus ladders](things/hole-bonus-ladders.md) — five rungs and a `30 000` lamp a side, each collected at its own bunker
 - [The X BONUS lamp](things/x-bon-lamp.md) — a 20-second window on the extra bonus, at the 40th and 50th bank completion
 - [The HOUSE BALL lamp](things/house-ball-lamp.md) — drain protection, 15 seconds, the shortest window on the machine
+- [The 5000 inlanes](things/inlanes-5000.md) — 5 000 at once and five bonuses, the biggest single step the ladder has
 
 ## Moments
 
@@ -68,5 +69,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0019 — Four awards are lit on a timer instead](rules/0019-four-awards-are-lit-on-a-timer-instead.md) — 20 s, 20 s, 30 s, 15 s; a closed window pays nothing
 - [0020 — Steady means waiting, flashing means hurrying](rules/0020-steady-means-waiting-flashing-means-hurrying.md) — one glance tells you whether you have time
 - [0021 — The bonus count: 0 to 39, 5 000 each, paid when the ball ends](rules/0021-one-number-from-0-to-39-worth-5.md) — what a good ball is worth, and when you get it
+- [0022 — What advances the bonus count](rules/0022-what-advances-it.md) — a bank completion is one, a `5000` inlane is five
 
 ## Questions

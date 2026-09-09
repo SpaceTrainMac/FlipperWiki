@@ -13,4 +13,14 @@ what a good ball is worth ([0021](../../raw/rules/0021-one-number-from-0-to-39-w
 **A full count is 195 000** — 39 at 5 000 — before any multiplier. You see it on
 [the bonus ladder](../things/bonus-ladder.md), and nowhere as a number.
 
-TBC — what advances it, and what the lamps mean, are the next rules.
+**Two things advance it, and nothing else does** ([0022](../../raw/rules/0022-what-advances-it.md)):
+
+| What you hit | Bonuses |
+|---|---|
+| [completing the four-target bank](advance-bonus-bank.md), all four lit | **+1** |
+| either [`5000` inlane](../things/inlanes-5000.md) | **+5** |
+
+**So an inlane is worth five bank completions to the count** — 25 000 at the end of the ball against
+a completion's 5 000, and that is on top of the 5 000 the inlane pays at once ([0022](../../raw/rules/0022-what-advances-it.md)).
+
+TBC — what the lamps mean is the next rule.

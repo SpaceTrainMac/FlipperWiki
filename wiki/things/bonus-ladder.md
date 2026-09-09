@@ -17,7 +17,8 @@ every completion after ([0017](../../raw/rules/0017-the-cards-x-bonus-is-the-lad
 
 **Completing [the `ADVANCE BONUS` bank](../concepts/advance-bonus-bank.md) is what steps it.** A
 single target hit does not ([0015](../../raw/rules/0015-each-target-on-its-first-hit-pays-100.md)); the fourth target completes the bank and the count advances one
-step, lighting the next rung ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
+step, lighting the next rung ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)). **Either [`5000` inlane](inlanes-5000.md) steps it five at
+once** ([0022](../../raw/rules/0022-what-advances-it.md)).
 
 **Every ball starts it empty.** The bonus count is one of the things a drain clears, unlike the
 multipliers and the M-A-C letters, which carry ([0013](../../raw/rules/0013-six-things-carry-from-one-ball-to-the.md)).
