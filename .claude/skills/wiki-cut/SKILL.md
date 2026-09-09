@@ -45,9 +45,28 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
   card is quoted whole under the sentence saying how it was transcribed, and one bullet of it
   lifted out on its own would no longer be a card. A blockquote that opens a subsection is that
   subsection's rule, titled by its heading — the pricing card is one.
+- **A bullet list whose items each open with a bold claim is one rule per bullet.** *Reading the
+  picture* in using-the-simulator.md §2 is four of them — a lamp is a level, a coil is a moment, a
+  digit is seven segments, sound is off unless the settings say so — and each answers a different
+  question at the glass. This is the opposite of the apron card, which is quoted whole: that is one
+  printed object and these are four independent explanations that happen to share a list.
+- **A table that nothing above it introduces belongs to the paragraph below it**, when that
+  paragraph is what reads the table. The service menu's three buttons are tabulated and then
+  explained; attaching the table upwards would have put it inside a rule about the radio gesture.
 - **A heading, a mermaid or code fence, and a sentence that only points at another section are not
   rules, and they do not attach to anything.** Skip them and say so — a heading especially, because
   attaching one to the rule above it would put the next subsection's title inside it.
+
+## What to leave out of a section about a file
+
+**A section describing one of the machine's own files is cut on what shows at the glass, and the
+file's contents are not cut at all.** [CLAUDE.md](../../../CLAUDE.md#what-is-never-here) settles
+it: what `settings.json` *means* is a rule, and what is in it is not. So cabinet.md §1's generated
+table of twenty keys, its worked example and its two-files-in-the-tree paragraph are skipped, while
+*hold the left flipper while the radio is playing and the volume climbs* is cut — the first is a
+file and the second is a gesture. **Say in the commit what was left out and by which test**, and
+count the lines, so that the next reader can tell a decision from an oversight. §2, by contrast, is
+cut whole: a service menu is nothing but things a person does and things the glass says back.
 
 ## Doing it
 
