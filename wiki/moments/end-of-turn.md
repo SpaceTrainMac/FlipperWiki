@@ -13,6 +13,10 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**The count is per ball and the transfer is per turn**, which is what makes an extra ball behave
+the way you expect: the ball that just ended is counted out, the playfield is cleared, a fresh ball
+is served, and everything earned across all of it moves to your display once, at the end ([0092](../../raw/rules/0092-the-count-is-per-ball-and-the.md)).
+
 **The `MATCH` display is blanked once the transfer has finished**, so the next player never walks
 up to the last player's number ([0075](../../raw/rules/0075-the-match-display-is-blanked-once-the-transfer.md)).
 

@@ -139,5 +139,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0073 — Nothing is announced during a ball](rules/0073-nothing-is-announced-during-a-ball.md) — the announcement lands between turns, never in play
 - [0074 — What the ceremonies cost, in seconds](rules/0074-the-whole-end-of-turn-ceremony-is-between-20-s.md) — 2.0 to 6.8 s a turn, about 43 s a four-player game
 - [0075 — The MATCH display is blanked between turns](rules/0075-the-match-display-is-blanked-once-the-transfer.md) — you never walk up to the last player's number
+- [0092 — The count is per ball, the transfer is per turn](rules/0092-the-count-is-per-ball-and-the.md) — why an extra ball behaves the way you expect
 
 ## Questions

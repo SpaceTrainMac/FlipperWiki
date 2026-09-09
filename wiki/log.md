@@ -86,3 +86,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:12  ingest  0073  moments/end-of-turn, rules/0073
 2026-09-09T22:12  ingest  0074  moments/end-of-turn, rules/0074
 2026-09-09T22:12  ingest  0075  moments/end-of-turn, things/match-display, rules/0075
+2026-09-09T22:12  ingest  0092  moments/end-of-turn, moments/end-of-ball, rules/0092
