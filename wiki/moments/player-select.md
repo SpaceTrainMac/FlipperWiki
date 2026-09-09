@@ -21,3 +21,6 @@ are playing, 1 to 4** ([0341](../../raw/rules/0341-sits-between-the-intro-and-th
 
 **It starts at 1 and clamps at both ends** — down at 1 and up at 4 do nothing, and there is no
 wrap-around ([0343](../../raw/rules/0343-the-count-clamps-at-both-ends.md)).
+
+**Start means start** — it is what brought you here from the light show and it is what begins the
+game, so there is no third meaning to learn and no separate *accept* control to find ([0344](../../raw/rules/0344-start-means-start.md)).
