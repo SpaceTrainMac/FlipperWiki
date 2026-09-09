@@ -24,6 +24,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Every award, in one table](concepts/every-award.md) — the complete scoring reference, one row an award
 - [What the machine says, and when](concepts/the-sounds.md) — forty cues, one for every rule that says *with its own sound cue*
 - [What nobody has watched](concepts/what-nobody-has-watched.md) — every duration on these pages is arithmetic, and this is the page an evening at the glass is for
+- [The two levels, and the four ways between them](concepts/the-two-levels.md) — the flyer's names for the elevator holes, the ramp, the return track and the raised tunnel
 
 ## Things
 
@@ -270,5 +271,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0187 — The photographs are 800 × 600](rules/0187-the-photographs-are-800-x-600-at-the-edge-of-legibility.md) — the card is at the edge of legible, and a marginal pixel is flagged rather than decided
 - [0188 — Advertised feature set](rules/0188-advertised-feature-set.md) — the flyer's eleven promises, each against the page that says what became of it
 - [0189 — Space Train Bonus and Space Ship Bonus are advertised by name](rules/0189-space-train-bonus-and-space-ship-bonus-are-advertised-by-name.md) — named in 1987, explained nowhere, and answered by this cabinet rather than by a source
+- [0190 — Playfield geography](rules/0190-playfield-geography.md) — FLYER02 names the four routes between the storeys, and nothing else ever did
 
 ## Questions
