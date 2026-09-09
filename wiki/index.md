@@ -488,5 +488,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0391 — Same three buttons doing the same three jobs](rules/0391-the-same-three-buttons-doing-the-same-jobs.md) — one interaction model across player select, the menu and name entry
 - [0392 — Each character opens where the previous one was confirmed](rules/0392-each-character-opens-where-the-last-was-confirmed.md) — so `AAA` is three presses of start and no stepping
 - [0393 — The first character of every name opens on A](rules/0393-the-first-character-opens-on-a.md) — one step from the space, two from the rub-out
+- [0394 — A name is ended by walking to the space](rules/0394-a-name-is-ended-by-walking-to-the-space.md) — walk to the space, then one press each — no *done* button to find
 
 ## Questions

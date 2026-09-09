@@ -68,3 +68,6 @@ of start with no stepping at all ([0392](../../raw/rules/0392-each-character-ope
 
 **The first character of every name opens on `A`** — one step from the space and two from the
 rub-out ([0393](../../raw/rules/0393-the-first-character-opens-on-a.md)).
+
+**A name is ended by walking to the space** — after which every remaining character is one press
+of start. **There is no fourth button, so there is no *done* gesture to discover** ([0394](../../raw/rules/0394-a-name-is-ended-by-walking-to-the-space.md)).
