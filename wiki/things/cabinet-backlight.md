@@ -10,6 +10,10 @@ body: game
 drives all three to 15 — full on every channel reads as white — for the same 300 ms the bumper's own
 lamp is lit, and then the backlight goes back to whatever it was showing ([0053](../../raw/rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md)).
 
+**Each formula tops out at exactly 15, the channel's own maximum, at that ladder's own maximum.** A
+bonus count of 39 is nine units plus three Super Bonus lamps — 9 + 2 × 3 = 15; five rungs at
+`TRIPLE` is 5 + 5 + 5 = 15 ([0111](../../raw/rules/0111-each-formula-tops-out-at-exactly-15-the.md)).
+
 **Four flashes — two short, two long — is [a thunderstrike](../concepts/the-thunderstrike.md)**:
 all three bumpers inside one second ([0054](../../raw/rules/0054-landing-all-three-bumpers-within-one-second-of.md)).
 
