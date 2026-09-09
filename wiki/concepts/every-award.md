@@ -27,3 +27,4 @@ own — see [the three multipliers](the-multipliers.md).
 | a side's 5th hit, then its own bunker or the same twin inside 30 s | that side's five rungs + **30 000**, × its multiplier | at once (windowed) |
 | an armed 30 000 with no window running | **30 000** × that side's multiplier | that side's bunker, or the end of the ball |
 | the 1st bank completion | one ladder lamp — the card's *x BONUS* | — |
+| the 2nd bank completion | the right `EXTRA BALL` lit | — |
