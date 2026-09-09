@@ -394,5 +394,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0302 — `HOLEBONUS_LEFT_NORMAL_HIT`](rules/0302-cue-holebonus-left-normal-hit.md) — any of the five rungs of a left build, paying nothing yet
 - [0303 — `HOLEBONUS_LEFT_DOUBLE`](rules/0303-cue-holebonus-left-double.md) — the second left redemption, which doubles that side for the game
 - [0304 — `HOLEBONUS_LEFT_TRIPLE`](rules/0304-cue-holebonus-left-triple.md) — the third left redemption — ×3, and one of Space Train Bonus's three lamps
+- [0305 — `HOLEBONUS_LEFT_BONUS30K_A`](rules/0305-cue-holebonus-left-bonus30k-a-f.md) — the six items of a left redemption, one cue each, 200 ms apart
 
 ## Questions

@@ -76,3 +76,6 @@ lost to an expired window ([0034](../../raw/rules/0034-nothing-on-a-hole-ladder-
 See
 [the two centre captive balls](../things/centre-captive-balls.md) and
 [the two hole-bonus ladders](../things/hole-bonus-ladders.md).
+
+**A redemption is counted out rather than paid in one go** — six items, 200 ms apart, one sound
+each: the five rungs and the marker ([what the machine says](the-sounds.md)) ([0305](../../raw/rules/0305-cue-holebonus-left-bonus30k-a-f.md)).
