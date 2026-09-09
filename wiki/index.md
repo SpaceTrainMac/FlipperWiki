@@ -79,6 +79,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The radio](moments/the-radio.md) — what the cabinet does when nobody is there: a station across the score displays, and every button doing one thing
 - [Attract mode](moments/attract-mode.md) — the light show a cabinet spends its life in: a line crossing the whole machine, the high score table, and the two gestures
 - [Player select](moments/player-select.md) — one number between the light show and the first ball, and everything the glass does to ask for it
+- [Game over](moments/game-over.md) — one lamp, who lights it and who puts it out
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -461,5 +462,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0367 — Tilt works in hardware, bypassing the game entirely](rules/0367-tilt-works-in-hardware-bypassing-the-game.md) — the cabinet's own reflex, which is why it works when the computer is not
 - [0368 — The TILT indicator is TBC](rules/0368-the-tilt-indicator-is-tbc.md) — the plate is addressable and nothing knows when to light it
 - [0369 — Bonus forfeit: real machines void it and this one does not](rules/0369-tilt-and-bonus-forfeit.md) — the question game.md raises, and the answer gameplay.md already gave
+- [0370 — `GAME OVER` names the end of a game](rules/0370-game-over-names-the-end-of-a-game.md) — one state decides it and every later one inherits it
 
 ## Questions
