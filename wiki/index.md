@@ -393,5 +393,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0301 — The card's third captive ball drives no ladder](rules/0301-the-third-captive-ball-has-no-cue-of-its-own.md) — the busiest switch on the machine has no sound of its own
 - [0302 — `HOLEBONUS_LEFT_NORMAL_HIT`](rules/0302-cue-holebonus-left-normal-hit.md) — any of the five rungs of a left build, paying nothing yet
 - [0303 — `HOLEBONUS_LEFT_DOUBLE`](rules/0303-cue-holebonus-left-double.md) — the second left redemption, which doubles that side for the game
+- [0304 — `HOLEBONUS_LEFT_TRIPLE`](rules/0304-cue-holebonus-left-triple.md) — the third left redemption — ×3, and one of Space Train Bonus's three lamps
 
 ## Questions
