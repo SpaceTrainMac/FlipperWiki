@@ -22,3 +22,8 @@ there is ([0190](../../raw/rules/0190-playfield-geography.md)).)*
 **The two elevator holes are the two saucers you already know** — [the left bunker](../things/left-bunker.md)
 and [the right](../things/right-bunker.md) — which is why a shot into one of them is followed by
 the ball reappearing at the top ([0188](../../raw/rules/0188-advertised-feature-set.md)).
+
+**Three ways up and two ways down, and they are not the same routes** ([0191](../../raw/rules/0191-the-two-level-loop-up-by-hole-or-ramp-down-by-track-or-tunnel.md)): the ball climbs by
+either elevator hole or by the right-hand ramp, and it comes back by the right-hand return track or
+the raised tunnel down the left edge. So a shot that puts the ball upstairs does not decide where it
+comes back — which side it returns on is the upper playfield's business, not yours.
