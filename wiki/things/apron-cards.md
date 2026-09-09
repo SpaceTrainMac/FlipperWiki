@@ -54,6 +54,12 @@ lamps these two lines light are named *Hole Bonus 30000* on the machine's own sp
 `30000` for collecting one since before anybody looked at the card ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)). **Treat 30 000 as
 settled unless the cabinet contradicts it** ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)).
 
+**The card's *center balls* and *right ball* are the machine's three captive balls, split 2 + 1
+exactly as the switch matrix splits them**: `BALLWITHBALL_LEFT_TWIN` and `BALLWITHBALL_RIGHT_TWIN`
+are [the twins](centre-captive-balls.md) the card calls *center balls*, and `BALLWITHBALL_RIGHT_TOP`
+is [the *right ball*](right-captive-ball.md) ([0200](../../raw/rules/0200-the-three-captive-balls-split-2-1.md)). Four of the nine lines are about those three
+balls, which is a fair measure of how much of this game is played at them ([0198](../../raw/rules/0198-rule-card-verbatim.md)).
+
 **One line of the card is not what this machine does.** The card gives the **upper** `EXTRA BALL`
 to the bank's *first* completion; on this cabinet that lamp belongs to
 [M-A-C's `A`](../concepts/m-a-c.md) and the first completion lights a rung and nothing else

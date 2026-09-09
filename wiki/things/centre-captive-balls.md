@@ -6,6 +6,9 @@ body: game
 ---
 # The two centre captive balls
 
+**The *1987* card calls them the *center balls*, and it means exactly these two**:
+`BALLWITHBALL_LEFT_TWIN` and `BALLWITHBALL_RIGHT_TWIN`, one a side ([0200](../../raw/rules/0200-the-three-captive-balls-split-2-1.md)).
+
 **Two captive balls side by side in the centre, and each one drives a ladder of its own** — the left
 twin the left [hole-bonus ladder](hole-bonus-ladders.md), the right twin the right ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)). The 1987
 card calls them the *center balls* ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)).

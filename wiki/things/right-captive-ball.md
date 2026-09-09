@@ -1,10 +1,14 @@
 ---
 title: The right captive ball
 type: thing
-aliases: [BALLWITHBALL_RIGHT_TOP, the right captive ball]
+aliases: [BALLWITHBALL_RIGHT_TOP, the right captive ball, right ball, RIGHT BALL]
 body: game
 ---
 # The right captive ball
+
+**The *1987* card calls it the *right ball*, and it is `BALLWITHBALL_RIGHT_TOP`** — the odd one of
+the three, and the only captive ball that is not one of [the twins](centre-captive-balls.md)
+([0200](../../raw/rules/0200-the-three-captive-balls-split-2-1.md)).
 
 **The third captive ball, up to the right of the two centre twins, and it drives no ladder of its
 own** — the 1987 card's *right ball*, where the twins are its *center balls* ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)).
