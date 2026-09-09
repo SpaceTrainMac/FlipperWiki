@@ -23,3 +23,4 @@ own — see [the three multipliers](the-multipliers.md).
 | an outlane with `SPECIAL` lit | **5 000** | at once |
 | the right bunker, either ladder past rung 2 | an **extra ball**, once a ball | at once |
 | one bonus | **5 000** × bottom multiplier | end of the ball |
+| one hole-bonus rung, lit at the end of the ball | **5 000** × that side's multiplier | end of the ball |

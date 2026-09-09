@@ -237,5 +237,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0156 — an outlane with `SPECIAL` lit](rules/0156-an-outlane-with-special-lit.md) — **5 000**
 - [0157 — the right bunker, either ladder past rung 2](rules/0157-the-right-bunker-either-ladder-past.md) — an **extra ball**, once a ball
 - [0158 — one bonus](rules/0158-one-bonus.md) — **5 000** × bottom multiplier
+- [0159 — one hole-bonus rung, lit at the end of the ball](rules/0159-one-hole-bonus-rung-lit-at-the.md) — **5 000** × that side's multiplier
 
 ## Questions
