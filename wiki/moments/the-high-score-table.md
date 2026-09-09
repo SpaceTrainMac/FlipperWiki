@@ -27,7 +27,7 @@ just typed come off the glass** — both of which are fine here, because the gam
 |---|---|
 | entered | after every game, including one nobody qualified in |
 | shows | the table as it now stands, scrolled worst place first, twice |
-| left | to the closing titles |
+| left | to [the closing titles](the-credits.md) |
 
 *(the table is show-highscore.md's, rendered for a player ([0381](../../raw/rules/0381-the-same-machine-and-the-same-scene.md)))*
 

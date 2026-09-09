@@ -82,6 +82,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Game over](moments/game-over.md) — one lamp, who lights it and who puts it out
 - [The high score table](moments/the-high-score-table.md) — the attract scene run a second time, to the four people who have just played
 - [Name entry](moments/name-entry.md) — who qualifies, and typing six characters with three buttons
+- [The closing titles](moments/the-credits.md) — a minute of names, quotes dealt from a deck, and three waves of colour
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -501,5 +502,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0404 — The announcement during a ball is not this state's](rules/0404-the-announcement-during-a-ball-is-not-this-states.md) — the mid-ball knock belongs to the game, not to the state that asks for a name
 - [0405 — GAME OVER is not this state's](rules/0405-game-over-is-not-this-states.md) — inherited from the state that ran the game, not lit here
 - [0406 — The end-of-game draw is not here](rules/0406-the-draw-is-not-here.md) — over and blanked before this opens, which is why `MATCH` is free
+- [0407 — The last thing a game shows](rules/0407-the-last-thing-a-game-shows.md) — a minute of names, and start begins the next game
 
 ## Questions
