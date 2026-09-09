@@ -49,3 +49,7 @@ moving up, which is what makes it read as one list travelling rather than nine u
 and **ending on first place leaves the score to beat as the last thing on the glass** ([0333](../../raw/rules/0333-the-window-slides-from-worst-to-best.md)).
 Each entry sits across one row of two displays, the name on the left and the score on the right,
 with `SCORES` on [`MATCH`](../things/match-display.md) throughout ([0333](../../raw/rules/0333-the-window-slides-from-worst-to-best.md)).
+
+**The table is copied once when the scene opens**, so a game finishing mid-scroll cannot renumber
+the list under whoever is reading it — and a table with fewer than two entries makes no window at
+all ([0334](../../raw/rules/0334-the-table-is-copied-once-when-the-scene-opens.md)).
