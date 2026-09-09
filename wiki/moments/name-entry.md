@@ -14,3 +14,11 @@ knows what qualifying means**, rather than the question being asked in two place
 a week has ten rows that are hard to beat, and a decision that has decided *no* has nothing to say
 ([0384](../../raw/rules/0384-it-is-a-decision-point-not-a-screen.md)). **The state after it is a minute of closing titles, and that is where a game's ending
 belongs** ([0384](../../raw/rules/0384-it-is-a-decision-point-not-a-screen.md)).
+
+## Who qualifies
+
+**The test is a merge, and it is answered once, on the way in** ([0385](../../raw/rules/0385-the-merge-is-the-test.md)). The table as it stands,
+plus the game's scores in player order, sorted and trimmed to ten — **a player qualifies if and
+only if their row survives that, and their place is the row it is standing in** ([0385](../../raw/rules/0385-the-merge-is-the-test.md)). It is
+deliberately the same arithmetic that writes the table afterwards, so the place on the glass and
+the table on disk are one calculation rather than two that have to agree ([0385](../../raw/rules/0385-the-merge-is-the-test.md)).
