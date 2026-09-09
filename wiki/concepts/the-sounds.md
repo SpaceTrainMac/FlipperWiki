@@ -112,3 +112,7 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 Each side is [a five-hit build and a timed redemption](../concepts/the-hole-bonus.md), and a
 redemption is six things to count out on either side — but the left only got its six lettered cues
 on 2026-09-04, where the right had them before ([0300](../../raw/rules/0300-the-two-sides-are-not-symmetric.md)).
+
+**[The third captive ball](../things/right-captive-ball.md) has no cue of its own** ([0301](../../raw/rules/0301-the-third-captive-ball-has-no-cue-of-its-own.md)). It
+drives no ladder — it arms both markers, lights the right `EXTRA BALL`, takes the upper one and
+takes the extra bonus — so what it raises is **the cue of whatever it just collected** ([0301](../../raw/rules/0301-the-third-captive-ball-has-no-cue-of-its-own.md)).
