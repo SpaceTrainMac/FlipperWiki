@@ -187,5 +187,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0109 — What every playfield lamp means](rules/0109-every-one-of-the-48-and-what-a.md) — the map of the playfield in nine rows
 - [0110 — The backlight is the two bonus ladders in colour](rules/0110-not-a-playfield-lamp.md) — red the bonus count, green and blue the hole bonuses
 - [0111 — Each formula tops out at exactly 15](rules/0111-each-formula-tops-out-at-exactly-15-the.md) — full brightness on a channel is a full ladder
+- [0112 — Every channel reaches every value from 0 to 15](rules/0112-every-channel-reaches-every-value-from-0-to.md) — no step of the brightness is wasted
 
 ## Questions
