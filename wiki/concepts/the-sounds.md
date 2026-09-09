@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED]
 body: game
 ---
 # What the machine says, and when
@@ -63,3 +63,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `BALL_IN_GAME` | the served ball reaches the playfield — [`OUTFIRE`](../things/outfire.md) closes ([0282](../../raw/rules/0282-cue-ball-in-game.md)) |
 
 | `BALL_LOST` | **a drain that is not protected** — and in [multiball](../concepts/multiball.md) it fires for a ball lost while the turn continues ([0283](../../raw/rules/0283-cue-ball-lost.md)) |
+
+| `HOUSE_BALL_SAVED` | **a drain inside [the 15-second window](../concepts/drain-protection.md)** — instead of `BALL_LOST`, once a turn ([0284](../../raw/rules/0284-cue-house-ball-saved.md)) |

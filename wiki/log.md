@@ -303,3 +303,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:40  ingest  0281  concepts/the-sounds, rules/0281
 2026-09-09T23:40  ingest  0282  concepts/the-sounds, rules/0282
 2026-09-09T23:40  ingest  0283  concepts/the-sounds, rules/0283
+2026-09-09T23:40  ingest  0284  concepts/the-sounds, rules/0284

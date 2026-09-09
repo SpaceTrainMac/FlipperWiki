@@ -29,6 +29,10 @@ frustrating the player ([0084](../../raw/rules/0084-it-covers-an-outlane-as-read
 back under the ejector, so the serve is triggered by the store reading *available* rather than by the
 drain that asked for it ([0083](../../raw/rules/0083-what-the-machine-waits-for-instead-is-a.md)).
 
+**It has a sound of its own, and it replaces the sound of losing a ball.** `HOUSE_BALL_SAVED`
+fires where `BALL_LOST` would have, so the machine says which of the two happened before you have
+read a single lamp ([what the machine says](the-sounds.md)) ([0284](../../raw/rules/0284-cue-house-ball-saved.md), [0283](../../raw/rules/0283-cue-ball-lost.md)).
+
 **It is spent the first time it saves a drain**, and does not re-arm until your next turn ([0081](../../raw/rules/0081-drain-protection-covers-the-first-15-seconds-configurable.md)).
 
 **On [the VPX table](../bodies/vpx.md) the wait is about 400 ms**, which is how long the trough
