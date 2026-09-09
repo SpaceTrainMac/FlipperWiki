@@ -47,3 +47,8 @@ the game does, and blanking them here would put the machine dark at the one mome
 standing in front of it ([0348](../../raw/rules/0348-the-playfield-lamps-are-not-touched.md)).
 
 **Then it draws its own two things: the count, and the word** ([0349](../../raw/rules/0349-then-it-draws-its-own-two-things.md)).
+
+**`PLAYER` on [the fifth display](../things/match-display.md)** — the six-digit group in the
+bottom-right corner, which is free here because the turn score that owns it during a game does not
+exist yet ([0350](../../raw/rules/0350-player-on-the-fifth-display.md)). It says what the corner of the glass is counting, and it goes out again with
+the count on the way out ([0350](../../raw/rules/0350-player-on-the-fifth-display.md)).
