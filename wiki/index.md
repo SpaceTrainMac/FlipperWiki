@@ -44,6 +44,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
 - [The slingshots](things/slingshots.md) — they kick, and they score nothing
 - [The three pop bumpers](things/pop-bumpers.md) — 100 each, no multiplier, no progression: the machine's floor
+- [The cabinet backlight](things/cabinet-backlight.md) — a white flash is a bumper or a sling; the rest of the time it is showing the ladders in colour
 
 ## Moments
 
@@ -112,5 +113,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0050 — Collecting SPECIAL costs the ball](rules/0050-collecting-special-costs-the-ball.md) — the paying shot is the draining shot, unless `HOUSE BALL` is flashing
 - [0051 — The slingshots score nothing](rules/0051-the-two-slingshots-kick-and-score-nothing.md) — they only move the ball
 - [0052 — Each pop bumper pays 100](rules/0052-each-of-the-three-pop-bumpers-pays-100.md) — nothing builds up there
+- [0053 — Bumpers and slingshots flash the backlight white](rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md) — the flash is not an award
 
 ## Questions
