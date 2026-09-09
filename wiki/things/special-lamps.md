@@ -11,6 +11,8 @@ once ([0005](../../raw/rules/0005-completing-it.md)) — and lights again on the
 last one drained, because the letters carry and the completion re-runs ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)). **The third
 completion of [the `ADVANCE BONUS` bank](../concepts/advance-bonus-bank.md) lights them too** ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
 
+**They are named *Special 5000*, and that is what one pays** — points, not a credit ([0049](../../raw/rules/0049-special-pays-points-rather-than-a-credit.md)).
+
 **A lit `SPECIAL` waits for an outlane.** It stays lit until [either outlane](outlanes.md) collects
 it, or until the ball ends ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)). TBC — what a lit `SPECIAL` pays, and how it is collected, is
 not yet a rule here. The mechanic that lights it is [M-A-C](../concepts/m-a-c.md); the award is

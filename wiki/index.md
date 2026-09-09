@@ -6,7 +6,7 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again; lit letters carry from ball to ball
 - [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone; and why your score sits still while you play
-- [The special](concepts/special.md) — lit on both outlanes by completing M-A-C or the bank a third time; what it pays is not yet a rule here
+- [The special](concepts/special.md) — 5 000 points at either outlane, lit by completing M-A-C or the bank a third time
 - [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's 20-second window, the bank's second completion, and its third outright
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
 - [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead; steady means waiting, flashing means hurrying
@@ -106,5 +106,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0046 — What Space Train Bonus costs](rules/0046-space-train-bonus-costs-more-than-anything-else.md) — 236 scoring hits and two windows, across a game
 - [0047 — What survives with them is a number that gets large](rules/0047-what-survives-with-them-is-a-number-that.md) — a full ladder at ×3 is 585 000 a ball
 - [0048 — Three switches a side, and the playfield says what each pays](rules/0048-three-switches-a-side-and-the-playfield-prints.md) — `500`, `5000`, `SPECIAL`
+- [0049 — SPECIAL pays points rather than a credit](rules/0049-special-pays-points-rather-than-a-credit.md) — 5 000 points; no free game on a machine played at home
 
 ## Questions
