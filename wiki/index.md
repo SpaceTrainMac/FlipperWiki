@@ -524,5 +524,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0425 — The backlight goes to white, not to black](rules/0425-the-backlight-goes-to-white.md) — a frozen colour reads as an accident and dark as switched off
 - [0426 — The credits roll has no music of its own](rules/0426-the-credits-roll-has-no-music-of-its-own.md) — the theme exists, nothing starts it, and the roll inherits what was playing
 - [0427 — Addresses 232 to 240](rules/0427-the-nine-coils.md) — nine coils, and the board de-energises each by itself
+- [0428 — There is no Coil8](rules/0428-there-is-no-coil8.md) — the schematic skips it, so the third bumper is `FCA_9_`
 
 ## Questions

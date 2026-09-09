@@ -450,3 +450,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-10T00:09  lint    5 findings, 0 pages written; markers: 5; coils 0/9 have no rule and no page
 2026-09-10T00:11  cut     §6-§8 of hardware.md, the coils  0427-0432
 2026-09-10T00:11  ingest  0427  things/the-coils, rules/0427
+2026-09-10T00:11  ingest  0428  things/the-coils, rules/0428

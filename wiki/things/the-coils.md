@@ -20,3 +20,6 @@ body: game
 
 **Nothing has to switch one off** — the board de-energises each coil by itself, which is what stops
 a stuck output from burning a coil out ([0427](../../raw/rules/0427-the-nine-coils.md)).
+
+**There is no Coil8** — the schematic's numbering skips it and the code keeps the gap, which is why
+the third bumper is `FCA_9_` and not `FCA_8_` ([0428](../../raw/rules/0428-there-is-no-coil8.md)).
