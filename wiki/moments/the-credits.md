@@ -63,3 +63,10 @@ nothing else in this state touches it ([0415](../../raw/rules/0415-the-fifth-dis
 **The top row is a ticker rather than a list** — the end of the string is followed directly by the
 beginning of it, with no dark gap between the last name and the first ([0416](../../raw/rules/0416-the-top-row-is-a-ticker.md)). **Nobody should
 have to arrive at the right second to see all three** ([0416](../../raw/rules/0416-the-top-row-is-a-ticker.md)).
+
+**The names scroll at half the speed of the quotes, and both numbers follow from what each row has
+to say** ([0417](../../raw/rules/0417-the-names-scroll-at-half-the-speed.md)). The top row is three names going round for a whole minute, so it can be read
+slowly. **A quote is one pass of up to 120 characters across a twelve-character window, and the
+roll is only a minute**: at the slow rate the longest one would take 53 seconds — nearly the whole
+state for a single sentence — against 26 at the normal rate, which leaves room for a second quote
+and sometimes a third ([0417](../../raw/rules/0417-the-names-scroll-at-half-the-speed.md)).

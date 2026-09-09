@@ -512,5 +512,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0414 — All three texts are static, and a seven-segment alphabet holds them](rules/0414-all-three-texts-are-static.md) — A-Z, digits, spaces and hyphens, held to it by a test
 - [0415 — The fifth display says which screen this is](rules/0415-the-fifth-display-says-which-screen-this-is.md) — a still label, because the other two rows never stop moving
 - [0416 — The top row is a ticker, and the names belong together](rules/0416-the-top-row-is-a-ticker.md) — no dark gap, so arriving late still shows you all the names
+- [0417 — The names scroll at half the speed of the quotes](rules/0417-the-names-scroll-at-half-the-speed.md) — 53 seconds for one long quote at the slow rate, against 26 at the fast one
 
 ## Questions
