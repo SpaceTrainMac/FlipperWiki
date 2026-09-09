@@ -15,6 +15,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The three multipliers](concepts/the-multipliers.md) — one for the bonus count and one for each hole ladder, each multiplying only its own
 - [The extra bonus](concepts/the-extra-bonus.md) — a flat 500 000 at the right captive ball, inside the `X BONUS` window, and the bottom multiplier with it
 - [Space Ship Bonus and Space Train Bonus](concepts/flyer-bonuses.md) — the flyer's two names are the multipliers reaching ×3, announced
+- [The thunderstrike](concepts/the-thunderstrike.md) — all three bumpers inside one second: a flat 500 and four white flashes
 
 ## Things
 
@@ -43,7 +44,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The knocker](things/knocker.md) — three hits is Space Train Bonus
 - [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
 - [The slingshots](things/slingshots.md) — they kick, and they score nothing
-- [The three pop bumpers](things/pop-bumpers.md) — 100 each, no multiplier, no progression: the machine's floor
+- [The three pop bumpers](things/pop-bumpers.md) — 100 each and no progression, except all three inside a second
 - [The cabinet backlight](things/cabinet-backlight.md) — a white flash is a bumper or a sling; the rest of the time it is showing the ladders in colour
 
 ## Moments
@@ -114,5 +115,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0051 — The slingshots score nothing](rules/0051-the-two-slingshots-kick-and-score-nothing.md) — they only move the ball
 - [0052 — Each pop bumper pays 100](rules/0052-each-of-the-three-pop-bumpers-pays-100.md) — nothing builds up there
 - [0053 — Bumpers and slingshots flash the backlight white](rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md) — the flash is not an award
+- [0054 — Three bumpers in one second is a thunderstrike](rules/0054-landing-all-three-bumpers-within-one-second-of.md) — 500 on top, repeatable, order irrelevant
 
 ## Questions
