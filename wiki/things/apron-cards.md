@@ -79,3 +79,8 @@ to the bank's *first* completion; on this cabinet that lamp belongs to
 **The three *INDICATED ON DISPLAY* lines are still true, and they are why the backbox is lettered
 the way it is**: an extra ball and both free plays are announced on
 [the indicator LEDs](indicator-leds.md) rather than by any lamp on the playfield ([0201](../../raw/rules/0201-pricing-card-verbatim.md)).
+
+**The prices are in **francs**, and that is the one thing on either card that is about this
+cabinet's history rather than its rules** ([0202](../../raw/rules/0202-prices-are-in-francs-not-pesetas.md)). A Spanish machine priced in FR was on location
+in a French-speaking market — which is provenance, not a rule, but it carries a warning: the
+settings this cabinet shipped on may be a route's rather than MAC's defaults ([0202](../../raw/rules/0202-prices-are-in-francs-not-pesetas.md)).

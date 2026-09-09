@@ -284,5 +284,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0199 — `[?]0.000` is 30 000](rules/0199-the-unreadable-figure-on-the-card-is-30-000.md) — one undecidable digit, settled by three sources that are not the photograph
 - [0200 — The three captive balls split 2 + 1](rules/0200-the-three-captive-balls-split-2-1.md) — *center balls* is the twins and *right ball* is the third, in the matrix's own names
 - [0201 — Pricing card — verbatim](rules/0201-pricing-card-verbatim.md) — six printed lines, and the three that explain why the backbox announces what it announces
+- [0202 — Prices are in francs, not pesetas](rules/0202-prices-are-in-francs-not-pesetas.md) — a Spanish machine on a French-speaking route, and why its settings may not be MAC's
 
 ## Questions
