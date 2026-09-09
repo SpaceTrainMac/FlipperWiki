@@ -20,3 +20,10 @@ enough ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothin
 machine and the game is not told, which is the same arrangement the cabinet has ([0219](../../raw/rules/0219-the-other-keys-vpx-offers-reach-nothing.md)). **VPX handles the
 whole of a nudge itself and the engine sees an ordinary drain**, so on that body the `TILT` plate
 is drawn and can never light ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).
+
+**It works the same way [the flippers](../things/flipper-buttons.md) do: in hardware, bypassing the
+game entirely** ([0367](../../raw/rules/0367-tilt-works-in-hardware-bypassing-the-game.md)). The machine kills its own outputs and keeps them off until the balls have
+left the playfield; the game is not consulted and cannot veto it — **which is the right design,
+since a tilt has to work when the computer is not healthy** ([0367](../../raw/rules/0367-tilt-works-in-hardware-bypassing-the-game.md)). What the game sees is the
+aftermath: the ball drains, the drain contact fires, and the ball ends through the ordinary path
+([0367](../../raw/rules/0367-tilt-works-in-hardware-bypassing-the-game.md)).

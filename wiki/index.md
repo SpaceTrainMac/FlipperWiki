@@ -458,5 +458,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0364 — The question is whether the record has just changed hands](rules/0364-whether-the-record-has-just-changed-hands.md) — the running game is counted in, so the knock means ahead of everybody
 - [0365 — Once per player, per game](rules/0365-the-knocker-fires-once-per-player-per-game.md) — one knock a player a game, however often the lead changes
 - [0366 — The coil is the operator's to switch off](rules/0366-the-knocker-coil-is-the-operators-to-switch-off.md) — the setting silences the coil and never the lamp
+- [0367 — Tilt works in hardware, bypassing the game entirely](rules/0367-tilt-works-in-hardware-bypassing-the-game.md) — the cabinet's own reflex, which is why it works when the computer is not
 
 ## Questions
