@@ -40,3 +40,6 @@ touched ([0375](../../raw/rules/0375-the-draw-awards-an-extra-ball-not-an-extra-
 default: one digit is a draw in ten and two is the classic draw in a hundred ([0376](../../raw/rules/0376-how-wide-the-draw-is-is-the-operators.md)). It is set as
 a *width* rather than as a probability, because the number has to fit the display it is read from —
 and *the last two digits of your score* is a rule a player already knows ([0376](../../raw/rules/0376-how-wide-the-draw-is-is-the-operators.md)).
+
+**A score of nothing never wins** — the same rule the high score table uses for a place, and
+without it a draw of `00` would hand a ball to everybody who tilted their first one away ([0377](../../raw/rules/0377-a-score-of-nothing-never-wins.md)).
