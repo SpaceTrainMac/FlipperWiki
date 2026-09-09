@@ -39,3 +39,6 @@ added on 2026-09-04 and are kept out of that set until a person finds a file for
 is that somebody with taste chose every sound in it, and synthesising one would make it a fourth
 generated set wearing the first one's name ([0278](../../raw/rules/0278-eleven-rows-are-fixture-only.md)). **On a cabinet running `rool`, those eleven
 events pass in silence** ([0278](../../raw/rules/0278-eleven-rows-are-fixture-only.md)).
+
+**One cue can hold several files, and then the machine picks between them each time it fires**
+([0279](../../raw/rules/0279-an-entry-may-name-a-list.md)) — which is [how a bumper stops sounding like the same bumper](sound-sets.md).

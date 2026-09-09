@@ -368,5 +368,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0276 — 43 cues and a playlist](rules/0276-43-cues-and-a-playlist.md) — the event a cue answers is fixed; the file that answers it is the set's
 - [0277 — There are four sets, and three of them are generated](rules/0277-there-are-four-sets-three-generated.md) — the same cues on every set, which is what makes one catalogue enough
 - [0278 — Eleven rows are fixture only](rules/0278-eleven-rows-are-fixture-only.md) — eleven events are silent on `rool` until somebody picks a file, and that is the point of that set
+- [0279 — An entry may name a list](rules/0279-an-entry-may-name-a-list.md) — one cue, several files, and a pick on every raise
 
 ## Questions
