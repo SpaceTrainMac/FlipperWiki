@@ -17,4 +17,8 @@ your ball* ([0081](../../raw/rules/0081-drain-protection-covers-the-first-15-sec
 **The ball comes back on its own — there is no button to press.** Once a game is under way the
 start button belongs to player select and the high score table, not to you at the glass ([0082](../../raw/rules/0082-the-ball-comes-back-without-a-press-and.md)).
 
+**It waits for a ball, not for the drain.** The drained ball needs the length of the trough to roll
+back under the ejector, so the serve is triggered by the store reading *available* rather than by the
+drain that asked for it ([0083](../../raw/rules/0083-what-the-machine-waits-for-instead-is-a.md)).
+
 **It is spent the first time it saves a drain**, and does not re-arm until your next turn ([0081](../../raw/rules/0081-drain-protection-covers-the-first-15-seconds-configurable.md)).

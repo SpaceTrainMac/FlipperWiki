@@ -29,6 +29,9 @@ closed until one of the two is served again ([0079](../../raw/rules/0079-ballsen
 
 *(the table is rule 0079's, rendered for a player)*
 
+**A saved ball waits on the store, not on the drain** — the ball has to roll the length of the
+trough before the ejector has anything to fire ([0083](../../raw/rules/0083-what-the-machine-waits-for-instead-is-a.md)).
+
 **Which is why nothing on this machine counts balls in play.** Two balls and two positions in the
 store make a held contact the whole answer, and a machine that could not tell one returning ball
 from two would have needed a counter it has no switch to keep honest ([0080](../../raw/rules/0080-which-is-why-nothing-on-this-machine-counts.md)).
