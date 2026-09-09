@@ -158,5 +158,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0086 — An extra ball starts clean](rules/0086-an-extra-ball-is-a-fresh-ball-on.md) — counted out, cleared, served; the turn score carries
 - [0087 — Extra balls are the two-digit field](rules/0087-an-extra-ball-is-a-number-and-it.md) — how much of your turn is left, where credits used to be
 - [0088 — The four ways a ball can end, side by side](rules/0088-what-survives-an-extra-ball-is-what-survives.md) — saved, extra, multiball, turn over
+- [0089 — Multiball ends nothing](rules/0089-multiball-ends-nothing.md) — losing one of two costs nothing
 
 ## Questions

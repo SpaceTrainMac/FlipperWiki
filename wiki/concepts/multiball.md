@@ -12,6 +12,10 @@ body: game
 bunker holds your first ball while it is on its way, and releases it **2.5 seconds after the second
 ball leaves the ramp** — so both are on the playfield together ([0056](../../raw/rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md)).
 
+**Multiball ends nothing.** A turn is over when nothing is owed and the drain contact closes and
+stays closed, so losing one ball while another is still on the playfield changes nothing at all
+([0089](../../raw/rules/0089-multiball-ends-nothing.md)).
+
 **Collections happen live.** A hole bonus counted out during multiball does not pause the other
 ball or the rest of the playfield ([0061](../../raw/rules/0061-both-bunkers-can-collect-while-the-machine-is.md)).
 
