@@ -44,3 +44,8 @@ is what you are choosing; releasing the flipper is what sets it ([0264](../../ra
 you are back in attract mode; let go after it and you have set a volume and stayed. **Reaching for
 both flippers while the number is up abandons it** — the volume stays where it was and the service
 menu opens as usual ([0265](../../raw/rules/0265-a-tap-is-under-a-second-a-volume-is-over-it.md)).
+
+**Every single-flipper answer needs the other button up** ([0266](../../raw/rules/0266-the-single-flipper-answers-need-the-other-button-up.md)). Reaching for both does not step
+a station, does not move the volume and does not drop you back to attract, whichever hand lands
+first — which is the same rule that keeps
+[the two nine-second gestures apart](the-service-menu.md) ([0266](../../raw/rules/0266-the-single-flipper-answers-need-the-other-button-up.md)).
