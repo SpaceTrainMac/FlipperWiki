@@ -87,3 +87,12 @@ and leaves the file alone** rather than guessing ([0222](../../raw/rules/0222-it
 *(the table is using-the-table.md §4's, rendered for a player ([0223](../../raw/rules/0223-run-vpx-b-leaves-the-region-as-it-is.md)))*
 
 **The displays are green**, which is what every photograph of this cabinet shows ([0224](../../raw/rules/0224-the-displays-are-green.md)).
+
+## Letting it play itself
+
+**`spacetrain-autoplay` plays a whole game with nobody at the keyboard, and it does not need VPX at
+all** — it drives the same engine through the switch matrix directly ([0225](../../raw/rules/0225-spacetrain-autoplay-plays-a-whole-game.md)). It presses start,
+answers the ejector with the switches a ball would close, keeps each ball alive for two seconds,
+drains it, and types initials at the end ([0225](../../raw/rules/0225-spacetrain-autoplay-plays-a-whole-game.md)). **A game takes about 29 seconds at one player
+and 110 at four**, and it prints the states it went through and how many serves and drains it saw
+([0225](../../raw/rules/0225-spacetrain-autoplay-plays-a-whole-game.md)).
