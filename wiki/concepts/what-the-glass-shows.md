@@ -18,3 +18,6 @@ body: game
 | two digits between them | **dark** — the backglass artwork covers them |
 
 *(the table is rule 0093's, rendered for a player)*
+
+**They are green.** Every photograph of this cabinet shows green digits, and
+[the VPX table](../bodies/vpx.md) draws them green for that reason ([0224](../../raw/rules/0224-the-displays-are-green.md)).

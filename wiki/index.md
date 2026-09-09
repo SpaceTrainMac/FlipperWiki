@@ -308,5 +308,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0221 — And it is sized on every launch](rules/0221-the-backbox-is-sized-on-every-launch.md) — absolute pixels do not scale, so the region is derived from your display every time
 - [0222 — It is the display VPX will open on that counts](rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md) — logical pixels, the screen VPX picks rather than the desktop's, and silence rather than a guess
 - [0223 — `./run_vpx.sh -B` leaves the region exactly as it is](rules/0223-run-vpx-b-leaves-the-region-as-it-is.md) — what the drawn backbox carries, and how to keep a hand-placed region
+- [0224 — The displays are green](rules/0224-the-displays-are-green.md) — the colour comes from the photographs, not from taste
 
 ## Questions
