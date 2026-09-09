@@ -1,7 +1,7 @@
 ---
 title: The flipper buttons
 type: thing
-aliases: [the flipper buttons, the left flipper button, the right flipper button, lane change]
+aliases: [the flipper buttons, the left flipper button, the right flipper button, lane change, BUTTON_LEFT]
 body: game
 ---
 # The flipper buttons
