@@ -23,3 +23,8 @@ the panel. Then it comes back down the same way ([0327](../../raw/rules/0327-a-h
 up the playfield they sit, so [three lamps within ten units of each other](../things/playfield-lamps.md)
 light on the same step ([0328](../../raw/rules/0328-the-playfield-is-walked-in-rows.md)). **The sequence this replaced climbed one bank and then dropped
 back down to start again** ([0328](../../raw/rules/0328-the-playfield-is-walked-in-rows.md)).
+
+**The backglass rises too, and its bands interleave** — four rows of
+[LEDs](../things/indicator-leds.md) and three of [display groups](../concepts/what-the-glass-shows.md),
+with [the status row](../things/status-row.md) *below* the player scores rather than beside them
+([0329](../../raw/rules/0329-the-backglass-rises-too.md)).

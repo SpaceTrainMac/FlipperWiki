@@ -419,5 +419,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0326 — One state, two scenes](rules/0326-one-state-two-scenes.md) — the ladder and the high score table, shown in turn
 - [0327 — What moves is a horizontal line, and it crosses the whole cabinet](rules/0327-a-horizontal-line-crossing-the-whole-cabinet.md) — one line rising from the drain to the top of the backglass, and back
 - [0328 — The playfield is walked in rows, not in wiring order](rules/0328-the-playfield-is-walked-in-rows.md) — lamps grouped by height, which is what makes the rise read as one line
+- [0329 — The backglass rises too, and its bands interleave](rules/0329-the-backglass-rises-too.md) — four rows of LEDs and three of displays, interleaved
 
 ## Questions
