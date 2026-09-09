@@ -36,3 +36,7 @@ way because **a volume is judged by ear and the service menu is silent** ([0247]
 **A cabinet with no settings file at all is a first boot rather than a fault** — every value takes
 its default, the start-up says so, and a machine with one sound set beside it runs perfectly well
 having been told nothing ([0248](../../raw/rules/0248-no-settings-file-is-a-first-boot-not-a-fault.md)).
+
+**And one bad value costs that value rather than the boot** — a volume written as a word warns and
+uses 80, because a cabinet that refused to start over a mistyped volume would be worse than a loud
+one ([0249](../../raw/rules/0249-one-bad-key-costs-that-key-not-the-boot.md)).
