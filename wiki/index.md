@@ -363,5 +363,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0271 — An empty `soundSet` means the root itself is the set](rules/0271-an-empty-soundset-means-the-root-is-the-set.md) — `NONE SET` is usually a machine looking in the wrong place
 - [0272 — An effect may name several files instead of one](rules/0272-an-effect-may-name-several-files.md) — variants, how they are picked, and how to hear them one at a time
 - [0273 — A cue with no entry is silence](rules/0273-a-cue-with-no-entry-is-silence.md) — a blank is a decision rather than a fault
+- [0274 — A path naming a file that is not on disk stops the cabinet](rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md) — `E 101`, and why it is a set copied half way
 
 ## Questions

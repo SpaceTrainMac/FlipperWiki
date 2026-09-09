@@ -55,3 +55,8 @@ how a bumper stops sounding like the same bumper three hundred times in an eveni
 
 **A cue with no entry is silence, and that is all it is** — most events have no sound chosen, a
 blank is a decision rather than a fault, and the cabinet starts and plays normally ([0273](../../raw/rules/0273-a-cue-with-no-entry-is-silence.md)).
+
+**But an entry pointing at a file that is not there stops the cabinet, with `E 101` on the glass**
+([0274](../../raw/rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md)). That is the difference worth knowing: *no entry* is fine, *an entry pointing at nothing*
+is a set copied half way or a file renamed. **Every file in a list is checked**, so one missing
+variant out of twelve stops it as surely as a missing single ([0274](../../raw/rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md)).
