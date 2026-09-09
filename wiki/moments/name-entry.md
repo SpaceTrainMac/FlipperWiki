@@ -134,3 +134,6 @@ to the closing titles, which are long enough to carry it ([0403](../../raw/rules
 **The `HIGH SCORE` lamp and [the knocker](../things/knocker.md) that fire mid-ball are not this
 state's** — they go off the moment the best score on the cabinet changes hands, which is a
 question about a game in progress ([0404](../../raw/rules/0404-the-announcement-during-a-ball-is-not-this-states.md)).
+
+**`GAME OVER` is not this state's either** — it names the end of a *game*, which
+[the state that ran it](game-over.md) knows and this one only inherits ([0405](../../raw/rules/0405-game-over-is-not-this-states.md)).

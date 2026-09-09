@@ -499,5 +499,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0402 — The table is written after every name, and a failed write is not the error state](rules/0402-a-failed-write-is-not-the-error-state.md) — four names is four writes, and a failure says `NOSAVE` rather than stopping
 - [0403 — No special music](rules/0403-no-special-music-during-name-entry.md) — a sound per confirmed character, and the theme belongs to the credits
 - [0404 — The announcement during a ball is not this state's](rules/0404-the-announcement-during-a-ball-is-not-this-states.md) — the mid-ball knock belongs to the game, not to the state that asks for a name
+- [0405 — GAME OVER is not this state's](rules/0405-game-over-is-not-this-states.md) — inherited from the state that ran the game, not lit here
 
 ## Questions
