@@ -325,5 +325,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0237 — The three kinds of control](rules/0237-the-three-kinds-of-control.md) — momentary, toggle with a blue ring, and cabinet button drawn apart
 - [0238 — That last row is what makes the service menu reachable](rules/0238-cabinet-buttons-are-held-not-tapped.md) — nine seconds on both arrow keys, which needs a button that stays down
 - [0239 — A lamp is a level](rules/0239-a-lamp-is-a-level.md) — on is on, and nothing more
+- [0240 — A coil is a moment](rules/0240-a-coil-is-a-moment.md) — a two-second fade, so the picture shows which bumper fired first
 
 ## Questions

@@ -56,3 +56,7 @@ for nine seconds opens `Setup`, and a button that released itself a millisecond 
 get there — hold `ArrowLeft` and `ArrowRight` together and count ([0238](../../raw/rules/0238-cabinet-buttons-are-held-not-tapped.md)).
 
 **A lamp is a level. On is on** ([0239](../../raw/rules/0239-a-lamp-is-a-level.md)).
+
+**A coil is a moment.** It flares and fades over two seconds, so three bumpers caught at different
+stages of fade tell you **the order they fired in** — which is unreadable on a real playfield, and
+is often the actual question ([0240](../../raw/rules/0240-a-coil-is-a-moment.md)).
