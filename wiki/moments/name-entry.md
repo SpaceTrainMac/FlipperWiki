@@ -27,3 +27,6 @@ the table on disk are one calculation rather than two that have to agree ([0385]
 the same thing the moment two players qualify in one game: on a default table, four players on
 1 100, 1 200, 1 300 and 1 400 each beat the bottom row, and fourteen rows trimmed to ten keep one of
 them ([0386](../../raw/rules/0386-beating-the-bottom-row-is-not-a-place.md)).
+
+**It is not asked again between players** — writing the first player's row could otherwise
+displace the second, **which would decide who gets into the table by who typed first** ([0387](../../raw/rules/0387-qualifying-is-not-asked-again-between-players.md)).

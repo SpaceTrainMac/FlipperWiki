@@ -481,5 +481,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0384 — It is a decision point, not a screen](rules/0384-it-is-a-decision-point-not-a-screen.md) — most games it does nothing visible at all
 - [0385 — The merge is the test](rules/0385-the-merge-is-the-test.md) — the table plus this game's scores, sorted and trimmed to ten
 - [0386 — Beating the bottom row is not a place; surviving the trim is](rules/0386-beating-the-bottom-row-is-not-a-place.md) — four players over the tenth score make fourteen rows, and ten survive
+- [0387 — It is not asked again between players](rules/0387-qualifying-is-not-asked-again-between-players.md) — asking again would let typing order decide who gets in
 
 ## Questions
