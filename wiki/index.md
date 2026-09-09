@@ -22,6 +22,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Tilt](concepts/tilt.md) — the cabinet's own business: it kills the outputs, and the bonus is still counted
 - [What the glass shows](concepts/what-the-glass-shows.md) — six things written above the playfield, and only two of them are your score
 - [Every award, in one table](concepts/every-award.md) — the complete scoring reference, one row an award
+- [What the machine says, and when](concepts/the-sounds.md) — forty cues, one for every rule that says *with its own sound cue*
 
 ## Things
 
@@ -254,5 +255,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0173 — the bonus count at ×3](rules/0173-the-bonus-count-at-3.md) — `39 × 5 000 × 3`
 - [0174 — each hole side, five rungs and an armed marker at ×3](rules/0174-each-hole-side-five-rungs-and.md) — `(5 × 5 000 + 30 000) × 3`
 - [0175 — one ball's collection](rules/0175-one-balls-collection.md) — `585 000 + 2 × 165 000`
+- [0176 — The forty cues exist](rules/0176-settled-and-built.md) — eleven of them added for the rules here
 
 ## Questions

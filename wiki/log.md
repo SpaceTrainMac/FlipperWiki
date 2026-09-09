@@ -190,3 +190,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:42  ingest  0174  concepts/every-award, rules/0174
 2026-09-09T22:42  ingest  0175  concepts/every-award, rules/0175
 2026-09-09T22:43  cut     the two closing sections of gameplay.md  0176–0180
+2026-09-09T22:43  ingest  0176  concepts/the-sounds, rules/0176
