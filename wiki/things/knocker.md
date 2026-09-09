@@ -6,6 +6,8 @@ body: game
 ---
 # The knocker
 
+**It is `FCA_K_KNOCKER`, one of [the machine's nine coils](the-coils.md)** ([0427](../../raw/rules/0427-the-nine-coils.md)).
+
 **Three hits of the knocker is Space Train Bonus** — the machine's loudest announcement, for all
 three multipliers reaching ×3 ([0043](../../raw/rules/0043-space-ship-bonus-and-space-train-bonus-are.md)).
 

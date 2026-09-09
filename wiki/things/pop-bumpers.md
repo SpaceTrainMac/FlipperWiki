@@ -6,6 +6,8 @@ body: game
 ---
 # The three pop bumpers
 
+**Each has [a coil of its own](the-coils.md)** — three of the machine's nine ([0427](../../raw/rules/0427-the-nine-coils.md)).
+
 **Each pays 100 and flashes its own lamp for 300 ms**, configurable; two hit in the same instant pay
 twice ([0052](../../raw/rules/0052-each-of-the-three-pop-bumpers-pays-100.md)). **All three inside one second is [a thunderstrike](../concepts/the-thunderstrike.md)**, worth a
 flat 500 more ([0054](../../raw/rules/0054-landing-all-three-bumpers-within-one-second-of.md)).

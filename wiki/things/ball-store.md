@@ -6,6 +6,8 @@ body: game
 ---
 # The ball store, and the four contacts
 
+**The ejector is [`FCA_1_BALL_OUT`](the-coils.md), the first of the machine's nine coils** ([0427](../../raw/rules/0427-the-nine-coils.md)).
+
 **A ball is served from a two-ball store, one at a time, and four contacts watch it round** ([0077](../../raw/rules/0077-a-ball-is-served-from-a-two-ball-store.md)):
 
 | Contact | Sees |

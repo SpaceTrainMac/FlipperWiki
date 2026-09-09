@@ -6,6 +6,8 @@ body: game
 ---
 # The slingshots
 
+**They have [two of the nine coils](the-coils.md) between them**, one a side ([0427](../../raw/rules/0427-the-nine-coils.md)).
+
 **They kick and they score nothing** ([0051](../../raw/rules/0051-the-two-slingshots-kick-and-score-nothing.md)). **They do flash [the cabinet backlight](cabinet-backlight.md) white on their own kick**, with no
 lamp of their own to go with it — and they still score nothing ([0053](../../raw/rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md)).
 

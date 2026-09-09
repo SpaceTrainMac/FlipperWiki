@@ -6,6 +6,8 @@ body: game
 ---
 # The left bunker
 
+**It has [a coil](the-coils.md) that kicks the ball back out**, and so does the right one ([0427](../../raw/rules/0427-the-nine-coils.md)).
+
 **A saucer that swallows the ball and shoots it out again under coil power** — one of the flyer's
 two *elevator holes*, its *2 shooter holes to upper level*, upper centre on the playfield ([0055](../../raw/rules/0055-two-saucers-each-its-own-sides-hole-as.md)).
 
