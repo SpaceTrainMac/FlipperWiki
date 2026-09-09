@@ -42,6 +42,11 @@ machine keeps track of**: laid out flat, the same elements would play by the sam
 So nothing you do on a ramp or in a tunnel scores, and nothing anywhere asks which floor you are on
 ([0193](../../raw/rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md)).
 
+**[The VPX table](../bodies/vpx.md) had no upper level at all until 2026-09-06, and the game was
+whole the entire time** — which is 0193's claim demonstrated rather than argued ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)). The
+saucers kicked the ball up a flat playfield instead of lifting it onto a deck, and no rule of the
+machine noticed ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)).
+
 **The word *upper* on the apron card is a name, not a test** ([0194](../../raw/rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md)). *Upper lane* and *upper extra
 ball* pick out particular lanes and [a particular lamp](../things/upper-target-bank.md) — they do
 not mean *whichever lane the ball is on upstairs*, and no award anywhere depends on where the ball

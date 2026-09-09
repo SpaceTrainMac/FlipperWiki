@@ -124,3 +124,9 @@ rather than the machine wrong about the flyer** ([0230](../../raw/rules/0230-mul
 **[The bonus and the match take about 43 seconds](../moments/end-of-turn.md)** ([0231](../../raw/rules/0231-the-bonus-and-the-match-take-about-43-seconds.md)). Those are
 real ceremonies at real speed, and the ball sits in the trough for the whole of it — on a screen
 nobody minds; **with a ball in your hand it is a long time to stand still** ([0231](../../raw/rules/0231-the-bonus-and-the-match-take-about-43-seconds.md)).
+
+**[The playfield was flat until 2026-09-06](../concepts/the-two-levels.md)** ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)). The cabinet
+has an upper deck, two elevator holes, a ramp, a return track and a raised tunnel, and **none of
+them carries a switch** — so while the picture was missing a storey the *game* was whole ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)).
+The saucers used to kick the ball up the flat playfield; since 2026-09-06 they lift it onto the
+deck ([0232](../../raw/rules/0232-the-playfield-was-flat-until-2026-09-06.md)).

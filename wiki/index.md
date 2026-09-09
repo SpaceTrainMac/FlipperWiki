@@ -316,5 +316,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0229 — Your nudge does not talk to the game](rules/0229-your-nudge-does-not-talk-to-the-game.md) — the simulator handles a nudge alone, so the drawn `TILT` plate can never light
 - [0230 — Multiball is two balls, not the flyer's three](rules/0230-multiball-is-two-balls-not-the-flyers-three.md) — the trough holds two, and the flyer is the one that is wrong
 - [0231 — The bonus and the match take about 43 seconds](rules/0231-the-bonus-and-the-match-take-about-43-seconds.md) — real ceremonies at real speed, and how differently that reads on a screen
+- [0232 — The playfield was flat, until 2026-09-06](rules/0232-the-playfield-was-flat-until-2026-09-06.md) — a whole game played with a storey missing, which is what proves the levels are scenery
 
 ## Questions
