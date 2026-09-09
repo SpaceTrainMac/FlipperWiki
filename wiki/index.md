@@ -128,5 +128,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0062 — Every ball that ends is counted out lamp by lamp](rules/0062-every-ball-that-ends-is-counted-out-lamp.md) — the quiet walk is the bonus being paid
 - [0063 — One step per lit lamp, 200 ms apart](rules/0063-one-step-per-lit-lamp-200-ms-apart.md) — what each lamp pays as it goes out
 - [0064 — Hole bonuses first, the ladder last](rules/0064-the-two-hole-bonuses-are-counted-first-and.md) — the count's order, and the multipliers stay lit
+- [0065 — Nothing scores while the count runs](rules/0065-nothing-scores-while-the-count-runs.md) — the walk cannot be added to
 
 ## Questions

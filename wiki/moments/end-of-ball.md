@@ -23,6 +23,10 @@ pieces as the playfield empties ([0063](../../raw/rules/0063-one-step-per-lit-la
 
 *(the table is rule 0063's, rendered for a player)*
 
+**Nothing scores while the count runs.** The playfield is empty by definition — the ball that
+earned all of it is in the trough — but the machine still holds every other award, so a number being
+counted out cannot be added to behind the walk ([0065](../../raw/rules/0065-nothing-scores-while-the-count-runs.md)).
+
 **The two hole bonuses are counted first and the bonus ladder last**, which is the order the 1987
 card lists them in. The multiplier lamps take no step and stay lit ([0064](../../raw/rules/0064-the-two-hole-bonuses-are-counted-first-and.md)).
 
