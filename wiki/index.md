@@ -275,5 +275,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0191 — The two-level loop](rules/0191-the-two-level-loop-up-by-hole-or-ramp-down-by-track-or-tunnel.md) — three ways up, two ways down, and the shot up does not choose the way back
 - [0192 — This section is the topology, not the geometry](rules/0192-this-section-is-the-topology-not-the-geometry.md) — the flyer connects things; the photographs place them
 - [0193 — These paths carry no switches, and they do not need any](rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md) — a ramp scores nothing, and the level is implied by whatever closed
+- [0194 — The card's upper lane and upper extra ball are element names](rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md) — *upper* is part of a name, not a place the ball has to be
 
 ## Questions

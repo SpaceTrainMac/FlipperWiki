@@ -41,3 +41,9 @@ by a ball upstairs. **The two storeys are a physical and visual feature rather t
 machine keeps track of**: laid out flat, the same elements would play by the same rules ([0193](../../raw/rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md)).
 So nothing you do on a ramp or in a tunnel scores, and nothing anywhere asks which floor you are on
 ([0193](../../raw/rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md)).
+
+**The word *upper* on the apron card is a name, not a test** ([0194](../../raw/rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md)). *Upper lane* and *upper extra
+ball* pick out particular lanes and [a particular lamp](../things/upper-target-bank.md) — they do
+not mean *whichever lane the ball is on upstairs*, and no award anywhere depends on where the ball
+is ([0194](../../raw/rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md)). Tracking the level would only buy presentation, knowing where a ball is during
+[multiball](multiball.md) for a sound or a display, and no rule needs it ([0194](../../raw/rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md)).
