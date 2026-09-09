@@ -238,5 +238,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0157 — the right bunker, either ladder past rung 2](rules/0157-the-right-bunker-either-ladder-past.md) — an **extra ball**, once a ball
 - [0158 — one bonus](rules/0158-one-bonus.md) — **5 000** × bottom multiplier
 - [0159 — one hole-bonus rung, lit at the end of the ball](rules/0159-one-hole-bonus-rung-lit-at-the.md) — **5 000** × that side's multiplier
+- [0160 — a side's 5th hit, then its own bunker or the same twin inside 30 s](rules/0160-a-sides-5th-hit-then-its.md) — that side's five rungs + **30 000**, × its multiplier
 
 ## Questions
