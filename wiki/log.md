@@ -272,3 +272,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:30  ingest  0251  bodies/cabinet, bodies/simulator, rules/0251
 2026-09-09T23:31  ingest  0252  moments/the-service-menu, rules/0252
 2026-09-09T23:31  ingest  0253  moments/the-service-menu, rules/0253
+2026-09-09T23:31  ingest  0254  moments/the-service-menu, rules/0254

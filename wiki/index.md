@@ -341,5 +341,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0251 — `volume` is system-wide](rules/0251-volume-is-system-wide.md) — one mixer level for the whole machine, applied by every body at start-up
 - [0252 — Hold both flippers for nine seconds](rules/0252-hold-both-flippers-for-nine-seconds.md) — no service button exists, so the way in is a gesture a cabinet cannot make by accident
 - [0253 — After three seconds the light show stops and a joke comes up](rules/0253-after-three-seconds-a-joke-comes-up.md) — the acknowledgement at three seconds, and what to wait for
+- [0254 — There is a second gesture on the same two buttons](rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md) — the right flipper alone starts the radio, and a slipped hand starts nothing
 
 ## Questions
