@@ -25,6 +25,13 @@ and resets the ladder to climb from zero ([0032](../../raw/rules/0032-redeeming-
 
 **So the cheapest redemption is the twin you are already hitting** ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
 
+**Letting the window close forfeits the whole attempt.** All six lamps go dark and nothing is
+scored — not even the rungs a ball that simply ended would still have counted ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
+
+**A drain while the window is open is not the same event.** The end-of-ball count still banks
+whatever is lit at that instant, timer running or not: the 30 seconds is a risk the live ball
+carries, not a way to lose what a drain would have paid anyway ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
+
 TBC — what a rung and a marker are worth is the next rule. See
 [the two centre captive balls](../things/centre-captive-balls.md) and
 [the two hole-bonus ladders](../things/hole-bonus-ladders.md).

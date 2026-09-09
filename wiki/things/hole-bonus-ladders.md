@@ -18,5 +18,8 @@ that timer, and six lamps blinking on one side is how it says so ([0019](../../r
 **Redeem at that side's [bunker](left-bunker.md) or at the same centre ball again**; either pays
 the rungs and the marker together and resets that ladder ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
 
+**A window that closes uncollected takes everything on that side** — six lamps dark, nothing
+scored. A ball draining mid-window does not: the end-of-ball count banks whatever is lit ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
+
 TBC — what a rung and a marker are worth, and what the marker is, are not rules here yet.
 See [lit awards](../concepts/lit-awards.md).

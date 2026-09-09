@@ -84,5 +84,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0030 — None of the three ever joins the game](rules/0030-none-of-the-three-ever-joins-the-game.md) — a captive ball is scored by force, not by touch
 - [0031 — Five hits to build, then a 30-second window](rules/0031-each-side-is-a-five-hit-build-then-a.md) — six lamps blinking on one side is a clock
 - [0032 — Two shots redeem a hole bonus](rules/0032-redeeming-inside-the-window-takes-either-shot-the.md) — that side's saucer, or the same centre ball again
+- [0033 — A closed window forfeits the attempt; a drain does not](rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md) — run the clock out and lose it all; drain and it still counts
 
 ## Questions
