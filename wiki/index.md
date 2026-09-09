@@ -207,5 +207,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0128 — `SIDELANE_LEFT_5000`](rules/0128-sidelane_left_5000.md) — 5 000
 - [0129 — `SIDELANE_RIGHT_5000`](rules/0129-sidelane_right_5000.md) — 5 000
 - [0130 — `SIDELANE_LEFT_OUT`](rules/0130-sidelane_left_out.md) — 5 000 when `SPECIAL` is lit
+- [0131 — `SIDELANE_RIGHT_OUT`](rules/0131-sidelane_right_out.md) — 5 000 when `SPECIAL` is lit
 
 ## Questions
