@@ -13,6 +13,19 @@ what a good ball is worth ([0021](../../raw/rules/0021-one-number-from-0-to-39-w
 **A full count is 195 000** — 39 at 5 000 — before any multiplier ([0021](../../raw/rules/0021-one-number-from-0-to-39-worth-5.md)). You see it on
 [the bonus ladder](../things/bonus-ladder.md), and nowhere as a number ([0027](../../raw/rules/0027-nothing-shows-the-count-as-a-number.md)).
 
+**Where 39 comes from is the lamp table, not a designer's round number** ([0204](../../raw/rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md)):
+
+| | Lamps | Worth |
+|---|---|---|
+| [the bottom ladder](../things/bonus-ladder.md) | `BON1_5K_BOT` … `BON9_5K_BOT` | **9** |
+| [Super Bonus](../things/bonus-ladder.md) | `SUPER_BON_10` / `_20` / `_30` | **30** |
+| | | **39** |
+
+*(the table is machine.md §1.6's, rendered for a player ([0204](../../raw/rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md)))*
+
+**So the flyer's *Up to 39 Bonuses* is a count of what the lamps can say**, and the cap is the
+ladder's arithmetic rather than a rule laid on top of it ([0204](../../raw/rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md)).
+
 **Two things advance it, and nothing else does** ([0022](../../raw/rules/0022-what-advances-it.md)):
 
 | What you hit | Bonuses |

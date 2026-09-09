@@ -286,5 +286,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0201 — Pricing card — verbatim](rules/0201-pricing-card-verbatim.md) — six printed lines, and the three that explain why the backbox announces what it announces
 - [0202 — Prices are in francs, not pesetas](rules/0202-prices-are-in-francs-not-pesetas.md) — a Spanish machine on a French-speaking route, and why its settings may not be MAC's
 - [0203 — Coin handling is out of scope by decision](rules/0203-coin-handling-is-out-of-scope-by-decision.md) — no slot, no credits, and a two-digit field left free for extra balls
+- [0204 — The flyer's *Up to 39 Bonuses* falls out of the lamp table](rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md) — nine units plus 10, 20 and 30 is the whole derivation
 
 ## Questions
