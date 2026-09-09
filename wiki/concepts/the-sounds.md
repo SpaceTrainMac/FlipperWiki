@@ -199,3 +199,6 @@ the playlist rather than resuming what was interrupted ([0317](../../raw/rules/0
 | `GAME_OVER_THEME` | a game ends — beside the `GAME_OVER` effect, on the other channel ([0319](../../raw/rules/0319-cue-game-over-theme.md)) |
 
 | `HIGHSCORE_THEME` | initials are being entered — **the jukebox never asks for it**, somebody has to raise it ([0320](../../raw/rules/0320-cue-highscore-theme.md)) |
+
+**All three themes are also entries in the playlist**, so a theme can be interrupted by nothing
+except itself coming round again ([0321](../../raw/rules/0321-all-three-themes-are-also-playlist-entries.md)).
