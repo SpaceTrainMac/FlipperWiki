@@ -64,3 +64,9 @@ small on a wider one and sits over the table on a shorter one. The launcher deri
 **65 % of the display's height, and the artwork's own proportions for the width** — which on a
 1200-tall display works out at 509 × 780 ([0221](../../raw/rules/0221-the-backbox-is-sized-on-every-launch.md)). The number is not the point; that it follows the
 screen is ([0221](../../raw/rules/0221-the-backbox-is-sized-on-every-launch.md)).
+
+**What it measures is the display VPX will actually open on, in logical pixels** ([0222](../../raw/rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md)), which is
+not always the screen a desktop calls primary — on a laptop beside a 4K panel the two disagree, and
+a 3072 × 1920 panel at 160 % answers 1920 × 1200 ([0222](../../raw/rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md)). The launcher asks the same library VPX
+asks; where it cannot, it falls back, and **where none of that can answer it says so in one line
+and leaves the file alone** rather than guessing ([0222](../../raw/rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md)).

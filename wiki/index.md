@@ -306,5 +306,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0219 — The other keys VPX offers reach nothing](rules/0219-the-other-keys-vpx-offers-reach-nothing.md) — no coin switch to close, and the tilt key is the simulator's own
 - [0220 — The backbox is drawn in the top left of the playfield window](rules/0220-the-backbox-is-drawn-in-the-top-left.md) — one window, because a second one would open behind it
 - [0221 — And it is sized on every launch](rules/0221-the-backbox-is-sized-on-every-launch.md) — absolute pixels do not scale, so the region is derived from your display every time
+- [0222 — It is the display VPX will open on that counts](rules/0222-it-is-the-display-vpx-will-open-on-that-counts.md) — logical pixels, the screen VPX picks rather than the desktop's, and silence rather than a guess
 
 ## Questions
