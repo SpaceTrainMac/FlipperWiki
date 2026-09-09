@@ -137,3 +137,7 @@ question about a game in progress ([0404](../../raw/rules/0404-the-announcement-
 
 **`GAME OVER` is not this state's either** — it names the end of a *game*, which
 [the state that ran it](game-over.md) knows and this one only inherits ([0405](../../raw/rules/0405-game-over-is-not-this-states.md)).
+
+**And [the draw](the-draw.md) is not here** — it belongs to the state that ran the game and is
+over, its number blanked, before this one opens. **This state's use of `MATCH` is unchanged by it**:
+it writes the place while somebody is typing, and blanks it on the way out ([0406](../../raw/rules/0406-the-draw-is-not-here.md)).
