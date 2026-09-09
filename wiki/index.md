@@ -221,5 +221,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0142 — `BALLSENSOR_BALLEJECTOR`](rules/0142-ballsensor_ballejector.md) — a ball is **available to serve**; `FCA_1_BALL_OUT` can fire it into the start ramp
 - [0143 — `OUTFIRE`](rules/0143-outfire.md) — 1 000 while the left bunker waits for its second ball
 - [0144 — `BUTTON_LEFT`](rules/0144-button_left.md) — rotates the three M-A-C letters left
+- [0145 — `BUTTON_RIGHT`](rules/0145-button_right.md) — rotates the three M-A-C letters right
 
 ## Questions

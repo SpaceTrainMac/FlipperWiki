@@ -42,3 +42,4 @@ links to the page that explains it.
 | `BALLSENSOR_BALLEJECTOR` | — | a ball is **available to serve**; `FCA_1_BALL_OUT` can fire it into the start ramp | — | [ball store](../things/ball-store.md) |
 | `OUTFIRE` | 1 000 while the left bunker waits for its second ball | the plunger-fired ball has **left the start ramp** into play; opens the drain-protection window | — | [outfire](../things/outfire.md) |
 | `BUTTON_LEFT` | — | rotates the three M-A-C letters left | — | [flipper buttons](../things/flipper-buttons.md) |
+| `BUTTON_RIGHT` | — | rotates the three M-A-C letters right | — | [flipper buttons](../things/flipper-buttons.md) |
