@@ -35,3 +35,9 @@ back — and **nothing else on the glass moves while that happens**; on the way 
 to blank completely before the row below starts ([0330](../../raw/rules/0330-a-display-row-is-five-steps.md)).
 
 **Every 7-segment digit on the backglass takes part, and all sixteen LEDs with them** ([0331](../../raw/rules/0331-every-digit-takes-part.md)).
+
+## The high score scene
+
+**The lamps do not stop** ([0332](../../raw/rules/0332-the-lamps-do-not-stop.md)). The playfield still climbs row by row, the backglass LEDs climb
+with it and the backlight still fades — all of that is identical to the ladder. **What changes is
+that the 7-segment displays are taken out of the climb and given over to the table** ([0332](../../raw/rules/0332-the-lamps-do-not-stop.md)).

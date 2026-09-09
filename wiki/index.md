@@ -422,5 +422,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0329 — The backglass rises too, and its bands interleave](rules/0329-the-backglass-rises-too.md) — four rows of LEDs and three of displays, interleaved
 - [0330 — A display row is five steps of the animation, not one](rules/0330-a-display-row-is-five-steps.md) — six shapes to cross one digit, with the rest of the glass held still
 - [0331 — Every 7-segment digit on the backglass takes part](rules/0331-every-digit-takes-part.md) — every digit and all sixteen LEDs are in the climb
+- [0332 — The lamps do not stop](rules/0332-the-lamps-do-not-stop.md) — the light show carries on; only the digits change job
 
 ## Questions
