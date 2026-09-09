@@ -361,5 +361,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0269 — `8-bit` is the set to install first](rules/0269-8-bit-is-the-set-to-install-first.md) — complete, cheap to build, and made rather than recorded
 - [0270 — `ALL SETS` pools the four into one cabinet](rules/0270-all-sets-pools-the-four-into-one-cabinet.md) — every cue drawn from every set, at four different masterings
 - [0271 — An empty `soundSet` means the root itself is the set](rules/0271-an-empty-soundset-means-the-root-is-the-set.md) — `NONE SET` is usually a machine looking in the wrong place
+- [0272 — An effect may name several files instead of one](rules/0272-an-effect-may-name-several-files.md) — variants, how they are picked, and how to hear them one at a time
 
 ## Questions

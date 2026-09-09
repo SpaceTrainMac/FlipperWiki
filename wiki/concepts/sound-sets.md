@@ -40,3 +40,15 @@ authors chose — four sets each mastered sensibly are not a set mastered togeth
 **`NONE SET` in the menu means no folder anywhere holds a set** — usually the machine looking in a
 different place than you think ([0271](../../raw/rules/0271-an-empty-soundset-means-the-root-is-the-set.md)). A cabinet with only one set can put that set's files
 straight where the machine looks and leave the setting empty ([0271](../../raw/rules/0271-an-empty-soundset-means-the-root-is-the-set.md)).
+
+**One effect can name several files, and then the cabinet picks between them each time** — which is
+how a bumper stops sounding like the same bumper three hundred times in an evening ([0272](../../raw/rules/0272-an-effect-may-name-several-files.md)):
+
+| | |
+|---|---|
+| **how it picks** | `SFX MODE` [in the menu](../moments/the-service-menu.md): `RANDOM` deals a shuffled deck, `LOOP` goes round in order |
+| **where it is allowed** | effects only. A list of music files **stops the cabinet** ([0272](../../raw/rules/0272-an-effect-may-name-several-files.md)) |
+| **how many** | as many as you like, and a list of one behaves exactly like a single file |
+| **hearing them** | `SOUND TEST` names the variant it is playing and steps to the next each time |
+
+*(the table is cabinet.md §3's, rendered for a player ([0272](../../raw/rules/0272-an-effect-may-name-several-files.md)))*
