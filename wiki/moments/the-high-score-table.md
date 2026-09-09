@@ -24,3 +24,9 @@ just typed come off the glass** — both of which are fine here, because the gam
 | left | to the closing titles |
 
 *(the table is show-highscore.md's, rendered for a player ([0381](../../raw/rules/0381-the-same-machine-and-the-same-scene.md)))*
+
+**Every way out of it is the closing titles, whatever happens while it is on screen** ([0382](../../raw/rules/0382-every-way-out-of-the-table-is-credits.md)). It
+can end three ways — the scroll finishing, somebody pressing start, or the service gesture — and
+in attract mode two of those are exits from attract mode; here they are not. **The game is over and
+the roll is next, so the end of a game must not depend on whether somebody leant on a button while
+reading the table** ([0382](../../raw/rules/0382-every-way-out-of-the-table-is-credits.md)).
