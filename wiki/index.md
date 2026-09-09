@@ -166,5 +166,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0090 — A tilt does not void your bonus](rules/0090-tilt-is-the-machines-own-business-and-nothing.md) — you lose the outputs, not the score
 - [0091 — The draw](rules/0091-when-every-player-is-out-of-balls-the.md) — a score ending in the drawn digits wins a ball; nothing never wins
 - [0093 — What each display shows during a game](rules/0093-the-displays.md) — the six fields above the playfield
+- [0094 — BALL IN PLAY counts down](rules/0094-ball-in-play-counts-down-rather-than-up.md) — turns left, not the ball you are on
 
 ## Questions

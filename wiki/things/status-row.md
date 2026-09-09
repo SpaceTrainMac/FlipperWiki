@@ -9,6 +9,11 @@ body: game
 **The two-digit field printed `CREDITS` is not credits during a game — it is the extra balls you
 have in hand**, and they last only for the turn ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
 
+**`BALL IN PLAY` counts *down*, and the number beside that legend is not the ball in play** — it is
+how many turns you have left, including this one: 3, 2, 1 ([0094](../../raw/rules/0094-ball-in-play-counts-down-rather-than-up.md)). The tension with the printed
+legend is deliberate, and *how many turns have I got left* is the question a player actually asks
+([0094](../../raw/rules/0094-ball-in-play-counts-down-rather-than-up.md)). **It does not count extra balls**: those extend a turn without being one ([0094](../../raw/rules/0094-ball-in-play-counts-down-rather-than-up.md)).
+
 **`BALL IN PLAY` counts turns, not balls** — [a turn can hold several balls](../concepts/ball-turn-game.md)
 ([0076](../../raw/rules/0076-one-to-four-players-three-balls-each-taken.md)).
 

@@ -106,3 +106,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:16  lint    8 findings, all fixed; §1 and §3–§12 of gameplay.md ingested
 2026-09-09T22:34  cut     §13 of gameplay.md  0093–0114
 2026-09-09T22:34  ingest  0093  concepts/what-the-glass-shows, things/extra-plays-eye, rules/0093
+2026-09-09T22:34  ingest  0094  things/status-row, rules/0094
