@@ -26,6 +26,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [What nobody has watched](concepts/what-nobody-has-watched.md) — every duration on these pages is arithmetic, and this is the page an evening at the glass is for
 - [The two levels, and the four ways between them](concepts/the-two-levels.md) — the flyer's names for the elevator holes, the ramp, the return track and the raised tunnel
 - [Decided where the sources are silent](concepts/where-the-sources-are-silent.md) — which of this machine's rules were chosen rather than found, and when
+- [Sound sets, and the four voices of this machine](concepts/sound-sets.md) — one folder is one voice; four of them, or all four at once
 
 ## Things
 
@@ -355,5 +356,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0264 — You will not hear it until you let go](rules/0264-you-will-not-hear-it-until-you-let-go.md) — silent while it climbs, because a wrapping ladder would blast the room
 - [0265 — A tap is under a second, a volume is over it](rules/0265-a-tap-is-under-a-second-a-volume-is-over-it.md) — the number appearing is the line between leaving and setting
 - [0266 — The single-flipper answers need the other button up](rules/0266-the-single-flipper-answers-need-the-other-button-up.md) — one rule keeps every two-handed reach from doing something one-handed
+- [0267 — A sound set is one folder](rules/0267-a-sound-set-is-one-folder.md) — one voice a folder, and choosing between them is a setting
 
 ## Questions
