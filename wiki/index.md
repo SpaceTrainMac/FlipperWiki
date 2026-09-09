@@ -198,5 +198,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0119 — `BUNKER_RIGHT`](rules/0119-bunker_right.md) — 100
 - [0120 — `BUMPER_LEFT`](rules/0120-bumper_left.md) — 100
 - [0121 — `BUMPER_RIGHT`](rules/0121-bumper_right.md) — 100
+- [0122 — `BUMPER_MIDDLE`](rules/0122-bumper_middle.md) — 100
 
 ## Questions
