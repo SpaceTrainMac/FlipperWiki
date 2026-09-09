@@ -134,5 +134,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0068 — When a ball counts, and when it does not](rules/0068-when-a-ball-counts-and-when-it-does.md) — a drain, an extra ball, drain protection, the power switch
 - [0069 — The transfer: two seconds, whatever the number](rules/0069-when-the-turn-is-over-the-number-on.md) — `MATCH` down, your own up, 20 ticks
 - [0070 — Why the transfer is always two seconds](rules/0070-a-fixed-number-of-ticks-rather-than-a.md) — a good ball does not make the ceremony longer
+- [0071 — The two numbers together never change](rules/0071-the-two-numbers-together-never-change.md) — nothing is lost or paid twice mid-transfer
 
 ## Questions

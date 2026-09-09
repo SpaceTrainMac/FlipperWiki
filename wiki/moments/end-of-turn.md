@@ -13,6 +13,11 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**The two numbers together never change.** At every tick, the turn score plus your total is exactly
+what it was before the transfer began, so nothing can be lost or paid twice in the middle of it — and
+a transfer cut short by the cabinet being switched off finishes in one step, without the animation
+([0071](../../raw/rules/0071-the-two-numbers-together-never-change.md)).
+
 **A fixed number of ticks rather than a fixed step size**, because a step size that counted 915 000
 out in readable pieces would take minutes, and because the end of a turn should not get slower as a
 player gets better ([0070](../../raw/rules/0070-a-fixed-number-of-ticks-rather-than-a.md)).
