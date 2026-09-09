@@ -21,6 +21,11 @@ nine and all three. The arithmetic closes exactly: 2 × 10 + 5 bonuses at 5 000 
 25 × 5 000 ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)). **The count is capped at 39, and past it the ladder simply stops** — the bank keeps paying its
 10 000, the lamps do not move ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md), [0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).
 
+**Nothing anywhere shows the count as a number.** The two-digit field that might have is
+[the extra-ball counter](status-row.md), so at 25 you read five ladder lamps and two Super Bonus
+lamps and add them — which is what the lamps are laid out to be read as, and the same arithmetic the
+cabinet backlight is doing in colour ([0027](../../raw/rules/0027-nothing-shows-the-count-as-a-number.md)).
+
 **Watch it roll over.** A bank completion steps it by exactly one, but a `5000` inlane can jump five
 and cross a decade: reaching a multiple of ten fills out the old decade, blanks all nine unit lamps
 at once, lights the Super Bonus lamp for the decade just finished, and refills to the new units

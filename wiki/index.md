@@ -74,5 +74,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0024 — The ladder rolls its tens over as it fills](rules/0024-the-ladder-rolls-its-tens-over-as-it.md) — nine lamps going dark at once is a carry, not a loss
 - [0025 — Past the 39th bonus, the ladder stops moving](rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md) — the count caps; the bank keeps paying
 - [0026 — A hidden count tracks bank completions across the whole game](rules/0026-a-separate-hidden-count-tracks-bank-completions-across.md) — the ladder forgets each ball; this count does not
+- [0027 — Nothing shows the count as a number](rules/0027-nothing-shows-the-count-as-a-number.md) — the bonus is on the playfield in lamps, not on a display
 
 ## Questions
