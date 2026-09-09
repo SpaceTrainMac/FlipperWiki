@@ -16,6 +16,10 @@ They are not a tenth mechanic — they are what the machine does when the three 
 
 *(the table is rule 0043's, rendered for a player)*
 
+**Neither pays a score, and neither needs to.** The award is the multiplier just earned — every
+bonus counted for the rest of the game is worth three times what it was — and a number on top would
+be paying twice for one achievement ([0045](../../raw/rules/0045-neither-pays-a-score-and-neither-needs-to.md)).
+
 **Both are announced once, at the moment the last lamp lights, and never again.** `X3_BOT` stays lit
 for the rest of the game, so a machine that fired while the condition merely *held* would play the
 warp on every ball ([0044](../../raw/rules/0044-both-are-announced-once-at-the-moment-the.md)).
