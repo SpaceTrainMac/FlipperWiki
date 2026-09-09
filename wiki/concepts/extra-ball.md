@@ -6,6 +6,18 @@ body: game
 ---
 # The extra ball
 
+**What survives an extra ball is what survives any ball**: the three multipliers, the three M-A-C
+letters, and the turn score ([0088](../../raw/rules/0088-what-survives-an-extra-ball-is-what-survives.md)).
+
+| | Counted first | Playfield cleared | Turn score kept | `BALL IN PLAY` |
+|---|---|---|---|---|
+| [drain protection](drain-protection.md) | no | no | yes | unchanged |
+| **an extra ball** | yes | **yes** | yes | unchanged |
+| [multiball, one ball lost](multiball.md) | no | no | yes | unchanged |
+| the turn ending | yes | yes | transferred, then zero | counts down |
+
+*(the table is rule 0088's, rendered for a player)*
+
 **An extra ball is a number, and it is [the two-digit field](../things/status-row.md).** Every award
 adds one, every drain takes one away, and **the turn ends when a ball drains and that number is
 zero** — so you read how much of your turn is left where a credit count used to be ([0087](../../raw/rules/0087-an-extra-ball-is-a-number-and-it.md)).
