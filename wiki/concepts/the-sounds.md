@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL]
 body: game
 ---
 # What the machine says, and when
@@ -69,3 +69,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `GAME_OVER` | the last ball of the last player has drained ([0285](../../raw/rules/0285-cue-game-over.md)) |
 
 | `NEXT_PLAYER` | [the turn passes](../moments/end-of-turn.md) **to a different player** — a one-player game never hears it ([0286](../../raw/rules/0286-cue-next-player.md)) |
+
+| `NO_MORE_EXTRABALL` | **a drain with [the two-digit field](../things/status-row.md) at zero** — the turn is over ([0287](../../raw/rules/0287-cue-no-more-extraball.md)) |

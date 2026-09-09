@@ -376,5 +376,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0284 — `HOUSE_BALL_SAVED`](rules/0284-cue-house-ball-saved.md) — a protected drain — it replaces `BALL_LOST`, once a turn
 - [0285 — `GAME_OVER`](rules/0285-cue-game-over.md) — the last ball of the last player has drained
 - [0286 — `NEXT_PLAYER`](rules/0286-cue-next-player.md) — the turn passing to a different player, so a solo game never hears it
+- [0287 — `NO_MORE_EXTRABALL`](rules/0287-cue-no-more-extraball.md) — the drain that finds the extra-ball field empty, ending the turn
 
 ## Questions
