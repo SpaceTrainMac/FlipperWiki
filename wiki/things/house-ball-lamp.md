@@ -14,5 +14,6 @@ outlane pays and the ball comes back ([0050](../../raw/rules/0050-collecting-spe
 
 **A ball it gives back is not counted, and nothing is cleared** — the ball did not end ([0068](../../raw/rules/0068-when-a-ball-counts-and-when-it-does.md)).
 
-TBC — what starts it is not a rule here yet. See
+**It is armed by launching**, for the first 15 seconds after the ball leaves the ramp, and spent
+the first time it saves a drain ([0081](../../raw/rules/0081-drain-protection-covers-the-first-15-seconds-configurable.md)) — [drain protection](../concepts/drain-protection.md). See
 [lit awards](../concepts/lit-awards.md).

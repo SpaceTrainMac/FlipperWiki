@@ -18,6 +18,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The thunderstrike](concepts/the-thunderstrike.md) — all three bumpers inside one second: a flat 500 and four white flashes
 - [Multiball](concepts/multiball.md) — the left bunker starts it when a ball is staged; you plunge the second, and the first follows 2.5 seconds later
 - [A ball, a turn and a game](concepts/ball-turn-game.md) — three turns a player, and a turn can hold several balls
+- [Drain protection](concepts/drain-protection.md) — 15 seconds from the launch in which any drain gives the ball back, once a turn
 
 ## Things
 
@@ -149,5 +150,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0078 — You fire every ball yourself](rules/0078-a-ball-begins-in-the-start-ramp-and.md) — the machine fills the ramp, you empty it
 - [0079 — The drain contact says how many balls are still out](rules/0079-ballsensor_ballcache-is-the-drain-and-the-way-it.md) — a pulse against a held contact
 - [0080 — Nothing counts balls in play](rules/0080-which-is-why-nothing-on-this-machine-counts.md) — a held contact is the whole answer
+- [0081 — Drain protection covers the first 15 seconds](rules/0081-drain-protection-covers-the-first-15-seconds-configurable.md) — while `HOUSE BALL` blinks you cannot lose the ball
 
 ## Questions
