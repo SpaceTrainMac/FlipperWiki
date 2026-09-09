@@ -52,6 +52,18 @@ ball, and three lit letters start it complete and paying ([0010](../../raw/rules
 **The multipliers are not spent by the count they multiply** — they stay lit into the next ball
 ([0042](../../raw/rules/0042-all-three-survive-the-ball-and-the-game.md)).
 
+**Not everything that looks like the end of a ball is one** ([0068](../../raw/rules/0068-when-a-ball-counts-and-when-it-does.md)):
+
+| The ball ended in | Counted |
+|---|---|
+| a drain, and the turn is over | **yes** |
+| a drain, and an extra ball follows | **yes**, before the playfield is cleared for it |
+| [drain protection](../things/house-ball-lamp.md) giving it back | **no** — the ball did not end, and nothing is cleared |
+| the cabinet being switched off | **no** — nothing is counted out, and nothing is lost |
+| a tilt | as a drain |
+
+*(the table is rule 0068's, rendered for a player)*
+
 **Six things survive a ball and everything else starts again**: the three multipliers, how many
 times you have completed the bank, the two redemption counts, the M-A-C letters, the extra balls you
 have won, and the turn score. The next ball begins with the bonus count at zero, both hole ladders

@@ -12,5 +12,7 @@ shortest of the machine's four timed windows.
 **While it runs, a lit [`SPECIAL`](../concepts/special.md) can be collected for free** — the
 outlane pays and the ball comes back ([0050](../../raw/rules/0050-collecting-special-costs-the-ball.md)).
 
-TBC — what else drain protection does, and what starts it, are not rules here yet. See
+**A ball it gives back is not counted, and nothing is cleared** — the ball did not end ([0068](../../raw/rules/0068-when-a-ball-counts-and-when-it-does.md)).
+
+TBC — what starts it is not a rule here yet. See
 [lit awards](../concepts/lit-awards.md).
