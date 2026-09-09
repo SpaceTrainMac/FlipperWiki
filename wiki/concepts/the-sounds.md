@@ -208,3 +208,6 @@ except itself coming round again ([0321](../../raw/rules/0321-all-three-themes-a
 **The songs are not cues.** The playlist is a list of files addressed by position — the fourth
 entry is the fourth entry — with **no names at all**, so there is nothing here to describe them
 against ([0322](../../raw/rules/0322-songs-is-an-array-of-paths.md)). Order is meaningful, because it is the order the jukebox plays ([0322](../../raw/rules/0322-songs-is-an-array-of-paths.md)).
+
+**There is nothing to say about an entry beyond its path** — a playlist is a collection of music in
+a folder, and unlike a cue no entry means anything to the machine ([0323](../../raw/rules/0323-nothing-to-say-about-a-song-beyond-its-path.md)).
