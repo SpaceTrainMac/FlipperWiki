@@ -486,5 +486,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0389 — Six characters, which is what a score display shows](rules/0389-six-characters-on-the-players-own-display.md) — typed where your score was, with the other three totals left up
 - [0390 — A ring of thirty-nine positions, walked in both directions](rules/0390-the-ring-of-thirty-nine-positions.md) — rub-out, space, A-Z, 0-9, hyphen — and it wraps
 - [0391 — Same three buttons doing the same three jobs](rules/0391-the-same-three-buttons-doing-the-same-jobs.md) — one interaction model across player select, the menu and name entry
+- [0392 — Each character opens where the previous one was confirmed](rules/0392-each-character-opens-where-the-last-was-confirmed.md) — so `AAA` is three presses of start and no stepping
 
 ## Questions

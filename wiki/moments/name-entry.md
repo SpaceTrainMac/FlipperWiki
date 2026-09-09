@@ -62,3 +62,6 @@ ends** ([0390](../../raw/rules/0390-the-ring-of-thirty-nine-positions.md)):
 [the service menu](the-service-menu.md)**, which is why there is one interaction model on this
 machine and not three ([0391](../../raw/rules/0391-the-same-three-buttons-doing-the-same-jobs.md)). **Auto-repeat is not optional** — a held button reports one edge
 — so it is built, and shared with the menu ([0391](../../raw/rules/0391-the-same-three-buttons-doing-the-same-jobs.md)).
+
+**Each character opens where the previous one was confirmed**, so `AAA` and `FFF` are three presses
+of start with no stepping at all ([0392](../../raw/rules/0392-each-character-opens-where-the-last-was-confirmed.md)).
