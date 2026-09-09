@@ -20,6 +20,11 @@ body: game
 nine and all three. The arithmetic closes exactly: 2 × 10 + 5 bonuses at 5 000 is 125 000, which is
 25 × 5 000 ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)). **The count is capped at 39** ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)).
 
+**Watch it roll over.** A bank completion steps it by exactly one, but a `5000` inlane can jump five
+and cross a decade: reaching a multiple of ten fills out the old decade, blanks all nine unit lamps
+at once, lights the Super Bonus lamp for the decade just finished, and refills to the new units
+digit — so the playfield always reads as the count ([0024](../../raw/rules/0024-the-ladder-rolls-its-tens-over-as-it.md)).
+
 **The `X BONUS` printed down its side is this ladder, and it was never a multiplier.** The card's
 *lights x BONUS* means one more lamp on the ladder — the first rung from empty, and the next one on
 every completion after ([0017](../../raw/rules/0017-the-cards-x-bonus-is-the-ladder-and.md)).

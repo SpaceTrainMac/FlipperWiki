@@ -71,5 +71,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0021 — The bonus count: 0 to 39, 5 000 each, paid when the ball ends](rules/0021-one-number-from-0-to-39-worth-5.md) — what a good ball is worth, and when you get it
 - [0022 — What advances the bonus count](rules/0022-what-advances-it.md) — a bank completion is one, a `5000` inlane is five
 - [0023 — The count is capped at 39, and the lamps are the number in two digits](rules/0023-the-count-is-capped-at-39.md) — how to read the ladder as a number
+- [0024 — The ladder rolls its tens over as it fills](rules/0024-the-ladder-rolls-its-tens-over-as-it.md) — nine lamps going dark at once is a carry, not a loss
 
 ## Questions

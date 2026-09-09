@@ -32,3 +32,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:55  cut     §5–§9 of gameplay.md  0021–0061
 2026-09-09T21:55  ingest  0021  concepts/the-bonus-count, things/bonus-ladder, moments/end-of-ball, rules/00212026-09-09T21:57  ingest  0022  concepts/the-bonus-count, things/inlanes-5000, concepts/advance-bonus-bank, things/bonus-ladder, rules/0022
 2026-09-09T21:57  ingest  0023  things/bonus-ladder, concepts/the-bonus-count, rules/0023
+2026-09-09T21:57  ingest  0024  things/bonus-ladder, rules/0024
