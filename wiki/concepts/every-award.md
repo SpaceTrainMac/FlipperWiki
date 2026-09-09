@@ -19,3 +19,4 @@ own — see [the three multipliers](the-multipliers.md).
 | either bunker | **100** | at once |
 | `OUTFIRE`, while the left bunker waits | **1 000** | at once |
 | a `500` side lane | **500** | at once |
+| a `5000` inlane | **5 000** + five bonuses | at once |
