@@ -496,5 +496,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0399 — How an entry ends](rules/0399-the-three-ways-an-entry-ends.md) — finished, timed out or switched off — all three commit
 - [0400 — The timeout commits rather than discards](rules/0400-the-timeout-commits-rather-than-discards.md) — it cannot take away a place, which is why there is one at all
 - [0401 — A player who walks off at the very start is recorded as A](rules/0401-a-player-who-walks-off-is-recorded-as-a.md) — an `A`, rather than a blank row that reads like a fault
+- [0402 — The table is written after every name, and a failed write is not the error state](rules/0402-a-failed-write-is-not-the-error-state.md) — four names is four writes, and a failure says `NOSAVE` rather than stopping
 
 ## Questions

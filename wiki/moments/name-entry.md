@@ -120,3 +120,9 @@ room ([0400](../../raw/rules/0400-the-timeout-commits-rather-than-discards.md)).
 
 **A player who walks off at the very start is recorded as `A`** — honest, and not a blank row that
 reads like a fault ([0401](../../raw/rules/0401-a-player-who-walks-off-is-recorded-as-a.md)).
+
+**The table is written after every name rather than once at the end** — four names is four writes,
+which buys the property that **a power cut after the second player keeps the first two** ([0402](../../raw/rules/0402-a-failed-write-is-not-the-error-state.md)).
+And **a write that fails is not an error state**: [`NOSAVE`](../things/match-display.md) goes on
+`MATCH` in place of the place, and the machine carries on — a cabinet that cannot save a name
+still plays pinball ([0402](../../raw/rules/0402-a-failed-write-is-not-the-error-state.md)).
