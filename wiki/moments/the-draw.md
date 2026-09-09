@@ -24,3 +24,7 @@ draw cannot happen because there is no second draw in the sequence to reach ([03
 game, where a number is put on the glass and **every player whose score ends in those digits is
 handed one more ball** ([0373](../../raw/rules/0373-two-ways-a-player-can-be-awarded.md)). The round that follows plays whatever the draw awarded, and if it
 awarded nothing there is nothing to play ([0373](../../raw/rules/0373-two-ways-a-player-can-be-awarded.md)).
+
+**The ball it awards is an ordinary turn** — taken in player order like any other, with the
+playfield reset the way it is at the start of every turn and `BALL IN PLAY` counting down as usual.
+**Nothing about it is special once the machine has resumed** ([0374](../../raw/rules/0374-the-ball-the-draw-awards-is-an-ordinary-turn.md)).
