@@ -247,5 +247,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0166 — the right captive ball](rules/0166-the-right-captive-ball.md) — both 30 000 markers armed
 - [0167 — the 2nd and 3rd successful redemption, that side](rules/0167-the-2nd-and-3rd-successful-redemption.md) — ×2 then ×3 on that hole bonus
 - [0168 — the 40th total bank completion, then the right captive ball inside 20 s](rules/0168-the-40th-total-bank-completion-then.md) — **500 000**, and ×2 on the bonus count
+- [0169 — the 50th total bank completion, then the right captive ball inside 20 s](rules/0169-the-50th-total-bank-completion-then.md) — **500 000**, and ×3 on the bonus count
 
 ## Questions
