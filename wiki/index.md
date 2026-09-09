@@ -439,5 +439,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0345 — Double-tapping start gives a one-player game](rules/0345-double-tapping-start-gives-one-player.md) — the commonest case needs no adjustment at all
 - [0346 — All button handling is edge-triggered](rules/0346-all-button-handling-is-edge-triggered.md) — buttons report changes, not levels, so one press is one answer
 - [0347 — The glass is dark on the way in, and that is the first thing this state does](rules/0347-the-glass-is-dark-on-the-way-in.md) — every display and LED cleared first, because the old screen belonged to somebody else
+- [0348 — The playfield lamps are not touched](rules/0348-the-playfield-lamps-are-not-touched.md) — the light show keeps the playfield until the game takes it
 
 ## Questions
