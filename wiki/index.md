@@ -196,5 +196,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0117 — `C`](rules/0117-c.md) — **30 000**, when M-A-C is complete
 - [0118 — `BUNKER_LEFT`](rules/0118-bunker_left.md) — 100
 - [0119 — `BUNKER_RIGHT`](rules/0119-bunker_right.md) — 100
+- [0120 — `BUMPER_LEFT`](rules/0120-bumper_left.md) — 100
 
 ## Questions

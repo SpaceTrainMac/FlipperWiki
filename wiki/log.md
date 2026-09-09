@@ -133,3 +133,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:41  ingest  0117  things/every-switch, rules/0117
 2026-09-09T22:41  ingest  0118  things/every-switch, rules/0118
 2026-09-09T22:41  ingest  0119  things/every-switch, rules/0119
+2026-09-09T22:41  ingest  0120  things/every-switch, rules/0120
