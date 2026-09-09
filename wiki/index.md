@@ -230,5 +230,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0149 — completing the four-target bank](rules/0149-completing-the-four-target-bank.md) — **10 000** + one bonus + the combination stage
 - [0150 — `M` or `C`, with M-A-C complete](rules/0150-m-or-c-with-m-a-c-complete.md) — **30 000**
 - [0151 — `A`, with M-A-C complete, then the right captive ball inside 20 s](rules/0151-a-with-m-a-c-complete-then-the.md) — an **extra ball**
+- [0152 — either bunker](rules/0152-either-bunker.md) — **100**
 
 ## Questions
