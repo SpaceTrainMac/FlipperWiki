@@ -46,6 +46,10 @@ scored — not even the rungs a ball that simply ended would still have counted 
 whatever is lit at that instant, timer running or not: the 30 seconds is a risk the live ball
 carries, not a way to lose what a drain would have paid anyway ([0033](../../raw/rules/0033-letting-the-window-close-forfeits-the-attempt-outright.md)).
 
+**A collection does not stop the machine.** During multiball another ball is on the playfield the
+whole time a marker is being counted out, and the rest of the machine keeps scoring underneath it —
+the freeze belongs to the end of a ball and not to this ([0061](../../raw/rules/0061-both-bunkers-can-collect-while-the-machine-is.md)).
+
 **A marker armed with no window running is collected at that side's bunker at any time** ([0058](../../raw/rules/0058-it-is-also-the-left-hole-ladders-redemption.md)),
 which is what makes the right captive ball's shortcut worth taking.
 

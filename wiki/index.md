@@ -124,5 +124,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0058 — The left bunker collects as well as starting multiball](rules/0058-it-is-also-the-left-hole-ladders-redemption.md) — one shot can do both, and an armed marker waits there
 - [0059 — OUTFIRE pays 1 000 while the left bunker is waiting](rules/0059-outfire-pays-1-000-while-the-left-bunker.md) — the machine paying for the second ball's arrival
 - [0060 — What the right bunker does](rules/0060-bunker_right-is-the-cards-hole-for-the-right.md) — 100, an extra ball, a redemption, and out in five seconds
+- [0061 — Both bunkers collect while the machine is still live](rules/0061-both-bunkers-can-collect-while-the-machine-is.md) — a payout does not pause the playfield
 
 ## Questions

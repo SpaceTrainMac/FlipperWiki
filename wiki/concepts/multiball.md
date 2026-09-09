@@ -12,6 +12,9 @@ body: game
 bunker holds your first ball while it is on its way, and releases it **2.5 seconds after the second
 ball leaves the ramp** — so both are on the playfield together ([0056](../../raw/rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md)).
 
+**Collections happen live.** A hole bonus counted out during multiball does not pause the other
+ball or the rest of the playfield ([0061](../../raw/rules/0061-both-bunkers-can-collect-while-the-machine-is.md)).
+
 **The arrival itself pays 1 000** — [`OUTFIRE`](../things/outfire.md) does, while the bunker is
 waiting, and at no other time ([0059](../../raw/rules/0059-outfire-pays-1-000-while-the-left-bunker.md)).
 
