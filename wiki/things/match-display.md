@@ -6,8 +6,9 @@ body: game
 ---
 # The MATCH display
 
-**In [the service menu](../moments/the-service-menu.md) it says `SETUP`**, which is how the glass
-tells you the machine is not in attract mode ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)).
+**In [the service menu](../moments/the-service-menu.md) it says `SETUP`**, and in
+[the radio](../moments/the-radio.md) it says `RADIO`, or `NO NET` while the station will not
+connect — which is how the glass tells you the machine is not in attract mode ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md), [0260](../../raw/rules/0260-the-cabinet-plays-a-radio-station-when-left-alone.md)).
 
 **On [the cabinet](../bodies/cabinet.md) it also carries two words that mean something is wrong**
 ([0259](../../raw/rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md)). `NOSAVE` is a settings file or a high score table that could not be written, with the old

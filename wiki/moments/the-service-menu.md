@@ -18,7 +18,7 @@ opens, let go and attract mode carries on where it left off. **If you are ever u
 gesture is working, that is the thing to wait for** ([0253](../../raw/rules/0253-after-three-seconds-a-joke-comes-up.md)).
 
 **There is a second gesture on the same two buttons, and the two cannot be confused** ([0254](../../raw/rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md)). The
-**right flipper alone**, held nine seconds, starts the radio — it reads the same
+**right flipper alone**, held nine seconds, starts [the radio](the-radio.md) — it reads the same
 way, the light show stopping at three seconds with `RADIO` on the glass over a line of scrolling
 nonsense ([0254](../../raw/rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md)). A single-flipper hold only counts while the other button stays up, so reaching
 for both with one hand landing first does nothing, and letting go of one hand halfway through the

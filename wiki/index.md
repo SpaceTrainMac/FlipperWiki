@@ -75,6 +75,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The draw](moments/the-draw.md) — the last two digits of your score against a random pair, for one more ball
 - [The Space Train banner](moments/the-space-train-banner.md) — `SPACE TRAIN LIFTS OFF`, one word to a display, five seconds, mid-ball
 - [The service menu](moments/the-service-menu.md) — both flippers for nine seconds in attract mode, seventeen entries in a ring, and it saves by itself
+- [The radio](moments/the-radio.md) — what the cabinet does when nobody is there: a station across the score displays, and every button doing one thing
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -347,5 +348,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0257 — The last six entries leave the menu](rules/0257-the-last-six-entries-leave-the-menu.md) — a flipper there ends the visit, and everything set on the way is saved first
 - [0258 — It saves by itself](rules/0258-the-service-menu-saves-by-itself.md) — two seconds after the last change, on the way out, and after two minutes alone
 - [0259 — Two words on the `MATCH` display mean something is wrong](rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md) — `REBOOT` and `NOSAVE`, and what each one costs
+- [0260 — The cabinet plays a radio station when it has been left alone](rules/0260-the-cabinet-plays-a-radio-station-when-left-alone.md) — a state of the machine, with the station's name on the glass
 
 ## Questions
