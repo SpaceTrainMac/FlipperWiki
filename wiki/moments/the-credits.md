@@ -28,3 +28,7 @@ Somebody watching the names who presses start has already decided to play again,
 through attract mode first would make them wait for a screen they have just asked to leave
 ([0410](../../raw/rules/0410-start-skips-the-intro.md)). The press is edge-triggered like every other on the machine, so **the press that finished
 a name cannot also skip the credits** ([0410](../../raw/rules/0410-start-skips-the-intro.md)).
+
+**Sixty seconds by default, and [an owner can change it](../bodies/cabinet.md)** — anything from a
+second to an hour. **How long a light show runs is a choice made about the machine rather than a
+fact about it**, which is the rule that decides what belongs in a setting at all ([0411](../../raw/rules/0411-sixty-seconds-by-default.md)).
