@@ -219,5 +219,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0140 — `BALLSENSOR_BALLCACHE`](rules/0140-ballsensor_ballcache.md) — **the drain** — a returning ball reaches the two-ball store here; a pulse is one ball home, a held contact is every ball home an
 - [0141 — `BALLSENSOR_STARTRAMP`](rules/0141-ballsensor_startramp.md) — the served ball has **arrived** in the start ramp, ready for the plunger
 - [0142 — `BALLSENSOR_BALLEJECTOR`](rules/0142-ballsensor_ballejector.md) — a ball is **available to serve**; `FCA_1_BALL_OUT` can fire it into the start ramp
+- [0143 — `OUTFIRE`](rules/0143-outfire.md) — 1 000 while the left bunker waits for its second ball
 
 ## Questions

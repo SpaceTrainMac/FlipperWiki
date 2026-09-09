@@ -40,3 +40,4 @@ links to the page that explains it.
 | `BALLSENSOR_BALLCACHE` | — | **the drain** — a returning ball reaches the two-ball store here; a pulse is one ball home, a held contact is every ball home and the turn over (§12) | — | [ball store](../things/ball-store.md) |
 | `BALLSENSOR_STARTRAMP` | — | the served ball has **arrived** in the start ramp, ready for the plunger | — | [ball store](../things/ball-store.md) |
 | `BALLSENSOR_BALLEJECTOR` | — | a ball is **available to serve**; `FCA_1_BALL_OUT` can fire it into the start ramp | — | [ball store](../things/ball-store.md) |
+| `OUTFIRE` | 1 000 while the left bunker waits for its second ball | the plunger-fired ball has **left the start ramp** into play; opens the drain-protection window | — | [outfire](../things/outfire.md) |
