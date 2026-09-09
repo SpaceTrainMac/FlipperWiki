@@ -296,5 +296,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0210 — D2: a multiplier multiplies the game that earned it](rules/0210-d2-a-multiplier-multiplies-the-game-that-earned-it.md) — the alternative reached ×27 and paid one ladder's DOUBLE on bumper points
 - [0211 — D3: `SPECIAL` is worth 5 000, and it is an outlane award](rules/0211-d3-special-is-worth-5-000-and-is-an-outlane-award.md) — the lamp names give the figure, the printing gives the place
 - [0212 — D4: the three side-lane switches are the three printed values](rules/0212-d4-the-three-sidelane-switches-are-the-printed-values.md) — three prints, three switches, one known, and the rest by elimination
+- [0213 — What none of these touch is the award chain](rules/0213-what-none-of-these-touch-is-the-award-chain.md) — the four decisions pick values; how the machine behaves was designed elsewhere
 
 ## Questions

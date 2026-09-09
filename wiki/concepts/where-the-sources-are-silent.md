@@ -35,3 +35,14 @@ correction has to argue with**; overturning one is editing that record, not find
 | **D2** | **a multiplier multiplies the game that earned it and nothing else** — they do not compose | the machine advertises *Double & Triple*. Nine games multiplied together reach ×27, which is not a number this cabinet can mean; and applied to a combined step score, a hole-bonus multiplier was silently multiplying bumper points ([0210](../../raw/rules/0210-d2-a-multiplier-multiplies-the-game-that-earned-it.md)) |
 | **D3** | **`SPECIAL` is worth 5 000, and it is an outlane award** | the lamps are named `FLA_SPEC_5K_L` / `_R` — *Special 5000* — which is the spreadsheet answering the question outright; the outlanes are printed `SPECIAL` and carry the switches; and with credits out of scope, points are the only thing left for it to pay ([0211](../../raw/rules/0211-d3-special-is-worth-5-000-and-is-an-outlane-award.md)) |
 | **D4** | **the three side-lane switches are the three printed values** — `_OUT` is the outlane and pays `SPECIAL` when lit, `_5000` is the inlane, and the plain one pays 500 | the lanes are printed `SPECIAL`, `5000` and `500`, and there are exactly three switches a side. One of the three was already known — `SIDELANE_*_5000` pays 5 000 — which leaves the other two in the only order that fits ([0212](../../raw/rules/0212-d4-the-three-sidelane-switches-are-the-printed-values.md)) |
+
+**All four are values, and none of them is a mechanic** ([0213](../../raw/rules/0213-what-none-of-these-touch-is-the-award-chain.md)). What the four leave untouched is
+the whole award chain the apron card describes — [`SPECIAL`](special.md),
+[the combination's two extra balls](advance-bonus-bank.md),
+[the right ball's 30 000](../things/right-captive-ball.md) and
+[the end-of-ball bonus](../moments/end-of-ball.md) — because that is a feature to design rather
+than a number to pick, and it was designed separately ([0213](../../raw/rules/0213-what-none-of-these-touch-is-the-award-chain.md)).
+
+**So the line to hold is *value* against *mechanic*.** A gap the sources leave in a number was
+filled here, in four rows, on one day. A gap they leave in how the machine *behaves* was not filled
+here at all ([0213](../../raw/rules/0213-what-none-of-these-touch-is-the-award-chain.md)).

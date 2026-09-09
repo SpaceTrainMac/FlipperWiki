@@ -228,3 +228,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:12  ingest  0210  concepts/where-the-sources-are-silent, rules/0210
 2026-09-09T23:13  ingest  0211  concepts/where-the-sources-are-silent, concepts/special, rules/0211
 2026-09-09T23:13  ingest  0212  concepts/where-the-sources-are-silent, things/side-lanes, rules/0212
+2026-09-09T23:14  ingest  0213  concepts/where-the-sources-are-silent, rules/0213
