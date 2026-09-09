@@ -116,5 +116,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0052 — Each pop bumper pays 100](rules/0052-each-of-the-three-pop-bumpers-pays-100.md) — nothing builds up there
 - [0053 — Bumpers and slingshots flash the backlight white](rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md) — the flash is not an award
 - [0054 — Three bumpers in one second is a thunderstrike](rules/0054-landing-all-three-bumpers-within-one-second-of.md) — 500 on top, repeatable, order irrelevant
+- [0055 — Two saucers, each with two jobs](rules/0055-two-saucers-each-its-own-sides-hole-as.md) — the flyer's elevator holes, upper centre
 
 ## Questions

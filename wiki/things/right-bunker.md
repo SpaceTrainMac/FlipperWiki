@@ -6,6 +6,9 @@ body: game
 ---
 # The right bunker
 
+**The other of the two saucers** — swallowing the ball and shooting it out again under coil power,
+the flyer's second *elevator hole*, upper centre ([0055](../../raw/rules/0055-two-saucers-each-its-own-sides-hole-as.md)).
+
 **It is where the right hole-bonus ladder is redeemed.** A hit here while that side's window is
 blinking pays the five rungs and the marker together, at the right multiplier, and resets the ladder
 ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)). The other shot that redeems it is the right centre ball itself ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
