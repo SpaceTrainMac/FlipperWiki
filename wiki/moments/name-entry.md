@@ -30,3 +30,9 @@ them ([0386](../../raw/rules/0386-beating-the-bottom-row-is-not-a-place.md)).
 
 **It is not asked again between players** — writing the first player's row could otherwise
 displace the second, **which would decide who gets into the table by who typed first** ([0387](../../raw/rules/0387-qualifying-is-not-asked-again-between-players.md)).
+
+**The order is player order — 1, 2, 3, 4, skipping the ones who did not qualify** ([0388](../../raw/rules/0388-the-order-is-player-order.md)). By
+score was the alternative and it loses on the only ground that matters at a cabinet: **the player
+has to know it is their turn**, and *best first* is a comparison the machine would be making at
+them ([0388](../../raw/rules/0388-the-order-is-player-order.md)). Nothing is hidden by it, because [`MATCH`](../things/match-display.md) says the
+place anyway ([0388](../../raw/rules/0388-the-order-is-player-order.md)).
