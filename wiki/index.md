@@ -54,7 +54,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [OUTFIRE — the start ramp's exit](things/outfire.md) — 1 000 while the left bunker waits, and nothing at any other time
 - [The ball store, and the four contacts](things/ball-store.md) — ready, arrived, launched, home: how the machine follows the ball
 - [The plunger](things/plunger.md) — every ball is fired by hand; there is no auto-launch
-- [The EXTRA PLAYS eye](things/extra-plays-eye.md) — a `0` that winks, and the one thing on the machine that is not a rule
+- [The EXTRA PLAYS eye](things/extra-plays-eye.md) — a `0` that winks every 20 seconds, twice every three and a half minutes, and means nothing at all
 
 ## Moments
 
@@ -169,5 +169,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0094 — BALL IN PLAY counts down](rules/0094-ball-in-play-counts-down-rather-than-up.md) — turns left, not the ball you are on
 - [0095 — One display, three fields, two dark digits](rules/0095-the-bottom-left-display-is-one-six-digit-unit-reading.md) — the gaps are paint, not a fault
 - [0096 — CREDITS is the extra-ball count](rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md) — the legend is wrong and the width is right
+- [0097 — The winking eye](rules/0097-extra-plays-is-a-joke-and-deliberately.md) — it means nothing, and that is the point
 
 ## Questions
