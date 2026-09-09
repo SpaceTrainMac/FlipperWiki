@@ -38,6 +38,9 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
    slugs it — then the paragraph **verbatim**. The slug is the bold sentence, lower-cased, at most
    eight words. `body:` is `game` for gameplay.md and the state documents, `1987` for machine.md,
    `vpx`, `simulator` or `cabinet` for a body's document.
+   **The title is plain text**: the claim with its bold and italics dropped, a link reduced to its
+   words, no trailing full stop, and cut at a clause if it runs past about 96 characters. A title
+   carrying a link is a link the checks will follow out of the front matter and find nothing at.
    **Every relative link inside the paragraph is re-pointed across the seam**, and nothing else in
    it changes. A bare anchor `(#12-the-ball-…)` points at the document itself and becomes
    `(../../../FlipperArchitecture/docs/gameplay.md#12-…)`; a sibling document `(machine.md#14-…)`

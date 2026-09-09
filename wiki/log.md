@@ -29,3 +29,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:44  ingest  0019  concepts/lit-awards, things/x-bon-lamp, things/house-ball-lamp, things/hole-bonus-ladders, things/upper-target-bank, rules/0019
 2026-09-09T21:44  ingest  0020  concepts/lit-awards, rules/0020
 2026-09-09T21:45  lint    4 findings, 0 pages written; coverage 3 sections of gameplay.md
+2026-09-09T21:55  cut     §5–§9 of gameplay.md  0021–0061
