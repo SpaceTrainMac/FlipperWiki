@@ -108,3 +108,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:34  ingest  0093  concepts/what-the-glass-shows, things/extra-plays-eye, rules/0093
 2026-09-09T22:34  ingest  0094  things/status-row, rules/0094
 2026-09-09T22:35  ingest  0095  things/status-row, rules/0095
+2026-09-09T22:35  ingest  0096  things/status-row, rules/0096

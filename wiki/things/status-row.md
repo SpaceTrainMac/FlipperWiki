@@ -30,6 +30,10 @@ legend is deliberate, and *how many turns have I got left* is the question a pla
 **`BALL IN PLAY` counts turns, not balls** — [a turn can hold several balls](../concepts/ball-turn-game.md)
 ([0076](../../raw/rules/0076-one-to-four-players-three-balls-each-taken.md)).
 
+**`CREDITS` counts extra balls because this cabinet has no credits to count.** The legend is wrong
+and the field is the right width, and what you want under it is what a credit used to mean: how much
+more do I get to play ([0096](../../raw/rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md)).
+
 **It counts down as you use them.** Every extra ball awarded adds one, every drain takes one away,
 and your turn ends on a drain with the field at zero ([0087](../../raw/rules/0087-an-extra-ball-is-a-number-and-it.md)).
 

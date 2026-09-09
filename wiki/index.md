@@ -168,5 +168,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0093 — What each display shows during a game](rules/0093-the-displays.md) — the six fields above the playfield
 - [0094 — BALL IN PLAY counts down](rules/0094-ball-in-play-counts-down-rather-than-up.md) — turns left, not the ball you are on
 - [0095 — One display, three fields, two dark digits](rules/0095-the-bottom-left-display-is-one-six-digit-unit-reading.md) — the gaps are paint, not a fault
+- [0096 — CREDITS is the extra-ball count](rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md) — the legend is wrong and the width is right
 
 ## Questions
