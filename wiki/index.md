@@ -49,12 +49,14 @@ Every page, one line each, by category. Updated on every ingest.
 - [The three pop bumpers](things/pop-bumpers.md) — 100 each and no progression, except all three inside a second
 - [The cabinet backlight](things/cabinet-backlight.md) — a white flash is a bumper or a sling; the rest of the time it is showing the ladders in colour
 - [OUTFIRE — the start ramp's exit](things/outfire.md) — 1 000 while the left bunker waits, and nothing at any other time
+- [The ball store, and the four contacts](things/ball-store.md) — ready, arrived, launched, home: how the machine follows the ball
 
 ## Moments
 
 - [The end of a ball](moments/end-of-ball.md) — six things survive a drain: the multipliers, the bank count, the redemption counts, the letters, the extra balls won and the turn score
 
 - [The end of a turn](moments/end-of-turn.md) — what you made this turn goes onto your own score
+- [The serve](moments/the-serve.md) — store to start ramp to playfield
 
 ## Bodies
 
@@ -142,5 +144,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0075 — The MATCH display is blanked between turns](rules/0075-the-match-display-is-blanked-once-the-transfer.md) — you never walk up to the last player's number
 - [0092 — The count is per ball, the transfer is per turn](rules/0092-the-count-is-per-ball-and-the.md) — why an extra ball behaves the way you expect
 - [0076 — One to four players, three balls each](rules/0076-one-to-four-players-three-balls-each-taken.md) — a turn is not a ball
+- [0077 — A two-ball store, and four contacts](rules/0077-a-ball-is-served-from-a-two-ball-store.md) — the four switches that follow a ball round
 
 ## Questions
