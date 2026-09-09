@@ -13,3 +13,4 @@ links to the page that explains it.
 | Switch | Pays | Advances | Collects | Explained on |
 |---|---|---|---|---|
 | `M` | **30 000**, when M-A-C is complete | lights or clears the `M` lamp | — | [m a c lanes](../things/m-a-c-lanes.md) |
+| `A` | — | lights or clears the `A` lamp; **inert while its own window runs** | when M-A-C is complete, opens a 20 s window on the **upper** `EXTRA BALL` lamp and ends the paying mode (§3) | [m a c lanes](../things/m-a-c-lanes.md) |
