@@ -437,5 +437,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0343 — The count starts at 1 and clamps at both ends](rules/0343-the-count-clamps-at-both-ends.md) — no wrap-around: down at 1 and up at 4 do nothing
 - [0344 — START means start](rules/0344-start-means-start.md) — no third meaning, and no separate accept control
 - [0345 — Double-tapping start gives a one-player game](rules/0345-double-tapping-start-gives-one-player.md) — the commonest case needs no adjustment at all
+- [0346 — All button handling is edge-triggered](rules/0346-all-button-handling-is-edge-triggered.md) — buttons report changes, not levels, so one press is one answer
 
 ## Questions

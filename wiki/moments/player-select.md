@@ -27,3 +27,8 @@ game, so there is no third meaning to learn and no separate *accept* control to 
 
 **Double-tapping start gives a one-player game** — the common case needs no adjusting at all:
 press start to come in, press start again to play ([0345](../../raw/rules/0345-double-tapping-start-gives-one-player.md)).
+
+**Holding a button does nothing more than pressing it** — every button on this machine reports
+changes rather than levels, so one physical press is one answer and holding it down produces
+nothing further ([0346](../../raw/rules/0346-all-button-handling-is-edge-triggered.md)). That is what makes reusing start safe: **the press that left the light
+show cannot also commit here** ([0346](../../raw/rules/0346-all-button-handling-is-edge-triggered.md)).
