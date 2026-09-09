@@ -13,5 +13,9 @@ flat 500 more ([0054](../../raw/rules/0054-landing-all-three-bumpers-within-one-
 **A hit also flashes [the cabinet backlight](cabinet-backlight.md) white** for the same 300 ms
 ([0053](../../raw/rules/0053-a-bumper-or-a-slingshot-hit-also-flashes.md)).
 
+**They have blue caps, and only two of the three can be found in the photograph** ([0195](../../raw/rules/0195-upper-playfield-foto04.md)). The
+matrix carries `BUMPER_LEFT`, `_RIGHT` and `_MIDDLE`; two are plainly visible on the *1987* upper
+playfield and **where the third one sits is TBC** — only the cabinet can settle it ([0195](../../raw/rules/0195-upper-playfield-foto04.md)).
+
 **There is no bumper multiplier and no bumper progression** — the bumpers are the
 machine's floor, not one of its mechanics ([0052](../../raw/rules/0052-each-of-the-three-pop-bumpers-pays-100.md)).

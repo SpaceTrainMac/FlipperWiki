@@ -276,5 +276,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0192 — This section is the topology, not the geometry](rules/0192-this-section-is-the-topology-not-the-geometry.md) — the flyer connects things; the photographs place them
 - [0193 — These paths carry no switches, and they do not need any](rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md) — a ramp scores nothing, and the level is implied by whatever closed
 - [0194 — The card's upper lane and upper extra ball are element names](rules/0194-upper-lane-and-upper-extra-ball-are-element-names.md) — *upper* is part of a name, not a place the ball has to be
+- [0195 — Upper playfield (FOTO04)](rules/0195-upper-playfield-foto04.md) — painted arrows instead of targets, two visible bumpers of three, and the numbered lane down the left edge
 
 ## Questions

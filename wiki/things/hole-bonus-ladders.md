@@ -15,6 +15,10 @@ one ball ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one
 sets all six blinking** — the start of a configurable 30-second window ([0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)). A redemption is on
 that timer, and six lamps blinking on one side is how it says so ([0019](../../raw/rules/0019-four-awards-are-lit-on-a-timer-instead.md), [0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)).
 
+**The left ladder runs down the left edge of the playfield, under the raised tunnel**, as a
+numbered lane with its own five steps and its own `TRIPLE` / `DOUBLE` pair beside it — which is what
+the *1987* photograph shows, and why the two sides look nothing like each other ([0195](../../raw/rules/0195-upper-playfield-foto04.md)).
+
 **Redeem at that side's [bunker](left-bunker.md) or at the same centre ball again**; either pays
 the rungs and the marker together and resets that ladder ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)).
 

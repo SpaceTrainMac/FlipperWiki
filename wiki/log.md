@@ -210,3 +210,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:03  ingest  0192  concepts/the-two-levels, rules/0192
 2026-09-09T23:03  ingest  0193  concepts/the-two-levels, rules/0193
 2026-09-09T23:04  ingest  0194  concepts/the-two-levels, rules/0194
+2026-09-09T23:04  ingest  0195  things/upper-target-bank, things/pop-bumpers, things/hole-bonus-ladders, rules/0195

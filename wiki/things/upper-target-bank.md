@@ -9,7 +9,14 @@ body: game
 **The printed bank is a display, not a target.** It has no switches of its own; `M`, `A` and `C` are
 the only contacts on the upper playfield, and once M-A-C is complete they read which channel the next
 ball takes and light the lamp the playfield has an arrow painted to — so the bank shows the three
-awards and never had targets behind it ([0007](../../raw/rules/0007-the-upper-target-bank-is-that-third-column.md)).
+awards and never had targets behind it ([0007](../../raw/rules/0007-the-upper-target-bank-is-that-third-column.md)). **The photograph shows the arrows**: each lamp is painted with an
+arrow from the channel that lights it, and *1987* left nothing else up there — `M`, `A` and `C` are
+the only contacts on the whole upper playfield ([0195](../../raw/rules/0195-upper-playfield-foto04.md)).
+
+**Reading it as three drop targets is the mistake this machine invites**, and it was made here:
+the project's own description called this a three-target bank until 2026-09-05, off the same flyer
+and the same photograph, and a table built from that reading carries three targets the cabinet does
+not have ([0195](../../raw/rules/0195-upper-playfield-foto04.md)).
 
 **The two `30.000` lamps light when `M` and `C` pay, and the `EXTRA BALL` lamp when `A` is taken**,
 each with its own sound cue and light effect: `M` lights `30K_TOP_L`, `C` lights `30K_TOP_R`, `A`
