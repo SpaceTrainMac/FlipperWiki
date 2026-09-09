@@ -250,9 +250,9 @@ Every page, one line each, by category. Updated on every ingest.
 - [0169 — the 50th total bank completion, then the right captive ball inside 20 s](rules/0169-the-50th-total-bank-completion-then.md) — **500 000**, and ×3 on the bonus count
 - [0170 — all three bumpers within one second](rules/0170-all-three-bumpers-within-one-second.md) — **500** flat, on top of their own 300
 - [0171 — the end-of-game draw](rules/0171-the-end-of-game-draw.md) — one more ball
-- [0172 — —](rules/0172-row172.md) — Arithmetic
+- [0172 — The second table in §14](rules/0172-row172.md) — a header rather than an award
 - [0173 — the bonus count at ×3](rules/0173-the-bonus-count-at-3.md) — `39 × 5 000 × 3`
 - [0174 — each hole side, five rungs and an armed marker at ×3](rules/0174-each-hole-side-five-rungs-and.md) — `(5 × 5 000 + 30 000) × 3`
-- [0175 — **one ball's collection**](rules/0175-one-balls-collection.md) — `585 000 + 2 × 165 000`
+- [0175 — one ball's collection](rules/0175-one-balls-collection.md) — `585 000 + 2 × 165 000`
 
 ## Questions

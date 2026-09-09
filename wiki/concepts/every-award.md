@@ -36,7 +36,16 @@ own — see [the three multipliers](the-multipliers.md).
 | the 50th total bank completion, then the right captive ball inside 20 s | **500 000**, and ×3 on the bonus count | at once (windowed) |
 | all three bumpers within one second | **500** flat, on top of their own 300 | at once |
 | the end-of-game draw | one more ball | — |
-| — | Arithmetic | Total |
+
+## What a full ball collects
+
+**The three lines that add up to the count's ceiling** ([0172](../../raw/rules/0172-row172.md)):
+
+| | Arithmetic | Total |
+|---|---|---|
 | the bonus count at ×3 | `39 × 5 000 × 3` | 585 000 |
 | each hole side, five rungs and an armed marker at ×3 | `(5 × 5 000 + 30 000) × 3` | 165 000 |
 | **one ball's collection** | `585 000 + 2 × 165 000` | **915 000** |
+
+*(both tables are §14's, rendered for a player. The ceiling is
+[the end of a ball](../moments/end-of-ball.md)'s.)*
