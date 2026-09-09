@@ -41,4 +41,4 @@ a transfer cut short by the cabinet being switched off finishes in one step, wit
 out in readable pieces would take minutes, and because the end of a turn should not get slower as a
 player gets better ([0070](../../raw/rules/0070-a-fixed-number-of-ticks-rather-than-a.md)).
 
-TBC — what else ends with a turn is not a rule here yet. A turn can outlast a ball: see [the end of a ball](end-of-ball.md).
+A turn can outlast a ball: see [the end of a ball](end-of-ball.md).

@@ -10,8 +10,8 @@ body: game
 The 1987 card says it plainly — *BONUS COUNTS AT END OF BALL* — and it is the mechanic that decides
 what a good ball is worth ([0021](../../raw/rules/0021-one-number-from-0-to-39-worth-5.md)).
 
-**A full count is 195 000** — 39 at 5 000 — before any multiplier. You see it on
-[the bonus ladder](../things/bonus-ladder.md), and nowhere as a number.
+**A full count is 195 000** — 39 at 5 000 — before any multiplier ([0021](../../raw/rules/0021-one-number-from-0-to-39-worth-5.md)). You see it on
+[the bonus ladder](../things/bonus-ladder.md), and nowhere as a number ([0027](../../raw/rules/0027-nothing-shows-the-count-as-a-number.md)).
 
 **Two things advance it, and nothing else does** ([0022](../../raw/rules/0022-what-advances-it.md)):
 

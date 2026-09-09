@@ -103,3 +103,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:15  ingest  0089  concepts/multiball, rules/0089
 2026-09-09T22:15  ingest  0090  concepts/tilt, moments/end-of-ball, rules/0090
 2026-09-09T22:15  ingest  0091  moments/the-draw, things/match-display, concepts/ball-turn-game, rules/0091
+2026-09-09T22:16  lint    8 findings, all fixed; §1 and §3–§12 of gameplay.md ingested

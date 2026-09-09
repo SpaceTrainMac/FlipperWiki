@@ -41,5 +41,4 @@ holds the total you had when the turn began and does not move until the ball is 
 40th completion on ball three the same event as a 40th on ball one ([0026](../../raw/rules/0026-a-separate-hidden-count-tracks-bank-completions-across.md)).
 
 **Three of the ten are shown by nothing at all while you play** — the bank completions, the two
-redemption counts, and the extra balls you have won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). TBC — what each of the ten does for
-you is §4 to §12's, and only M-A-C's letters, the extra ball and the special are rules here yet.
+redemption counts, and the extra balls you have won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).

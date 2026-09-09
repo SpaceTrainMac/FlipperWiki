@@ -24,5 +24,4 @@ any time** ([0058](../../raw/rules/0058-it-is-also-the-left-hole-ladders-redempt
 start, the ball this hit put in the bunker leaves it the way multiball always ejects one: held until
 the second ball leaves the ramp, then released 2.5 seconds later ([0058](../../raw/rules/0058-it-is-also-the-left-hole-ladders-redemption.md)).
 
-TBC — what else the left bunker does is not a rule here yet. See
-[the hole bonus](../concepts/the-hole-bonus.md) and [the right bunker](right-bunker.md).
+See [the hole bonus](../concepts/the-hole-bonus.md) and [the right bunker](right-bunker.md).

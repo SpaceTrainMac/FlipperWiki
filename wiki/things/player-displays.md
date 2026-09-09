@@ -19,4 +19,4 @@ four displays for five seconds, one word each, and that is
 began; everything you earn during the ball goes to [the `MATCH` display](match-display.md) instead,
 and the two numbers meet when the turn is over ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and-that.md)).
 
-TBC — what happens past 999 999 is not a rule here yet. See [what the machine keeps track of](../concepts/what-the-machine-tracks.md).
+See [what the machine keeps track of](../concepts/what-the-machine-tracks.md).

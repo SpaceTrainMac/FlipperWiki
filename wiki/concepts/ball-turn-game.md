@@ -19,5 +19,6 @@ body: game
 **[The draw](../moments/the-draw.md) is what *plus whatever the draw awards* means**: at the end of
 the game, a score ending in the drawn two digits wins one more ball ([0091](../../raw/rules/0091-when-every-player-is-out-of-balls-the.md)).
 
-**So a turn is not a ball**, and that is the distinction the rest of the machine is built on: an
-extra ball and a saved ball both happen inside one turn.
+**So a turn is not a ball** ([0076](../../raw/rules/0076-one-to-four-players-three-balls-each-taken.md)), and that is the distinction the rest of the machine is built
+on: [an extra ball](extra-ball.md) and [a saved ball](drain-protection.md) both happen inside one
+turn ([0086](../../raw/rules/0086-an-extra-ball-is-a-fresh-ball-on.md), [0085](../../raw/rules/0085-the-ball-it-gives-back-does-not-count.md)).

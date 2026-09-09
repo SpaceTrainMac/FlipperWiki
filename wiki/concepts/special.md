@@ -18,4 +18,4 @@ award, and the lamps are named *Special 5000*, which is the machine answering th
 ([0049](../../raw/rules/0049-special-pays-points-rather-than-a-credit.md)).
 
 **It is collected at either outlane** — the lamp stays lit until one of them closes, or until the
-ball ends ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)). TBC — what it pays is not a rule here yet. See [the SPECIAL lamps](../things/special-lamps.md) and [M-A-C](m-a-c.md).
+ball ends ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)). See [the SPECIAL lamps](../things/special-lamps.md) and [M-A-C](m-a-c.md).

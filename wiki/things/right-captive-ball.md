@@ -15,7 +15,7 @@ it, not a touch ([0030](../../raw/rules/0030-none-of-the-three-ever-joins-the-ga
 
 **It is where both `EXTRA BALL` lamps are collected.** Hit inside `A`'s 20-second window it awards
 the extra ball, with its own sound cue and light effect ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)); and it collects
-[the right `EXTRA BALL`](extra-ball-right.md), which has no timer and simply waits ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)). 
+[the right `EXTRA BALL`](extra-ball-right.md), which has no timer and simply waits ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)).
 
 **It is also where [the extra bonus](../concepts/the-extra-bonus.md) is collected** — 500 000 and
 the bottom multiplier, inside the `X BONUS` window ([0039](../../raw/rules/0039-the-bottom-pair-is-x_bons-doing.md)).
