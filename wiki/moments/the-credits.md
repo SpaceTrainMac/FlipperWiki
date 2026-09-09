@@ -77,3 +77,6 @@ them comes up twice**, and a fresh deal never opens with the quote the last one 
 Drawing one at random each time would be random too, and would leave one quote unseen for a dozen
 games while another turned up in half of them — **on a list this short that is the difference a
 player notices** ([0418](../../raw/rules/0418-quotes-are-dealt-as-a-deck.md)).
+
+**The deck carries on from one roll to the next rather than being dealt again**, so a second game
+does not open with the quote the first one opened with ([0419](../../raw/rules/0419-the-deck-carries-on-between-rolls.md)).

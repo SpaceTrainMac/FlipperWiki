@@ -514,5 +514,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0416 — The top row is a ticker, and the names belong together](rules/0416-the-top-row-is-a-ticker.md) — no dark gap, so arriving late still shows you all the names
 - [0417 — The names scroll at half the speed of the quotes](rules/0417-the-names-scroll-at-half-the-speed.md) — 53 seconds for one long quote at the slow rate, against 26 at the fast one
 - [0418 — QUOTES is shown in random order, dealt as a deck](rules/0418-quotes-are-dealt-as-a-deck.md) — shuffled and played out, so every quote comes up before any repeats
+- [0419 — The deck carries on from one roll to the next](rules/0419-the-deck-carries-on-between-rolls.md) — so two games in a row do not open on the same quote
 
 ## Questions
