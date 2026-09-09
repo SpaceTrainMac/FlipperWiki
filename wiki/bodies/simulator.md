@@ -30,3 +30,6 @@ moves unless you move it.
 served ball in play, wait the fifteen seconds out, and the next `3` ends the turn — the ball
 counter on [the status row](../things/status-row.md) goes down, and with `1` still closed the next
 ball is served straight away ([0234](../../raw/rules/0234-open-the-page-the-playfield-is-where-you-work.md)).
+
+**The start button does nothing during a game here either** — it belongs to player select and to
+the high score table, and between the two the engine serves every ball itself ([0235](../../raw/rules/0235-the-start-button-does-nothing-during-a-game.md)).
