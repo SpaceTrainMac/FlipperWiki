@@ -29,7 +29,7 @@ are the only instructions the machine ever came with, and one photograph of them
 > - BONUS COUNTS AT END OF BALL.
 
 *(`[?]` is a character the photograph cannot resolve, and it is left unresolved rather than guessed
-([0198](../../raw/rules/0198-rule-card-verbatim.md)).)*
+([0198](../../raw/rules/0198-rule-card-verbatim.md)). It is a **3** — see below.)*
 
 ## What each line is now
 
@@ -41,11 +41,18 @@ are the only instructions the machine ever came with, and one photograph of them
 | 1. …x BONUS & UPPER EXTRA BALL | a rung on [the ladder](bonus-ladder.md) — and see below |
 | 2. …x BONUS & CAPTIVE BALL EXTRA BALL | a rung, and [the right `EXTRA BALL`](extra-ball-right.md), collected at [the right captive ball](right-captive-ball.md) |
 | 3. …x BONUS, EXTRA BALL & SPECIAL | a rung, an extra ball outright, and `SPECIAL` |
-| CENTER BALLS ADV HOLE BONUS & MARK [?]0.000 | [the twins](centre-captive-balls.md) build [the hole bonus](../concepts/the-hole-bonus.md) |
-| RIGHT BALL LIGHTS [?]0.000 ON CENTER BALLS | [the right captive ball](right-captive-ball.md) arms both markers |
+| CENTER BALLS ADV HOLE BONUS & MARK **30**.000 | [the twins](centre-captive-balls.md) build [the hole bonus](../concepts/the-hole-bonus.md), and light that side's `30 000` marker |
+| RIGHT BALL LIGHTS **30**.000 ON CENTER BALLS | [the right captive ball](right-captive-ball.md) arms both `30 000` markers |
 | HOLE BONUS GREATER THAN 2 GIVES EXTRA BALL IN HOLE | [the right bunker](right-bunker.md), past rung 2, once a ball |
 | HOLE BONUS COUNTS IN HOLE OR END OF PLAY | [redeemed at the bunker, or paid when the ball ends](../concepts/the-hole-bonus.md) |
 | BONUS COUNTS AT END OF BALL | [the bonus count](../concepts/the-bonus-count.md) |
+
+**The unreadable character is a `3`, and three independent sources say so** ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)). The
+photograph cannot tell a 3 from a 5 at 800 × 600, and nothing else on the card decides it — but the
+lamps these two lines light are named *Hole Bonus 30000* on the machine's own spreadsheet,
+[the upper bank](upper-target-bank.md) is printed `30.000`, and the engine next door has paid
+`30000` for collecting one since before anybody looked at the card ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)). **Treat 30 000 as
+settled unless the cabinet contradicts it** ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)).
 
 **One line of the card is not what this machine does.** The card gives the **upper** `EXTRA BALL`
 to the bank's *first* completion; on this cabinet that lamp belongs to

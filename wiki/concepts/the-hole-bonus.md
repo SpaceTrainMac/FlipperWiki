@@ -8,6 +8,11 @@ body: game
 
 **Two ladders, one a side, each built by hitting that side's centre captive ball** ([0029](../../raw/rules/0029-three-captive-balls-two-twins-in-the-centre.md)).
 
+**The *1987* card calls the marker `30.000` and the photograph cannot quite prove it** — the
+figure's first digit is undecidable at that resolution, and three other sources agree on 3: the
+spreadsheet's lamp names, the printing on the upper bank, and what the engine pays ([0199](../../raw/rules/0199-the-unreadable-figure-on-the-card-is-30-000.md)). It is
+[the apron card](../things/apron-cards.md)'s only unresolved character, and it is a value.
+
 **Each side is a five-hit build, then a timed all-or-nothing redemption** ([0031](../../raw/rules/0031-each-side-is-a-five-hit-build-then-a.md)):
 
 | Hit on that side's twin | What happens |

@@ -281,5 +281,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0196 — Lower playfield (FOTO05)](rules/0196-lower-playfield-foto05.md) — what the lower playfield has printed on it, and the two places the print and the matrix disagree
 - [0197 — Two cards on the apron](rules/0197-two-cards-on-the-apron-pricing-left-rules-right.md) — pricing left, rules right, and where they sit
 - [0198 — Rule card — verbatim](rules/0198-rule-card-verbatim.md) — the nine printed lines, and the single one this cabinet contradicts
+- [0199 — `[?]0.000` is 30 000](rules/0199-the-unreadable-figure-on-the-card-is-30-000.md) — one undecidable digit, settled by three sources that are not the photograph
 
 ## Questions

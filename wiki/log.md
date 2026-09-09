@@ -214,3 +214,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:06  ingest  0196  things/bonus-ladder, things/multiplier-lamps, things/x-bon-lamp, things/hole-bonus-ladders, things/side-lanes, rules/0196
 2026-09-09T23:06  ingest  0197  things/apron-cards, bodies/1987, rules/0197
 2026-09-09T23:07  ingest  0198  things/apron-cards, concepts/advance-bonus-bank, rules/0198
+2026-09-09T23:08  ingest  0199  things/apron-cards, concepts/the-hole-bonus, rules/0199
