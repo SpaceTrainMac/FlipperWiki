@@ -6,6 +6,19 @@ body: game
 ---
 # The status row
 
+**It is one six-digit display reading as three fields, and two of its digits are painted over**
+([0095](../../raw/rules/0095-the-bottom-left-display-is-one-six-digit-unit-reading.md)):
+
+| Digit | Shows |
+|---|---|
+| 1 | `EXTRA PLAYS` — [the winking eye](extra-plays-eye.md) |
+| 2 | **nothing, ever** — painted over |
+| 3 | `BALL IN PLAY` — turns left |
+| 4 | **nothing, ever** — painted over |
+| 5–6 | `CREDITS` — extra balls in hand |
+
+*(the table is rule 0095's, rendered for a player)*
+
 **The two-digit field printed `CREDITS` is not credits during a game — it is the extra balls you
 have in hand**, and they last only for the turn ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)).
 
