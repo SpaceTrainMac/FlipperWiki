@@ -15,9 +15,12 @@ three letters one position — the lane-change idiom, and the reason a player wh
 lit and rolls `C` by accident is not simply punished for it ([0004](../../raw/rules/0004-spelling-it.md)).
 
 **All three lit at once is M-A-C complete: the three lamps switch to a medium blink and `SPECIAL`
-lights on both outlanes** ([0005](../../raw/rules/0005-completing-it.md)). **From then on the two outer lanes pay
-and keep paying.** `M` and `C` are worth 30 000 each, and taking one does not spend it: a player
-who can keep finding the two outer lanes is paid 30 000 every time ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)).
+lights on both outlanes** ([0005](../../raw/rules/0005-completing-it.md)). **From then on the lanes stop spelling and
+start paying, each with its own sound cue and light effect**: `M` pays 30 000 and lights
+`30K_TOP_L`, `C` pays 30 000 and lights `30K_TOP_R`, and `A` lights `EXTRA_BALL_TOP`, opens the
+extra-ball window below and ends the paying mode ([0006](../../raw/rules/0006-collecting-it.md)). Taking `M` or
+`C` does not spend it: a player who can keep finding the two outer lanes is paid 30 000 every time
+([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)).
 
 **`A` is the lane that ends it, and what it buys is a chance at an extra ball.** It closes the
 sequence, so *when to take `A`* is the only real decision M-A-C asks of a player

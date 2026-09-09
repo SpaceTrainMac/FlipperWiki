@@ -11,7 +11,7 @@ Every page, one line each, by category. Updated on every ingest.
 ## Things
 
 - [The M, A and C lanes](things/m-a-c-lanes.md) — three rollover lanes across the top of the upper playfield, the only steerable thing on the machine; with M-A-C complete the outer two pay 30 000 again and again, the middle one closes the sequence and flashes for the window
-- [The upper target bank — 30.000 · EXTRA BALL · 30.000](things/upper-target-bank.md) — the upper `EXTRA BALL` lamp flashing is a 20-second invitation to hit the right captive ball
+- [The upper target bank — 30.000 · EXTRA BALL · 30.000](things/upper-target-bank.md) — the two `30.000` lamps light as `M` and `C` pay; the `EXTRA BALL` lamp flashing is a 20-second invitation to hit the right captive ball
 - [The right captive ball](things/right-captive-ball.md) — inside `A`'s window it awards the extra ball
 
 - [The flipper buttons](things/flipper-buttons.md) — beside flipping, they rotate the three M-A-C letters one position
@@ -32,5 +32,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [0004 — Spelling it](rules/0004-spelling-it.md) — a lane toggles its letter; a flipper button slides all three
 
 - [0005 — Completing it](rules/0005-completing-it.md) — all three top lamps blinking: complete, and `SPECIAL` lit
+
+- [0006 — Collecting it](rules/0006-collecting-it.md) — with M-A-C complete the lanes pay instead of spelling, each lighting its lamp on the bank
 
 ## Questions

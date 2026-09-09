@@ -12,9 +12,10 @@ lamp lights, a lit one goes out — and either flipper button rotates all three 
 so a letter rolled by accident can be moved rather than lost ([0004](../../raw/rules/0004-spelling-it.md)).
 
 **All three lamps lit at once is M-A-C complete — they switch to a medium blink and `SPECIAL`
-lights on both outlanes** ([0005](../../raw/rules/0005-completing-it.md)). **Then the two outer lanes pay 30 000
-each, again and again.** `M` and `C` are
-not spent by being taken ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)). **`A` is different: taking it closes the
+lights on both outlanes** ([0005](../../raw/rules/0005-completing-it.md)). **Then the lanes stop spelling and start
+paying**: `M` and `C` 30 000 each, lighting the `30.000` lamps on the upper target bank, with a
+sound cue and a light effect of their own ([0006](../../raw/rules/0006-collecting-it.md)); neither is spent by being
+taken ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)). **`A` is different: taking it closes the
 sequence** ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)) and opens a 20-second window in which `A`'s own lamp,
 `MAC_CENTER`, flashes together with the [upper `EXTRA BALL`](upper-target-bank.md) — the machine
 saying *hit the right captive ball* ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)). What the letters are for is

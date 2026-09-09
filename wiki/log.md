@@ -10,3 +10,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:25  ingest  0003  concepts/m-a-c, things/m-a-c-lanes, rules/0003
 2026-09-09T21:27  ingest  0004  concepts/m-a-c, things/m-a-c-lanes, things/flipper-buttons, rules/0004
 2026-09-09T21:27  ingest  0005  concepts/m-a-c, concepts/special, things/m-a-c-lanes, things/special-lamps, rules/0005
+2026-09-09T21:27  ingest  0006  concepts/m-a-c, things/m-a-c-lanes, things/upper-target-bank, rules/0006
