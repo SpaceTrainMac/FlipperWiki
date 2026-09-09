@@ -25,3 +25,4 @@ links to the page that explains it.
 | `ADVANCE_BONUS_ALMOST_TOP` | 100, first hit of the bank | lights `ADV_BON_C_TOP`; one bonus if this completes the bank | — | [advance bonus targets](../things/advance-bonus-targets.md) |
 | `ADVANCE_BONUS_ALMOST_BOTTOM` | 100, first hit of the bank | lights `ADV_BON_C_BOT`; one bonus if this completes the bank | — | [advance bonus targets](../things/advance-bonus-targets.md) |
 | `ADVANCE_BONUS_BOTTOM` | 100, first hit of the bank | lights `ADV_BON_BOT`; one bonus if this completes the bank | — | [advance bonus targets](../things/advance-bonus-targets.md) |
+| `SIDELANE_LEFT_5000` | 5 000 | five bonuses | — | [inlanes 5000](../things/inlanes-5000.md) |

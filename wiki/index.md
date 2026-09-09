@@ -204,5 +204,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0125 — `ADVANCE_BONUS_ALMOST_TOP`](rules/0125-advance_bonus_almost_top.md) — 100, first hit of the bank
 - [0126 — `ADVANCE_BONUS_ALMOST_BOTTOM`](rules/0126-advance_bonus_almost_bottom.md) — 100, first hit of the bank
 - [0127 — `ADVANCE_BONUS_BOTTOM`](rules/0127-advance_bonus_bottom.md) — 100, first hit of the bank
+- [0128 — `SIDELANE_LEFT_5000`](rules/0128-sidelane_left_5000.md) — 5 000
 
 ## Questions
