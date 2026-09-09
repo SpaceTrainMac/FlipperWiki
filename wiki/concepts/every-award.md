@@ -32,3 +32,4 @@ own — see [the three multipliers](the-multipliers.md).
 | M-A-C completing | `SPECIAL` lit | — |
 | the right captive ball | both 30 000 markers armed | — |
 | the 2nd and 3rd successful redemption, that side | ×2 then ×3 on that hole bonus | — |
+| the 40th total bank completion, then the right captive ball inside 20 s | **500 000**, and ×2 on the bonus count | at once (windowed) |
