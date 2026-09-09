@@ -386,3 +386,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:56  ingest  0363  things/knocker, rules/0363
 2026-09-09T23:56  ingest  0364  things/knocker, rules/0364
 2026-09-09T23:56  ingest  0365  things/knocker, rules/0365
+2026-09-09T23:56  ingest  0366  things/knocker, rules/0366

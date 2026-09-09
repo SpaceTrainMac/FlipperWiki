@@ -29,3 +29,7 @@ person standing next to them** ([0364](../../raw/rules/0364-whether-the-record-h
 **Once per player, per game** — somebody who loses the lead and takes it back has generated no
 second record, and the cabinet has already said their name; what is under the playfield is a
 solenoid heard three rooms away ([0365](../../raw/rules/0365-the-knocker-fires-once-per-player-per-game.md)).
+
+**The coil can be switched off, and the lamp cannot** — it is [a setting](../bodies/cabinet.md),
+and it gates the solenoid rather than the `HIGH SCORE` lamp: **a quieter cabinet is not one that
+stops telling you** ([0366](../../raw/rules/0366-the-knocker-coil-is-the-operators-to-switch-off.md)).
