@@ -357,5 +357,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0265 — A tap is under a second, a volume is over it](rules/0265-a-tap-is-under-a-second-a-volume-is-over-it.md) — the number appearing is the line between leaving and setting
 - [0266 — The single-flipper answers need the other button up](rules/0266-the-single-flipper-answers-need-the-other-button-up.md) — one rule keeps every two-handed reach from doing something one-handed
 - [0267 — A sound set is one folder](rules/0267-a-sound-set-is-one-folder.md) — one voice a folder, and choosing between them is a setting
+- [0268 — There are four of them, and they are four different machines](rules/0268-four-sets-and-they-are-four-different-machines.md) — an arcade, a blockbuster, an orchestra or a narrator, over the same forty cues
 
 ## Questions
