@@ -19,7 +19,7 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
 
-- [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, a number nowhere, and empty again every ball
+- [The bonus ladder](things/bonus-ladder.md) — the bonus count as a row of lamps, 0 to 39, empty again every ball; the `X BONUS` printed on it is its name, not a multiplier
 - [The four player displays](things/player-displays.md) — one six-digit display a player; it holds your score and does not move while you play
 - [The MATCH display](things/match-display.md) — during a game, the score you are making this turn; after it, the extra balls you won
 - [The status row](things/status-row.md) — the two-digit `CREDITS` field is the extra balls in your hand
@@ -57,5 +57,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0014 — Four ADVANCE BONUS targets, the only three-stage award](rules/0014-four-advance-bonus-targets-on-the-lower-playfield.md) — the one thing that pays more the third time
 - [0015 — Each target pays 100 on its first hit and lights its own lamp](rules/0015-each-target-on-its-first-hit-pays-100.md) — hit each once; the count waits for all four
 - [0016 — The fourth target completes the bank](rules/0016-the-fourth-target-completes-the-bank.md) — 10 000, a rung, a stage; then build it again
+- [0017 — The card's x BONUS is the ladder, not a multiplier](rules/0017-the-cards-x-bonus-is-the-ladder-and.md) — the printing names the ladder; a completion lights one more lamp
 
 ## Questions

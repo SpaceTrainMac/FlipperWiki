@@ -23,6 +23,9 @@ then be built again from empty ([0016](../../raw/rules/0016-the-fourth-target-co
 | **2nd** | the next rung, and [the right `EXTRA BALL`](../things/extra-ball-right.md) lights |
 | **3rd** | the next rung, [`SPECIAL`](special.md) lights, and **an extra ball is awarded outright** |
 
+**A completion's *`x BONUS`* is a lamp, not a multiplier.** The ladder is printed `BONUS X 5000`
+down its side, and what a completion lights is the next rung ([0017](../../raw/rules/0017-the-cards-x-bonus-is-the-ladder-and.md)).
+
 **So the combination is expensive.** Three completions are twelve target hits at the very least, and
 the 40th completion is a hundred and sixty ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
 See [the four `ADVANCE BONUS` targets](../things/advance-bonus-targets.md).
