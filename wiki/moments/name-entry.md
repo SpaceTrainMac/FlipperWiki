@@ -130,3 +130,7 @@ still plays pinball ([0402](../../raw/rules/0402-a-failed-write-is-not-the-error
 **There is no music of its own here** — [the highscore theme](../concepts/the-sounds.md) belongs
 to the closing titles, which are long enough to carry it ([0403](../../raw/rules/0403-no-special-music-during-name-entry.md)). **One bumper sound per
 *confirmed* character, and silence while stepping** ([0403](../../raw/rules/0403-no-special-music-during-name-entry.md)).
+
+**The `HIGH SCORE` lamp and [the knocker](../things/knocker.md) that fire mid-ball are not this
+state's** — they go off the moment the best score on the cabinet changes hands, which is a
+question about a game in progress ([0404](../../raw/rules/0404-the-announcement-during-a-ball-is-not-this-states.md)).
