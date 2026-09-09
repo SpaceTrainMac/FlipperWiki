@@ -20,6 +20,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [A ball, a turn and a game](concepts/ball-turn-game.md) — three turns a player, and a turn can hold several balls
 - [Drain protection](concepts/drain-protection.md) — 15 seconds from the launch in which any drain gives the ball back, once a turn
 - [Tilt](concepts/tilt.md) — the cabinet's own business: it kills the outputs, and the bonus is still counted
+- [What the glass shows](concepts/what-the-glass-shows.md) — six things written above the playfield, and only two of them are your score
 
 ## Things
 
@@ -53,6 +54,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [OUTFIRE — the start ramp's exit](things/outfire.md) — 1 000 while the left bunker waits, and nothing at any other time
 - [The ball store, and the four contacts](things/ball-store.md) — ready, arrived, launched, home: how the machine follows the ball
 - [The plunger](things/plunger.md) — every ball is fired by hand; there is no auto-launch
+- [The EXTRA PLAYS eye](things/extra-plays-eye.md) — a `0` that winks, and the one thing on the machine that is not a rule
 
 ## Moments
 
@@ -163,5 +165,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0089 — Multiball ends nothing](rules/0089-multiball-ends-nothing.md) — losing one of two costs nothing
 - [0090 — A tilt does not void your bonus](rules/0090-tilt-is-the-machines-own-business-and-nothing.md) — you lose the outputs, not the score
 - [0091 — The draw](rules/0091-when-every-player-is-out-of-balls-the.md) — a score ending in the drawn digits wins a ball; nothing never wins
+- [0093 — What each display shows during a game](rules/0093-the-displays.md) — the six fields above the playfield
 
 ## Questions
