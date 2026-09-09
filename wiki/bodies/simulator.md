@@ -33,3 +33,8 @@ ball is served straight away ([0234](../../raw/rules/0234-open-the-page-the-play
 
 **The start button does nothing during a game here either** — it belongs to player select and to
 the high score table, and between the two the engine serves every ball itself ([0235](../../raw/rules/0235-the-start-button-does-nothing-during-a-game.md)).
+
+**Nothing here ever moves a switch by itself** ([0236](../../raw/rules/0236-nothing-ever-moves-a-switch-by-itself.md)). A coil firing does not empty the bunker
+whose switch you closed — that would be a ball moving, and there is no ball. So **a bunker that
+looks stuck is a bunker you left closed**, and a ball you staged with `1` stays staged until you
+open it: every drain is answered with a serve for as long as it is ([0236](../../raw/rules/0236-nothing-ever-moves-a-switch-by-itself.md)).

@@ -321,5 +321,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0233 — The backbox is drawn, not photographed](rules/0233-the-backbox-is-drawn-not-photographed.md) — deliberately too wide, because a faithful panel gives a 19-pixel score
 - [0234 — Open the page. The playfield is in the middle](rules/0234-open-the-page-the-playfield-is-where-you-work.md) — the six presses that put a ball in play, and what each one proves
 - [0235 — The start button does nothing during a game](rules/0235-the-start-button-does-nothing-during-a-game.md) — the same on the simulator, and it is the button along the bottom or `s`
+- [0236 — Nothing in the simulator ever moves a switch by itself](rules/0236-nothing-ever-moves-a-switch-by-itself.md) — no ball means no switch opens on its own, which is where every odd state comes from
 
 ## Questions
