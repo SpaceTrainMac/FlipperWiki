@@ -58,3 +58,16 @@ all ([0334](../../raw/rules/0334-the-table-is-copied-once-when-the-scene-opens.m
 50 ms: [the backlight](../things/cabinet-backlight.md) fades on every beat, which is what a 64-step
 colour ramp wants, and the lamps and displays advance every *second* beat, which is what makes the
 line travelling up the cabinet followable rather than a flicker ([0335](../../raw/rules/0335-two-rates-off-one-clock.md)).
+
+## The two gestures
+
+**There is no service button on this cabinet** — all 32 matrix inputs are
+[playfield switches](../things/every-switch.md) or [the three buttons](../things/flipper-buttons.md) —
+so both things that can be asked for that are not a game are gestures on the flippers ([0336](../../raw/rules/0336-no-service-button-so-two-gestures.md)):
+
+| Hold | For nine seconds | Gets you |
+|---|---|---|
+| **both flippers** | with a headline and a countdown on the glass | [the service menu](the-service-menu.md) |
+| **the right flipper alone** | with its own tease | [the radio](the-radio.md) |
+
+*(the table is intro.md's, rendered for a player ([0336](../../raw/rules/0336-no-service-button-so-two-gestures.md)))*

@@ -426,5 +426,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0333 — Two entries are on the glass at once, and the window slides from the worst place towards the best](rules/0333-the-window-slides-from-worst-to-best.md) — nine pages up the table, ending on the score to beat
 - [0334 — The table is copied once when the scene opens](rules/0334-the-table-is-copied-once-when-the-scene-opens.md) — a game finishing mid-scroll cannot renumber what you are reading
 - [0335 — Two rates off one clock](rules/0335-two-rates-off-one-clock.md) — a 50 ms beat: the colour on every one, the line on every second
+- [0336 — There is no service button on this cabinet](rules/0336-no-service-button-so-two-gestures.md) — both flippers for the menu, the right one alone for the radio
 
 ## Questions
