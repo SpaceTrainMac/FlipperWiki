@@ -27,3 +27,4 @@ links to the page that explains it.
 | `ADVANCE_BONUS_BOTTOM` | 100, first hit of the bank | lights `ADV_BON_BOT`; one bonus if this completes the bank | — | [advance bonus targets](../things/advance-bonus-targets.md) |
 | `SIDELANE_LEFT_5000` | 5 000 | five bonuses | — | [inlanes 5000](../things/inlanes-5000.md) |
 | `SIDELANE_RIGHT_5000` | 5 000 | five bonuses | — | [inlanes 5000](../things/inlanes-5000.md) |
+| `SIDELANE_LEFT_OUT` | 5 000 when `SPECIAL` is lit | — | **SPECIAL** — both lamps go out | [outlanes](../things/outlanes.md) |
