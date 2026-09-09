@@ -449,5 +449,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0355 — Credits and coin handling are not implemented and not planned](rules/0355-credits-and-coin-handling-are-not-implemented.md) — four credit addresses and no credits, and the closing titles are a different word
 - [0356 — Round to draw to round is a straight line, not a loop](rules/0356-round-draw-round-is-a-straight-line.md) — one draw a game, by the shape of the sequence rather than by a flag
 - [0357 — Three balls a player, and the rotation is a round of the table](rules/0357-three-balls-a-player-and-a-round-of-the-table.md) — ball 1 for everybody, then ball 2 — which is what four displays are for
+- [0358 — The flippers are live for exactly as long as a ball is on the playfield](rules/0358-the-flippers-are-live-only-while-a-ball-is-in-play.md) — dead between turns, and the draw's three seconds is the stretch you notice
 
 ## Questions

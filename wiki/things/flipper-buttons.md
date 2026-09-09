@@ -17,3 +17,7 @@ accident is not simply lost ([0004](../../raw/rules/0004-spelling-it.md)). The l
 that kills the whole circuit** ([0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)). So when the machine does not want you flipping, **the
 flippers go dead rather than sluggish** — there is no in-between state, on the cabinet or on the
 table ([0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)).
+
+**They are live for exactly as long as a ball is on the playfield, and dead the rest of the time**
+([0358](../../raw/rules/0358-the-flippers-are-live-only-while-a-ball-is-in-play.md)) — including the three seconds [the draw](../moments/the-draw.md) is read in, which is the
+longest dead stretch and the only one anybody would notice ([0358](../../raw/rules/0358-the-flippers-are-live-only-while-a-ball-is-in-play.md)).
