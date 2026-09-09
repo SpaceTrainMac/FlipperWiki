@@ -12,3 +12,4 @@ own — see [the three multipliers](the-multipliers.md).
 | Award | Value | Paid |
 |---|---|---|
 | a pop bumper | **100** | at once |
+| an `ADVANCE BONUS` target, first hit of the bank | **100** | at once |

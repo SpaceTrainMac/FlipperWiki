@@ -226,5 +226,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0145 — `BUTTON_RIGHT`](rules/0145-button_right.md) — rotates the three M-A-C letters right
 - [0146 — `BUTTON_START`](rules/0146-button_start.md) — starts a game and adds players, **at player select and nowhere else**. A game in progress does not read it (§12)
 - [0147 — a pop bumper](rules/0147-a-pop-bumper.md) — **100**
+- [0148 — an `ADVANCE BONUS` target, first hit of the bank](rules/0148-an-advance-bonus-target-first-hit.md) — **100**
 
 ## Questions
