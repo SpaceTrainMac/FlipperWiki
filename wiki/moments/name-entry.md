@@ -126,3 +126,7 @@ which buys the property that **a power cut after the second player keeps the fir
 And **a write that fails is not an error state**: [`NOSAVE`](../things/match-display.md) goes on
 `MATCH` in place of the place, and the machine carries on — a cabinet that cannot save a name
 still plays pinball ([0402](../../raw/rules/0402-a-failed-write-is-not-the-error-state.md)).
+
+**There is no music of its own here** — [the highscore theme](../concepts/the-sounds.md) belongs
+to the closing titles, which are long enough to carry it ([0403](../../raw/rules/0403-no-special-music-during-name-entry.md)). **One bumper sound per
+*confirmed* character, and silence while stepping** ([0403](../../raw/rules/0403-no-special-music-during-name-entry.md)).
