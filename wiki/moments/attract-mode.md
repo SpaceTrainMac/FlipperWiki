@@ -53,3 +53,8 @@ with `SCORES` on [`MATCH`](../things/match-display.md) throughout ([0333](../../
 **The table is copied once when the scene opens**, so a game finishing mid-scroll cannot renumber
 the list under whoever is reading it — and a table with fewer than two entries makes no window at
 all ([0334](../../raw/rules/0334-the-table-is-copied-once-when-the-scene-opens.md)).
+
+**Two rates come off one clock, and that is why it looks the way it does** ([0335](../../raw/rules/0335-two-rates-off-one-clock.md)). The beat is
+50 ms: [the backlight](../things/cabinet-backlight.md) fades on every beat, which is what a 64-step
+colour ramp wants, and the lamps and displays advance every *second* beat, which is what makes the
+line travelling up the cabinet followable rather than a flicker ([0335](../../raw/rules/0335-two-rates-off-one-clock.md)).

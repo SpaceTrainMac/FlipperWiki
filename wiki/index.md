@@ -425,5 +425,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0332 — The lamps do not stop](rules/0332-the-lamps-do-not-stop.md) — the light show carries on; only the digits change job
 - [0333 — Two entries are on the glass at once, and the window slides from the worst place towards the best](rules/0333-the-window-slides-from-worst-to-best.md) — nine pages up the table, ending on the score to beat
 - [0334 — The table is copied once when the scene opens](rules/0334-the-table-is-copied-once-when-the-scene-opens.md) — a game finishing mid-scroll cannot renumber what you are reading
+- [0335 — Two rates off one clock](rules/0335-two-rates-off-one-clock.md) — a 50 ms beat: the colour on every one, the line on every second
 
 ## Questions
