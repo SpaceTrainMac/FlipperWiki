@@ -30,3 +30,4 @@ links to the page that explains it.
 | `SIDELANE_LEFT_OUT` | 5 000 when `SPECIAL` is lit | — | **SPECIAL** — both lamps go out | [outlanes](../things/outlanes.md) |
 | `SIDELANE_RIGHT_OUT` | 5 000 when `SPECIAL` is lit | — | **SPECIAL** — both lamps go out | [outlanes](../things/outlanes.md) |
 | `SIDELANE_LEFT` | 500 | — | — | [side lanes](../things/side-lanes.md) |
+| `SIDELANE_RIGHT` | 500 | — | — | [side lanes](../things/side-lanes.md) |
