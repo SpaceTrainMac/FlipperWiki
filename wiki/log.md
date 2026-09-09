@@ -52,3 +52,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:03  ingest  0041  concepts/the-multipliers, concepts/the-extra-bonus, rules/0041
 2026-09-09T22:03  ingest  0042  concepts/the-multipliers, moments/end-of-ball, rules/0042
 2026-09-09T22:04  ingest  0043  concepts/flyer-bonuses, things/knocker, things/player-displays, rules/0043
+2026-09-09T22:04  ingest  0044  concepts/flyer-bonuses, rules/0044

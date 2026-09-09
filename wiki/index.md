@@ -100,5 +100,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0041 — A multiplier multiplies a collection and nothing else](rules/0041-a-multiplier-multiplies-a-collection-and-nothing-else.md) — what pays at once stays flat, the 500 000 included
 - [0042 — All three survive the ball and the game](rules/0042-all-three-survive-the-ball-and-the-game.md) — earned once, yours for the game, and not spent by collecting
 - [0043 — The flyer's two bonuses are the multipliers at ×3](rules/0043-space-ship-bonus-and-space-train-bonus-are.md) — not a tenth mechanic; the announcement of the other three
+- [0044 — Announced once, and never again](rules/0044-both-are-announced-once-at-the-moment-the.md) — the moment the last lamp lights, and no repeat
 
 ## Questions
