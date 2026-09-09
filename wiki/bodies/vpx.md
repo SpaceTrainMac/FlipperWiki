@@ -120,3 +120,7 @@ never light** ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.
 **Multiball is two balls, not the flyer's three** ([0230](../../raw/rules/0230-multiball-is-two-balls-not-the-flyers-three.md)). The trough holds two, because the left
 bunker only starts multiball if a ball is cached — and **the flyer is wrong about this machine
 rather than the machine wrong about the flyer** ([0230](../../raw/rules/0230-multiball-is-two-balls-not-the-flyers-three.md)).
+
+**[The bonus and the match take about 43 seconds](../moments/end-of-turn.md)** ([0231](../../raw/rules/0231-the-bonus-and-the-match-take-about-43-seconds.md)). Those are
+real ceremonies at real speed, and the ball sits in the trough for the whole of it — on a screen
+nobody minds; **with a ball in your hand it is a long time to stand still** ([0231](../../raw/rules/0231-the-bonus-and-the-match-take-about-43-seconds.md)).

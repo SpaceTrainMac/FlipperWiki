@@ -10,6 +10,10 @@ body: game
 ball your display holds the total you had when the turn began and everything you earn sits on
 [the `MATCH` display](../things/match-display.md); the turn ending is what moves it ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and-that.md)).
 
+**On [the VPX table](../bodies/vpx.md) the ceremonies of a whole game come to about 43 seconds, at
+real speed, with the ball in the trough throughout** — which reads differently on a screen than it
+does with a ball in your hand ([0231](../../raw/rules/0231-the-bonus-and-the-match-take-about-43-seconds.md)).
+
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
