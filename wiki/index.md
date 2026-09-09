@@ -349,5 +349,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0258 — It saves by itself](rules/0258-the-service-menu-saves-by-itself.md) — two seconds after the last change, on the way out, and after two minutes alone
 - [0259 — Two words on the `MATCH` display mean something is wrong](rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md) — `REBOOT` and `NOSAVE`, and what each one costs
 - [0260 — The cabinet plays a radio station when it has been left alone](rules/0260-the-cabinet-plays-a-radio-station-when-left-alone.md) — a state of the machine, with the station's name on the glass
+- [0261 — Every button does one thing](rules/0261-in-the-radio-every-button-does-one-thing.md) — the whole radio interface: three buttons, five answers
 
 ## Questions
