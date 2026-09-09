@@ -27,6 +27,12 @@ digit, so it *falls* every time the count crosses a ten ([0113](../../raw/rules/
 
 *(the table is rule 0113's, rendered for a player)*
 
+**It is not a gauge, and reading it as one would be a demotivation.** The three channels are three
+different games, and one of them dropping while the other two have climbed is what produces a colour
+the cabinet has not shown before. **What the backlight is for is the full beauty of RGB, not a
+readable number** — the lamps already say what the ladders hold, and a second, worse copy of them in
+one dimension of brightness would be the thing worth deleting ([0114](../../raw/rules/0114-read-as-a-gauge-that-would-be-a.md)).
+
 **Four flashes — two short, two long — is [a thunderstrike](../concepts/the-thunderstrike.md)**:
 all three bumpers inside one second ([0054](../../raw/rules/0054-landing-all-three-bumpers-within-one-second-of.md)).
 

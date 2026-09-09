@@ -189,5 +189,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0111 — Each formula tops out at exactly 15](rules/0111-each-formula-tops-out-at-exactly-15-the.md) — full brightness on a channel is a full ladder
 - [0112 — Every channel reaches every value from 0 to 15](rules/0112-every-channel-reaches-every-value-from-0-to.md) — no step of the brightness is wasted
 - [0113 — No channel climbs steadily](rules/0113-no-channel-climbs-steadily-and-that-is-the.md) — red falls every time the count crosses a ten
+- [0114 — The backlight is not a gauge](rules/0114-read-as-a-gauge-that-would-be-a.md) — three games in three channels, for the colour
 
 ## Questions
