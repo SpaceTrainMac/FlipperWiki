@@ -11,7 +11,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
 - [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead; steady means waiting, flashing means hurrying
 - [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, paid only when the ball ends; a bank completion adds one and a `5000` inlane five
-- [The hole bonus](concepts/the-hole-bonus.md) — two ladders, one a side, each built at that side's centre captive ball
+- [The hole bonus](concepts/the-hole-bonus.md) — five hits to build, 30 seconds to redeem, 55 000 a side at ×1; and eighteen hits for ×3
 
 ## Things
 
@@ -88,5 +88,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0034 — Nothing on a hole ladder pays before it is redeemed](rules/0034-nothing-on-a-hole-ladder-pays-before-it.md) — 5 000 a rung, 30 000 the marker, at that side's multiplier
 - [0035 — The right captive ball lights both markers, with no timer](rules/0035-the-right-captive-ball-lights-both-markers-with.md) — one hit arms both `30 000`s, steadily, past the five hits
 - [0036 — What one side is worth, at most](rules/0036-a-side-can-hold-at-most-five-lit.md) — 55 000 at ×1, 165 000 at ×3, and never a build and a redemption together
+- [0037 — What ×3 on one side costs](rules/0037-reaching-3-on-one-side-takes-at-least.md) — eighteen shots at one centre ball, redeeming at the ball itself
 
 ## Questions

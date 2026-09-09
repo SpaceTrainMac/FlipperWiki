@@ -45,3 +45,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:01  ingest  0034  concepts/the-hole-bonus, things/hole-bonus-ladders, moments/end-of-ball, rules/0034
 2026-09-09T22:01  ingest  0035  things/right-captive-ball, concepts/the-hole-bonus, things/hole-bonus-ladders, rules/0035
 2026-09-09T22:01  ingest  0036  concepts/the-hole-bonus, rules/0036
+2026-09-09T22:01  ingest  0037  concepts/the-hole-bonus, things/centre-captive-balls, rules/0037
