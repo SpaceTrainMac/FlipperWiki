@@ -28,3 +28,7 @@ sound set plays, how a cue with several files picks one, how the jukebox picks, 
 how long the machine waits before starting the radio, and how long the closing titles run ([0246](../../raw/rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md)).
 The service menu writes them straight back ([0246](../../raw/rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md)). **The radio has a second way in: the right
 flipper steps stations while the radio is playing**, and every press is saved at once ([0246](../../raw/rules/0246-seven-of-the-eighteen-are-editable-at-the-machine.md)).
+
+**And the volume of the radio has a way in of its own: hold the left flipper while it is playing
+and the level climbs**, taking effect and saving itself when you let go ([0247](../../raw/rules/0247-hold-the-left-flipper-while-the-radio-is-playing.md)). It is done this
+way because **a volume is judged by ear and the service menu is silent** ([0247](../../raw/rules/0247-hold-the-left-flipper-while-the-radio-is-playing.md)).
