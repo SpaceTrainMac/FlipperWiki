@@ -102,3 +102,7 @@ this driver's balls lives about two seconds, which is well inside
 [drain protection](../concepts/drain-protection.md)'s fifteen — so the first drain of each turn is
 handed back and the turn takes two serves ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md)). Ask it for a longer ball and ordinary turn
 boundaries appear ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md)).
+
+**It writes nothing this table owns** — its high score file and its odometer are scratch paths in
+the system temp directory, and it clears its own table before each run ([0227](../../raw/rules/0227-the-autoplayer-writes-nothing-this-table-owns.md)). So a machine that
+has played a thousand games by itself still shows your high scores ([0227](../../raw/rules/0227-the-autoplayer-writes-nothing-this-table-owns.md)).

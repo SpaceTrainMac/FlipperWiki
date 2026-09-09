@@ -311,5 +311,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0224 — The displays are green](rules/0224-the-displays-are-green.md) — the colour comes from the photographs, not from taste
 - [0225 — `spacetrain-autoplay` plays a whole game with nobody at the keyboard](rules/0225-spacetrain-autoplay-plays-a-whole-game.md) — the engine driven through the switch matrix, 29 seconds a game
 - [0226 — Six serves for a one-player game is the machine being right](rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md) — a two-second ball is always inside the window, so every turn costs two serves
+- [0227 — It writes nothing this table owns](rules/0227-the-autoplayer-writes-nothing-this-table-owns.md) — scratch files only, so a night of self-play leaves your scores untouched
 
 ## Questions
