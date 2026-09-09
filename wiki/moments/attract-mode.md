@@ -81,3 +81,10 @@ it on now ([0337](../../raw/rules/0337-the-radio-gesture-is-the-same-nine-second
 **On a cabinet with no radio the gesture does nothing and the tease never comes up** — it is armed
 by the same setting that arms the wait, so a machine with no stations, or with its sound switched
 off, simply does not have it ([0338](../../raw/rules/0338-the-gesture-is-armed-by-the-same-number-as-the-wait.md)).
+
+**Neither gesture can be mistaken for the other, and it takes two rules rather than one** ([0339](../../raw/rules/0339-neither-gesture-can-be-mistaken-for-the-other.md)).
+Two hands do not close two switches in the same millisecond, so a solo hold is only counted after
+the other button has been genuinely up for a moment — **and any hold the other flipper was seen
+down during is out for good until that button is released** ([0339](../../raw/rules/0339-neither-gesture-can-be-mistaken-for-the-other.md)). The second rule is the one
+that is easy to miss: without it, letting go of one hand halfway through the service gesture would
+start a nine-second countdown to the radio ([0339](../../raw/rules/0339-neither-gesture-can-be-mistaken-for-the-other.md)).
