@@ -342,5 +342,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0252 — Hold both flippers for nine seconds](rules/0252-hold-both-flippers-for-nine-seconds.md) — no service button exists, so the way in is a gesture a cabinet cannot make by accident
 - [0253 — After three seconds the light show stops and a joke comes up](rules/0253-after-three-seconds-a-joke-comes-up.md) — the acknowledgement at three seconds, and what to wait for
 - [0254 — There is a second gesture on the same two buttons](rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md) — the right flipper alone starts the radio, and a slipped hand starts nothing
+- [0255 — The value buttons repeat while held](rules/0255-the-value-buttons-repeat-while-held.md) — start steps entries, the flippers step values, and `MATCH` says `SETUP`
 
 ## Questions

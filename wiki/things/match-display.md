@@ -6,6 +6,9 @@ body: game
 ---
 # The MATCH display
 
+**In [the service menu](../moments/the-service-menu.md) it says `SETUP`**, which is how the glass
+tells you the machine is not in attract mode ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)).
+
 **On [the cabinet](../bodies/cabinet.md) it also carries two words that mean something is wrong**,
 and `NOSAVE` is one of them: a settings file or the high score table could not be written, and the
 old one was left alone ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)).

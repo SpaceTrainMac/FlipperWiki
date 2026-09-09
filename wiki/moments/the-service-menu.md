@@ -24,3 +24,19 @@ nonsense ([0254](../../raw/rules/0254-a-second-gesture-the-right-flipper-alone-s
 for both with one hand landing first does nothing, and letting go of one hand halfway through the
 service gesture does **not** turn the rest of it into a request for the radio ([0254](../../raw/rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md)). Let go of
 both and start again ([0254](../../raw/rules/0254-a-second-gesture-the-right-flipper-alone-starts-the-radio.md)).
+
+## Working it
+
+**Three buttons, and the glass says where you are** ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)):
+
+| Button | Does |
+|---|---|
+| start | the next entry, wrapping round |
+| right flipper | the current entry's next value |
+| left flipper | its previous value |
+
+*(the table is cabinet.md §2's, rendered for a player ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)))*
+
+**The value buttons repeat while held.** The top pair of [score displays](../things/player-displays.md)
+names the entry, the bottom pair shows its value, and [`MATCH`](../things/match-display.md) says
+`SETUP` ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)).
