@@ -12,6 +12,8 @@ two *elevator holes*, its *2 shooter holes to upper level*, upper centre on the 
 **It pays 100, and it is what starts [multiball](../concepts/multiball.md)** — if a ball is staged
 and ready to serve ([0056](../../raw/rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md)).
 
+**During multiball it simply spits the ball back** — there is no third ball to serve ([0057](../../raw/rules/0057-the-machine-has-exactly-two-balls-not-the.md)).
+
 **It is where the left hole-bonus ladder is redeemed.** A hit here while that side's window is
 blinking pays the five rungs and the marker together, at the left multiplier, and resets the ladder
 ([0032](../../raw/rules/0032-redeeming-inside-the-window-takes-either-shot-the.md)). The other shot that redeems it is the left centre ball itself

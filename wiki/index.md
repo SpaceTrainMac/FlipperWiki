@@ -119,5 +119,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0054 — Three bumpers in one second is a thunderstrike](rules/0054-landing-all-three-bumpers-within-one-second-of.md) — 500 on top, repeatable, order irrelevant
 - [0055 — Two saucers, each with two jobs](rules/0055-two-saucers-each-its-own-sides-hole-as.md) — the flyer's elevator holes, upper centre
 - [0056 — The left bunker pays 100 and starts multiball](rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md) — the hold, the plunge, and the 2.5 seconds
+- [0057 — Two balls, and multiball cannot be fed a third](rules/0057-the-machine-has-exactly-two-balls-not-the.md) — the flyer says three; the machine has two
 
 ## Questions
