@@ -36,3 +36,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T21:58  ingest  0025  concepts/the-bonus-count, things/bonus-ladder, concepts/advance-bonus-bank, rules/0025
 2026-09-09T21:58  ingest  0026  concepts/advance-bonus-bank, things/x-bon-lamp, concepts/what-the-machine-tracks, rules/0026
 2026-09-09T21:58  ingest  0027  things/bonus-ladder, things/status-row, rules/0027
+2026-09-09T21:58  ingest  0028  concepts/the-bonus-count, rules/0028
