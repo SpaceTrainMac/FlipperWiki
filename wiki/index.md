@@ -7,7 +7,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again; lit letters carry from ball to ball
 - [What the machine keeps track of](concepts/what-the-machine-tracks.md) — the ten things it counts, all of them yours alone; and why your score sits still while you play
 - [The special](concepts/special.md) — 5 000 points at either outlane, lit by completing M-A-C or the bank a third time
-- [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's 20-second window, the bank's second completion, and its third outright
+- [The extra ball](concepts/extra-ball.md) — the ways to one: M-A-C's window, the bank's 2nd and 3rd completions, and the right saucer past rung 2
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
 - [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead; steady means waiting, flashing means hurrying
 - [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, paid only when the ball ends; a bank completion adds one and a `5000` inlane five
@@ -40,7 +40,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The 5000 inlanes](things/inlanes-5000.md) — 5 000 at once and five bonuses, the biggest single step the ladder has
 - [The two centre captive balls](things/centre-captive-balls.md) — the twins: the left runs the left hole ladder, the right the right
 - [The left bunker](things/left-bunker.md) — the left saucer: where the left hole bonus is redeemed
-- [The right bunker](things/right-bunker.md) — the right saucer: where the right hole bonus is redeemed
+- [The right bunker](things/right-bunker.md) — the right saucer: 100, an extra ball past rung 2, and the right redemption
 - [The DOUBLE and TRIPLE lamps](things/multiplier-lamps.md) — three pairs, one a collection
 - [The knocker](things/knocker.md) — three hits is Space Train Bonus
 - [The side lanes](things/side-lanes.md) — three a side, and the playfield prints what each pays
@@ -123,5 +123,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0057 — Two balls, and multiball cannot be fed a third](rules/0057-the-machine-has-exactly-two-balls-not-the.md) — the flyer says three; the machine has two
 - [0058 — The left bunker collects as well as starting multiball](rules/0058-it-is-also-the-left-hole-ladders-redemption.md) — one shot can do both, and an armed marker waits there
 - [0059 — OUTFIRE pays 1 000 while the left bunker is waiting](rules/0059-outfire-pays-1-000-while-the-left-bunker.md) — the machine paying for the second ball's arrival
+- [0060 — What the right bunker does](rules/0060-bunker_right-is-the-cards-hole-for-the-right.md) — 100, an extra ball, a redemption, and out in five seconds
 
 ## Questions

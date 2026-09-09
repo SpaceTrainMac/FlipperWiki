@@ -6,6 +6,9 @@ body: game
 ---
 # The extra ball
 
+**The right saucer gives one, once a ball, as soon as either hole ladder is past its second rung**
+([0060](../../raw/rules/0060-bunker_right-is-the-cards-hole-for-the-right.md)).
+
 **The `ADVANCE BONUS` bank gives two more.** The bank's second completion lights the right
 `EXTRA BALL` lamp, and its third awards an extra ball outright, with no shot to make ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)). The
 lit right `EXTRA BALL` waits at [the right captive ball](../things/right-captive-ball.md) with no
