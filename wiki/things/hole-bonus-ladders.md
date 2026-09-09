@@ -1,7 +1,7 @@
 ---
 title: The two hole-bonus ladders
 type: thing
-aliases: [HOLE BONUS 30000, HOLE_BON_30K_L, HOLE_BON_30K_R, the hole ladders, the hole-bonus ladders, the five rungs]
+aliases: [HOLE BONUS 30000, HOLE_BON_30K_L, HOLE_BON_30K_R, the hole ladders, the hole-bonus ladders, the five rungs, BON1_TOP_L, BON2_TOP_L, BON3_TOP_L, BON4_TOP_L, BON5_TOP_L, BON1_5K_R, BON2_5K_R, BON3_5K_R, BON4_5K_R, BON5_5K_R]
 body: game
 ---
 # The two hole-bonus ladders

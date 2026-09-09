@@ -1,7 +1,7 @@
 ---
 title: The bonus ladder
 type: thing
-aliases: [the bonus ladder, the bottom ladder, BON1_5K_BOT, SUPER_BON_10, SUPER_BON_20, SUPER_BON_30, the Super Bonus lamps]
+aliases: [the bonus ladder, the bottom ladder, BON1_5K_BOT, SUPER_BON_10, SUPER_BON_20, SUPER_BON_30, the Super Bonus lamps, BON2_5K_BOT, BON3_5K_BOT, BON4_5K_BOT, BON5_5K_BOT, BON6_5K_BOT, BON7_5K_BOT, BON8_5K_BOT, BON9_5K_BOT]
 body: game
 ---
 # The bonus ladder

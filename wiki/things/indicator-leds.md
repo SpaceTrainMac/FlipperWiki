@@ -1,7 +1,7 @@
 ---
 title: The sixteen indicator LEDs
 type: thing
-aliases: [the indicator LEDs, ACTIVE PLR, GAME OVER, HIGH SCORE, TILT, EXTRA PLAY, the backbox lamps]
+aliases: [the indicator LEDs, ACTIVE PLR, GAME OVER, HIGH SCORE, TILT, EXTRA PLAY, the backbox lamps, ACTIVE_PLR_1, ACTIVE_PLR_2, ACTIVE_PLR_3, ACTIVE_PLR_4, 10x_PLR_1, 10x_PLR_2, 10x_PLR_3, 10x_PLR_4, GAME_OVER, EXTRA_BALL_LEFT, EXTRA_BALL_RIGHT, EXTRA_PLAY, HIGH_SCORE, CREDITS, MATCH]
 body: game
 ---
 # The sixteen indicator LEDs

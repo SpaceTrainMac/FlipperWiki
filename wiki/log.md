@@ -195,3 +195,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:43  ingest  0178  concepts/the-sounds, rules/0178
 2026-09-09T22:44  ingest  0179  concepts/what-nobody-has-watched, rules/0179
 2026-09-09T22:44  ingest  0180  concepts/what-nobody-has-watched, rules/0180
+2026-09-09T22:45  lint    coverage after gameplay.md: switches 32/32, lamps 48/48, LEDs 16/16 (four read as unclaimed by a measure that mangles an identifier beginning with a digit); coils 0/9 and cues 3/40 await hardware.md and sound.md

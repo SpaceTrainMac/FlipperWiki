@@ -1,7 +1,7 @@
 ---
 title: The three pop bumpers
 type: thing
-aliases: [BUMPER_LEFT, BUMPER_RIGHT, BUMPER_MIDDLE, the pop bumpers, the bumpers]
+aliases: [BUMPER_LEFT, BUMPER_RIGHT, BUMPER_MIDDLE, the pop bumpers, the bumpers, BUMPER_L, BUMPER_R, BUMPER_C]
 body: game
 ---
 # The three pop bumpers
