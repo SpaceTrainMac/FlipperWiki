@@ -418,5 +418,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0325 — Attract mode: a light show that runs until someone presses start](rules/0325-attract-mode-runs-until-someone-presses-start.md) — where this cabinet spends nearly all of its life
 - [0326 — One state, two scenes](rules/0326-one-state-two-scenes.md) — the ladder and the high score table, shown in turn
 - [0327 — What moves is a horizontal line, and it crosses the whole cabinet](rules/0327-a-horizontal-line-crossing-the-whole-cabinet.md) — one line rising from the drain to the top of the backglass, and back
+- [0328 — The playfield is walked in rows, not in wiring order](rules/0328-the-playfield-is-walked-in-rows.md) — lamps grouped by height, which is what makes the rise read as one line
 
 ## Questions
