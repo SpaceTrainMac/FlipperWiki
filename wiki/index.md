@@ -288,5 +288,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0203 — Coin handling is out of scope by decision](rules/0203-coin-handling-is-out-of-scope-by-decision.md) — no slot, no credits, and a two-digit field left free for extra balls
 - [0204 — The flyer's *Up to 39 Bonuses* falls out of the lamp table](rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md) — nine units plus 10, 20 and 30 is the whole derivation
 - [0205 — With `BONUS X 5000` printed on the playfield](rules/0205-with-bonus-x-5000-printed-on-the-playfield.md) — 39 × 5 000 × 3 = 585 000, off the paint alone
+- [0206 — Three independent sources agree](rules/0206-the-ladder-tops-out-at-9-and-super-bonus-adds-10-20-or-30.md) — the ladder is the units and Super Bonus the tens, of one count
 
 ## Questions

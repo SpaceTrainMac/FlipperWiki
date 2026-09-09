@@ -19,6 +19,10 @@ nine lamps ([0196](../../raw/rules/0196-lower-playfield-foto05.md)). Whether a t
 Super Bonus', only the cabinet can say; the arithmetic that gives 39 needs nine
 ([0204](../../raw/rules/0204-up-to-39-bonuses-falls-out-of-the-lamp-table.md)).
 
+**The ladder and Super Bonus are one number, not two that get added up at the end** — the ladder
+tops out at 9 and Super Bonus puts 10, 20 or 30 on top of it, which is the only reading that gives
+the flyer's 39, and *1987*, the printing and the lamp names all agree on it ([0206](../../raw/rules/0206-the-ladder-tops-out-at-9-and-super-bonus-adds-10-20-or-30.md)).
+
 **The lamps are the count written in two digits, and you read them like a number** ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)):
 
 | Lamps | Stand for |
