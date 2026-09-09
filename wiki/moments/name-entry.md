@@ -65,3 +65,6 @@ machine and not three ([0391](../../raw/rules/0391-the-same-three-buttons-doing-
 
 **Each character opens where the previous one was confirmed**, so `AAA` and `FFF` are three presses
 of start with no stepping at all ([0392](../../raw/rules/0392-each-character-opens-where-the-last-was-confirmed.md)).
+
+**The first character of every name opens on `A`** — one step from the space and two from the
+rub-out ([0393](../../raw/rules/0393-the-first-character-opens-on-a.md)).
