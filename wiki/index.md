@@ -13,6 +13,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, paid only when the ball ends; a bank completion adds one and a `5000` inlane five
 - [The hole bonus](concepts/the-hole-bonus.md) — five hits to build, 30 seconds to redeem, 55 000 a side at ×1; and eighteen hits for ×3
 - [The three multipliers](concepts/the-multipliers.md) — one for the bonus count and one for each hole ladder, each multiplying only its own
+- [The extra bonus](concepts/the-extra-bonus.md) — a flat 500 000 at the right captive ball, inside the `X BONUS` window, and the bottom multiplier with it
 
 ## Things
 
@@ -92,5 +93,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0036 — What one side is worth, at most](rules/0036-a-side-can-hold-at-most-five-lit.md) — 55 000 at ×1, 165 000 at ×3, and never a build and a redemption together
 - [0037 — What ×3 on one side costs](rules/0037-reaching-3-on-one-side-takes-at-least.md) — eighteen shots at one centre ball, redeeming at the ball itself
 - [0038 — Three independent pairs of DOUBLE / TRIPLE lamps](rules/0038-three-independent-pairs-of-double-triple-lamps-and.md) — three multipliers, each only its own collection
+- [0039 — The bottom pair is the X BONUS window's doing](rules/0039-the-bottom-pair-is-x_bons-doing.md) — 500 000 and the multiplier, or neither
 
 ## Questions

@@ -12,5 +12,7 @@ count that reaches them is one of the things the machine tracks and shows nowher
 is a total across the game, not this ball's ladder** — it never resets, so the 40th completion can
 land on any ball ([0026](../../raw/rules/0026-a-separate-hidden-count-tracks-bank-completions-across.md)).
 
-TBC — what the extra bonus pays and where it is collected are not rules here yet. See
+**What is in the window is [the extra bonus](../concepts/the-extra-bonus.md)**: hit
+[the right captive ball](right-captive-ball.md) inside it for a flat 500 000 and the bottom
+multiplier — `X2_BOT` at the 40th, `X3_BOT` at the 50th ([0039](../../raw/rules/0039-the-bottom-pair-is-x_bons-doing.md)). See
 [lit awards](../concepts/lit-awards.md) and [the advance-bonus bank](../concepts/advance-bonus-bank.md).
