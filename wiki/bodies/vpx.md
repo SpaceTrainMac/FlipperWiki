@@ -31,3 +31,8 @@ that ends player select is what serves the first ball; after that the machine se
 itself. **This is worth saying twice because the table's own manual said the opposite until
 2026-09-05**, describing a saved ball that waited for a press — behaviour the engine had until that
 afternoon and does not have now ([0215](../../raw/rules/0215-the-start-button-belongs-to-player-select.md)).
+
+**[Drain protection](../concepts/drain-protection.md) is the same 15 seconds here, and the ball is
+back in about 400 ms** ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)). The window opens as the ball passes out-fire and lasts once a
+turn; a drain inside it does not end the turn, and the ejector fires again as soon as the trough
+has a ball under it ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)).

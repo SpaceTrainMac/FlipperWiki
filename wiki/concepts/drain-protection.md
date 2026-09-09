@@ -30,3 +30,7 @@ back under the ejector, so the serve is triggered by the store reading *availabl
 drain that asked for it ([0083](../../raw/rules/0083-what-the-machine-waits-for-instead-is-a.md)).
 
 **It is spent the first time it saves a drain**, and does not re-arm until your next turn ([0081](../../raw/rules/0081-drain-protection-covers-the-first-15-seconds-configurable.md)).
+
+**On [the VPX table](../bodies/vpx.md) the wait is about 400 ms**, which is how long the trough
+takes to put a ball back under the ejector — so a protected drain there feels like the machine
+catching the ball rather than like a pause ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)).

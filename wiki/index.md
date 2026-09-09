@@ -300,5 +300,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0213 — What none of these touch is the award chain](rules/0213-what-none-of-these-touch-is-the-award-chain.md) — the four decisions pick values; how the machine behaves was designed elsewhere
 - [0214 — The keys are VPX's own defaults](rules/0214-the-keys-are-vpxs-own-defaults.md) — which key is which control, and that none of them was rebound
 - [0215 — The start button belongs to player select](rules/0215-the-start-button-belongs-to-player-select.md) — no press ever asks for a ball, and the manual said otherwise until 2026-09-05
+- [0216 — A ball that drains in the first fifteen seconds is given back](rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md) — the same 15 seconds, and about 400 ms before the ball is back
 
 ## Questions
