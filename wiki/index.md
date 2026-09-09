@@ -399,5 +399,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0307 — `HOLEBONUS_RIGHT_DOUBLE`](rules/0307-cue-holebonus-right-double.md) — the second right redemption, which doubles that side for the game
 - [0308 — `HOLEBONUS_RIGHT_TRIPLE`](rules/0308-cue-holebonus-right-triple.md) — the third right redemption — ×3, and the second of Space Train Bonus's lamps
 - [0309 — `HOLEBONUS_RIGHT_BONUS30K_A`](rules/0309-cue-holebonus-right-bonus30k-a-f.md) — the six items of a right redemption, one cue each
+- [0310 — These three are what the 1987 firmware had no word for](rules/0310-the-three-the-1987-firmware-had-no-word-for.md) — the other thirty-seven answer events the original machine already had
 
 ## Questions

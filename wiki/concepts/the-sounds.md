@@ -135,3 +135,10 @@ takes the extra bonus — so what it raises is **the cue of whatever it just col
 | `HOLEBONUS_RIGHT_TRIPLE` | the 3rd — ×3 on the right, and **the second of [Space Train Bonus](../concepts/flyer-bonuses.md)'s three lamps** ([0308](../../raw/rules/0308-cue-holebonus-right-triple.md)) |
 
 | `HOLEBONUS_RIGHT_BONUS30K_A` | **the six items of a right redemption**, exactly as on the left ([0309](../../raw/rules/0309-cue-holebonus-right-bonus30k-a-f.md)) |
+
+### The two the flyer names, and the one that pays most
+
+**These three are what the 1987 firmware had no word for** ([0310](../../raw/rules/0310-the-three-the-1987-firmware-had-no-word-for.md)). Every cue above was in the
+sound player this cabinet ran before the engine existed, and it stopped where the original
+behaviour stopped: [Space Ship Bonus and Space Train Bonus](flyer-bonuses.md) were words on a flyer
+with no sounds, and [the extra bonus](the-extra-bonus.md) is a rule this project decided ([0310](../../raw/rules/0310-the-three-the-1987-firmware-had-no-word-for.md)).
