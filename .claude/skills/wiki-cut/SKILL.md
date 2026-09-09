@@ -17,8 +17,16 @@ rule file is [CLAUDE.md](../../../CLAUDE.md#a-rule-file) and is not restated her
   whole.
 - **One table row is one rule** where a section is a table — gameplay.md §2 (every switch) and
   §14 (every award). The row goes in with its header row above it, so it reads.
-- **A mermaid block, a lead sentence with no claim, and a sentence that only points at another
-  section are not rules.** Skip them and say so.
+- **A paragraph that continues the one above it belongs to it.** A block of prose or a numbered
+  list that does not open with a claim is not a rule of its own — it is the rest of the rule above,
+  and it is carried into the same file. `So a count of 25 shows five ladder lamps…` is the second
+  half of the paragraph that says what the lamps stand for, and cutting it loose would leave a rule
+  with its arithmetic missing.
+- **A block that opens with an identifier rather than bold is still a rule**, when what follows is
+  a claim: `` `BUNKER_LEFT` pays **100**, and starts multiball… `` is a rule about the left bunker.
+- **A heading, a mermaid or code fence, and a sentence that only points at another section are not
+  rules, and they do not attach to anything.** Skip them and say so — a heading especially, because
+  attaching one to the rule above it would put the next subsection's title inside it.
 
 ## Doing it
 
