@@ -118,3 +118,8 @@ progress**, and what comes next is [player select](player-select.md), where ther
 these three channels, so whatever is left here stands until the light show comes round again — and
 **a colour frozen wherever the wave happened to stop is an accident on the backglass, while dark is
 a cabinet somebody has turned off. White is neither** ([0425](../../raw/rules/0425-the-backlight-goes-to-white.md)).
+
+TODO — **the closing titles have no music of their own yet** ([0426](../../raw/rules/0426-the-credits-roll-has-no-music-of-its-own.md)).
+[The highscore theme](../concepts/the-sounds.md) exists and is the obvious thing to play under the
+roll, and the state currently starts none — **so whatever was playing when the game ended carries
+on** ([0426](../../raw/rules/0426-the-credits-roll-has-no-music-of-its-own.md)).
