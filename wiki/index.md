@@ -19,6 +19,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Multiball](concepts/multiball.md) — the left bunker starts it when a ball is staged; you plunge the second, and the first follows 2.5 seconds later
 - [A ball, a turn and a game](concepts/ball-turn-game.md) — three turns a player, and a turn can hold several balls
 - [Drain protection](concepts/drain-protection.md) — 15 seconds from the launch in which any drain gives the ball back, once a turn
+- [Tilt](concepts/tilt.md) — the cabinet's own business: it kills the outputs, and the bonus is still counted
 
 ## Things
 
@@ -159,5 +160,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0087 — Extra balls are the two-digit field](rules/0087-an-extra-ball-is-a-number-and-it.md) — how much of your turn is left, where credits used to be
 - [0088 — The four ways a ball can end, side by side](rules/0088-what-survives-an-extra-ball-is-what-survives.md) — saved, extra, multiball, turn over
 - [0089 — Multiball ends nothing](rules/0089-multiball-ends-nothing.md) — losing one of two costs nothing
+- [0090 — A tilt does not void your bonus](rules/0090-tilt-is-the-machines-own-business-and-nothing.md) — you lose the outputs, not the score
 
 ## Questions

@@ -66,7 +66,7 @@ out on its own, and everything a turn earned moves to your display once, at the 
 | a drain, and an extra ball follows | **yes**, before the playfield is cleared for it |
 | [drain protection](../things/house-ball-lamp.md) giving it back | **no** — the ball did not end, and nothing is cleared |
 | the cabinet being switched off | **no** — nothing is counted out, and nothing is lost |
-| a tilt | as a drain |
+| [a tilt](../concepts/tilt.md) | as a drain — the bonus is counted ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)) |
 
 *(the table is rule 0068's, rendered for a player)*
 

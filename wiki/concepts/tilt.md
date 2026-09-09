@@ -1,0 +1,17 @@
+---
+title: Tilt
+type: concept
+aliases: [tilt, TILT]
+body: game
+---
+# Tilt
+
+**Tilt is the cabinet's own business, and the game never hears about one.** The cabinet kills its own
+outputs until the balls have drained and never tells the software, which sees an ordinary drain and
+counts the bonus for it ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)).
+
+**So a tilt does not void the ball's bonus** — none of the machine's 32 switch inputs is a tilt bob,
+so voiding it is not one of the behaviours available ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)).
+
+**What you lose to a tilt is every output the cabinet has just switched off**, which is punishment
+enough ([0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)).
