@@ -6,6 +6,10 @@ body: game
 ---
 # The MATCH display
 
+**On [the cabinet](../bodies/cabinet.md) it also carries two words that mean something is wrong**,
+and `NOSAVE` is one of them: a settings file or the high score table could not be written, and the
+old one was left alone ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)).
+
 **The fifth six-digit display, and during a game it is the score you are making right now** — this
 turn's, not the game's ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). **So this is the display to watch while the ball is in play**:
 everything you earn goes here, and [your own display](player-displays.md) does not move until the

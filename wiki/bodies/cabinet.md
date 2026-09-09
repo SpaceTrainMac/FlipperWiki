@@ -40,3 +40,9 @@ having been told nothing ([0248](../../raw/rules/0248-no-settings-file-is-a-firs
 **And one bad value costs that value rather than the boot** — a volume written as a word warns and
 uses 80, because a cabinet that refused to start over a mistyped volume would be worse than a loud
 one ([0249](../../raw/rules/0249-one-bad-key-costs-that-key-not-the-boot.md)).
+
+**`NOSAVE` on the glass is a write that did not happen** ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)). Nothing here is ever renamed
+over a good file: a settings file or a high score table that could not be written leaves the old
+one intact and says so on the display instead ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)). **A card that filled up mid-table used to
+put a truncated high score file over the only copy that exists anywhere**, and since 2026-09-01 it
+cannot ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)).
