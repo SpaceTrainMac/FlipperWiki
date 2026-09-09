@@ -366,5 +366,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0274 — A path naming a file that is not on disk stops the cabinet](rules/0274-a-path-naming-a-missing-file-stops-the-cabinet.md) — `E 101`, and why it is a set copied half way
 - [0275 — A cabinet with no amplifier is `"sound": false`](rules/0275-a-cabinet-with-no-amplifier-is-sound-false.md) — a silent machine never looks for a set, so none of the sound faults exist
 - [0276 — 43 cues and a playlist](rules/0276-43-cues-and-a-playlist.md) — the event a cue answers is fixed; the file that answers it is the set's
+- [0277 — There are four sets, and three of them are generated](rules/0277-there-are-four-sets-three-generated.md) — the same cues on every set, which is what makes one catalogue enough
 
 ## Questions
