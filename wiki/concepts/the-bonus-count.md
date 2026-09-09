@@ -25,3 +25,7 @@ a completion's 5 000, and that is on top of the 5 000 the inlane pays at once ([
 
 **It is capped at 39**, and [the ladder](../things/bonus-ladder.md) shows it as two digits — nine
 unit lamps and three Super Bonus lamps for the tens ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)).
+
+**Past the 39th the ladder stops moving, and the bank does not.** A completion still pays its flat
+10 000 and still advances the combination while a stage is left, but the count goes no higher — so
+the end-of-ball bonus never exceeds 195 000 before multipliers ([0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).

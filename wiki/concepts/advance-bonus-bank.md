@@ -29,6 +29,9 @@ slow way to fill [the ladder](../things/bonus-ladder.md) and the reliable one.
 **A completion's *`x BONUS`* is a lamp, not a multiplier.** The ladder is printed `BONUS X 5000`
 down its side, and what a completion lights is the next rung ([0017](../../raw/rules/0017-the-cards-x-bonus-is-the-ladder-and.md)).
 
+**A completion pays its 10 000 whether or not the ladder can take another step** — past the 39th
+bonus the count stops and the bank does not ([0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).
+
 **So the combination is expensive.** Three completions are twelve target hits at the very least, and
 the 40th completion is a hundred and sixty ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)).
 See [the four `ADVANCE BONUS` targets](../things/advance-bonus-targets.md).

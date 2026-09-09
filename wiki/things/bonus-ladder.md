@@ -18,7 +18,8 @@ body: game
 
 **So a count of 25 is five ladder lamps and the `10` and `20` Super Bonus lamps**, and 39 is all
 nine and all three. The arithmetic closes exactly: 2 × 10 + 5 bonuses at 5 000 is 125 000, which is
-25 × 5 000 ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)). **The count is capped at 39** ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)).
+25 × 5 000 ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)). **The count is capped at 39, and past it the ladder simply stops** — the bank keeps paying its
+10 000, the lamps do not move ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md), [0025](../../raw/rules/0025-past-the-39th-bonus-the-ladder-stops-moving.md)).
 
 **Watch it roll over.** A bank completion steps it by exactly one, but a `5000` inlane can jump five
 and cross a decade: reaching a multiple of ten fills out the old decade, blanks all nine unit lamps
