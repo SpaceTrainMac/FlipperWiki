@@ -46,3 +46,19 @@ out in readable pieces would take minutes, and because the end of a turn should 
 player gets better ([0070](../../raw/rules/0070-a-fixed-number-of-ticks-rather-than-a.md)).
 
 A turn can outlast a ball: see [the end of a ball](end-of-ball.md).
+
+## What changes at each edge
+
+**A turn has two edges and the glass moves at both** ([0359](../../raw/rules/0359-initnewround-is-not-the-turns-edge.md)):
+
+| | a ball goes into play | no ball is in play |
+|---|---|---|
+| counters | one ball spent, one ball played | — |
+| backglass | `GAME OVER` out; [that player's lamp](../things/indicator-leds.md) lit; **`BALL IN PLAY` counted down** | that player's lamp out |
+| playfield | game state reset, the flippers armed, the ball served | the timers stopped, [all 48 lamps out](../things/playfield-lamps.md) |
+
+*(the table is game.md's, rendered for a player ([0359](../../raw/rules/0359-initnewround-is-not-the-turns-edge.md)))*
+
+**Starting a fresh ball is not the same as starting a turn, and the difference is
+[`BALL IN PLAY`](../things/status-row.md)** — an extra ball must not step it and a regular turn
+must ([0359](../../raw/rules/0359-initnewround-is-not-the-turns-edge.md)).
