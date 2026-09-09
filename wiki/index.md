@@ -350,5 +350,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0259 — Two words on the `MATCH` display mean something is wrong](rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md) — `REBOOT` and `NOSAVE`, and what each one costs
 - [0260 — The cabinet plays a radio station when it has been left alone](rules/0260-the-cabinet-plays-a-radio-station-when-left-alone.md) — a state of the machine, with the station's name on the glass
 - [0261 — Every button does one thing](rules/0261-in-the-radio-every-button-does-one-thing.md) — the whole radio interface: three buttons, five answers
+- [0262 — Stepping stations is how you audition them](rules/0262-stepping-stations-is-how-you-audition-them.md) — the name on the glass names the entry to fix, and every press is saved at once
 
 ## Questions

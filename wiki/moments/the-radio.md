@@ -25,3 +25,8 @@ does one thing** ([0261](../../raw/rules/0261-in-the-radio-every-button-does-one
 | both flippers, nine seconds | the service menu, the same gesture as everywhere else |
 
 *(the table is cabinet.md §2's, rendered for a player ([0261](../../raw/rules/0261-in-the-radio-every-button-does-one-thing.md)))*
+
+**Stepping stations is how you audition them** ([0262](../../raw/rules/0262-stepping-stations-is-how-you-audition-them.md)). The name on the glass is the name in the
+settings, so a station that will not play tells you exactly which entry to go and fix. **Each press
+is saved immediately rather than on the way out** — this is the state a cabinet stands in for days,
+and a choice only written when you leave would not survive somebody pulling the plug ([0262](../../raw/rules/0262-stepping-stations-is-how-you-audition-them.md)).
