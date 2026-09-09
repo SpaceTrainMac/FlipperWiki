@@ -71,3 +71,8 @@ rub-out ([0393](../../raw/rules/0393-the-first-character-opens-on-a.md)).
 
 **A name is ended by walking to the space** — after which every remaining character is one press
 of start. **There is no fourth button, so there is no *done* gesture to discover** ([0394](../../raw/rules/0394-a-name-is-ended-by-walking-to-the-space.md)).
+
+**The first position on the ring is a rub-out** — it moves *back* one character, discards what was
+there, and stays on the rub-out ([0395](../../raw/rules/0395-the-first-ring-position-is-a-rub-out.md)). So **a held start walks back through the whole name and
+stops dead at the first character**, where it does nothing; start auto-repeats there and **nowhere
+else**, because held on a letter it would finish a name before the player let go ([0395](../../raw/rules/0395-the-first-ring-position-is-a-rub-out.md)).
