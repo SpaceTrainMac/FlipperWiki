@@ -66,6 +66,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Every switch, and what closing it does](things/every-switch.md) — all thirty-two, where each is explained, and why some of them do nothing
 - [The start button](things/start-button.md) — player select's and the high score table's; it does nothing during a game
 - [The two cards on the apron](things/apron-cards.md) — the rule card as printed, line by line against what the machine does now, and the one line that no longer holds
+- [The nine coils](things/the-coils.md) — everything this machine can do to a ball: the ejector, the slingshots, the kickers, the bumpers and the knocker
 
 ## Moments
 
@@ -522,5 +523,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0424 — All 48 lamps go off](rules/0424-all-48-lamps-go-off.md) — a few lamps left lit would look like a game in progress
 - [0425 — The backlight goes to white, not to black](rules/0425-the-backlight-goes-to-white.md) — a frozen colour reads as an accident and dark as switched off
 - [0426 — The credits roll has no music of its own](rules/0426-the-credits-roll-has-no-music-of-its-own.md) — the theme exists, nothing starts it, and the roll inherits what was playing
+- [0427 — Addresses 232 to 240](rules/0427-the-nine-coils.md) — nine coils, and the board de-energises each by itself
 
 ## Questions
