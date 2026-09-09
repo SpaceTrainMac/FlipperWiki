@@ -408,5 +408,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0316 — Adding one later is cheap and adding one now is not free](rules/0316-adding-a-cue-later-is-cheap.md) — what a new cue costs, and why the silences are not permanent
 - [0317 — These name *when* they play](rules/0317-music-cues-name-when-they-play.md) — a theme cuts the jukebox, and the interrupted song does not come back
 - [0318 — `MAIN_THEME`](rules/0318-cue-main-theme.md) — a game starts
+- [0319 — `GAME_OVER_THEME`](rules/0319-cue-game-over-theme.md) — a game ends, beside the `GAME_OVER` effect on the other channel
 
 ## Questions
