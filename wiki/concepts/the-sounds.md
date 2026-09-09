@@ -33,3 +33,9 @@ single rung of it ([0177](../../raw/rules/0177-the-end-of-ball-count-is-the-most
 **Which file plays it is not**: that belongs to whichever [sound set](sound-sets.md) is on, and one
 set's answer is not another's ([0276](../../raw/rules/0276-43-cues-and-a-playlist.md)). The pages below name the event; the machine names the file
 ([0276](../../raw/rules/0276-43-cues-and-a-playlist.md)).
+
+**Eleven of the forty are silent on the `rool` set, and that is deliberate** ([0278](../../raw/rules/0278-eleven-rows-are-fixture-only.md)). They were
+added on 2026-09-04 and are kept out of that set until a person finds a file for each — its value
+is that somebody with taste chose every sound in it, and synthesising one would make it a fourth
+generated set wearing the first one's name ([0278](../../raw/rules/0278-eleven-rows-are-fixture-only.md)). **On a cabinet running `rool`, those eleven
+events pass in silence** ([0278](../../raw/rules/0278-eleven-rows-are-fixture-only.md)).
