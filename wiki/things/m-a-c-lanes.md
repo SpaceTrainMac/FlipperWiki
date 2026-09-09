@@ -7,7 +7,8 @@ body: game
 # The M, A and C lanes
 
 **Three rollover lanes across the top of the upper playfield, and the only mechanic on the machine a
-player can steer** ([0003](../../raw/rules/0003-three-rollover-lanes-across-the-top-of-the.md)). **Rolling a lane toggles its letter** — a dark
+player can steer** ([0003](../../raw/rules/0003-three-rollover-lanes-across-the-top-of-the.md)), and **the only contacts on the upper playfield at all** — the printed bank
+above them is [a display of what they pay](upper-target-bank.md), with no targets behind it ([0007](../../raw/rules/0007-the-upper-target-bank-is-that-third-column.md)). **Rolling a lane toggles its letter** — a dark
 lamp lights, a lit one goes out — and either flipper button rotates all three letters one position,
 so a letter rolled by accident can be moved rather than lost ([0004](../../raw/rules/0004-spelling-it.md)).
 
