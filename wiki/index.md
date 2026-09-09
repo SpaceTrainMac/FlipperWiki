@@ -385,5 +385,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0293 — `BUMPER`](rules/0293-cue-bumper.md) — any of the three bumpers, and it fires more than anything else
 - [0294 — `SIDEBARS_BOTTOM`](rules/0294-cue-sidebars-bottom.md) — either slingshot — the only cue for an event that pays nothing
 - [0295 — `SPECIAL`](rules/0295-cue-special.md) — a lit outlane paying 5 000, and `BALL_LOST` gives way to it
+- [0296 — `TOPLANES_LIGHT_MAC`](rules/0296-cue-toplanes-light-mac.md) — a letter toggling, and never on the frame that completes the word
 
 ## Questions
