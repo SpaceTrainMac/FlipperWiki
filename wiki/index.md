@@ -240,5 +240,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0159 — one hole-bonus rung, lit at the end of the ball](rules/0159-one-hole-bonus-rung-lit-at-the.md) — **5 000** × that side's multiplier
 - [0160 — a side's 5th hit, then its own bunker or the same twin inside 30 s](rules/0160-a-sides-5th-hit-then-its.md) — that side's five rungs + **30 000**, × its multiplier
 - [0161 — an armed 30 000 with no window running](rules/0161-an-armed-30-000-with-no.md) — **30 000** × that side's multiplier
+- [0162 — the 1st bank completion](rules/0162-the-1st-bank-completion.md) — one ladder lamp — the card's *x BONUS*
 
 ## Questions
