@@ -80,6 +80,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Attract mode](moments/attract-mode.md) — the light show a cabinet spends its life in: a line crossing the whole machine, the high score table, and the two gestures
 - [Player select](moments/player-select.md) — one number between the light show and the first ball, and everything the glass does to ask for it
 - [Game over](moments/game-over.md) — one lamp, who lights it and who puts it out
+- [The high score table](moments/the-high-score-table.md) — the attract scene run a second time, to the four people who have just played
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -471,5 +472,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0376 — How wide the draw is, is the operator's](rules/0376-how-wide-the-draw-is-is-the-operators.md) — one to six digits, and a width rather than a probability because it has to be read
 - [0377 — A score of nothing never wins](rules/0377-a-score-of-nothing-never-wins.md) — a draw of `00` would otherwise reward everybody who never scored
 - [0378 — The number is read before the state hands over](rules/0378-the-draw-number-is-read-before-the-state-hands-over.md) — three seconds, then blank — so the won ball is played with `MATCH` dark
+- [0379 — The same scene attract mode runs, in a second place](rules/0379-the-same-scene-attract-mode-runs.md) — the table after a game is the attract scene, run again
 
 ## Questions
