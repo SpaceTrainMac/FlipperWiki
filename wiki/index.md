@@ -14,6 +14,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The hole bonus](concepts/the-hole-bonus.md) — five hits to build, 30 seconds to redeem, 55 000 a side at ×1; and eighteen hits for ×3
 - [The three multipliers](concepts/the-multipliers.md) — one for the bonus count and one for each hole ladder, each multiplying only its own
 - [The extra bonus](concepts/the-extra-bonus.md) — a flat 500 000 at the right captive ball, inside the `X BONUS` window, and the bottom multiplier with it
+- [Space Ship Bonus and Space Train Bonus](concepts/flyer-bonuses.md) — the flyer's two names are the multipliers reaching ×3, announced
 
 ## Things
 
@@ -39,6 +40,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The left bunker](things/left-bunker.md) — the left saucer: where the left hole bonus is redeemed
 - [The right bunker](things/right-bunker.md) — the right saucer: where the right hole bonus is redeemed
 - [The DOUBLE and TRIPLE lamps](things/multiplier-lamps.md) — three pairs, one a collection
+- [The knocker](things/knocker.md) — three hits is Space Train Bonus
 
 ## Moments
 
@@ -97,5 +99,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0040 — Multipliers do not compose](rules/0040-multipliers-do-not-compose-and-they-do-not.md) — three ×3s are not ×27, and at most ×3 anywhere
 - [0041 — A multiplier multiplies a collection and nothing else](rules/0041-a-multiplier-multiplies-a-collection-and-nothing-else.md) — what pays at once stays flat, the 500 000 included
 - [0042 — All three survive the ball and the game](rules/0042-all-three-survive-the-ball-and-the-game.md) — earned once, yours for the game, and not spent by collecting
+- [0043 — The flyer's two bonuses are the multipliers at ×3](rules/0043-space-ship-bonus-and-space-train-bonus-are.md) — not a tenth mechanic; the announcement of the other three
 
 ## Questions
