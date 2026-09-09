@@ -13,3 +13,4 @@ own — see [the three multipliers](the-multipliers.md).
 |---|---|---|
 | a pop bumper | **100** | at once |
 | an `ADVANCE BONUS` target, first hit of the bank | **100** | at once |
+| completing the four-target bank | **10 000** + one bonus + the combination stage | at once |
