@@ -1,0 +1,6 @@
+# Obsidian's workspace state, if somebody opens wiki/ as a vault. Per-machine,
+# and not a fact about the wiki.
+.obsidian/
+
+/.claude/settings.local.json
+/.claude/settings.json
