@@ -13,6 +13,10 @@ ball your display holds the total you had when the turn began and everything you
 **It takes two seconds, whatever the number is.** The turn score counts down to zero while your own
 total counts up by the same amount, in 20 ticks of 100 ms ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)).
 
+**Nothing is announced during a ball.** Your own total does not move while you are playing, so
+there is nothing to cross until the transfer — the announcement lands in the gap between turns, as
+punctuation rather than as an interruption ([0073](../../raw/rules/0073-nothing-is-announced-during-a-ball.md)).
+
 **[The knocker](../things/knocker.md) fires during the transfer**, at the tick where your climbing
 total passes the standing record — first place only, once per player per game, and nothing at all
 for entering the table lower down ([0072](../../raw/rules/0072-the-knocker-fires-during-the-transfer.md)).

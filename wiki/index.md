@@ -136,5 +136,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0070 — Why the transfer is always two seconds](rules/0070-a-fixed-number-of-ticks-rather-than-a.md) — a good ball does not make the ceremony longer
 - [0071 — The two numbers together never change](rules/0071-the-two-numbers-together-never-change.md) — nothing is lost or paid twice mid-transfer
 - [0072 — The knocker fires when you take first place](rules/0072-the-knocker-fires-during-the-transfer.md) — one knock, mid-transfer, first place only
+- [0073 — Nothing is announced during a ball](rules/0073-nothing-is-announced-during-a-ball.md) — the announcement lands between turns, never in play
 
 ## Questions
