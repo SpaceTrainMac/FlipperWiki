@@ -14,3 +14,9 @@ establishing it ([0370](../../raw/rules/0370-game-over-names-the-end-of-a-game.m
 ([0371](../../raw/rules/0371-game-over-goes-out-because-a-ball-is-in-play.md)). That gives it the clearing rule it needs: **the credits roll can start a game directly**,
 skipping the light show, and nothing on that route would have cleared the lamp ([0371](../../raw/rules/0371-game-over-goes-out-because-a-ball-is-in-play.md)). One write
 a turn, at most twelve in a game ([0371](../../raw/rules/0371-game-over-goes-out-because-a-ball-is-in-play.md)).
+
+**Two consequences follow, and both are deliberate** ([0372](../../raw/rules/0372-two-consequences-of-the-game-over-lamp.md)). A game with **zero players** never
+clears the lamp, because no turn runs — and leaving it lit when no game happened is the more
+honest answer. And a **shutdown** leaves it untouched rather than writing it out: nothing lights
+it, which is the guarantee, and the first ball of the next game puts out whatever the last one left
+([0372](../../raw/rules/0372-two-consequences-of-the-game-over-lamp.md)).

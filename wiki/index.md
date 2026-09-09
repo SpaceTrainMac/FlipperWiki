@@ -464,5 +464,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0369 — Bonus forfeit: real machines void it and this one does not](rules/0369-tilt-and-bonus-forfeit.md) — the question game.md raises, and the answer gameplay.md already gave
 - [0370 — `GAME OVER` names the end of a game](rules/0370-game-over-names-the-end-of-a-game.md) — one state decides it and every later one inherits it
 - [0371 — It goes out because a ball is in play](rules/0371-game-over-goes-out-because-a-ball-is-in-play.md) — cleared when a ball goes into play, which covers every route into a game
+- [0372 — Two consequences, both deliberate](rules/0372-two-consequences-of-the-game-over-lamp.md) — no turn means no clearing, and a shutdown leaves the lamp as it stands
 
 ## Questions
