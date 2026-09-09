@@ -9,3 +9,45 @@ body: 1987
 **Two printed cards sit on the apron, pricing on the left and rules on the right** ([0197](../../raw/rules/0197-two-cards-on-the-apron-pricing-left-rules-right.md)). They
 are the only instructions the machine ever came with, and one photograph of them —
 [FOTO06](../bodies/1987.md) — is the only copy anybody has ([0197](../../raw/rules/0197-two-cards-on-the-apron-pricing-left-rules-right.md)).
+
+## The rule card, as printed
+
+**Nine lines, in 1987's spelling and 1987's thousands separator** ([0198](../../raw/rules/0198-rule-card-verbatim.md)):
+
+> **MAC SPACE TRAIN**
+>
+> - M-A-C LANES LIGHTS SPECIAL IN UPPER LANE.
+> - TARGETS ADVANCE BONUS.
+> - COMPLETING TARGETS ADVANCE COMBINATION.
+>   1. COMPLETE TARGET LIGHTS x BONUS & UPPER EXTRA BALL.
+>   2. COMPLETE TARGETS LIGHTS x BONUS & CAPTIVE BALL EXTRA BALL.
+>   3. COMPLETE TARGETS LIGHTS x BONUS, EXTRA BALL & SPECIAL.
+> - CENTER BALLS ADV HOLE BONUS & MARK [?]0.000 WITH LIGHT.
+> - RIGHT BALL LIGHTS [?]0.000 ON CENTER BALLS.
+> - HOLE BONUS GREATER THAN 2 GIVES EXTRA BALL IN HOLE.
+> - HOLE BONUS COUNTS IN HOLE OR END OF PLAY.
+> - BONUS COUNTS AT END OF BALL.
+
+*(`[?]` is a character the photograph cannot resolve, and it is left unresolved rather than guessed
+([0198](../../raw/rules/0198-rule-card-verbatim.md)).)*
+
+## What each line is now
+
+| The card says | Where it lives now |
+|---|---|
+| M-A-C LANES LIGHTS SPECIAL IN UPPER LANE | [M-A-C](../concepts/m-a-c.md) completing lights [`SPECIAL`](../concepts/special.md) |
+| TARGETS ADVANCE BONUS | [the four `ADVANCE BONUS` targets](advance-bonus-targets.md) |
+| COMPLETING TARGETS ADVANCE COMBINATION | [the bank's three stages](../concepts/advance-bonus-bank.md) |
+| 1. …x BONUS & UPPER EXTRA BALL | a rung on [the ladder](bonus-ladder.md) — and see below |
+| 2. …x BONUS & CAPTIVE BALL EXTRA BALL | a rung, and [the right `EXTRA BALL`](extra-ball-right.md), collected at [the right captive ball](right-captive-ball.md) |
+| 3. …x BONUS, EXTRA BALL & SPECIAL | a rung, an extra ball outright, and `SPECIAL` |
+| CENTER BALLS ADV HOLE BONUS & MARK [?]0.000 | [the twins](centre-captive-balls.md) build [the hole bonus](../concepts/the-hole-bonus.md) |
+| RIGHT BALL LIGHTS [?]0.000 ON CENTER BALLS | [the right captive ball](right-captive-ball.md) arms both markers |
+| HOLE BONUS GREATER THAN 2 GIVES EXTRA BALL IN HOLE | [the right bunker](right-bunker.md), past rung 2, once a ball |
+| HOLE BONUS COUNTS IN HOLE OR END OF PLAY | [redeemed at the bunker, or paid when the ball ends](../concepts/the-hole-bonus.md) |
+| BONUS COUNTS AT END OF BALL | [the bonus count](../concepts/the-bonus-count.md) |
+
+**One line of the card is not what this machine does.** The card gives the **upper** `EXTRA BALL`
+to the bank's *first* completion; on this cabinet that lamp belongs to
+[M-A-C's `A`](../concepts/m-a-c.md) and the first completion lights a rung and nothing else
+([0198](../../raw/rules/0198-rule-card-verbatim.md)). Every other line survived ([0198](../../raw/rules/0198-rule-card-verbatim.md)).

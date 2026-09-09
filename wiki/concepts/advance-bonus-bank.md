@@ -23,6 +23,11 @@ then be built again from empty ([0016](../../raw/rules/0016-the-fourth-target-co
 | **2nd** | the next rung, and [the right `EXTRA BALL`](../things/extra-ball-right.md) lights |
 | **3rd** | the next rung, [`SPECIAL`](special.md) lights, and **an extra ball is awarded outright** |
 
+**The *1987* card gave the first completion more than this cabinet does.** *COMPLETE TARGET LIGHTS
+x BONUS & UPPER EXTRA BALL*, says [the apron](../things/apron-cards.md) — where here the first
+completion lights a rung and nothing else, and the upper `EXTRA BALL` is
+[M-A-C's](m-a-c.md) ([0198](../../raw/rules/0198-rule-card-verbatim.md)). The card's other two stages are this table ([0198](../../raw/rules/0198-rule-card-verbatim.md)).
+
 **A completion is worth one bonus and a `5000` inlane is worth five** ([0022](../../raw/rules/0022-what-advances-it.md)), so the bank is the
 slow way to fill [the ladder](../things/bonus-ladder.md) and the reliable one.
 
