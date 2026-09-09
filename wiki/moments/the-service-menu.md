@@ -65,3 +65,6 @@ wraps, so `EXIT` is one press back from `VOLUME` rather than sixteen forward ([0
 **The last six entries leave the menu rather than change something**, which is why a flipper on one
 of them ends the visit — and **everything you adjusted on the way past is saved first**, so a visit
 that ends in the coil test does not lose the volume you set ([0257](../../raw/rules/0257-the-last-six-entries-leave-the-menu.md)).
+
+**It saves by itself** — two seconds after you stop adjusting something, and again on the way out.
+**Walk away and it closes itself after two minutes, saving first** ([0258](../../raw/rules/0258-the-service-menu-saves-by-itself.md)).
