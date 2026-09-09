@@ -16,7 +16,7 @@ knocker says two things: this, and Space Train Bonus ([0072](../../raw/rules/007
 [Space Ship Bonus and Space Train Bonus](../concepts/flyer-bonuses.md).
 
 **The `HIGH SCORE` lamp and the knocker fire while the ball is still in play** — not at the end of
-the game, and not from the state that records the names ([0363](../../raw/rules/0363-the-lamp-and-the-knocker-fire-during-the-ball.md)). The two ask different
+the game, and not from [name entry](../moments/name-entry.md) ([0363](../../raw/rules/0363-the-lamp-and-the-knocker-fire-during-the-ball.md), [0383](../../raw/rules/0383-highscore-is-entered-after-every-game.md)). The two ask different
 questions: this one is *has this player just taken the best score on the cabinet*, about a ball in
 progress, and the other is *which of these four scores belong in the table*, about a game that has
 finished ([0363](../../raw/rules/0363-the-lamp-and-the-knocker-fire-during-the-ball.md)).

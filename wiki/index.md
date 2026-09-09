@@ -81,6 +81,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Player select](moments/player-select.md) — one number between the light show and the first ball, and everything the glass does to ask for it
 - [Game over](moments/game-over.md) — one lamp, who lights it and who puts it out
 - [The high score table](moments/the-high-score-table.md) — the attract scene run a second time, to the four people who have just played
+- [Name entry](moments/name-entry.md) — who qualifies, and typing six characters with three buttons
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -476,5 +477,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0380 — Why there](rules/0380-why-the-table-is-shown-after-a-game.md) — shown to four people who just played, with the new names already in it
 - [0381 — It is the same machine and the same scene, deliberately](rules/0381-the-same-machine-and-the-same-scene.md) — twenty seconds, the same scene, and the final scores come off the glass
 - [0382 — Every way out is the closing titles, whatever the scene reports](rules/0382-every-way-out-of-the-table-is-credits.md) — start and the gesture both end the scroll, and both lead to the credits
+- [0383 — Entered whenever Play finishes, unconditionally](rules/0383-highscore-is-entered-after-every-game.md) — always passed through, and it decides for itself whether anybody qualified
 
 ## Questions
