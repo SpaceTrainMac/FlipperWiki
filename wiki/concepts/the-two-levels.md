@@ -34,3 +34,10 @@ position: the deck, the routes, the posts, the two wire rails and the plastics a
 [topography.json](../../../FlipperArchitecture/docs/topography.json) read off the photographs, and
 since 2026-09-07 the table that plays is measured against that rather than drawn from this
 ([0192](../../raw/rules/0192-this-section-is-the-topology-not-the-geometry.md)). Ask this page which way the ball goes; ask those where the ramp starts.
+
+**None of the four routes has a switch on it, and none needs one** ([0193](../../raw/rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md)). Every scoring element
+carries its own switch, so the level is implied by whatever closed — `M` can only have been closed
+by a ball upstairs. **The two storeys are a physical and visual feature rather than something the
+machine keeps track of**: laid out flat, the same elements would play by the same rules ([0193](../../raw/rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md)).
+So nothing you do on a ramp or in a tunnel scores, and nothing anywhere asks which floor you are on
+([0193](../../raw/rules/0193-these-paths-carry-no-switches-and-do-not-need-any.md)).
