@@ -74,6 +74,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The serve](moments/the-serve.md) — store to start ramp to playfield
 - [The draw](moments/the-draw.md) — the last two digits of your score against a random pair, for one more ball
 - [The Space Train banner](moments/the-space-train-banner.md) — `SPACE TRAIN LIFTS OFF`, one word to a display, five seconds, mid-ball
+- [The service menu](moments/the-service-menu.md) — both flippers for nine seconds in attract mode, seventeen entries in a ring, and it saves by itself
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
@@ -338,5 +339,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0249 — One bad key costs that key, not the boot](rules/0249-one-bad-key-costs-that-key-not-the-boot.md) — a mistyped value is warned about and defaulted, and the machine plays
 - [0250 — A failed write is not renamed over a good file](rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md) — `NOSAVE` on the glass, and the old file still there
 - [0251 — `volume` is system-wide](rules/0251-volume-is-system-wide.md) — one mixer level for the whole machine, applied by every body at start-up
+- [0252 — Hold both flippers for nine seconds](rules/0252-hold-both-flippers-for-nine-seconds.md) — no service button exists, so the way in is a gesture a cabinet cannot make by accident
 
 ## Questions
