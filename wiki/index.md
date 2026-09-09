@@ -79,6 +79,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
 - [The Visual Pinball table](bodies/vpx.md) — the body you play on a keyboard: which key is which control, and what it does that a cabinet would not
 - [The browser simulator](bodies/simulator.md) — the body with no ball in it: every switch is a key, and nothing moves unless you move it
+- [The cabinet](bodies/cabinet.md) — the machine in the room: what an owner can change, the service menu behind both flippers, and the radio it plays when nobody is there
 
 ## Rules
 
@@ -329,5 +330,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0241 — A digit is seven segments](rules/0241-a-digit-is-seven-segments.md) — lit from the bytes the engine sent, so a non-digit glyph reads as whatever it nearly is
 - [0242 — Sound is off unless the settings say so](rules/0242-sound-is-off-unless-the-settings-say-so.md) — the cue is drawn even when nothing is heard, so silence is not absence
 - [0243 — The keyboard accelerators are on the page](rules/0243-the-keyboard-accelerators-are-on-the-page.md) — one copy of the key list, deliberately, and it is in the page's own panel
+- [0244 — The operator's choices live in `settings.json`](rules/0244-the-operators-choices-live-in-settings-json.md) — a fact about the machine is built in, a choice about it is a setting
 
 ## Questions
