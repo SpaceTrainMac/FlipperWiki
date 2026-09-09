@@ -116,3 +116,7 @@ reports it as a defect** ([0228](../../raw/rules/0228-most-of-this-is-faithful-r
 in the cabinet's own wiring and the host is never told, so VPX does the whole of it alone and the
 engine sees an ordinary drain — which means **the `TILT` plate on the backbox is drawn and can
 never light** ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).
+
+**Multiball is two balls, not the flyer's three** ([0230](../../raw/rules/0230-multiball-is-two-balls-not-the-flyers-three.md)). The trough holds two, because the left
+bunker only starts multiball if a ball is cached — and **the flyer is wrong about this machine
+rather than the machine wrong about the flyer** ([0230](../../raw/rules/0230-multiball-is-two-balls-not-the-flyers-three.md)).

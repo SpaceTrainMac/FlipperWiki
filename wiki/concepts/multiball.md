@@ -12,6 +12,10 @@ body: game
 bunker holds your first ball while it is on its way, and releases it **2.5 seconds after the second
 ball leaves the ramp** — so both are on the playfield together ([0056](../../raw/rules/0056-bunker_left-pays-100-and-starts-multiball-if-a.md)).
 
+**Two balls, and the 1987 flyer's three is the flyer being wrong about this machine** — the trough
+holds two, and the left bunker only starts multiball if one of them is cached ([0230](../../raw/rules/0230-multiball-is-two-balls-not-the-flyers-three.md)). See
+[the 1987 machine](../bodies/1987.md).
+
 **Multiball ends nothing.** A turn is over when nothing is owed and the drain contact closes and
 stays closed, so losing one ball while another is still on the playfield changes nothing at all
 ([0089](../../raw/rules/0089-multiball-ends-nothing.md)).

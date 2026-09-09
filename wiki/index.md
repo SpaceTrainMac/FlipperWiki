@@ -314,5 +314,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0227 — It writes nothing this table owns](rules/0227-the-autoplayer-writes-nothing-this-table-owns.md) — scratch files only, so a night of self-play leaves your scores untouched
 - [0228 — Most of this is faithful rather than broken](rules/0228-most-of-this-is-faithful-rather-than-broken.md) — the differences are listed so they are not mistaken for defects
 - [0229 — Your nudge does not talk to the game](rules/0229-your-nudge-does-not-talk-to-the-game.md) — the simulator handles a nudge alone, so the drawn `TILT` plate can never light
+- [0230 — Multiball is two balls, not the flyer's three](rules/0230-multiball-is-two-balls-not-the-flyers-three.md) — the trough holds two, and the flyer is the one that is wrong
 
 ## Questions
