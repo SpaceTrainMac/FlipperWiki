@@ -456,3 +456,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-10T00:11  ingest  0431  things/the-coils, rules/0431
 2026-09-10T00:11  ingest  0432  things/the-coils, rules/0432
 2026-09-10T00:12  lint    1 finding, 0 pages written: the coils page had no way in
+2026-09-10T00:13  lint    0181 was never issued: the machine.md cut started at 0182 by mistake. A number is an identity, so the gap stands rather than being closed
