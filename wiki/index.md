@@ -95,5 +95,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0038 — Three independent pairs of DOUBLE / TRIPLE lamps](rules/0038-three-independent-pairs-of-double-triple-lamps-and.md) — three multipliers, each only its own collection
 - [0039 — The bottom pair is the X BONUS window's doing](rules/0039-the-bottom-pair-is-x_bons-doing.md) — 500 000 and the multiplier, or neither
 - [0040 — Multipliers do not compose](rules/0040-multipliers-do-not-compose-and-they-do-not.md) — three ×3s are not ×27, and at most ×3 anywhere
+- [0041 — A multiplier multiplies a collection and nothing else](rules/0041-a-multiplier-multiplies-a-collection-and-nothing-else.md) — what pays at once stays flat, the 500 000 included
 
 ## Questions

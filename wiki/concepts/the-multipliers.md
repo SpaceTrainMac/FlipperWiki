@@ -21,6 +21,11 @@ nothing else** ([0038](../../raw/rules/0038-three-independent-pairs-of-double-tr
 [a flat 500 000](the-extra-bonus.md): the 40th completion opens a 20-second window, the right
 captive ball inside it pays and lights `X2_BOT`, and the 50th does the same for `X3_BOT` ([0039](../../raw/rules/0039-the-bottom-pair-is-x_bons-doing.md)).
 
+**A multiplier multiplies a collection, and nothing that is paid as you go.** The 100 a target
+pays, the 10 000 a bank completion pays, the 30 000 an M-A-C lane pays and the 5 000 an inlane pays
+are all flat — and so is the extra bonus's own 500 000, which is a collection in its own right
+rather than a multiplied one ([0041](../../raw/rules/0041-a-multiplier-multiplies-a-collection-and-nothing-else.md)).
+
 **They do not compose and they do not reach outside their own mechanism.** Three ×3s do not make
 ×27, the machine advertises *Double & Triple* and means at most ×3, and a hole-bonus `DOUBLE` does
 not double a bumper's 100 ([0040](../../raw/rules/0040-multipliers-do-not-compose-and-they-do-not.md)).
