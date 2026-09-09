@@ -310,5 +310,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0223 — `./run_vpx.sh -B` leaves the region exactly as it is](rules/0223-run-vpx-b-leaves-the-region-as-it-is.md) — what the drawn backbox carries, and how to keep a hand-placed region
 - [0224 — The displays are green](rules/0224-the-displays-are-green.md) — the colour comes from the photographs, not from taste
 - [0225 — `spacetrain-autoplay` plays a whole game with nobody at the keyboard](rules/0225-spacetrain-autoplay-plays-a-whole-game.md) — the engine driven through the switch matrix, 29 seconds a game
+- [0226 — Six serves for a one-player game is the machine being right](rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md) — a two-second ball is always inside the window, so every turn costs two serves
 
 ## Questions

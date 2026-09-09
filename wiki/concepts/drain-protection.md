@@ -33,6 +33,7 @@ drain that asked for it ([0083](../../raw/rules/0083-what-the-machine-waits-for-
 
 **On [the VPX table](../bodies/vpx.md) the wait is about 400 ms**, which is how long the trough
 takes to put a ball back under the ejector — so a protected drain there feels like the machine
-catching the ball rather than like a pause ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)). **A ball that stops there and stays is a fault**: until
+catching the ball rather than like a pause ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)). **It is also why a machine playing itself serves six balls for three turns** — a two-second ball
+is inside the window every time ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md)). **A ball that stops there and stays is a fault**: until
 2026-09-05 the machine waited thirty seconds for a press nobody knew to make, and that behaviour is
 gone ([0217](../../raw/rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md)).

@@ -96,3 +96,9 @@ answers the ejector with the switches a ball would close, keeps each ball alive 
 drains it, and types initials at the end ([0225](../../raw/rules/0225-spacetrain-autoplay-plays-a-whole-game.md)). **A game takes about 29 seconds at one player
 and 110 at four**, and it prints the states it went through and how many serves and drains it saw
 ([0225](../../raw/rules/0225-spacetrain-autoplay-plays-a-whole-game.md)).
+
+**Six serves for a one-player game is the machine being right, not a bug** ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md)). Every one of
+this driver's balls lives about two seconds, which is well inside
+[drain protection](../concepts/drain-protection.md)'s fifteen — so the first drain of each turn is
+handed back and the turn takes two serves ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md)). Ask it for a longer ball and ordinary turn
+boundaries appear ([0226](../../raw/rules/0226-six-serves-for-a-one-player-game-is-the-machine-being-right.md)).
