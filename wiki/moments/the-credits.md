@@ -13,3 +13,12 @@ presses start, in which case the next game begins immediately** ([0407](../../ra
 **These are not credits in the coin sense** — coin handling is
 [out of scope](player-select.md) and this state touches none of the four credit addresses on the
 backglass. **One word, two meanings, and only this one is built** ([0408](../../raw/rules/0408-not-credits-in-the-coin-sense.md)).
+
+**Two exits** ([0409](../../raw/rules/0409-credits-two-exits.md)):
+
+| Exit | Where it goes |
+|---|---|
+| start | straight into [player select](player-select.md) — a new game |
+| the minute elapsing | back to [attract mode](attract-mode.md) |
+
+*(the table is credits.md's, rendered for a player ([0409](../../raw/rules/0409-credits-two-exits.md)))*

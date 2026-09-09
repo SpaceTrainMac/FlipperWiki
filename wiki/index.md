@@ -504,5 +504,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0406 — The end-of-game draw is not here](rules/0406-the-draw-is-not-here.md) — over and blanked before this opens, which is why `MATCH` is free
 - [0407 — The last thing a game shows](rules/0407-the-last-thing-a-game-shows.md) — a minute of names, and start begins the next game
 - [0408 — Not credits in the coin sense](rules/0408-not-credits-in-the-coin-sense.md) — the word means a roll of names here and nothing to do with coins
+- [0409 — Two exits](rules/0409-credits-two-exits.md) — start for a new game, or the minute out and back to the light show
 
 ## Questions
