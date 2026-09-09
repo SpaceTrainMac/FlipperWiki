@@ -36,3 +36,9 @@ go out with it — a repeatable cycle, not a once-a-game latch ([0009](../../raw
 is: spell the three lanes, take `M` and `C` for as long as they can be found, spend the sequence on
 `A` and go for the right captive ball, and start again from nothing** ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md), [0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)). The 20 seconds
 are configurable ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)).
+
+**The letters carry from ball to ball for the whole game; an open window does not.** A player who
+had `M` and `C` lit when a ball drained starts the next one with `M` and `C` lit, and one who had all
+three lit starts the next ball complete and paying — the completion re-runs on the first cycle,
+re-blinking the three lamps and re-lighting `SPECIAL`. `EXTRA_BALL_TOP` is a lit award like any other
+and is cleared with the rest of the playfield [when the ball ends](../moments/end-of-ball.md) ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)).

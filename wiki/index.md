@@ -4,7 +4,7 @@ Every page, one line each, by category. Updated on every ingest.
 
 ## Concepts
 
-- [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again
+- [M-A-C](concepts/m-a-c.md) — the only mechanic a player can steer: lanes toggle letters, flipper buttons rotate them; all three lit is complete, blinking, with `SPECIAL` lit on the outlanes; once the letters are lit, `M` and `C` pay 30 000 each, repeatably, and `A` spends the sequence on a 20-second shot at an extra ball; then the letters go out and it starts again; lit letters carry from ball to ball
 - [The special](concepts/special.md) — lit on both outlanes by completing M-A-C; what it pays is not yet a rule here
 - [The extra ball](concepts/extra-ball.md) — the ways to one; so far M-A-C's: `A` with the letters lit, then the right captive ball inside 20 seconds
 
@@ -19,6 +19,8 @@ Every page, one line each, by category. Updated on every ingest.
 - [The SPECIAL lamps](things/special-lamps.md) — both outlanes; lit by M-A-C complete
 
 ## Moments
+
+- [The end of a ball](moments/end-of-ball.md) — the lit awards are cleared, the upper `EXTRA BALL` window with them; the M-A-C letters carry
 
 ## Bodies
 
@@ -37,5 +39,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0007 — The upper target bank has no switches of its own](rules/0007-the-upper-target-bank-is-that-third-column.md) — a scoreboard for the lanes above it, not a target
 - [0008 — While the window runs the three M-A-C lanes do nothing at all](rules/0008-while-the-window-runs-the-three-m-a-c-lanes.md) — the top lanes are inert for the window's 20 seconds
 - [0009 — However it ends, the letters go out and M-A-C can be spelled again](rules/0009-however-it-ends-the-letters-go-out-and.md) — a repeatable cycle, not a once-a-game latch
+- [0010 — The letters carry from ball to ball for the whole game](rules/0010-the-letters-carry-from-ball-to-ball-for.md) — a drain keeps your letters and takes an open window
 
 ## Questions

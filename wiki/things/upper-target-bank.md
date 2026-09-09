@@ -19,4 +19,5 @@ lights `EXTRA_BALL_TOP` ([0006](../../raw/rules/0006-collecting-it.md)).
 It opens when `A` is taken with M-A-C complete; `EXTRA_BALL_TOP` and the `A` lamp flash together,
 the [right captive ball](right-captive-ball.md) inside the window awards the extra ball, and if the
 window closes first nothing is awarded ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)). Collected or expired, `EXTRA_BALL_TOP` then stops
-flashing and goes dark, and the three letters go out with it ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md)). The mechanic behind it is [M-A-C](../concepts/m-a-c.md).
+flashing and goes dark, and the three letters go out with it ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md)). An open window does not survive a drain: `EXTRA_BALL_TOP` is
+a lit award like any other and is cleared with the playfield [when the ball ends](../moments/end-of-ball.md) ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)). The mechanic behind it is [M-A-C](../concepts/m-a-c.md).

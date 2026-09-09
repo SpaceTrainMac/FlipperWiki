@@ -24,3 +24,6 @@ are inert**; everything else on the playfield behaves as it always does ([0008](
 collected or not, all three lamps — `MAC_LEFT`, `MAC_CENTER`, `MAC_RIGHT` — go out and the letters
 can be spelled again** ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md)). What the letters are for is
 [M-A-C](../concepts/m-a-c.md).
+
+**The lit letters survive a drain.** They carry from ball to ball for the whole game, and three lit
+letters start the next ball complete and paying, lamps re-blinking and `SPECIAL` re-lit ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)).
