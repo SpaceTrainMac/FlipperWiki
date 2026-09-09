@@ -32,3 +32,8 @@ a name cannot also skip the credits** ([0410](../../raw/rules/0410-start-skips-t
 **Sixty seconds by default, and [an owner can change it](../bodies/cabinet.md)** — anything from a
 second to an hour. **How long a light show runs is a choice made about the machine rather than a
 fact about it**, which is the rule that decides what belongs in a setting at all ([0411](../../raw/rules/0411-sixty-seconds-by-default.md)).
+
+**A value outside the range is clamped and warned about rather than refused** — exactly as a
+volume of 150 is ([0412](../../raw/rules/0412-the-credits-duration-is-clamped-and-warned.md)). Both ends are real mistakes to make by hand: **a zero would make the
+state a flicker nobody could read, and a value in days would park the cabinet in it looking broken**
+([0412](../../raw/rules/0412-the-credits-duration-is-clamped-and-warned.md)).
