@@ -23,4 +23,5 @@ what a good ball is worth ([0021](../../raw/rules/0021-one-number-from-0-to-39-w
 **So an inlane is worth five bank completions to the count** — 25 000 at the end of the ball against
 a completion's 5 000, and that is on top of the 5 000 the inlane pays at once ([0022](../../raw/rules/0022-what-advances-it.md)).
 
-TBC — what the lamps mean is the next rule.
+**It is capped at 39**, and [the ladder](../things/bonus-ladder.md) shows it as two digits — nine
+unit lamps and three Super Bonus lamps for the tens ([0023](../../raw/rules/0023-the-count-is-capped-at-39.md)).
