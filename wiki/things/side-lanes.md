@@ -1,7 +1,7 @@
 ---
 title: The side lanes
 type: thing
-aliases: [SIDELANE_LEFT, SIDELANE_RIGHT, the 500 lanes, the side lanes]
+aliases: [SIDELANE_LEFT, SIDELANE_RIGHT, the 500 lanes, the side lanes, SIDELANE_LEFT_TOP]
 body: game
 ---
 # The side lanes

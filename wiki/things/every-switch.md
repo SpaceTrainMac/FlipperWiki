@@ -20,3 +20,4 @@ links to the page that explains it.
 | `BUMPER_LEFT` | 100 | — | — | [pop bumpers](../things/pop-bumpers.md) |
 | `BUMPER_RIGHT` | 100 | — | — | [pop bumpers](../things/pop-bumpers.md) |
 | `BUMPER_MIDDLE` | 100 | — | — | [pop bumpers](../things/pop-bumpers.md) |
+| `SIDELANE_LEFT_TOP` | — | — | — | [side lanes](../things/side-lanes.md) |
