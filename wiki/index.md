@@ -251,5 +251,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0170 — all three bumpers within one second](rules/0170-all-three-bumpers-within-one-second.md) — **500** flat, on top of their own 300
 - [0171 — the end-of-game draw](rules/0171-the-end-of-game-draw.md) — one more ball
 - [0172 — —](rules/0172-row172.md) — Arithmetic
+- [0173 — the bonus count at ×3](rules/0173-the-bonus-count-at-3.md) — `39 × 5 000 × 3`
 
 ## Questions

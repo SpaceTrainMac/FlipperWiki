@@ -37,3 +37,4 @@ own — see [the three multipliers](the-multipliers.md).
 | all three bumpers within one second | **500** flat, on top of their own 300 | at once |
 | the end-of-game draw | one more ball | — |
 | — | Arithmetic | Total |
+| the bonus count at ×3 | `39 × 5 000 × 3` | 585 000 |
