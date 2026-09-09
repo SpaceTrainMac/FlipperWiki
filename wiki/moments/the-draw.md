@@ -18,3 +18,9 @@ digits is given one more ball** ([0091](../../raw/rules/0091-when-every-player-i
 **There is exactly one draw in a game, and nothing has to remember that** — the game is a round of
 turns, then the draw, then a round of whatever it awarded, in a straight line ([0356](../../raw/rules/0356-round-draw-round-is-a-straight-line.md)). A second
 draw cannot happen because there is no second draw in the sequence to reach ([0356](../../raw/rules/0356-round-draw-round-is-a-straight-line.md)).
+
+**There are two ways this machine gives a player another ball, and the draw is the second** ([0373](../../raw/rules/0373-two-ways-a-player-can-be-awarded.md)):
+[during play](../concepts/extra-ball.md), where a mechanic awards one; and here, at the end of the
+game, where a number is put on the glass and **every player whose score ends in those digits is
+handed one more ball** ([0373](../../raw/rules/0373-two-ways-a-player-can-be-awarded.md)). The round that follows plays whatever the draw awarded, and if it
+awarded nothing there is nothing to play ([0373](../../raw/rules/0373-two-ways-a-player-can-be-awarded.md)).
