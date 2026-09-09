@@ -35,3 +35,7 @@ and a choice only written when you leave would not survive somebody pulling the 
 after a second the score displays change to `VOLUME` over a number and it climbs — 55, 60, 65 —
 until you let go. **Past 100 the next step is 0**, so one button reaches every level and
 overshooting only costs another lap; twenty-one seconds is the whole way round ([0263](../../raw/rules/0263-the-volume-goes-up-in-fives-and-wraps.md)).
+
+**You will not hear it until you let go, and that is deliberate** — a ladder that wrapped while it
+was audible would blast the room at 100 and then cut to silence ([0264](../../raw/rules/0264-you-will-not-hear-it-until-you-let-go.md)). The number on the glass
+is what you are choosing; releasing the flipper is what sets it ([0264](../../raw/rules/0264-you-will-not-hear-it-until-you-let-go.md)).
