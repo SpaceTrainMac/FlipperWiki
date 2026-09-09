@@ -18,6 +18,15 @@ bonus count of 39 is nine units plus three Super Bonus lamps — 9 + 2 × 3 = 15
 second, 4–13 in the third and 6–15 in the fourth; green and blue cover 0–5, then 5–10 with `DOUBLE`,
 then 10–15 with `TRIPLE`. Neither wastes a step of the brightness the cabinet has ([0112](../../raw/rules/0112-every-channel-reaches-every-value-from-0-to.md)).
 
+**No channel climbs steadily, and that is the point rather than a defect.** Red reads the units
+digit, so it *falls* every time the count crosses a ten ([0113](../../raw/rules/0113-no-channel-climbs-steadily-and-that-is-the.md)):
+
+| Bonus count | 9 | 10 | 19 | 20 | 29 | 30 | 39 |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| red | 9 | 2 | 11 | 4 | 13 | 6 | 15 |
+
+*(the table is rule 0113's, rendered for a player)*
+
 **Four flashes — two short, two long — is [a thunderstrike](../concepts/the-thunderstrike.md)**:
 all three bumpers inside one second ([0054](../../raw/rules/0054-landing-all-three-bumpers-within-one-second-of.md)).
 
