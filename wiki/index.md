@@ -77,6 +77,7 @@ Every page, one line each, by category. Updated on every ingest.
 
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
+- [The Visual Pinball table](bodies/vpx.md) — the body you play on a keyboard: which key is which control, and what it does that a cabinet would not
 
 ## Rules
 
@@ -297,5 +298,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0211 — D3: `SPECIAL` is worth 5 000, and it is an outlane award](rules/0211-d3-special-is-worth-5-000-and-is-an-outlane-award.md) — the lamp names give the figure, the printing gives the place
 - [0212 — D4: the three side-lane switches are the three printed values](rules/0212-d4-the-three-sidelane-switches-are-the-printed-values.md) — three prints, three switches, one known, and the rest by elimination
 - [0213 — What none of these touch is the award chain](rules/0213-what-none-of-these-touch-is-the-award-chain.md) — the four decisions pick values; how the machine behaves was designed elsewhere
+- [0214 — The keys are VPX's own defaults](rules/0214-the-keys-are-vpxs-own-defaults.md) — which key is which control, and that none of them was rebound
 
 ## Questions
