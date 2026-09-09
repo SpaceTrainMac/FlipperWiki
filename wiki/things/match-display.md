@@ -16,8 +16,8 @@ turn is over ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and
 **At the end of the turn it walks back down to zero** while your own display climbs ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)), and it
 is blanked once the transfer finishes — so you never walk up to the last player's number ([0075](../../raw/rules/0075-the-match-display-is-blanked-once-the-transfer.md)).
 
-**After the game it shows something else**: how many extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). TBC — the match
-itself, which is what the display is named for, is not a rule here yet.
+**After the game it shows something else**: how many extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)), and then
+[the draw](../moments/the-draw.md) — the two digits the display is named for ([0091](../../raw/rules/0091-when-every-player-is-out-of-balls-the.md)).
 
 See [what the machine keeps track of](../concepts/what-the-machine-tracks.md) and
 [the four player displays](player-displays.md).

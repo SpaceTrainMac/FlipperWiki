@@ -60,6 +60,7 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [The end of a turn](moments/end-of-turn.md) — what you made this turn goes onto your own score
 - [The serve](moments/the-serve.md) — store to start ramp to playfield
+- [The draw](moments/the-draw.md) — the last two digits of your score against a random pair, for one more ball
 
 ## Bodies
 
@@ -161,5 +162,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0088 — The four ways a ball can end, side by side](rules/0088-what-survives-an-extra-ball-is-what-survives.md) — saved, extra, multiball, turn over
 - [0089 — Multiball ends nothing](rules/0089-multiball-ends-nothing.md) — losing one of two costs nothing
 - [0090 — A tilt does not void your bonus](rules/0090-tilt-is-the-machines-own-business-and-nothing.md) — you lose the outputs, not the score
+- [0091 — The draw](rules/0091-when-every-player-is-out-of-balls-the.md) — a score ending in the drawn digits wins a ball; nothing never wins
 
 ## Questions
