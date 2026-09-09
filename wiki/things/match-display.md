@@ -11,6 +11,8 @@ turn's, not the game's ([0011](../../raw/rules/0011-ten-quantities-and-everythin
 everything you earn goes here, and [your own display](player-displays.md) does not move until the
 turn is over ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and-that.md)).
 
+**It is where the end-of-ball count lands**, one lamp at a time, 200 ms apart ([0063](../../raw/rules/0063-one-step-per-lit-lamp-200-ms-apart.md)).
+
 **After the game it shows something else**: how many extra balls you won ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). TBC — the match
 itself, which is what the display is named for, is not a rule here yet.
 

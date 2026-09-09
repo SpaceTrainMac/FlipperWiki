@@ -126,5 +126,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0060 — What the right bunker does](rules/0060-bunker_right-is-the-cards-hole-for-the-right.md) — 100, an extra ball, a redemption, and out in five seconds
 - [0061 — Both bunkers collect while the machine is still live](rules/0061-both-bunkers-can-collect-while-the-machine-is.md) — a payout does not pause the playfield
 - [0062 — Every ball that ends is counted out lamp by lamp](rules/0062-every-ball-that-ends-is-counted-out-lamp.md) — the quiet walk is the bonus being paid
+- [0063 — One step per lit lamp, 200 ms apart](rules/0063-one-step-per-lit-lamp-200-ms-apart.md) — what each lamp pays as it goes out
 
 ## Questions
