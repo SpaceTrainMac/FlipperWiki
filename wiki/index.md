@@ -400,5 +400,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0308 — `HOLEBONUS_RIGHT_TRIPLE`](rules/0308-cue-holebonus-right-triple.md) — the third right redemption — ×3, and the second of Space Train Bonus's lamps
 - [0309 — `HOLEBONUS_RIGHT_BONUS30K_A`](rules/0309-cue-holebonus-right-bonus30k-a-f.md) — the six items of a right redemption, one cue each
 - [0310 — These three are what the 1987 firmware had no word for](rules/0310-the-three-the-1987-firmware-had-no-word-for.md) — the other thirty-seven answer events the original machine already had
+- [0311 — `EXTRA_BONUS`](rules/0311-cue-extra-bonus.md) — 500 000 at the right captive ball, once or twice a game
 
 ## Questions
