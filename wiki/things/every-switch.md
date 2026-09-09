@@ -29,3 +29,4 @@ links to the page that explains it.
 | `SIDELANE_RIGHT_5000` | 5 000 | five bonuses | — | [inlanes 5000](../things/inlanes-5000.md) |
 | `SIDELANE_LEFT_OUT` | 5 000 when `SPECIAL` is lit | — | **SPECIAL** — both lamps go out | [outlanes](../things/outlanes.md) |
 | `SIDELANE_RIGHT_OUT` | 5 000 when `SPECIAL` is lit | — | **SPECIAL** — both lamps go out | [outlanes](../things/outlanes.md) |
+| `SIDELANE_LEFT` | 500 | — | — | [side lanes](../things/side-lanes.md) |
