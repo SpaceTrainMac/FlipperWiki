@@ -103,3 +103,9 @@ colour repeats every sixteen seconds and passes through a different mix on the w
 wave on all three channels would have been a backglass pulsing white, which is a duller thing
 entirely ([0422](../../raw/rules/0422-the-backlight-is-three-waves.md)). The brightness follows **elapsed time rather than a tick count**, so a machine
 that runs faster does not cycle colours faster ([0422](../../raw/rules/0422-the-backlight-is-three-waves.md)).
+
+## On the way out
+
+**All four displays are blanked** — a roll ended by the start button ends mid-quote, and **half a
+sentence standing there while the next screen comes up reads as a machine that has crashed**
+([0423](../../raw/rules/0423-the-displays-are-blanked-on-the-way-out.md)).
