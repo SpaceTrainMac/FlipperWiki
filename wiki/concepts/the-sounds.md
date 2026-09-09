@@ -10,6 +10,11 @@ body: game
 ([0176](../../raw/rules/0176-settled-and-built.md)). Eleven were added on 2026-09-04 for the rules here — M-A-C's paying lanes, the extra
 bonus, and the two the flyer names among them ([0176](../../raw/rules/0176-settled-and-built.md)).
 
+**That the machine speaks at all is 1987's idea.** The sales flyer sells *Info-Speech*, a speaking
+announcer, as a System IV feature carried by every machine MAC made — so a talking Space Train is
+the chassis doing what it was advertised to do, and the forty cues are this cabinet's answer to it
+([0185](../../raw/rules/0185-behaviours-the-flyer-attributes-to-all-macpinball-machines.md)).
+
 **The end-of-ball count is the most obviously cue-shaped thing on the machine**, and it is raised
 with every lamp [the count](../moments/end-of-ball.md) puts out — one of the forty is named for a
 single rung of it ([0177](../../raw/rules/0177-the-end-of-ball-count-is-the-most-obviously-cue-shaped.md)).

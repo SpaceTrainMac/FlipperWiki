@@ -21,6 +21,10 @@ winks** ([0093](../../raw/rules/0093-the-displays.md), [0097](../../raw/rules/00
 enough to catch out of the corner of your eye, rare enough never to compete with the playfield
 ([0097](../../raw/rules/0097-extra-plays-is-a-joke-and-deliberately.md)).
 
+**The legend it sits under is 1987's, and it meant something then**: *2 extra plays at high score*
+is one of the four behaviours the sales flyer sold with every MacPinBall System IV machine, so the
+digit was a count of free games a good player had earned ([0185](../../raw/rules/0185-behaviours-the-flyer-attributes-to-all-macpinball-machines.md)).
+
 **It is a joke, and deliberately.** The machine is played at home and free, so there are no plays to
 owe, and a permanently dark digit would say less than a cheerful one ([0097](../../raw/rules/0097-extra-plays-is-a-joke-and-deliberately.md)). **It is the one thing
 on this machine that is not a rule**: nothing lights it, nothing reads it, and no score depends on
