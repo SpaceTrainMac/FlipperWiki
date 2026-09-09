@@ -96,3 +96,10 @@ does not open with the quote the first one opened with ([0419](../../raw/rules/0
 drawn every cycle, one written on and one written off; **whether either was already in that state
 does not matter to anyone** and finding out would cost a byte of state per lamp. One on and one off
 per cycle **holds the playfield at roughly half lit on its own, with no counting** ([0421](../../raw/rules/0421-nothing-remembers-which-lamps-are-lit.md)).
+
+**The backlight is three waves rather than one** — red at the shortest wavelength, green at twice
+that and blue at four times ([0422](../../raw/rules/0422-the-backlight-is-three-waves.md)). Three periods in that ratio share a common multiple, **so the
+colour repeats every sixteen seconds and passes through a different mix on the way each time**; one
+wave on all three channels would have been a backglass pulsing white, which is a duller thing
+entirely ([0422](../../raw/rules/0422-the-backlight-is-three-waves.md)). The brightness follows **elapsed time rather than a tick count**, so a machine
+that runs faster does not cycle colours faster ([0422](../../raw/rules/0422-the-backlight-is-three-waves.md)).
