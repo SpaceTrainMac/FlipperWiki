@@ -88,3 +88,9 @@ the other button has been genuinely up for a moment — **and any hold the other
 down during is out for good until that button is released** ([0339](../../raw/rules/0339-neither-gesture-can-be-mistaken-for-the-other.md)). The second rule is the one
 that is easy to miss: without it, letting go of one hand halfway through the service gesture would
 start a nine-second countdown to the radio ([0339](../../raw/rules/0339-neither-gesture-can-be-mistaken-for-the-other.md)).
+
+**An abandoned gesture is ignored rather than acted on** ([0340](../../raw/rules/0340-an-abandoned-gesture-is-ignored.md)). The tease goes up at three
+seconds; let go before the nine are out and the light show starts moving again, but **the text is
+left on the glass until the end of the next run up or down** — taking it away at the instant of
+release would take it from somebody who is still reading it ([0340](../../raw/rules/0340-an-abandoned-gesture-is-ignored.md)). That is the whole reason
+there is a warning six seconds before anything happens at all ([0340](../../raw/rules/0340-an-abandoned-gesture-is-ignored.md)).

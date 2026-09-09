@@ -430,5 +430,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0337 — The radio gesture is the same nine seconds as the service one on purpose](rules/0337-the-radio-gesture-is-the-same-nine-seconds.md) — one duration for both, because two would be two things to learn
 - [0338 — It is armed by the same number that arms the wait](rules/0338-the-gesture-is-armed-by-the-same-number-as-the-wait.md) — no stations means no gesture, and no tease to see
 - [0339 — Neither gesture can be mistaken for the other](rules/0339-neither-gesture-can-be-mistaken-for-the-other.md) — two rules, and the second is what stops a slipped hand becoming a radio hold
+- [0340 — An abandoned gesture is ignored rather than acted on](rules/0340-an-abandoned-gesture-is-ignored.md) — letting go costs nothing, and the tease stays up to be read
 
 ## Questions
