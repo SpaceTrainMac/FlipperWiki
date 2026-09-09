@@ -62,3 +62,12 @@ started ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)
 
 **All four lamps are written on every change rather than just the one that moved** — stepping down
 from three to two has to put a lamp *out*, and a draw that only ever lights things cannot ([0352](../../raw/rules/0352-all-four-lamps-are-written-on-every-change.md)).
+
+**Two exits** ([0353](../../raw/rules/0353-player-select-two-exits.md)):
+
+| Exit | What happens |
+|---|---|
+| start | the game begins with that many players |
+| **60 seconds with no button press** | back to [attract mode](attract-mode.md), as if nothing had happened |
+
+*(the table is player-select.md's, rendered for a player ([0353](../../raw/rules/0353-player-select-two-exits.md)))*

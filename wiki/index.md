@@ -444,5 +444,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0350 — PLAYER on the fifth display](rules/0350-player-on-the-fifth-display.md) — the word in the bottom-right corner, on the display that carries every word
 - [0351 — Showing the count, in two places at once](rules/0351-showing-the-count-in-two-places-at-once.md) — a digit on the status row and the same number in lamps
 - [0352 — All four lamps are written on every change, not just the one that moved](rules/0352-all-four-lamps-are-written-on-every-change.md) — stepping down puts a lamp out, which a light-only draw could not do
+- [0353 — Two exits](rules/0353-player-select-two-exits.md) — start, or sixty seconds of nothing and back to the light show
 
 ## Questions
