@@ -80,3 +80,14 @@ player notices** ([0418](../../raw/rules/0418-quotes-are-dealt-as-a-deck.md)).
 
 **The deck carries on from one roll to the next rather than being dealt again**, so a second game
 does not open with the quote the first one opened with ([0419](../../raw/rules/0419-the-deck-carries-on-between-rolls.md)).
+
+## The light show
+
+**The reading matter is only half of it, and the two halves are deliberately unalike** ([0420](../../raw/rules/0420-the-cabinet-is-lit-as-well.md)):
+
+| | What it does | Why |
+|---|---|---|
+| [the 48 playfield lamps](../things/playfield-lamps.md) | one random lamp on and another off, every 50 ms | no pattern to spot, so it never looks like a sequence that has got stuck |
+| [the RGB backlight](../things/cabinet-backlight.md) | three sine waves, at wavelengths 1 : 2 : 4 | the slowest thing on the cabinet, against the fastest |
+
+*(the table is credits.md's, rendered for a player ([0420](../../raw/rules/0420-the-cabinet-is-lit-as-well.md)))*

@@ -515,5 +515,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0417 — The names scroll at half the speed of the quotes](rules/0417-the-names-scroll-at-half-the-speed.md) — 53 seconds for one long quote at the slow rate, against 26 at the fast one
 - [0418 — QUOTES is shown in random order, dealt as a deck](rules/0418-quotes-are-dealt-as-a-deck.md) — shuffled and played out, so every quote comes up before any repeats
 - [0419 — The deck carries on from one roll to the next](rules/0419-the-deck-carries-on-between-rolls.md) — so two games in a row do not open on the same quote
+- [0420 — The reading matter is only half of it — the cabinet is lit as well](rules/0420-the-cabinet-is-lit-as-well.md) — the fastest thing on the cabinet and the slowest, at once
 
 ## Questions
