@@ -71,3 +71,8 @@ from three to two has to put a lamp *out*, and a draw that only ever lights thin
 | **60 seconds with no button press** | back to [attract mode](attract-mode.md), as if nothing had happened |
 
 *(the table is player-select.md's, rendered for a player ([0353](../../raw/rules/0353-player-select-two-exits.md)))*
+
+**The timeout takes nothing away** — the machine returns to the light show as if nothing had
+happened, so a cabinet nudged in an empty room does not sit here indefinitely ([0354](../../raw/rules/0354-the-timeout-is-a-clean-no-op.md)). Nothing has
+been committed and nothing needs undoing, and that falls out of where the commit point is: **start
+is the commit by definition, and a timeout happens strictly before it** ([0354](../../raw/rules/0354-the-timeout-is-a-clean-no-op.md)).
