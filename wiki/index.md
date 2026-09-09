@@ -377,5 +377,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0285 — `GAME_OVER`](rules/0285-cue-game-over.md) — the last ball of the last player has drained
 - [0286 — `NEXT_PLAYER`](rules/0286-cue-next-player.md) — the turn passing to a different player, so a solo game never hears it
 - [0287 — `NO_MORE_EXTRABALL`](rules/0287-cue-no-more-extraball.md) — the drain that finds the extra-ball field empty, ending the turn
+- [0288 — `MAIN_BONUS_NEXT_STEP`](rules/0288-cue-main-bonus-next-step.md) — the bonus count advancing, once per advance however large
 
 ## Questions
