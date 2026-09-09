@@ -21,6 +21,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [Drain protection](concepts/drain-protection.md) — 15 seconds from the launch in which any drain gives the ball back, once a turn
 - [Tilt](concepts/tilt.md) — the cabinet's own business: it kills the outputs, and the bonus is still counted
 - [What the glass shows](concepts/what-the-glass-shows.md) — six things written above the playfield, and only two of them are your score
+- [Every award, in one table](concepts/every-award.md) — the complete scoring reference, one row an award
 
 ## Things
 
@@ -224,5 +225,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0144 — `BUTTON_LEFT`](rules/0144-button_left.md) — rotates the three M-A-C letters left
 - [0145 — `BUTTON_RIGHT`](rules/0145-button_right.md) — rotates the three M-A-C letters right
 - [0146 — `BUTTON_START`](rules/0146-button_start.md) — starts a game and adds players, **at player select and nowhere else**. A game in progress does not read it (§12)
+- [0147 — a pop bumper](rules/0147-a-pop-bumper.md) — **100**
 
 ## Questions
