@@ -52,6 +52,9 @@ ball, and three lit letters start it complete and paying ([0010](../../raw/rules
 **The multipliers are not spent by the count they multiply** — they stay lit into the next ball
 ([0042](../../raw/rules/0042-all-three-survive-the-ball-and-the-game.md)).
 
+**An extra ball is counted out like any other ball, and then the playfield is cleared for the fresh
+one** ([0086](../../raw/rules/0086-an-extra-ball-is-a-fresh-ball-on.md)).
+
 **The count is per ball; [the transfer](end-of-turn.md) is per turn** — so an extra ball is counted
 out on its own, and everything a turn earned moves to your display once, at the very end ([0092](../../raw/rules/0092-the-count-is-per-ball-and-the.md)).
 

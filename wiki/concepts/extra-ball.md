@@ -6,6 +6,11 @@ body: game
 ---
 # The extra ball
 
+**An extra ball is a fresh ball on a cleared playfield.** The ball that earned it is counted out
+first, then the bonus count, both hole ladders and every lit award go to zero, and a new ball is
+served. **`BALL IN PLAY` does not change** — an extra ball is not a new turn, and the turn score
+carries straight through it ([0086](../../raw/rules/0086-an-extra-ball-is-a-fresh-ball-on.md)).
+
 **The right saucer gives one, once a ball, as soon as either hole ladder is past its second rung**
 ([0060](../../raw/rules/0060-bunker_right-is-the-cards-hole-for-the-right.md)).
 
