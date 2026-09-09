@@ -41,3 +41,8 @@ has a ball under it ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first
 table did until 2026-09-05: the engine waited thirty seconds for a press nobody knew to make, and
 the only thing anywhere that said so was one lamp among forty-eight ([0217](../../raw/rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md)). It was fixed in the
 engine and pinned by a test, so if you ever see it again it is a defect worth reporting ([0217](../../raw/rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md)).
+
+**The flipper keys are VPX's own, and nothing about the bridge to the engine can make them feel
+bad** ([0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)). The ball, the flipper and the key are all inside VPX's own loop, exactly as the
+cabinet's buttons and coils are wired to each other rather than through the game — the engine's
+only say is the same relay ([0218](../../raw/rules/0218-your-flipper-keys-are-vpxs-own.md)).
