@@ -400,3 +400,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:58  ingest  0377  moments/the-draw, rules/0377
 2026-09-09T23:58  ingest  0378  moments/the-draw, rules/0378
 2026-09-09T23:58  ingest  0379  moments/the-high-score-table, moments/attract-mode, rules/0379
+2026-09-09T23:58  ingest  0380  moments/the-high-score-table, rules/0380

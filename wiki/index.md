@@ -473,5 +473,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0377 — A score of nothing never wins](rules/0377-a-score-of-nothing-never-wins.md) — a draw of `00` would otherwise reward everybody who never scored
 - [0378 — The number is read before the state hands over](rules/0378-the-draw-number-is-read-before-the-state-hands-over.md) — three seconds, then blank — so the won ball is played with `MATCH` dark
 - [0379 — The same scene attract mode runs, in a second place](rules/0379-the-same-scene-attract-mode-runs.md) — the table after a game is the attract scene, run again
+- [0380 — Why there](rules/0380-why-the-table-is-shown-after-a-game.md) — shown to four people who just played, with the new names already in it
 
 ## Questions
