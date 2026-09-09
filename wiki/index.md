@@ -468,5 +468,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0373 — There are two ways a player can be awarded, and the draw is the second](rules/0373-two-ways-a-player-can-be-awarded.md) — earned during play, or drawn at the end — the only award nobody can play for
 - [0374 — The ball it awards is an ordinary turn](rules/0374-the-ball-the-draw-awards-is-an-ordinary-turn.md) — player order, playfield reset, counter stepping — nothing special about it
 - [0375 — It awards an extra ball, not an extra play](rules/0375-the-draw-awards-an-extra-ball-not-an-extra-play.md) — a ball rather than a game, and the `MATCH` lamp says it hit
+- [0376 — How wide the draw is, is the operator's](rules/0376-how-wide-the-draw-is-is-the-operators.md) — one to six digits, and a width rather than a probability because it has to be read
 
 ## Questions

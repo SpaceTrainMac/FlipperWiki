@@ -35,3 +35,8 @@ are a free *game* and a count of games owed — but [credits are out of scope](.
 on a machine played at home, so an award of *extra play* has nowhere to go and a ball has ([0375](../../raw/rules/0375-the-draw-awards-an-extra-ball-not-an-extra-play.md)).
 **The `MATCH` lamp lights when the draw hits**, and the two playfield `EXTRA BALL` lamps are not
 touched ([0375](../../raw/rules/0375-the-draw-awards-an-extra-ball-not-an-extra-play.md)).
+
+**How wide the draw is, is [the operator's](../bodies/cabinet.md)** — one to six digits, two by
+default: one digit is a draw in ten and two is the classic draw in a hundred ([0376](../../raw/rules/0376-how-wide-the-draw-is-is-the-operators.md)). It is set as
+a *width* rather than as a probability, because the number has to fit the display it is read from —
+and *the last two digits of your score* is a rule a player already knows ([0376](../../raw/rules/0376-how-wide-the-draw-is-is-the-operators.md)).
