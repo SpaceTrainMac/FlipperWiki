@@ -293,5 +293,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0207 — D1–D4 are the first four of fifty-one](rules/0207-d1-d4-are-the-first-four-of-fifty-one.md) — four old decisions, forty-seven newer ones, and why the list misleads on its own
 - [0208 — These are assumptions, taken 2026-08-26](rules/0208-these-are-assumptions-taken-on-the-owners-instruction.md) — authorised by the machine's owner, dated, and each recorded with its reasoning
 - [0209 — D1: one bonus step is 5 000, on both hole-bonus ladders](rules/0209-d1-one-bonus-step-is-5-000-on-both-ladders.md) — the left ladder paid 1 000, and symmetry is what changed it
+- [0210 — D2: a multiplier multiplies the game that earned it](rules/0210-d2-a-multiplier-multiplies-the-game-that-earned-it.md) — the alternative reached ×27 and paid one ladder's DOUBLE on bumper points
 
 ## Questions
