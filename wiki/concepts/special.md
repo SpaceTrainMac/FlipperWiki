@@ -8,7 +8,12 @@ body: game
 
 **Two things light `SPECIAL`: completing M-A-C, and the third completion of the `ADVANCE BONUS`
 bank.** All three letters lit at once lights it on both outlanes ([0005](../../raw/rules/0005-completing-it.md)); so does the bank's third
-completion, which also awards an extra ball outright ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)). **It pays points, not a credit** — 5 000. This cabinet is played at home and has no credits to
+completion, which also awards an extra ball outright ([0016](../../raw/rules/0016-the-fourth-target-completes-the-bank.md)). **Collecting it costs the ball.** Both `SPECIAL` switches are outlanes, so the shot that pays 5 000
+is the shot that drains — the trade the original playfield printed, and the reason a lit `SPECIAL`
+changes how you play the bottom of the machine. **The one exception is drain protection**: while
+that 15-second window is open, a lit `SPECIAL` pays and no longer costs the ball ([0050](../../raw/rules/0050-collecting-special-costs-the-ball.md)).
+
+**It pays points, not a credit** — 5 000. This cabinet is played at home and has no credits to
 award, and the lamps are named *Special 5000*, which is the machine answering the question itself
 ([0049](../../raw/rules/0049-special-pays-points-rather-than-a-credit.md)).
 
