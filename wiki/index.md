@@ -244,5 +244,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0163 — the 2nd bank completion](rules/0163-the-2nd-bank-completion.md) — the right `EXTRA BALL` lit
 - [0164 — the 3rd bank completion](rules/0164-the-3rd-bank-completion.md) — `SPECIAL` lit, and an **extra ball**
 - [0165 — M-A-C completing](rules/0165-m-a-c-completing.md) — `SPECIAL` lit
+- [0166 — the right captive ball](rules/0166-the-right-captive-ball.md) — both 30 000 markers armed
 
 ## Questions

@@ -30,3 +30,4 @@ own — see [the three multipliers](the-multipliers.md).
 | the 2nd bank completion | the right `EXTRA BALL` lit | — |
 | the 3rd bank completion | `SPECIAL` lit, and an **extra ball** | — |
 | M-A-C completing | `SPECIAL` lit | — |
+| the right captive ball | both 30 000 markers armed | — |
