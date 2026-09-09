@@ -11,6 +11,11 @@ turn's, not the game's ([0011](../../raw/rules/0011-ten-quantities-and-everythin
 everything you earn goes here, and [your own display](player-displays.md) does not move until the
 turn is over ([0012](../../raw/rules/0012-the-score-moves-only-between-turns-and-that.md)).
 
+**It divides by ten too, and has no lamp to say so.** A turn is a ball plus every extra ball it
+earns and one ball alone can reach 915 000, so a turn passes six digits easily — there are four
+`×10` indicators, one a player, and none for this display. **The turn score is not capped at
+999 999; the display is** ([0099](../../raw/rules/0099-the-fifth-display-divides-by-ten-too-and.md)).
+
 **It is where the end-of-ball count lands**, one lamp at a time, 200 ms apart ([0063](../../raw/rules/0063-one-step-per-lit-lamp-200-ms-apart.md)).
 
 **At the end of the turn it walks back down to zero** while your own display climbs ([0069](../../raw/rules/0069-when-the-turn-is-over-the-number-on.md)), and it
