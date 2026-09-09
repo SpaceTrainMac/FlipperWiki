@@ -16,6 +16,14 @@ read as two rows, so the phrase lands one word to a display and nothing has to s
    X-PLAYS BALL CREDITS      MATCH — the turn score, still counting
 ```
 
+**Five seconds, with [the knocker](../things/knocker.md)'s three hits at 0, 400 and 800 ms** — the
+hits land while the train is starting, and the remaining 3.8 seconds stand quiet under the words
+([0103](../../raw/rules/0103-five-seconds-with-the-three-knocker-hits-at.md)).
+
+**Five seconds, with [the knocker](../things/knocker.md)'s three hits at 0, 400 and 800 ms** — the
+hits land while the train is starting, and the remaining 3.8 seconds stand quiet under the words
+([0103](../../raw/rules/0103-five-seconds-with-the-three-knocker-hits-at.md)).
+
 **[The `MATCH` display](../things/match-display.md) keeps the turn score through it, and that is the
 point.** The bonus is achieved with the ball live, so you are still scoring while the backglass
 announces it — taking the one moving number away to make room for the words would be the

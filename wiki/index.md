@@ -176,5 +176,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0100 — Above 9 999 999 the display is wrong](rules/0100-above-9-999-999-the-display-is-wrong.md) — a ceiling three balls cannot reach
 - [0101 — The banner is still, and lands one word to a display](rules/0101-space-train-lifts-off-is-a-still-message.md) — the only thing that writes the scores mid-ball
 - [0102 — The turn score keeps running under the banner](rules/0102-match-keeps-the-turn-score-and-that-is.md) — the announcement does not punish the achievement
+- [0103 — Five seconds, three knocks in the first second](rules/0103-five-seconds-with-the-three-knocker-hits-at.md) — the hits land while the train starts
 
 ## Questions
