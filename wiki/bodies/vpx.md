@@ -36,3 +36,8 @@ afternoon and does not have now ([0215](../../raw/rules/0215-the-start-button-be
 back in about 400 ms** ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)). The window opens as the ball passes out-fire and lasts once a
 turn; a drain inside it does not end the turn, and the ejector fires again as soon as the trough
 has a ball under it ([0216](../../raw/rules/0216-a-ball-that-drains-in-the-first-fifteen-seconds-is-given-back.md)).
+
+**A ball that sits in the trough and stays there is a fault, not a rule** ([0217](../../raw/rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md)). It is what this
+table did until 2026-09-05: the engine waited thirty seconds for a press nobody knew to make, and
+the only thing anywhere that said so was one lamp among forty-eight ([0217](../../raw/rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md)). It was fixed in the
+engine and pinned by a test, so if you ever see it again it is a defect worth reporting ([0217](../../raw/rules/0217-a-ball-sitting-in-the-trough-is-a-fault-not-a-rule.md)).
