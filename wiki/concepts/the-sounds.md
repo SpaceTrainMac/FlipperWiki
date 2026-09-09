@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL, TOPLANES_LIGHT_MAC, TOPLANES_SELECT_BONUS]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP, BUNKER_LEFT, BUNKER_RIGHT, BUMPER, SIDEBARS_BOTTOM, SPECIAL, TOPLANES_LIGHT_MAC, TOPLANES_SELECT_BONUS, TOPLANES_SUPERBONUS]
 body: game
 ---
 # What the machine says, and when
@@ -101,3 +101,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `TOPLANES_LIGHT_MAC` | an [`M`, `A` or `C`](../concepts/m-a-c.md) rollover **toggling** its letter while the word is still being spelled ([0296](../../raw/rules/0296-cue-toplanes-light-mac.md)) |
 
 | `TOPLANES_SELECT_BONUS` | **[the flipper buttons rotating the three letters](../things/flipper-buttons.md)** — the lane change ([0297](../../raw/rules/0297-cue-toplanes-select-bonus.md)) |
+
+| `TOPLANES_SUPERBONUS` | **[M-A-C completing](../concepts/m-a-c.md)**, and `M` or `C` paying its 30 000 while it stands ([0298](../../raw/rules/0298-cue-toplanes-superbonus.md)) |

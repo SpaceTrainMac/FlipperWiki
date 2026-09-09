@@ -387,5 +387,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0295 — `SPECIAL`](rules/0295-cue-special.md) — a lit outlane paying 5 000, and `BALL_LOST` gives way to it
 - [0296 — `TOPLANES_LIGHT_MAC`](rules/0296-cue-toplanes-light-mac.md) — a letter toggling, and never on the frame that completes the word
 - [0297 — `TOPLANES_SELECT_BONUS`](rules/0297-cue-toplanes-select-bonus.md) — the lane change — the only selection the machine offers
+- [0298 — `TOPLANES_SUPERBONUS`](rules/0298-cue-toplanes-superbonus.md) — M-A-C completing, and each 30 000 the outer lanes pay after it
 
 ## Questions
