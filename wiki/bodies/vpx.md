@@ -111,3 +111,8 @@ has played a thousand games by itself still shows your high scores ([0227](../..
 
 **Most of what follows is faithful rather than broken, and it is written down so that nobody
 reports it as a defect** ([0228](../../raw/rules/0228-most-of-this-is-faithful-rather-than-broken.md)).
+
+**Your nudge does not talk to the game** ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)). On the real machine a tilt is handled entirely
+in the cabinet's own wiring and the host is never told, so VPX does the whole of it alone and the
+engine sees an ordinary drain — which means **the `TILT` plate on the backbox is drawn and can
+never light** ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).

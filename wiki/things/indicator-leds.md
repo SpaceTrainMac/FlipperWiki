@@ -13,7 +13,8 @@ body: game
 - **`HIGH SCORE`** — the record changed hands.
 - **`MATCH`** — the draw hit.
 - **`TILT`** — an indicator with no switch behind it, because [a tilt](../concepts/tilt.md) never
-  reaches the software ([0108](../../raw/rules/0108-the-indicator-leds.md), [0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)).
+  reaches the software ([0108](../../raw/rules/0108-the-indicator-leds.md), [0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)). On [the VPX table](../bodies/vpx.md) it is drawn and can never
+  light ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).
 - **`CREDITS`** — dark for the whole of a game, like [the field it labels](status-row.md), because
   this cabinet has none ([0108](../../raw/rules/0108-the-indicator-leds.md), [0096](../../raw/rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md)).
 - **`EXTRA BALL` left and right, and `EXTRA PLAY`** — the backbox announcing an award the 1987 card
