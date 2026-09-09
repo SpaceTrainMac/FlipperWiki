@@ -36,3 +36,7 @@ in a voice, and the jukebox plays all thirty-odd pieces ([0270](../../raw/rules/
 mode: how a cue with several files picks between them is still `SFX MODE`, over a pool four sets
 deep ([0270](../../raw/rules/0270-all-sets-pools-the-four-into-one-cabinet.md)). **There is one mixer and no ducking**, so the sets are heard at whatever levels their
 authors chose — four sets each mastered sensibly are not a set mastered together ([0270](../../raw/rules/0270-all-sets-pools-the-four-into-one-cabinet.md)).
+
+**`NONE SET` in the menu means no folder anywhere holds a set** — usually the machine looking in a
+different place than you think ([0271](../../raw/rules/0271-an-empty-soundset-means-the-root-is-the-set.md)). A cabinet with only one set can put that set's files
+straight where the machine looks and leave the setting empty ([0271](../../raw/rules/0271-an-empty-soundset-means-the-root-is-the-set.md)).
