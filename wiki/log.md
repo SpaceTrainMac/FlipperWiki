@@ -72,3 +72,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:08  ingest  0061  concepts/the-hole-bonus, concepts/multiball, rules/0061
 2026-09-09T22:08  cut     §10–§12 of gameplay.md  0062–0091
 2026-09-09T22:09  cut     §11 of gameplay.md, one paragraph missed by the first pass  0092
+2026-09-09T22:10  ingest  0062  moments/end-of-ball, rules/0062

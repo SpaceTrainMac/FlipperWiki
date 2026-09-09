@@ -6,6 +6,10 @@ body: game
 ---
 # The end of a ball
 
+**Every ball that ends is counted out lamp by lamp, and the machine is silent while it happens**
+([0062](../../raw/rules/0062-every-ball-that-ends-is-counted-out-lamp.md)). This is what the 1987 card's *BONUS COUNTS AT END OF BALL* looks like from in front of the
+glass ([0062](../../raw/rules/0062-every-ball-that-ends-is-counted-out-lamp.md)).
+
 **When a ball ends, the playfield's lit awards are cleared and the M-A-C letters are not.** The
 upper `EXTRA BALL` window goes with the rest of the playfield; `M`, `A` and `C` carry to the next
 ball, and three lit letters start it complete and paying ([0010](../../raw/rules/0010-the-letters-carry-from-ball-to-ball-for.md)).
