@@ -1,7 +1,7 @@
 ---
 title: The M, A and C lanes
 type: thing
-aliases: [M, A, C, the M lane, the A lane, the C lane, the top lanes, the outer lanes, MAC_CENTER]
+aliases: [M, A, C, the M lane, the A lane, the C lane, the top lanes, the outer lanes, MAC_LEFT, MAC_CENTER, MAC_RIGHT, the M-A-C lamps]
 body: game
 ---
 # The M, A and C lanes
@@ -20,5 +20,7 @@ taken ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md
 sequence** ([0001](../../raw/rules/0001-m-and-c-pay-for-as-long-as-a-is-left-alone.md)) and opens a 20-second window in which `A`'s own lamp,
 `MAC_CENTER`, flashes together with the [upper `EXTRA BALL`](upper-target-bank.md) — the machine
 saying *hit the right captive ball* ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)). **For the length of that window the three lanes
-are inert**; everything else on the playfield behaves as it always does ([0008](../../raw/rules/0008-while-the-window-runs-the-three-m-a-c-lanes.md)). What the letters are for is
+are inert**; everything else on the playfield behaves as it always does ([0008](../../raw/rules/0008-while-the-window-runs-the-three-m-a-c-lanes.md)). **When the window ends,
+collected or not, all three lamps — `MAC_LEFT`, `MAC_CENTER`, `MAC_RIGHT` — go out and the letters
+can be spelled again** ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md)). What the letters are for is
 [M-A-C](../concepts/m-a-c.md).

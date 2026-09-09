@@ -30,5 +30,9 @@ the extra ball. If the window closes first, nothing is awarded ([0002](../../raw
 the three lanes do nothing at all** — `M`, `A` and `C` are inert for its length, and every other
 switch on the playfield behaves exactly as it always does ([0008](../../raw/rules/0008-while-the-window-runs-the-three-m-a-c-lanes.md)).
 
-**So the shape of a cycle is: spell the letters, milk `M` and `C`, then spend the sequence on `A`
-and go for the right captive ball.** The 20 seconds are configurable ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)).
+**However the window ends, the letters go out and M-A-C can be spelled again.** Collected or
+expired, `EXTRA_BALL_TOP` stops flashing and goes dark, and `MAC_LEFT`, `MAC_CENTER` and `MAC_RIGHT`
+go out with it — a repeatable cycle, not a once-a-game latch ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md)). **So the shape of a cycle
+is: spell the three lanes, take `M` and `C` for as long as they can be found, spend the sequence on
+`A` and go for the right captive ball, and start again from nothing** ([0009](../../raw/rules/0009-however-it-ends-the-letters-go-out-and.md), [0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)). The 20 seconds
+are configurable ([0002](../../raw/rules/0002-a-opens-a-20-second-window-on-the-upper-extra-ball.md)).
