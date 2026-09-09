@@ -73,6 +73,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The Space Train banner](moments/the-space-train-banner.md) — `SPACE TRAIN LIFTS OFF`, one word to a display, five seconds, mid-ball
 
 ## Bodies
+- [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
 
 ## Rules
 
@@ -261,5 +262,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0178 — Before 2026-09-08 the machine was silent](rules/0178-it-is-designed-and-since-2026-09-08-it-is.md) — the cues are built, not designed
 - [0179 — Every duration here is arithmetic, not evidence](rules/0179-nobody-has-seen-a-single-one-of-these.md) — nobody has watched these mechanics run
 - [0180 — The count keeps one pace](rules/0180-real-machines-speed-the-bonus-count-up-as.md) — other machines accelerate; this one waits to be watched
+- [0182 — The game, as the machine tells it](rules/0182-the-game-as-the-machine-tells-it.md) — the 1987 pages rest on a flyer and photographs, and on nothing else
 
 ## Questions
