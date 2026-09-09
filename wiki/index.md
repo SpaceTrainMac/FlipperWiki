@@ -379,5 +379,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0287 — `NO_MORE_EXTRABALL`](rules/0287-cue-no-more-extraball.md) — the drain that finds the extra-ball field empty, ending the turn
 - [0288 — `MAIN_BONUS_NEXT_STEP`](rules/0288-cue-main-bonus-next-step.md) — the bonus count advancing, once per advance however large
 - [0289 — `MAIN_BONUS_ONE_LIGHT`](rules/0289-cue-main-bonus-one-light.md) — the count reaching 39, said instead of one more advance
+- [0290 — `BONUS_COUNT_STEP`](rules/0290-cue-bonus-count-step.md) — one lamp of the end-of-ball count, up to 24 of them 200 ms apart
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL, BALL_IN_GAME, BALL_LOST, HOUSE_BALL_SAVED, GAME_OVER, NEXT_PLAYER, NO_MORE_EXTRABALL, MAIN_BONUS_NEXT_STEP, MAIN_BONUS_ONE_LIGHT, BONUS_COUNT_STEP]
 body: game
 ---
 # What the machine says, and when
@@ -80,3 +80,5 @@ machine that stays quiet at one of these events is wrong about itself ([0280](..
 | `MAIN_BONUS_NEXT_STEP` | [the bonus count](../concepts/the-bonus-count.md) advances — **once per advance whatever its size**, so a `5000` inlane's five bonuses is one sound ([0288](../../raw/rules/0288-cue-main-bonus-next-step.md)) |
 
 | `MAIN_BONUS_ONE_LIGHT` | **[the count reaching 39](../concepts/the-bonus-count.md) and stopping** — raised instead of `MAIN_BONUS_NEXT_STEP` ([0289](../../raw/rules/0289-cue-main-bonus-one-light.md)) |
+
+| `BONUS_COUNT_STEP` | **one step of [the end-of-ball count](../moments/end-of-ball.md)** — a lamp goes out, 200 ms later the next ([0290](../../raw/rules/0290-cue-bonus-count-step.md)) |
