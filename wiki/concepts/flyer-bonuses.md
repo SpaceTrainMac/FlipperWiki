@@ -16,6 +16,13 @@ They are not a tenth mechanic — they are what the machine does when the three 
 
 *(the table is rule 0043's, rendered for a player)*
 
+**Nothing in 1987 ever said what either of them was.** Both are advertised by name on the flyer,
+explained by no source that survives, and matched by no lamp on the playfield — which made them the
+largest gap in the rules of this machine for as long as anybody has been writing them down
+([0189](../../raw/rules/0189-space-train-bonus-and-space-ship-bonus-are-advertised-by-name.md)). Giving them to the multipliers reaching ×3 is **this cabinet answering a question the
+sources leave open, not a source being found**, and a document from 1987 could still overturn it
+([0189](../../raw/rules/0189-space-train-bonus-and-space-ship-bonus-are-advertised-by-name.md)).
+
 **Space Train Bonus costs more than anything else on this machine.** ×3 on the bottom is fifty bank
 completions — two hundred target hits at the very least — plus a shot at the right captive ball
 inside a 20-second window; ×3 on a hole side is three redemptions, eighteen hits on that twin; and

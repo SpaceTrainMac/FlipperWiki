@@ -204,3 +204,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T23:01  ingest  0186  bodies/1987, rules/0186
 2026-09-09T23:01  ingest  0187  bodies/1987, rules/0187
 2026-09-09T23:01  ingest  0188  bodies/1987, rules/0188
+2026-09-09T23:02  ingest  0189  concepts/flyer-bonuses, rules/0189
