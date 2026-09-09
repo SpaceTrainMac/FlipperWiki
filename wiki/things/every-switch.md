@@ -39,3 +39,4 @@ links to the page that explains it.
 | `BALLWITHBALL_RIGHT_TOP` | **500 000** if `X_BON` is flashing | lights **both** `HOLE BONUS 30000` lamps; lights `X2_BOT` or `X3_BOT` if `X_BON` is flashing | the right `EXTRA BALL` when it is lit (2nd bank completion); the **upper** `EXTRA BALL` inside `A`'s 20 s window | [right captive ball](../things/right-captive-ball.md) |
 | `BALLSENSOR_BALLCACHE` | — | **the drain** — a returning ball reaches the two-ball store here; a pulse is one ball home, a held contact is every ball home and the turn over (§12) | — | [ball store](../things/ball-store.md) |
 | `BALLSENSOR_STARTRAMP` | — | the served ball has **arrived** in the start ramp, ready for the plunger | — | [ball store](../things/ball-store.md) |
+| `BALLSENSOR_BALLEJECTOR` | — | a ball is **available to serve**; `FCA_1_BALL_OUT` can fire it into the start ramp | — | [ball store](../things/ball-store.md) |
