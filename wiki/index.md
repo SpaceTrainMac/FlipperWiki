@@ -148,5 +148,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0077 — A two-ball store, and four contacts](rules/0077-a-ball-is-served-from-a-two-ball-store.md) — the four switches that follow a ball round
 - [0078 — You fire every ball yourself](rules/0078-a-ball-begins-in-the-start-ramp-and.md) — the machine fills the ramp, you empty it
 - [0079 — The drain contact says how many balls are still out](rules/0079-ballsensor_ballcache-is-the-drain-and-the-way-it.md) — a pulse against a held contact
+- [0080 — Nothing counts balls in play](rules/0080-which-is-why-nothing-on-this-machine-counts.md) — a held contact is the whole answer
 
 ## Questions

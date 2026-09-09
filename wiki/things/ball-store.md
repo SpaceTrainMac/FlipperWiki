@@ -28,3 +28,7 @@ closed until one of the two is served again ([0079](../../raw/rules/0079-ballsen
 | **closed and held** | every ball is home: this ball is over, and with none owed, so is the turn |
 
 *(the table is rule 0079's, rendered for a player)*
+
+**Which is why nothing on this machine counts balls in play.** Two balls and two positions in the
+store make a held contact the whole answer, and a machine that could not tell one returning ball
+from two would have needed a counter it has no switch to keep honest ([0080](../../raw/rules/0080-which-is-why-nothing-on-this-machine-counts.md)).
