@@ -411,5 +411,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0319 — `GAME_OVER_THEME`](rules/0319-cue-game-over-theme.md) — a game ends, beside the `GAME_OVER` effect on the other channel
 - [0320 — `HIGHSCORE_THEME`](rules/0320-cue-highscore-theme.md) — initials are being entered, and only because something raised it
 - [0321 — All three themes are also playlist entries](rules/0321-all-three-themes-are-also-playlist-entries.md) — a theme can be interrupted by nothing but itself
+- [0322 — Not cues: songs is an array of paths](rules/0322-songs-is-an-array-of-paths.md) — the playlist has positions rather than names, and order is what it means
 
 ## Questions

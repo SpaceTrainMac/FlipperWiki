@@ -202,3 +202,9 @@ the playlist rather than resuming what was interrupted ([0317](../../raw/rules/0
 
 **All three themes are also entries in the playlist**, so a theme can be interrupted by nothing
 except itself coming round again ([0321](../../raw/rules/0321-all-three-themes-are-also-playlist-entries.md)).
+
+### The playlist
+
+**The songs are not cues.** The playlist is a list of files addressed by position — the fourth
+entry is the fourth entry — with **no names at all**, so there is nothing here to describe them
+against ([0322](../../raw/rules/0322-songs-is-an-array-of-paths.md)). Order is meaningful, because it is the order the jukebox plays ([0322](../../raw/rules/0322-songs-is-an-array-of-paths.md)).
