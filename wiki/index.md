@@ -490,5 +490,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0393 — The first character of every name opens on A](rules/0393-the-first-character-opens-on-a.md) — one step from the space, two from the rub-out
 - [0394 — A name is ended by walking to the space](rules/0394-a-name-is-ended-by-walking-to-the-space.md) — walk to the space, then one press each — no *done* button to find
 - [0395 — The first ring position is a rub-out](rules/0395-the-first-ring-position-is-a-rub-out.md) — hold to erase back to the start, and start repeats there and nowhere else
+- [0396 — Six bytes, and only the trailing spaces are trimmed](rules/0396-six-bytes-and-trailing-spaces-trimmed.md) — `MR T` keeps its gap; only the trailing spaces come off
 
 ## Questions

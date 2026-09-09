@@ -76,3 +76,6 @@ of start. **There is no fourth button, so there is no *done* gesture to discover
 there, and stays on the rub-out ([0395](../../raw/rules/0395-the-first-ring-position-is-a-rub-out.md)). So **a held start walks back through the whole name and
 stops dead at the first character**, where it does nothing; start auto-repeats there and **nowhere
 else**, because held on a letter it would finish a name before the player let go ([0395](../../raw/rules/0395-the-first-ring-position-is-a-rub-out.md)).
+
+**Trailing spaces are trimmed on commit, and only the trailing ones** — `MR T` is three letters
+and a gap, and it survives ([0396](../../raw/rules/0396-six-bytes-and-trailing-spaces-trimmed.md)).
