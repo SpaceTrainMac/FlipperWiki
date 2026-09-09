@@ -68,3 +68,12 @@ that ends in the coil test does not lose the volume you set ([0257](../../raw/ru
 
 **It saves by itself** — two seconds after you stop adjusting something, and again on the way out.
 **Walk away and it closes itself after two minutes, saving first** ([0258](../../raw/rules/0258-the-service-menu-saves-by-itself.md)).
+
+**Two words on [`MATCH`](../things/match-display.md) mean something is wrong** ([0259](../../raw/rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md)):
+
+| Shows | Means |
+|---|---|
+| `REBOOT` | the sound set you chose is not the one this machine started with — it will not play until the machine is restarted |
+| `NOSAVE` | the settings or the high score table could not be written — a read-only card, a full disc. [The old file is intact](../bodies/cabinet.md) |
+
+*(the table is cabinet.md §2's, rendered for a player ([0259](../../raw/rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md)))*

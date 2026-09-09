@@ -9,9 +9,10 @@ body: game
 **In [the service menu](../moments/the-service-menu.md) it says `SETUP`**, which is how the glass
 tells you the machine is not in attract mode ([0255](../../raw/rules/0255-the-value-buttons-repeat-while-held.md)).
 
-**On [the cabinet](../bodies/cabinet.md) it also carries two words that mean something is wrong**,
-and `NOSAVE` is one of them: a settings file or the high score table could not be written, and the
-old one was left alone ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md)).
+**On [the cabinet](../bodies/cabinet.md) it also carries two words that mean something is wrong**
+([0259](../../raw/rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md)). `NOSAVE` is a settings file or a high score table that could not be written, with the old
+one left alone ([0250](../../raw/rules/0250-a-failed-write-is-not-renamed-over-a-good-file.md), [0259](../../raw/rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md)); `REBOOT` is a sound set that will not play until the machine is
+restarted ([0259](../../raw/rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md)).
 
 **The fifth six-digit display, and during a game it is the score you are making right now** — this
 turn's, not the game's ([0011](../../raw/rules/0011-ten-quantities-and-everything-below-is-one-of.md)). **So this is the display to watch while the ball is in play**:

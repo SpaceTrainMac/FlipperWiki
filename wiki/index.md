@@ -346,5 +346,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0256 — Seventeen entries in one ring](rules/0256-seventeen-entries-in-one-ring.md) — the whole menu, and why `EXIT` is one press backwards
 - [0257 — The last six entries leave the menu](rules/0257-the-last-six-entries-leave-the-menu.md) — a flipper there ends the visit, and everything set on the way is saved first
 - [0258 — It saves by itself](rules/0258-the-service-menu-saves-by-itself.md) — two seconds after the last change, on the way out, and after two minutes alone
+- [0259 — Two words on the `MATCH` display mean something is wrong](rules/0259-two-words-on-the-match-display-mean-something-is-wrong.md) — `REBOOT` and `NOSAVE`, and what each one costs
 
 ## Questions
