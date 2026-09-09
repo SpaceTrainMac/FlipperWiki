@@ -93,3 +93,7 @@ and a gap, and it survives ([0396](../../raw/rules/0396-six-bytes-and-trailing-s
 | what this is | the `HIGH SCORE` lamp | lit for the whole state |
 
 *(the table is highscore.md's, rendered for a player ([0397](../../raw/rules/0397-what-is-on-the-glass-during-name-entry.md)))*
+
+**The character being edited blinks, and it goes back to lit on every keypress** — so the
+character you have just stepped to is on the instant you get there rather than possibly starting
+dark ([0398](../../raw/rules/0398-the-character-being-edited-blinks.md)).
