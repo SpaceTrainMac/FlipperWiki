@@ -22,3 +22,8 @@ plus the game's scores in player order, sorted and trimmed to ten — **a player
 only if their row survives that, and their place is the row it is standing in** ([0385](../../raw/rules/0385-the-merge-is-the-test.md)). It is
 deliberately the same arithmetic that writes the table afterwards, so the place on the glass and
 the table on disk are one calculation rather than two that have to agree ([0385](../../raw/rules/0385-the-merge-is-the-test.md)).
+
+**Beating the bottom row is not a place — surviving the trim is** ([0386](../../raw/rules/0386-beating-the-bottom-row-is-not-a-place.md)), and the two stop being
+the same thing the moment two players qualify in one game: on a default table, four players on
+1 100, 1 200, 1 300 and 1 400 each beat the bottom row, and fourteen rows trimmed to ten keep one of
+them ([0386](../../raw/rules/0386-beating-the-bottom-row-is-not-a-place.md)).
