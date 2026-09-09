@@ -35,5 +35,6 @@ Every page, one line each, by category. Updated on every ingest.
 
 - [0006 — Collecting it](rules/0006-collecting-it.md) — with M-A-C complete the lanes pay instead of spelling, each lighting its lamp on the bank
 - [0007 — The upper target bank has no switches of its own](rules/0007-the-upper-target-bank-is-that-third-column.md) — a scoreboard for the lanes above it, not a target
+- [0008 — While the window runs the three M-A-C lanes do nothing at all](rules/0008-while-the-window-runs-the-three-m-a-c-lanes.md) — the top lanes are inert for the window's 20 seconds
 
 ## Questions
