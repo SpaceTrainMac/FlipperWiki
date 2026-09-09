@@ -34,4 +34,8 @@ point.** The bonus is achieved with the ball live, so you are still scoring whil
 announces it — taking the one moving number away to make room for the words would be the
 announcement punishing the achievement ([0102](../../raw/rules/0102-match-keeps-the-turn-score-and-that-is.md)).
 
+**`TRAIN` is the least legible of the four words, and that is the display rather than the machine.**
+On seven segments `I` is the shape of a `1`, `O` the shape of a `0`, and `R` is three segments —
+nothing is missing from the character set, and the sound cue carries what the digits cannot ([0105](../../raw/rules/0105-seven-segments-cost-this-one-weak-word.md)).
+
 What earns it is [Space Train Bonus](../concepts/flyer-bonuses.md).

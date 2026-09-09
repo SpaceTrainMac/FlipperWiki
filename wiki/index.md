@@ -178,5 +178,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0102 — The turn score keeps running under the banner](rules/0102-match-keeps-the-turn-score-and-that-is.md) — the announcement does not punish the achievement
 - [0103 — Five seconds, three knocks in the first second](rules/0103-five-seconds-with-the-three-knocker-hits-at.md) — the hits land while the train starts
 - [0104 — The banner gives way to the count](rules/0104-the-banner-is-cut-if-the-ball-ends.md) — only a drain inside a second can collide with it
+- [0105 — TRAIN is the word the display cannot spell well](rules/0105-seven-segments-cost-this-one-weak-word.md) — legibility, not capability
 
 ## Questions
