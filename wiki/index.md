@@ -213,5 +213,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0134 — `SIDEBAR_LEFT_BOTTOM`](rules/0134-sidebar_left_bottom.md) — kicks the ball away
 - [0135 — `SIDEBAR_RIGHT_BOTTOM`](rules/0135-sidebar_right_bottom.md) — kicks the ball away
 - [0136 — `SIDEBAR_RIGHT_TOP`](rules/0136-sidebar_right_top.md) — —
+- [0137 — `BALLWITHBALL_LEFT_TWIN`](rules/0137-ballwithball_left_twin.md) — the **left** hole ladder by one rung, or opens/redeems its 30 s window at the 5th/6th hit
 
 ## Questions

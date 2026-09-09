@@ -1,7 +1,7 @@
 ---
 title: The two centre captive balls
 type: thing
-aliases: [the twins, the centre balls, center balls, BALLWITHBALL_LEFT, BALLWITHBALL_RIGHT, the centre captive balls]
+aliases: [the twins, the centre balls, center balls, BALLWITHBALL_LEFT, BALLWITHBALL_RIGHT, the centre captive balls, BALLWITHBALL_LEFT_TWIN]
 body: game
 ---
 # The two centre captive balls
