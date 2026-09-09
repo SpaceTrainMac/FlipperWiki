@@ -63,6 +63,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The end of a turn](moments/end-of-turn.md) — what you made this turn goes onto your own score
 - [The serve](moments/the-serve.md) — store to start ramp to playfield
 - [The draw](moments/the-draw.md) — the last two digits of your score against a random pair, for one more ball
+- [The Space Train banner](moments/the-space-train-banner.md) — `SPACE TRAIN LIFTS OFF`, one word to a display, five seconds, mid-ball
 
 ## Bodies
 
@@ -173,5 +174,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0098 — Past a million, the display divides by ten](rules/0098-a-player-whose-total-passes-999-999-lights.md) — `×10` lit means add a nought
 - [0099 — The MATCH display divides by ten silently](rules/0099-the-fifth-display-divides-by-ten-too-and.md) — no `×10` lamp for the fifth display
 - [0100 — Above 9 999 999 the display is wrong](rules/0100-above-9-999-999-the-display-is-wrong.md) — a ceiling three balls cannot reach
+- [0101 — The banner is still, and lands one word to a display](rules/0101-space-train-lifts-off-is-a-still-message.md) — the only thing that writes the scores mid-ball
 
 ## Questions

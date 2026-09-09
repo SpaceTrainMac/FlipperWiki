@@ -16,9 +16,8 @@ score ([0098](../../raw/rules/0098-a-player-whose-total-passes-999-999-lights.md
 **Above 9 999 999 the display is wrong and nothing says so** — six leading digits with a `×10` lamp
 claiming a factor of ten. That is two orders of magnitude beyond what three balls can score ([0100](../../raw/rules/0100-above-9-999-999-the-display-is-wrong.md)).
 
-**All four together say one thing once a game, at most.** `SPACE TRAIN LIFTS OFF` reads across the
-four displays for five seconds, one word each, and that is
-[Space Train Bonus](../concepts/flyer-bonuses.md) ([0043](../../raw/rules/0043-space-ship-bonus-and-space-train-bonus-are.md)).
+**All four together say one thing once a game, at most** — [the Space Train banner](../moments/the-space-train-banner.md),
+one word to a display, and the only thing that writes them while a ball is in play ([0043](../../raw/rules/0043-space-ship-bonus-and-space-train-bonus-are.md), [0101](../../raw/rules/0101-space-train-lifts-off-is-a-still-message.md)).
 
 **It does not move while you are playing.** Your display holds the total you had when the turn
 began; everything you earn during the ball goes to [the `MATCH` display](match-display.md) instead,
