@@ -232,5 +232,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0151 — `A`, with M-A-C complete, then the right captive ball inside 20 s](rules/0151-a-with-m-a-c-complete-then-the.md) — an **extra ball**
 - [0152 — either bunker](rules/0152-either-bunker.md) — **100**
 - [0153 — `OUTFIRE`, while the left bunker waits](rules/0153-outfire-while-the-left-bunker-waits.md) — **1 000**
+- [0154 — a `500` side lane](rules/0154-a-500-side-lane.md) — **500**
 
 ## Questions
