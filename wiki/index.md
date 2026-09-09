@@ -78,6 +78,7 @@ Every page, one line each, by category. Updated on every ingest.
 ## Bodies
 - [The 1987 machine](bodies/1987.md) — what SPACE TRAIN did when it was built: a flyer, two apron cards and a set of photographs, and nothing derived from code
 - [The Visual Pinball table](bodies/vpx.md) — the body you play on a keyboard: which key is which control, and what it does that a cabinet would not
+- [The browser simulator](bodies/simulator.md) — the body with no ball in it: every switch is a key, and nothing moves unless you move it
 
 ## Rules
 
@@ -318,5 +319,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0231 — The bonus and the match take about 43 seconds](rules/0231-the-bonus-and-the-match-take-about-43-seconds.md) — real ceremonies at real speed, and how differently that reads on a screen
 - [0232 — The playfield was flat, until 2026-09-06](rules/0232-the-playfield-was-flat-until-2026-09-06.md) — a whole game played with a storey missing, which is what proves the levels are scenery
 - [0233 — The backbox is drawn, not photographed](rules/0233-the-backbox-is-drawn-not-photographed.md) — deliberately too wide, because a faithful panel gives a 19-pixel score
+- [0234 — Open the page. The playfield is in the middle](rules/0234-open-the-page-the-playfield-is-where-you-work.md) — the six presses that put a ball in play, and what each one proves
 
 ## Questions

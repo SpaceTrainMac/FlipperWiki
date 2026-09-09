@@ -1,0 +1,32 @@
+---
+title: The browser simulator
+type: body
+aliases: [the simulator, the browser simulator, the page, mcp's page, the instrument]
+body: simulator
+---
+# The browser simulator
+
+**The third body, and the only one with no ball in it** ([0234](../../raw/rules/0234-open-the-page-the-playfield-is-where-you-work.md)). The playfield is a picture in the
+middle of a web page, every switch is a key or a click, and the engine behind it is the same engine
+the cabinet runs — so everything this wiki says about the game is true here, except that nothing
+moves unless you move it.
+
+## Getting a ball into play
+
+**Six presses, and they are the machine's own sequence rather than the page's** ([0234](../../raw/rules/0234-open-the-page-the-playfield-is-where-you-work.md)):
+
+| | Do | What happens |
+|---|---|---|
+| 1 | press start, or `s` | attract ends and the glass asks `1 PLAYER` |
+| 2 | press start again | the eject coil flares — [a ball has been served into the ramp](../moments/the-serve.md) |
+| 3 | press `o` — [`OUTFIRE`](../things/outfire.md) | the ball counts as in play, and [drain protection](../concepts/drain-protection.md)'s fifteen seconds start |
+| 4 | press `q`, `w`, `e` | [the three bumpers](../things/pop-bumpers.md); the displays redraw from the bytes the engine put on the wire |
+| 5 | press `1` — ball at the eject coil | a **toggle**: it stays closed, because that is what a ball resting on a switch does |
+| 6 | press `3` — ball in the store | the drain. Inside fifteen seconds of `o` it is protected and the coil flares again at once |
+
+*(the six steps are using-the-simulator.md §2's, rendered for a player ([0234](../../raw/rules/0234-open-the-page-the-playfield-is-where-you-work.md)))*
+
+**Step 6 is the one that teaches the machine.** Press `3` again to open the store, `o` to put the
+served ball in play, wait the fifteen seconds out, and the next `3` ends the turn — the ball
+counter on [the status row](../things/status-row.md) goes down, and with `1` still closed the next
+ball is served straight away ([0234](../../raw/rules/0234-open-the-page-the-playfield-is-where-you-work.md)).
