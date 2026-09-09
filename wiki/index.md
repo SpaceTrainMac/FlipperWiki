@@ -59,8 +59,8 @@ Every page, one line each, by category. Updated on every ingest.
 - [The plunger](things/plunger.md) — every ball is fired by hand; there is no auto-launch
 - [The EXTRA PLAYS eye](things/extra-plays-eye.md) — a `0` that winks every 20 seconds, twice every three and a half minutes, and means nothing at all
 - [The sixteen indicator LEDs](things/indicator-leds.md) — the backbox lamps, two of which can never light here
-- [The 48 playfield lamps](things/playfield-lamps.md) — every lamp in nine groups, and where each group is explained
-- [Every switch, and what closing it does](things/every-switch.md) — all thirty-two, and where each is explained
+- [The 48 playfield lamps](things/playfield-lamps.md) — every lamp in nine groups, where each group is explained, and why the matrix is bigger than the game
+- [Every switch, and what closing it does](things/every-switch.md) — all thirty-two, where each is explained, and why some of them do nothing
 - [The start button](things/start-button.md) — player select's and the high score table's; it does nothing during a game
 
 ## Moments
@@ -264,5 +264,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0180 — The count keeps one pace](rules/0180-real-machines-speed-the-bonus-count-up-as.md) — other machines accelerate; this one waits to be watched
 - [0182 — The game, as the machine tells it](rules/0182-the-game-as-the-machine-tells-it.md) — the 1987 pages rest on a flyer and photographs, and on nothing else
 - [0183 — SPACE TRAIN, built 1987 by MAC of Madrid](rules/0183-space-train-built-1987-by-mac-madrid.md) — the apron and the relay board are where the machine names itself
+- [0184 — A MacPinBall System IV machine, sold under MULTIGAME](rules/0184-a-macpinball-system-iv-machine-sold-under-multigame.md) — one chassis for every title, which is why some switches and lamps do nothing
 
 ## Questions

@@ -7,7 +7,8 @@ body: game
 # The 48 playfield lamps
 
 **Every lamp on the playfield belongs to one of nine groups, and this is which** ([0109](../../raw/rules/0109-every-one-of-the-48-and-what-a.md)). Each row
-links to the page that says what the group does.
+links to the page that says what the group does. **A lamp with no group is a lamp this game never
+lights**: the matrix is the *1987* System IV chassis' and was reused across MAC's whole range ([0184](../../raw/rules/0184-a-macpinball-system-iv-machine-sold-under-multigame.md)).
 
 | Lamps | Lit means |
 |---|---|

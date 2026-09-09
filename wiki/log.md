@@ -199,3 +199,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:57  cut     §1 of machine.md  0182-0213
 2026-09-09T22:58  ingest  0182  bodies/1987, rules/0182
 2026-09-09T22:59  ingest  0183  bodies/1987, rules/0183
+2026-09-09T22:59  ingest  0184  bodies/1987, things/every-switch, things/playfield-lamps, rules/0184

@@ -8,7 +8,9 @@ body: game
 
 **All thirty-two, in the order the machine's own table lists them.** *Pays* lands on your score at
 once; *advances* changes a count paid when the ball ends; *collects* takes a lit award. Each row
-links to the page that explains it.
+links to the page that explains it. **The rows that do nothing are doing nothing on purpose**: the
+matrix belongs to the *1987* MacPinBall System IV chassis rather than to this game, and MAC reused
+it for every title it sold ([0184](../../raw/rules/0184-a-macpinball-system-iv-machine-sold-under-multigame.md)).
 
 | Switch | Pays | Advances | Collects | Explained on |
 |---|---|---|---|---|
