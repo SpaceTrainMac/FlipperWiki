@@ -11,6 +11,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The advance-bonus bank, and the combination](concepts/advance-bonus-bank.md) — four targets, 10 000 and a rung a completion, and three completions that pay more each time
 - [Lit awards, and how they are collected](concepts/lit-awards.md) — a lit lamp is an errand, not a payment: which switch collects which award, and the four that run on a timer instead; steady means waiting, flashing means hurrying
 - [The bonus count](concepts/the-bonus-count.md) — 0 to 39, 5 000 each, paid only when the ball ends; a bank completion adds one and a `5000` inlane five
+- [The hole bonus](concepts/the-hole-bonus.md) — two ladders, one a side, each built at that side's centre captive ball
 
 ## Things
 
@@ -32,6 +33,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [The X BONUS lamp](things/x-bon-lamp.md) — a 20-second window on the extra bonus, at the 40th and 50th bank completion
 - [The HOUSE BALL lamp](things/house-ball-lamp.md) — drain protection, 15 seconds, the shortest window on the machine
 - [The 5000 inlanes](things/inlanes-5000.md) — 5 000 at once and five bonuses, the biggest single step the ladder has
+- [The two centre captive balls](things/centre-captive-balls.md) — the twins: the left runs the left hole ladder, the right the right
 
 ## Moments
 
@@ -76,5 +78,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0026 — A hidden count tracks bank completions across the whole game](rules/0026-a-separate-hidden-count-tracks-bank-completions-across.md) — the ladder forgets each ball; this count does not
 - [0027 — Nothing shows the count as a number](rules/0027-nothing-shows-the-count-as-a-number.md) — the bonus is on the playfield in lamps, not on a display
 - [0028 — Nothing about the count is paid as it climbs](rules/0028-nothing-about-the-count-is-paid-as-it.md) — the shots still pay at once; only the bonus waits
+- [0029 — Three captive balls: two twins in the centre, one upper right](rules/0029-three-captive-balls-two-twins-in-the-centre.md) — which captive ball does what
 
 ## Questions
