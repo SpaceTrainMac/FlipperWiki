@@ -95,3 +95,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-09T22:13  ingest  0081  concepts/drain-protection, things/house-ball-lamp, rules/0081
 2026-09-09T22:13  ingest  0082  concepts/drain-protection, rules/0082
 2026-09-09T22:14  ingest  0083  concepts/drain-protection, things/ball-store, rules/0083
+2026-09-09T22:14  ingest  0084  concepts/drain-protection, things/outlanes, rules/0084

@@ -153,5 +153,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0081 — Drain protection covers the first 15 seconds](rules/0081-drain-protection-covers-the-first-15-seconds-configurable.md) — while `HOUSE BALL` blinks you cannot lose the ball
 - [0082 — The ball comes back without a press](rules/0082-the-ball-comes-back-without-a-press-and.md) — no button; the machine serves it
 - [0083 — A saved ball waits on the store](rules/0083-what-the-machine-waits-for-instead-is-a.md) — the serve waits for a ball to be ready, not for the drain
+- [0084 — Drain protection covers the outlanes too](rules/0084-it-covers-an-outlane-as-readily-as-the.md) — the machine can tell them apart and chooses not to
 
 ## Questions

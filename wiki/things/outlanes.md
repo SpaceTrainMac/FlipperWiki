@@ -9,6 +9,9 @@ body: game
 **The two lanes that take the ball past the flippers, and where a lit `SPECIAL` is collected**
 ([0018](../../raw/rules/0018-the-lit-awards-wait-to-be-collected-which.md)). So a ball you have lost is the ball that collects it.
 
+**An outlane is covered by [drain protection](../concepts/drain-protection.md) exactly like a
+centre drain** ([0084](../../raw/rules/0084-it-covers-an-outlane-as-readily-as-the.md)).
+
 **Collecting `SPECIAL` here costs you the ball** — unless
 [drain protection](house-ball-lamp.md) is running, in which case it does not ([0050](../../raw/rules/0050-collecting-special-costs-the-ball.md)).
 
