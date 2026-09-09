@@ -370,5 +370,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0278 — Eleven rows are fixture only](rules/0278-eleven-rows-are-fixture-only.md) — eleven events are silent on `rool` until somebody picks a file, and that is the point of that set
 - [0279 — An entry may name a list](rules/0279-an-entry-may-name-a-list.md) — one cue, several files, and a pick on every raise
 - [0280 — What each cue is for is written down here](rules/0280-what-each-cue-is-for-is-written-down-here.md) — the events are a specification the code is held to, not a readback of it
+- [0281 — `LAUNCH_BALL`](rules/0281-cue-launch-ball.md) — a ball is served into the start ramp
 
 ## Questions

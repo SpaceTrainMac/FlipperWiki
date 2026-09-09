@@ -1,7 +1,7 @@
 ---
 title: What the machine says, and when
 type: concept
-aliases: [the sounds, the sound cues, sfx]
+aliases: [the sounds, the sound cues, sfx, LAUNCH_BALL]
 body: game
 ---
 # What the machine says, and when
@@ -48,3 +48,14 @@ description** ([0280](../../raw/rules/0280-what-each-cue-is-for-is-written-down-
 [the rules](what-the-machine-tracks.md) say it is for — not a readback of the code — and since
 2026-09-08 the code has been held to it, one raise per cue, each pinned by a test ([0280](../../raw/rules/0280-what-each-cue-is-for-is-written-down-here.md)). So a
 machine that stays quiet at one of these events is wrong about itself ([0280](../../raw/rules/0280-what-each-cue-is-for-is-written-down-here.md)).
+
+## Which cue speaks, and when
+
+**Forty effects and three music cues, in the order the machine's own catalogue lists them.**
+
+### A ball, and a game
+
+| Cue | Speaks when |
+|---|---|
+
+| `LAUNCH_BALL` | [a ball is served](../moments/the-serve.md) — the ejector fires and the ball goes to the start ramp ([0281](../../raw/rules/0281-cue-launch-ball.md)) |
