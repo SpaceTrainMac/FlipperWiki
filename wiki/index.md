@@ -428,5 +428,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0335 — Two rates off one clock](rules/0335-two-rates-off-one-clock.md) — a 50 ms beat: the colour on every one, the line on every second
 - [0336 — There is no service button on this cabinet](rules/0336-no-service-button-so-two-gestures.md) — both flippers for the menu, the right one alone for the radio
 - [0337 — The radio gesture is the same nine seconds as the service one on purpose](rules/0337-the-radio-gesture-is-the-same-nine-seconds.md) — one duration for both, because two would be two things to learn
+- [0338 — It is armed by the same number that arms the wait](rules/0338-the-gesture-is-armed-by-the-same-number-as-the-wait.md) — no stations means no gesture, and no tease to see
 
 ## Questions

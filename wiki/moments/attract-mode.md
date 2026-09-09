@@ -77,3 +77,7 @@ would be two things to learn, and one of them would be got wrong every time ([03
 gesture exists because the alternative was waiting: the radio arrives by itself after a set idle,
 which is right for a cabinet nobody is standing at and useless to somebody standing at it who wants
 it on now ([0337](../../raw/rules/0337-the-radio-gesture-is-the-same-nine-seconds.md)).
+
+**On a cabinet with no radio the gesture does nothing and the tease never comes up** — it is armed
+by the same setting that arms the wait, so a machine with no stations, or with its sound switched
+off, simply does not have it ([0338](../../raw/rules/0338-the-gesture-is-armed-by-the-same-number-as-the-wait.md)).
