@@ -193,7 +193,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [0093 — What each display shows during a game](rules/0093-the-displays.md) — the six fields above the playfield
 - [0094 — BALL IN PLAY counts down](rules/0094-ball-in-play-counts-down-rather-than-up.md) — turns left, not the ball you are on
 - [0095 — One display, three fields, two dark digits](rules/0095-the-bottom-left-display-is-one-six-digit-unit-reading.md) — the gaps are paint, not a fault
-- [0096 — CREDITS is the extra-ball count](rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md) — the legend is wrong and the width is right
+- [0096 — CREDITS is the extra-ball count](rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md) — the legend is wrong and the width is right. **Superseded by [0434](rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md)**
 - [0097 — The winking eye](rules/0097-extra-plays-is-a-joke-and-deliberately.md) — it means nothing, and that is the point
 - [0098 — Past a million, the display divides by ten](rules/0098-a-player-whose-total-passes-999-999-lights.md) — `×10` lit means add a nought
 - [0099 — The MATCH display divides by ten silently](rules/0099-the-fifth-display-divides-by-ten-too-and.md) — no `×10` lamp for the fifth display
@@ -530,5 +530,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0431 — Each coil has a cut-off time of its own](rules/0431-one-cut-off-time-per-coil.md) — nine coils, nine cut-off addresses, tuned one at a time
 - [0432 — Zero means the firmware's own default, and 1 to 127 is milliseconds](rules/0432-a-cut-off-time-is-milliseconds-or-the-default.md) — zero is *let the board decide*, not *no cut-off at all*
 - [0433 — Credits are unlimited](rules/0433-credits-are-unlimited-and-mean-nothing-outside-a-game.md) — the slots are unused and you cannot run out, so the legend means nothing outside a game
+- [0434 — `CREDITS` counts extra balls because this cabinet has no credits to count](rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md) — the same paragraph, now saying why; supersedes 0096
 
 ## Questions

@@ -34,9 +34,10 @@ legend is deliberate, and *how many turns have I got left* is the question a pla
 home, so nothing sells a game and nothing counts what it sold ([0203](../../raw/rules/0203-coin-handling-is-out-of-scope-by-decision.md)). That is what left a
 two-digit field with nothing to hold.
 
-**`CREDITS` counts extra balls because this cabinet has no credits to count.** The legend is wrong
-and the field is the right width, and what you want under it is what a credit used to mean: how much
-more do I get to play ([0096](../../raw/rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md)).
+**`CREDITS` counts extra balls because this cabinet has no credits to count.** The coin slots are
+not used and the credits are unlimited, so there is no number to keep and nothing to run out of; the
+legend is wrong, the field is the right width, and what you want under it is what a credit used to
+mean: how much more do I get to play ([0434](../../raw/rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md)).
 
 **It counts down as you use them.** Every extra ball awarded adds one, every drain takes one away,
 and your turn ends on a drain with the field at zero ([0087](../../raw/rules/0087-an-extra-ball-is-a-number-and-it.md)).
@@ -48,8 +49,5 @@ this two-digit field is the one that might have carried it ([0027](../../raw/rul
 `EXTRA PLAYS` digit holds the number of players being chosen, which it is free to do because no ball
 is in play and nothing has been won ([0351](../../raw/rules/0351-showing-the-count-in-two-places-at-once.md)).
 
-**Outside a game the legend means nothing at all, because the credits are unlimited** — the coin
-slots are not used, so there is no number to keep and nothing to run out of ([0433](../../raw/rules/0433-credits-are-unlimited-and-mean-nothing-outside-a-game.md)). That is the
-fact underneath [what this field does during a game](../concepts/what-the-machine-tracks.md): a
-two-digit field with no credits to hold was free to hold extra balls instead
-([0096](../../raw/rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md)) ([0433](../../raw/rules/0433-credits-are-unlimited-and-mean-nothing-outside-a-game.md)).
+**Outside a game the legend means nothing at all** ([0434](../../raw/rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md)). **It was settled in conversation
+before it was a document's sentence** ([0433](../../raw/rules/0433-credits-are-unlimited-and-mean-nothing-outside-a-game.md)), and §13 now carries it ([0434](../../raw/rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md)).

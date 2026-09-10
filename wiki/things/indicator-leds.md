@@ -16,7 +16,7 @@ body: game
   reaches the software ([0108](../../raw/rules/0108-the-indicator-leds.md), [0090](../../raw/rules/0090-tilt-is-the-machines-own-business-and-nothing.md)). On [the VPX table](../bodies/vpx.md) it is drawn and can never
   light ([0229](../../raw/rules/0229-your-nudge-does-not-talk-to-the-game.md)).
 - **`CREDITS`** — dark for the whole of a game, like [the field it labels](status-row.md), because
-  this cabinet has none ([0108](../../raw/rules/0108-the-indicator-leds.md), [0096](../../raw/rules/0096-credits-counts-extra-balls-because-this-cabinet-has.md)).
+  this cabinet has none ([0108](../../raw/rules/0108-the-indicator-leds.md), [0434](../../raw/rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md)).
 - **`EXTRA BALL` left and right, and `EXTRA PLAY`** — the backbox announcing an award the 1987 card
   says is *indicated on display* ([0108](../../raw/rules/0108-the-indicator-leds.md)). [The pricing card](apron-cards.md) says it three times over — once for
   the extra ball and once for each of the two free plays — and it is the reason these three sit on
