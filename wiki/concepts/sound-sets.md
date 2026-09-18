@@ -31,12 +31,12 @@ added on 2026-09-04, so a set that has not caught up is quieter rather than faul
 cue the engine can raise — it needs the least to build, and **nothing in it is a recording of
 anything**, which is why it is the set this project can promise ([0269](../../raw/rules/0269-8-bit-is-the-set-to-install-first.md)).
 
-**`ALL SETS` pools the four into one cabinet** ([0270](../../raw/rules/0270-all-sets-pools-the-four-into-one-cabinet.md)). Every cue then draws from every set that
-maps it and the playlists are concatenated — so a bumper may answer in chiptune, in an orchestra or
-in a voice, and the jukebox plays all thirty-odd pieces ([0270](../../raw/rules/0270-all-sets-pools-the-four-into-one-cabinet.md)). It is one setting rather than a
-mode: how a cue with several files picks between them is still `SFX MODE`, over a pool four sets
-deep ([0270](../../raw/rules/0270-all-sets-pools-the-four-into-one-cabinet.md)). **There is one mixer and no ducking**, so the sets are heard at whatever levels their
-authors chose — four sets each mastered sensibly are not a set mastered together ([0270](../../raw/rules/0270-all-sets-pools-the-four-into-one-cabinet.md)).
+**`ALL SETS` pools the five into one cabinet** ([0436](../../raw/rules/0436-all-sets-pools-the-five-into-one-cabinet.md)). Every cue then draws from every set that
+maps it and the playlists are concatenated — so a bumper may answer in chiptune, in an orchestra, in
+a voice or from a band, and the jukebox plays all forty pieces ([0436](../../raw/rules/0436-all-sets-pools-the-five-into-one-cabinet.md)). It is one setting rather
+than a mode: how a cue with several files picks between them is still `SFX MODE`, over a pool five
+sets deep ([0436](../../raw/rules/0436-all-sets-pools-the-five-into-one-cabinet.md)). **There is one mixer and no ducking**, so the sets are heard at whatever
+levels their authors chose — five sets each mastered sensibly are not a set mastered together ([0436](../../raw/rules/0436-all-sets-pools-the-five-into-one-cabinet.md)).
 
 **`NONE SET` in the menu means no folder anywhere holds a set** — usually the machine looking in a
 different place than you think ([0271](../../raw/rules/0271-an-empty-soundset-means-the-root-is-the-set.md)). A cabinet with only one set can put that set's files

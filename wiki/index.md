@@ -532,5 +532,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0433 — Credits are unlimited](rules/0433-credits-are-unlimited-and-mean-nothing-outside-a-game.md) — the slots are unused and you cannot run out, so the legend means nothing outside a game
 - [0434 — `CREDITS` counts extra balls because this cabinet has no credits to count](rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md) — the same paragraph, now saying why; supersedes 0096
 - [0435 — There are five of them, and they are five different machines](rules/0435-five-sets-and-they-are-five-different-machines.md) — an arcade, a blockbuster, an orchestra, a narrator or a band, and the fifth is the one a clone cannot build by itself
+- [0436 — `ALL SETS` pools the five into one cabinet](rules/0436-all-sets-pools-the-five-into-one-cabinet.md) — every cue drawn from every set, forty pieces in the jukebox, at five different masterings
 
 ## Questions
