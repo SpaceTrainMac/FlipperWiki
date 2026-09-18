@@ -173,7 +173,7 @@ reading lost** — because a cue settled twice will settle a third way ([0314](.
 ### Four events that make no sound
 
 **Four things the rules describe have no cue, and they are listed on purpose** — *nobody wrote it
-down* is exactly what this catalogue exists to stop ([0315](../../raw/rules/0315-four-events-with-no-cue.md)):
+down* is exactly what this catalogue exists to stop ([0439](../../raw/rules/0439-four-events-with-no-cue-across-five-sets.md)):
 
 | Event | Why not |
 |---|---|
@@ -182,7 +182,8 @@ down* is exactly what this catalogue exists to stop ([0315](../../raw/rules/0315
 | **a hole-bonus window expiring** uncollected | **the honest gap** — losing 55 000 to a timer is the harshest thing the rules do and the machine says nothing at all |
 | [the thunderstrike](the-thunderstrike.md) | it is announced in light: four white flashes of the backlight |
 
-*(the table is sound.md §4's, rendered for a player ([0315](../../raw/rules/0315-four-events-with-no-cue.md)))*
+*(the table is sound.md §4's, rendered for a player ([0439](../../raw/rules/0439-four-events-with-no-cue-across-five-sets.md)). Closing the honest
+gap would cost five sets a file each, which is why nobody has ([0439](../../raw/rules/0439-four-events-with-no-cue-across-five-sets.md)).)*
 
 **Adding a cue later is cheap and adding one now is not free** ([0438](../../raw/rules/0438-a-cue-costs-five-manifests-and-four-generators.md)) — a cue is an enum, a key
 in five manifests, a score in four generators and a hand-found file for the one set that is
