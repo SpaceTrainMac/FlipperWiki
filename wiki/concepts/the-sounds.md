@@ -15,8 +15,11 @@ announcer, as a System IV feature carried by every machine MAC made — so a tal
 the chassis doing what it was advertised to do, and the forty cues are this cabinet's answer to it
 ([0185](../../raw/rules/0185-behaviours-the-flyer-attributes-to-all-macpinball-machines.md)).
 
-**All four sets map the same cues to the same events**, so everything on this page is true of any
-of them — an arcade, a blockbuster, an orchestra or a narrator answers the same list ([0277](../../raw/rules/0277-there-are-four-sets-three-generated.md)). See
+**All five sets map the same cues to the same events**, so everything on this page is true of any
+of them — an arcade, a blockbuster, an orchestra, a narrator or a band answers the same list ([0437](../../raw/rules/0437-there-are-five-sets-four-generated.md)).
+Four of the five are generated rather than collected, and **the fifth one sings**: its lyrics go
+through a voicebank somebody has to fetch by hand, which makes it the one set a fresh clone cannot
+build unattended ([0437](../../raw/rules/0437-there-are-five-sets-four-generated.md)). See
 [sound sets](sound-sets.md).
 
 **[The simulator](../bodies/simulator.md) shows every cue as it is raised, whether or not the
