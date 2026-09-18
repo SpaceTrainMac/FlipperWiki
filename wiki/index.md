@@ -26,7 +26,7 @@ Every page, one line each, by category. Updated on every ingest.
 - [What nobody has watched](concepts/what-nobody-has-watched.md) — every duration on these pages is arithmetic, and this is the page an evening at the glass is for
 - [The two levels, and the four ways between them](concepts/the-two-levels.md) — the flyer's names for the elevator holes, the ramp, the return track and the raised tunnel
 - [Decided where the sources are silent](concepts/where-the-sources-are-silent.md) — which of this machine's rules were chosen rather than found, and when
-- [Sound sets, and the four voices of this machine](concepts/sound-sets.md) — one folder is one voice; four of them, or all four at once
+- [Sound sets, and the five voices of this machine](concepts/sound-sets.md) — one folder is one voice; five of them, or all five at once
 
 ## Things
 
@@ -531,5 +531,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0432 — Zero means the firmware's own default, and 1 to 127 is milliseconds](rules/0432-a-cut-off-time-is-milliseconds-or-the-default.md) — zero is *let the board decide*, not *no cut-off at all*
 - [0433 — Credits are unlimited](rules/0433-credits-are-unlimited-and-mean-nothing-outside-a-game.md) — the slots are unused and you cannot run out, so the legend means nothing outside a game
 - [0434 — `CREDITS` counts extra balls because this cabinet has no credits to count](rules/0434-credits-counts-extra-balls-and-the-slots-are-unused.md) — the same paragraph, now saying why; supersedes 0096
+- [0435 — There are five of them, and they are five different machines](rules/0435-five-sets-and-they-are-five-different-machines.md) — an arcade, a blockbuster, an orchestra, a narrator or a band, and the fifth is the one a clone cannot build by itself
 
 ## Questions

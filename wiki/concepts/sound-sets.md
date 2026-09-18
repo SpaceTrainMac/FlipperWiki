@@ -1,10 +1,10 @@
 ---
-title: Sound sets, and the four voices of this machine
+title: Sound sets, and the five voices of this machine
 type: concept
-aliases: [the sound sets, sound set, SOUND SET, ALL SETS, NONE SET, 8-bit, rool, space-opera, vocals]
+aliases: [the sound sets, sound set, SOUND SET, ALL SETS, NONE SET, 8-bit, rool, space-opera, vocals, rock-opera]
 body: cabinet
 ---
-# Sound sets, and the four voices of this machine
+# Sound sets, and the five voices of this machine
 
 **A sound set is one folder holding everything the machine can say** ([0267](../../raw/rules/0267-a-sound-set-is-one-folder.md)). The cabinet plays
 one at a time — or every set on the disk at once, which is `ALL SETS`
@@ -12,9 +12,9 @@ one at a time — or every set on the disk at once, which is `ALL SETS`
 than a copy**, so a machine can sound completely different in two presses and a restart ([0267](../../raw/rules/0267-a-sound-set-is-one-folder.md)).
 [What each cue is *for*](the-sounds.md) does not change with the set; only who answers it does.
 
-**There are four, and they are four different machines** ([0268](../../raw/rules/0268-four-sets-and-they-are-four-different-machines.md)). Every set answers the same forty
+**There are five, and they are five different machines** ([0435](../../raw/rules/0435-five-sets-and-they-are-five-different-machines.md)). Every set answers the same forty
 effects, the same three music cues and one playlist; what changes is who is answering — and how far
-each set has got, because **a cue a set has no entry for is silent rather than broken** ([0268](../../raw/rules/0268-four-sets-and-they-are-four-different-machines.md)):
+each set has got, because **a cue a set has no entry for is silent rather than broken** ([0435](../../raw/rules/0435-five-sets-and-they-are-five-different-machines.md)):
 
 | Set | What the cabinet becomes |
 |---|---|
@@ -22,9 +22,10 @@ each set has got, because **a cue a set has no entry for is silent rather than b
 | **`rool`** — *The coolest sound set ever* | pop culture at full volume, thirteen songs, and a bumper that opens a blockbuster |
 | **`space-opera`** — *When the galaxy was larger* | a command deck: full orchestra, lush and wide, panned across the cabinet — the opposite of `8-bit` at every point |
 | **`vocals`** — *Narrated adventures of Mac and Miss Marlboro* | a cabinet that talks: the bumpers announce themselves and the ball sighs as it drains |
+| **`rock-opera`** — *The Wizard will see you now* | a band in the room, dry and loud and close: overdriven guitar, Hammond organ, a bass in eighths and a big dry kit — **and a voice that sings rather than speaks** |
 
-*(the table is cabinet.md §3's, rendered for a player ([0268](../../raw/rules/0268-four-sets-and-they-are-four-different-machines.md)). Eleven of the forty effects were
-added on 2026-09-04, so a set that has not caught up is quieter rather than faulty ([0268](../../raw/rules/0268-four-sets-and-they-are-four-different-machines.md)).)*
+*(the table is cabinet.md §3's, rendered for a player ([0435](../../raw/rules/0435-five-sets-and-they-are-five-different-machines.md)). Eleven of the forty effects were
+added on 2026-09-04, so a set that has not caught up is quieter rather than faulty ([0435](../../raw/rules/0435-five-sets-and-they-are-five-different-machines.md)).)*
 
 **`8-bit` is the one to put on first** ([0269](../../raw/rules/0269-8-bit-is-the-set-to-install-first.md)). It is complete — thirty-five files covering every
 cue the engine can raise — it needs the least to build, and **nothing in it is a recording of
