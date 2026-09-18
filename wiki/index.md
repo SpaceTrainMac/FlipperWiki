@@ -534,5 +534,6 @@ Every page, one line each, by category. Updated on every ingest.
 - [0435 — There are five of them, and they are five different machines](rules/0435-five-sets-and-they-are-five-different-machines.md) — an arcade, a blockbuster, an orchestra, a narrator or a band, and the fifth is the one a clone cannot build by itself
 - [0436 — `ALL SETS` pools the five into one cabinet](rules/0436-all-sets-pools-the-five-into-one-cabinet.md) — every cue drawn from every set, forty pieces in the jukebox, at five different masterings
 - [0437 — There are five sets, and four of them are generated](rules/0437-there-are-five-sets-four-generated.md) — the same cues on every set, which is what makes one catalogue enough, and the fifth one sings
+- [0438 — Adding one later is cheap and adding one now is not free](rules/0438-a-cue-costs-five-manifests-and-four-generators.md) — what a new cue costs across five sets, and why the silences are not permanent
 
 ## Questions
