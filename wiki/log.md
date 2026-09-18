@@ -463,3 +463,4 @@ Append-only. One line per operation: when, what, which rule or page, what was to
 2026-09-18T07:26  ingest  0436  concepts/sound-sets, rules/0436
 2026-09-18T07:27  ingest  0437  concepts/the-sounds, rules/0437
 2026-09-18T07:28  ingest  0438  concepts/the-sounds, rules/0438
+2026-09-18T07:29  lint    1 finding, 0 pages written: rule 0269 cites a heading that was renamed next door
